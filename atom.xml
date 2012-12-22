@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://bmw9t.github.com/atom.xml" rel="self"/>
+  <link href="http://bmw9t.github.com/"/>
+  <updated>2012-12-21T19:39:02-05:00</updated>
+  <id>http://bmw9t.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[We're Live!]]></title>
+    <link href="http://bmw9t.github.com/blog/2012/12/21/were-live/"/>
+    <updated>2012-12-21T02:58:00-05:00</updated>
+    <id>http://bmw9t.github.com/blog/2012/12/21/were-live</id>
+    <content type="html"><![CDATA[<p>The site is officially reborn and is now running on Octopress. In the coming days I will continue tinkering with the design and adding some content here and there, but the basic framework for the site is in place. If you&#8217;re interested in such things, you can find the old site archived <a href= "http://bmw9t.github.com/old-site/index.html">here</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
