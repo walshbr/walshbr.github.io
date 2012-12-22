@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+
+<div class="blog-index">
+  {% assign index = true %}
+  {% for post in paginator.posts %}
+  {% assign content = post.content %}
+    <article>
+  <section>
+<img class="right" src="me.jpg" title="Brandon Walsh">
+</section>
+<div id="content">
+      <p>I am a doctoral student in the <a href="http://www.engl.virginia.edu">Department of English</a> at the <a href="http://www.virginia.edu">University of Virginia</a>. I work on modern and contemporary literature and culture, with particular focuses on Anglophone modernism, music and musicology, sound studies, the novel, narrative theory, and James Joyce. I have work published or forthcoming in <em>Conradiana</em>, <em>The International Trumpet Guild Journal</em>, and <em>James Joyce Quarterly.</em> I am currently a <a href="http://praxis.scholarslab.org/">Praxis Fellow</a> in the <a href="http://www.scholarslab.org/">Scholars' Lab</a>. On this website you can find more information about my work and research. For more information, please contact me at <a href="mailto:bmw9t@virginia.edu">bmw9t@virginia.edu</a>.</p> 
+</div>
+</article>
+    <article>
+      {% include article.html %}
+    </article>
+  {% endfor %}
+  <div class="pagination">
+    {% if paginator.next_page %}
+      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
+    {% endif %}
+    <a href="/blog/archives">Blog Archives</a>
+    {% if paginator.previous_page %}
+    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
+    {% endif %}
+  </div>
+</div>
+<aside class="sidebar">
+  {% if site.blog_index_asides.size %}
+    {% include_array blog_index_asides %}
+  {% else %}
+    {% include_array default_asides %}
+  {% endif %}
+</aside>
