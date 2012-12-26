@@ -8,7 +8,12 @@ ssh_user       = "user@domain.com"
 ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = false
+<<<<<<< HEAD
 deploy_default = "push"
+=======
+rsync_args     = ""  # Any extra arguments to pass to rsync
+deploy_default = "rsync"
+>>>>>>> 48d3e75ff5d3468369ca8104379b870f7cf600b1
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "master"
@@ -237,7 +242,7 @@ task :rsync do
     exclude = "--exclude-from '#{File.expand_path('./rsync-exclude')}'"
   end
   puts "## Deploying website via Rsync"
-  ok_failed system("rsync -avze 'ssh -p #{ssh_port}' #{exclude} #{"--delete" unless rsync_delete == false} #{public_dir}/ #{ssh_user}:#{document_root}")
+  ok_failed system("rsync -avze 'ssh -p #{ssh_port}' #{exclude} #{rsync_args} #{"--delete" unless rsync_delete == false} #{public_dir}/ #{ssh_user}:#{document_root}")
 end
 
 desc "deploy public directory to github pages"
