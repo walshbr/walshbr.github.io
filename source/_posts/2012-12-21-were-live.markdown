@@ -5,4 +5,4 @@ date: 2012-12-21 02:58
 comments: true
 categories: 
 ---
-The site is officially reborn and is now running on Octopress. In the coming days I will continue tinkering with the design and adding some content here and there, but the basic framework for the site is in place. If you're interested in such things, you can find the old site archived <a href= "{{ root_url }}/old-site/index.html">here</a>. 
+The site is officially reborn and is now running on Octopress. In the coming days I will continue tinkering with the design and adding some content here and there, but the basic framework for the site is in place. 
