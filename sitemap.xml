@@ -2,23 +2,23 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://bmw9t.github.com/blog/2012/12/21/were-live/</loc>
-        <lastmod>2012-12-25T18:43:33-05:00</lastmod>
+        <lastmod>2013-01-25T18:38:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bmw9t.github.com/blog/2013/01/25/teaching/</loc>
+        <lastmod>2013-01-25T17:36:19-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/archives/</loc>
-        <lastmod>2012-12-25T18:43:33-05:00</lastmod>
+        <lastmod>2013-01-25T18:38:20-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/cv/</loc>
-        <lastmod>2012-12-25T18:43:33-05:00</lastmod>
+        <lastmod>2013-01-25T18:38:20-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/</loc>
-        <lastmod>2012-12-25T19:29:57-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://bmw9t.github.com/old-site/</loc>
-        <lastmod>2012-12-25T18:43:33-05:00</lastmod>
+        <lastmod>2013-01-25T18:38:20-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/super-awesome/</loc>
@@ -26,6 +26,6 @@
     </url>
     <url>
         <loc>http://bmw9t.github.com/teaching/</loc>
-        <lastmod>2012-12-25T18:43:33-05:00</lastmod>
+        <lastmod>2013-01-25T18:33:21-05:00</lastmod>
     </url>
 </urlset>
