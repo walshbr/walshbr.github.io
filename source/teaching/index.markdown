@@ -6,24 +6,27 @@ sharing: true
 footer: true
 ---
 
-<h1>Courses Taught</h1>
-
+<h1>Courses Taught</h1>  
+<a href="#ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a> (Fall 2012, Spring 2013)    
+<a href="#ENWR3800">ENWR 3800: "Academic and Professional Writing"</a> (Spring 2012)  
+<a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> (Fall 2011)  
+	
 --------
-<h4>ENWR 1510: "The Musical: Then and Now"</h4>
+<h4><a name="ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a></h4>
 Fall 2012, Spring 2013  
 <a href="{{ root_url }}/teaching/The Musical Then and Now.pdf">Syllabus</a>
 
 This themed freshman writing course is based around various forms of the musical from the 1950's to the present. Beginning with a broad consideration of the role of arts in the marketplace and public life, the course then examines more "classic" musicals alongside newer works as a way of discussing the musical's continued and evolving relevance to everyday American life. The course familiarizes students with a variety of different genres of real world writing, print and digital: the academic article, the book chapter, the newspaper article, the blog post, and the comment thread, to name a few. We discuss the challenges of each uniqe mode in the service of distilling the expectations of readers in an academic and professional setting. The musicals: *Singin' in the Rain*, *The Muppets*, *West Side Story*, *Rocky Horror Picture Show*, *Dr. Horrible's Sing-Along Blog*, *Glee*, *Pitch Perfect*, and music videos as a distant cousin.
 
 ----------
-<h4>ENWR 3800: "Academic and Professional Writing"</h4>
+<h4><a name="ENWR3800">ENWR 3800: "Academic and Professional Writing"</a></h4>
 Spring 2012, Teaching Assistant
 
 From UVA's course description:
  An upper-level course in academic and professional writing. In this course, students learn to control and produce a range of stylistic and persuasive effects. Combining a weekly lecture with a weekly small-group studio session, the course is designed for students who want to further hone their own writing skills, as well as for students preparing for managerial careers in which they will be responsible for the writing produced by their colleagues. In the lectures, students explore recent research in writing studies. In the workshop-based studio sessions, students propose, write, and edit projects of their own design. (Meets second writing requirement.)
 
 ----------
-<h4>ENGL 3830: "History of Literature in English III"</h4>
+<h4><a name="ENGL3830">ENGL 3830: "History of Literature in English III"</a></h4>
 Fall 2011, Teaching Assistant
 
 From UVA's course description:
