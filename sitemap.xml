@@ -2,38 +2,42 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://bmw9t.github.com/blog/2012/12/21/were-live/</loc>
-        <lastmod>2013-01-25T18:38:20-05:00</lastmod>
+        <lastmod>2013-02-03T14:47:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2013/01/25/teaching/</loc>
-        <lastmod>2013-01-25T17:36:19-05:00</lastmod>
+        <lastmod>2013-02-03T14:47:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2013/02/01/looking-forward/</loc>
-        <lastmod>2013-02-01T18:39:31-05:00</lastmod>
+        <lastmod>2013-02-03T14:47:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/archives/</loc>
-        <lastmod>2013-02-01T18:39:31-05:00</lastmod>
+        <lastmod>2013-02-03T14:47:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/cv/</loc>
-        <lastmod>2013-02-01T18:39:31-05:00</lastmod>
+        <lastmod>2013-02-03T14:47:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/</loc>
-        <lastmod>2013-02-01T18:39:31-05:00</lastmod>
+        <lastmod>2013-02-03T14:57:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/old-site/</loc>
-        <lastmod>2012-12-25T18:43:33-05:00</lastmod>
+        <lastmod>2013-02-03T14:47:15-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bmw9t.github.com/robots.txt</loc>
+        <lastmod>2013-02-03T14:47:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/super-awesome/</loc>
-        <lastmod>2012-12-25T18:43:33-05:00</lastmod>
+        <lastmod>2013-02-03T14:47:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/teaching/</loc>
-        <lastmod>2013-02-02T13:25:08-05:00</lastmod>
+        <lastmod>2013-02-03T14:47:15-05:00</lastmod>
     </url>
 </urlset>
