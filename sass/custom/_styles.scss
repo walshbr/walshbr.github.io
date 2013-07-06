@@ -1,3 +1,36 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+a{
+  font_family: $sans;
+  color:#0181eb;
+  text-decoration:none;
+}
+
+a:link {
+	color:#0181eb;
+	text-decoration:none;
+}
+a:visited {
+	color:#0181eb;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#0181eb;
+	text-decoration:underline;
+}
+
+a:active 
+{
+	color:#0181eb;
+	text-decoration:none;
+}
+
+.entry-title{
+	font-size:1.5em;
+	text-decoration:none;
+}
+h1{
+	text-decoration:none;
+}
