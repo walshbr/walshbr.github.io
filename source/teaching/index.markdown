@@ -1,39 +1,56 @@
 ---
 layout: page
-title: 
+title: Teaching
 comments: true
 sharing: true
-footer: true
+footer: false
+sidebar: teaching.html
 ---
 
-<h1>Courses Taught</h1>  
-
-Instructor  
+<section>
+<h3>Instructor</h3> 
 <a href="#ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a> (Fall 2012, Spring 2013)
 
-Teaching Assistant    
+<h3>Teaching Assistant</h3> 
+<a href="#ENRN3210">ENRN 3210: "Shakespeare I"</a> (Fall 2013)  
 <a href="#ENWR3800">ENWR 3800: "Academic and Professional Writing"</a> (Spring 2012)  
 <a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> (Fall 2011)  
-	
+</section>
 --------
-<h4><a name="ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a></h4>
-  
-<a href="{{ root_url }}/teaching/The Musical Then and Now.pdf">Syllabus</a>
 
+<section>
+<h3><a name="ENWR1510Musical"></a>ENWR 1510: "The Musical: Then and Now"</h3>
+  
 This themed freshman writing course is based around various forms of the musical from the 1950's to the present. Beginning with a broad consideration of the role of arts in the marketplace and public life, the course then examines more "classic" musicals alongside newer works as a way of discussing the musical's continued and evolving relevance to everyday American life. The course familiarizes students with a variety of different genres of real world writing, print and digital: the academic article, the book chapter, the newspaper article, the blog post, and the comment thread, to name a few. We discuss the challenges of each uniqe mode in the service of distilling the expectations of readers in an academic and professional setting. The musicals: *Singin' in the Rain*, *The Muppets*, *West Side Story*, *Rocky Horror Picture Show*, *Dr. Horrible's Sing-Along Blog*, *Glee*, *Pitch Perfect*, and several music videos as distant cousins of the form.
 
-<a href="#Top">Back to top</a>
+<a href="{{ root_url }}/teaching/The Musical Then and Now.pdf">Syllabus</a>
 
+<a href="#Top">Back to top</a>
+</section>
 ----------
-<h4><a name="ENWR3800">ENWR 3800: "Academic and Professional Writing"</a></h4>
+
+<section>
+<h3><a name="ENRN3210"></a>ENRN 3210: "Shakespeare I"</h3>
+
+From UVA's course description:  
+A survey of the first half of Shakespeare's career, concentrating on the comedies and histories. We will pay particular attention to Shakespeare's treatment of romantic love and political life as subjects. Three 5-page papers and a final examination will be required.
+
+<a href="#Top">Back to top</a>
+</section>
+--------
+
+<section>
+<h3><a name="ENWR3800"></a>ENWR 3800: "Academic and Professional Writing"</h3>
 
 From UVA's course description:  
  An upper-level course in academic and professional writing. In this course, students learn to control and produce a range of stylistic and persuasive effects. Combining a weekly lecture with a weekly small-group studio session, the course is designed for students who want to further hone their own writing skills, as well as for students preparing for managerial careers in which they will be responsible for the writing produced by their colleagues. In the lectures, students explore recent research in writing studies. In the workshop-based studio sessions, students propose, write, and edit projects of their own design. (Meets second writing requirement.)
 
 <a href="#Top">Back to top</a>
-
+</section>
 ----------
-<h4><a name="ENGL3830">ENGL 3830: "History of Literature in English III"</a></h4>
+
+<section>
+<h3><a name="ENGL3830"></a>ENGL 3830: "History of Literature in English III"</h3>
 
 From UVA's course description:  
 The final stage of the English Department's three-part sequence of literary history, ENGL 3830 will follow the fate of a long tradition as it crossed the twentieth century. The course will begin with the modernist achievement of James Joyce, William Butler Yeats, Virginia Woolf, Ernest Hemingway, William Faulkner, and T.S. Eliot. It will then widen its scope to engage important" writing from Africa, India and the Caribbean, including the work of Derek Walcott, Chinua Achebe, and Arundhati Roy. ENGL 383 attempts to reflect the rich literary legacy that our new millennium inherits.
@@ -56,3 +73,4 @@ Arundhati Roy, *The God of Small Things*
 Lydia Davis, *Varieties of Disturbance* 
 
 <a href="#Top">Back to top</a>
+</section>
