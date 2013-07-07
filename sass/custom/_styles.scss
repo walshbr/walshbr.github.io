@@ -1,0 +1,69 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+a{
+  font_family: $sans;
+  color:#0181eb;
+  text-decoration:none;
+}
+
+a:link {
+	color:#0181eb;
+	text-decoration:none;
+}
+a:visited {
+	color:#0181eb;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#0181eb;
+	text-decoration:underline;
+}
+
+a:active 
+{
+	color:#0181eb;
+	text-decoration:none;
+}
+
+.entry-title{
+	font-size:1.5em;
+	text-decoration:none;
+}
+h2{
+	text-decoration:none;
+}
+.main-navigation{
+	a:link{
+	color:#0181eb;
+	}
+	a:visited{
+	color:#0181eb;
+	}
+	a:hover{
+	color:#0181eb;
+	}
+	a:active{
+	color:#0181eb;
+	}
+}
+
+#blog-archives{
+	a:link{
+	color:#0181eb;
+	}
+	a:visited{
+	color:#0181eb;
+	}
+	a:hover{
+	color:#0181eb;
+	}
+	a:active{
+	color:#0181eb;
+	}
+}
+
+li {
+	list-style-position: outside;
+}
