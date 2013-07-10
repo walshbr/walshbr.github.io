@@ -4,15 +4,4 @@
   <li><a href="{{ root_url }}/cv/index.html">CV</a></li>
   <li><a href="{{ root_url }}/teaching">Courses</a></li>
   <li><a href="{{ root_url }}/research">Research</a></li>
-  <li>
-  	  {% if site.simple_search %}
-<form action="{{ site.simple_search }}" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}" />
-    <input class="search" id="searchform" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  {% endif %}
-  </li>
-  <li></li>
 </ul>
