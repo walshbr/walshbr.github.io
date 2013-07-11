@@ -4,7 +4,7 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="http://bmw9t.github.com/atom.xml" rel="self"/>
   <link href="http://bmw9t.github.com/"/>
-  <updated>2013-07-10T19:29:06+01:00</updated>
+  <updated>2013-07-10T20:30:40+01:00</updated>
   <id>http://bmw9t.github.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Search Bar]]></title>
+    <link href="http://bmw9t.github.com/blog/2013/07/10/search-bar/"/>
+    <updated>2013-07-10T19:41:00+01:00</updated>
+    <id>http://bmw9t.github.com/blog/2013/07/10/search-bar</id>
+    <content type="html"><![CDATA[<p>After some tweaking, I managed to get the search bar to play nicely. I unrounded the corners and lightened the borders to match the framing lines elsewhere in the navigation bar. Here is the CSS for it. You&#8217;ll want to give it an id selector of your own, a la #searchform.</p>
+
+<p><a href="https://gist.github.com/bmw9t/5968989">Here</a> is the CSS for the changes to the search bar.</p>
+
+<p>In trying to embed the above gist, I noticed that octopress breaks the styling: <img src="Broken_Gist.jpg"></p>
+
+<p>Now I have something else to work on.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Design Refresh]]></title>
