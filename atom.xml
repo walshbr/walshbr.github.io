@@ -4,7 +4,7 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="http://bmw9t.github.com/atom.xml" rel="self"/>
   <link href="http://bmw9t.github.com/"/>
-  <updated>2013-07-23T14:47:21-04:00</updated>
+  <updated>2013-07-23T15:16:29-04:00</updated>
   <id>http://bmw9t.github.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[Praxis Posts]]></title>
-    <link href="http://bmw9t.github.com/blog/2013/07/11/praxis/"/>
-    <updated>2013-07-11T21:19:00-04:00</updated>
-    <id>http://bmw9t.github.com/blog/2013/07/11/praxis</id>
+    <link href="http://bmw9t.github.com/blog/2013/07/23/praxis/"/>
+    <updated>2013-07-23T21:19:00-04:00</updated>
+    <id>http://bmw9t.github.com/blog/2013/07/23/praxis</id>
     <content type="html"><![CDATA[<p>All last year I was a <a href="http://praxis.scholarslab.org/">Praxis Fellow</a> in the <a href="http://www.scholarslab.org/">Scholars&#8217; Lab</a>, where they gave us a &#8220;soup to nuts&#8221; crash course in all things digital humanities. As a part of the program, the fellows were asked to reflect periodically on their experiences on the Scholars&#8217; Lab blog.</p>
 
-<p>I did not do a good job of continually cross-posting those blog posts to this blog, so I wanted to make sure that they were properly linked here. I posted with the program on a variety of topics from my work as a developer, to reflections on collaborative programming, to our own plan for the year. Many of the posts relate to <a href="http://www.prism.scholarslab.org">Prism</a>, the tool we built over the course of the year. The Scholars&#8217; Lab has <a href="http://www.scholarslab.org/people/brandon-walsh/">a list of all my posts to date</a>. Below I included the posts with a short gloss.</p>
+<p>I did not do a good job of continually cross-posting those blog posts to this site, so I wanted to make sure that they were properly linked here. I posted with the program on a variety of topics from my work as a developer, to reflections on collaborative programming, to our own plan for the year. Many of the posts relate to <a href="http://www.prism.scholarslab.org">Prism</a>, the tool we built over the course of the year. The Scholars&#8217; Lab has <a href="http://www.scholarslab.org/people/brandon-walsh/">a list of all my posts to date</a>. Below I included the posts with a short gloss.</p>
 
 <ol>
 <ul>
