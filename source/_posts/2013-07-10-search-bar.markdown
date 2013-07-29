@@ -9,6 +9,6 @@ After some tweaking, I managed to get the search bar to play nicely. I unrounded
 
 <a href="https://gist.github.com/bmw9t/5968989">Here</a> is the CSS for the changes to the search bar.
 
-In trying to embed the above gist, I noticed that octopress breaks the styling: <img src="Broken_Gist.jpg">
+In trying to embed the above gist, I noticed that octopress breaks the styling: <img src="{{ root_url }}/Broken_Gist.jpg">
 
 Now I have something else to work on.
