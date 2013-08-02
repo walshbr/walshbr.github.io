@@ -12,6 +12,7 @@ footer: true
 		<li>
 			<audio controls>
 				<source src="{{ root_url }}/MP3s/And then he asked me…yes I said yes.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/And then he asked me…yes I said yes.ogg" type="audio/ogg">
 				Your browser does not support this audio format.
 			</audio> 
 			Norton, Part 4, 7.09.37.<br>
@@ -20,6 +21,7 @@ footer: true
 		<li>
 			<audio controls>
 	  			<source src="{{ root_url }}/MP3s/What the hell are you driving at.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/What the hell are you driving at.ogg" type="audio/ogg">
 	  			Your browser does not support this audio format.
 	  		</audio>
 	  		Norton, Part 2, 0.51.39.<br>
@@ -32,6 +34,7 @@ footer: true
 			<li>
 			<audio controls>
 		 		<source src="{{ root_url}}/MP3s/I feel so lonely.mp3" type="audio/mpeg">
+				<source src="{{ root_url}}/ogg/I feel so lonely.ogg" type="audio/ogg">		 			
 		  		Your browser does not support this audio format.
 		 	</audio>
 		 	Norton, Part 2, 3.53.36.<br>
@@ -51,6 +54,7 @@ footer: true
 		<li>
 			<audio controls>
 				<source src="{{ root_url }}/MP3s/Gramophone Scene.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/Gramophone Scene.ogg" type="audio/ogg">	
 				Your browser does not support this audio format.
 			</audio>
 			Norton, Part 1, 4.17.04.<br>
