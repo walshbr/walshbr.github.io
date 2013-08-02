@@ -11,7 +11,7 @@ footer: true
 	<ol>
 		<li>
 			<audio controls>
-				<source src="MP3s/And then he asked me…yes I said yes.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/MP3s/And then he asked me…yes I said yes.mp3" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio> 
 			Norton, Part 4, 7.09.37.<br>
@@ -19,7 +19,7 @@ footer: true
 		</li>
 		<li>
 			<audio controls>
-	  			<source src="MP3s/What the hell are you driving at.mp3" type="audio/mpeg">
+	  			<source src="{{ root_url }}/MP3s/What the hell are you driving at.mp3" type="audio/mpeg">
 	  			Your browser does not support this audio format.
 	  		</audio>
 	  		Norton, Part 2, 0.51.39.<br>
@@ -31,7 +31,7 @@ footer: true
 		</li>
 			<li>
 			<audio controls>
-		 		<source src="MP3s/I feel so lonely.mp3" type="audio/mpeg">
+		 		<source src="{{ root_url}}/MP3s/I feel so lonely.mp3" type="audio/mpeg">
 		  		Your browser does not support this audio format.
 		 	</audio>
 		 	Norton, Part 2, 3.53.36.<br>
@@ -40,7 +40,7 @@ footer: true
 		</li>
 			<li>
 			<audio controls>
-				<source src="MP3s/Snakes Hiss.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/MP3s/Snakes Hiss.mp3" type="audio/mpeg">
 		  		Your browser does not support this audio format.
 	  		</audio>
 	  		Norton, Part 2, 3.34.36.<b>
@@ -49,7 +49,7 @@ footer: true
 		</li>
 		<li>
 			<audio controls>
-				<source src="MP3s/Gramophone Scene.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/MP3s/Gramophone Scene.mp3" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio>
 			Norton, Part 1, 4.17.04.<br>
