@@ -65,7 +65,4 @@ footer: true
 </ul>
 <h4>Recordings Referenced</h4>
 Norton, Jim, and Marcella Riordan. Ulysses. [S.l.]: Naxos AudioBooks, 2004. Audiobook.
-
-
-
 	
