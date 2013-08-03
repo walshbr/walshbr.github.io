@@ -6,11 +6,11 @@
 <head>
   <a href="Top"></a>
   <meta charset="utf-8">
-  <title>SelfControl for Working on the Web - Brandon Walsh</title>
+  <title>TextMate and Git - Brandon Walsh</title>
   <meta name="author" content="Brandon Walsh">
 
   
-  <meta name="description" content="The web enables virtually all of my work as a graduate student, but it can all too easily become a powerful distraction. Sometimes it helps to have a &hellip;">
+  <meta name="description" content="This one is for my own files as much as anything else. For some time now, I&#8217;ve been getting a persistent error in Git when I try to go through &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -19,7 +19,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://bmw9t.github.com/blog/2013/07/28/working-web/">
+  <link rel="canonical" href="http://bmw9t.github.com/blog/2013/08/03/textmate/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -83,7 +83,7 @@
   
   <header>
     
-      <h2 class="entry-title">SelfControl for Working on the Web</h2>
+      <h2 class="entry-title">TextMate and Git</h2>
     
     
       <p class="meta">
@@ -99,24 +99,23 @@
   
 
 
-<time datetime="2013-07-28T20:53:00-04:00" pubdate data-updated="true">Jul 28<span>th</span>, 2013</time>
+<time datetime="2013-08-03T00:00:00-04:00" pubdate data-updated="true">Aug 3<span>rd</span>, 2013</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>The web enables virtually all of my work as a graduate student, but it can all too easily become a powerful distraction. Sometimes it helps to have a few practical aids in the war against procrastination. Of the several tools that I’ve tried - <a href="https://addons.mozilla.org/en-us/firefox/addon/foxfilter/">Fox Filter</a>, <a href="https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en">StayFocused</a>, and <a href="http://macfreedom.com/">Freedom</a> - <a href="http://selfcontrolapp.com/">SelfControl</a> remains my favorite. SelfControl provides relentless self-regulating freedom from procrastination. Best of all, it is free.</p>
+<div class="entry-content"><p>This one is for my own files as much as anything else. For some time now, I&#8217;ve been getting a persistent error in Git when I try to go through the steps of committing a file online. This particular error came about when trying to pull before pushing up to GitHub:</p>
 
-<p><img src="/images/Self_Control_1.jpg" width="60%" class="left"></p>
+<p><code>/usr/bin/mate -w: /usr/bin/mate: No such file or directory
+error: There was a problem with the editor '/usr/bin/mate -w'.
+Not committing merge; use 'git commit' to complete the merge.</code></p>
 
-<p>SelfControl is an app for Mac OS X that, unlike FoxFilter or StayFocused, works across browsers. When enabled, SelfControl asks you to specify how long you want to block a list of domains, up to 24 hours. The app also sports a “Whitelist” function that works in reverse, disabling everything except for a handful of specified domains.</p>
+<p>From what I understand, this comes about because Git can&#8217;t find the symbolic link to TextMate, even though it has existed in the past. For whatever reason, this issue seems to come up from time to time on my machine. I&#8217;ve tried a number of different solutions online, but none seemed to take.
+<a href="http://stackoverflow.com/questions/9610884/cant-create-a-symbolic-link-with-textmate-in-terminal-mate-command-not-found">This</a> solution finally did it for me. First, of course, make sure that you have TextMate installed and updated (my first mistake). The solution:</p>
 
-<p>Once activated, the blocks remain live until a particularly menacing timer runs down, and only some minor computer hacking will allow you to disable the app’s functionality. This relentlessness is SelfControl’s best and worst feature. The timed function is particularly good for short bursts of productivity, ie. an hour or shorter, but disabling the web for any longer feels too risky: it is easy to imagine time-sensitive emails going unanswered because you have blocked access to the internet for the next five hours.</p>
-
-<p><img src="/images/Self_Control_2.jpg" class="right"></p>
-
-<p>At its best, SelfControl allows me to temper the impulse to spend a lot of time hovering around my inbox; I tend to use SelfControl in hour long chunks to allow sessions of distraction-free work in between e-mail checks. How do you stay productive during long hours on the computer?</p>
+<p><code>ln -s /Applications/TextMate.app/Contents/SharedSupport/Support/bin/mate /usr/local/bin/mate</code></p>
 </div>
 
 
@@ -139,7 +138,7 @@
   
 
 
-<time datetime="2013-07-28T20:53:00-04:00" pubdate data-updated="true">Jul 28<span>th</span>, 2013</time>
+<time datetime="2013-08-03T00:00:00-04:00" pubdate data-updated="true">Aug 3<span>rd</span>, 2013</time>
       
 
 
@@ -154,10 +153,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2013/07/23/praxis/" title="Previous Post: Praxis Posts">&laquo; Praxis Posts</a>
+        <a class="basic-alignment left" href="/blog/2013/07/28/working-web/" title="Previous Post: SelfControl for Working on the Web">&laquo; SelfControl for Working on the Web</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2013/08/03/textmate/" title="Next Post: TextMate and Git">TextMate and Git &raquo;</a>
       
     </p>
   </footer>
