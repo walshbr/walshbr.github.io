@@ -47,7 +47,7 @@ footer: true
 				<source src="{{ root_url }}/ogg/Snakes Hiss.ogg" type="audio/ogg">
 		  		Your browser does not support this audio format.
 	  		</audio>
-	  		Norton, Part 2, 3.34.36.<b>
+	  		Norton, Part 2, 3.34.36.<br>
 		 	“snakes hissss. There’s music everywhere. Ruttledge’s door: ee creaking.” 
 			Joyce, Ulysses, 282.
 		</li>
