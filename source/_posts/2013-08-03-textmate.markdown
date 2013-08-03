@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TextMate and Git"
-date: 2013-08-03
+date: 2013-08-03 10:45
 comments: true
 categories: 
 ---
@@ -16,3 +16,5 @@ From what I understand, this comes about because Git can't find the symbolic lin
 <a href="http://stackoverflow.com/questions/9610884/cant-create-a-symbolic-link-with-textmate-in-terminal-mate-command-not-found">This</a> solution finally did it for me. First, of course, make sure that you have TextMate installed and updated (my first mistake). The solution:
 
 `ln -s /Applications/TextMate.app/Contents/SharedSupport/Support/bin/mate /usr/local/bin/mate`
+
+This very post was made free of the error.
