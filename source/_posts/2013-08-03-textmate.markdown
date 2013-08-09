@@ -17,4 +17,4 @@ From what I understand, this comes about because Git can't find the symbolic lin
 
 `ln -s /Applications/TextMate.app/Contents/SharedSupport/Support/bin/mate /usr/local/bin/mate`
 
-This very post was made free of the error.
+This very post was made free of the error.  
