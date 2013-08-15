@@ -4,7 +4,7 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="http://bmw9t.github.com/atom.xml" rel="self"/>
   <link href="http://bmw9t.github.com/"/>
-  <updated>2013-08-09T14:18:44-04:00</updated>
+  <updated>2013-08-11T17:09:45-04:00</updated>
   <id>http://bmw9t.github.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bash-it Plugins]]></title>
+    <link href="http://bmw9t.github.com/blog/2013/08/11/bash-it-plugins-and-symlink-troubles/"/>
+    <updated>2013-08-11T16:41:00-04:00</updated>
+    <id>http://bmw9t.github.com/blog/2013/08/11/bash-it-plugins-and-symlink-troubles</id>
+    <content type="html"><![CDATA[<p>Sometimes things go wrong. When this happens, I often find a temporary solution that works fine in the moment, but implementing the fix repeatedly can get annoying over time. Here is something that I had been ignoring for a while and only recently took the time to fix.</p>
+
+<p>I use <a href="https://github.com/revans/bash-it">bash-it</a>, which has lots of neat tricks and functions. Since installing it, however, I had been getting a message every time I open up a terminal window:</p>
+
+<p><code>sorry, the z plugin is incompatible with the fasd plugin. you may use either, but not both.</code></p>
+
+<p>The message doesn&#8217;t stop you from going about your business, so I never really read it very closely: bash-it tells you everything you need to know. When installing, bash-it prompts you to make a variety of decisions about how many plugins you will use on a regular basis. I told bash-it to enable everything by default, but this decision caused a conflict between two plugins.</p>
+
+<p>To see which plugins you have enabled, open a terminal window and type:</p>
+
+<p><code>$ bash-it show plugins</code></p>
+
+<p>In the output, you should see some flavor of the following diagnosing the problem:</p>
+
+<p><code>z [x]     maintains a jump-list of the directories you actually use  
+z is DEPRECATED, use fasd instead</code></p>
+
+<p>Plugin z causes an error when activated with a newer plugin with the same functionality. Bash-it gives you the fix:</p>
+
+<p><code>$ bash-it disable plugin z</code></p>
+
+<p>After that, your terminal should run free of the message.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[TextMate and Git]]></title>

@@ -6,15 +6,11 @@
 <head>
   <a href="Top"></a>
   <meta charset="utf-8">
-  <title>Blog Archive - Brandon Walsh</title>
+  <title>Bash-it Plugins - Brandon Walsh</title>
   <meta name="author" content="Brandon Walsh">
 
   
-  <meta name="description" content="Blog Archive 2013 Bash-it Plugins
-Aug 11 2013 TextMate and Git
-Aug 03 2013 SelfControl for Working on the Web
-Jul 28 2013 Praxis Posts
-Jul 23 2013 &hellip;">
+  <meta name="description" content="Sometimes things go wrong. When this happens, I often find a temporary solution that works fine in the moment, but implementing the fix repeatedly &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -23,7 +19,7 @@ Jul 23 2013 &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://bmw9t.github.com/blog/archives/">
+  <link rel="canonical" href="http://bmw9t.github.com/blog/2013/08/11/bash-it-plugins-and-symlink-troubles/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -83,114 +79,97 @@ Jul 23 2013 &hellip;">
   <div id="main">
     <div id="content">
       <div>
-<article role="article">
+<article class="hentry" role="article">
   
   <header>
-    <h2 class="entry-title">Blog Archive</h2>
+    
+      <h2 class="entry-title">Bash-it Plugins</h2>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-08-11T16:41:00-04:00" pubdate data-updated="true">Aug 11<span>th</span>, 2013</time>
+        
+      </p>
     
   </header>
-  
-  <div id="blog-archives">
 
 
+<div class="entry-content"><p>Sometimes things go wrong. When this happens, I often find a temporary solution that works fine in the moment, but implementing the fix repeatedly can get annoying over time. Here is something that I had been ignoring for a while and only recently took the time to fix.</p>
 
-  
-  <h2>2013</h2>
+<p>I use <a href="https://github.com/revans/bash-it">bash-it</a>, which has lots of neat tricks and functions. Since installing it, however, I had been getting a message every time I open up a terminal window:</p>
 
-<article>
-  
-<h1><a href="/blog/2013/08/11/bash-it-plugins-and-symlink-troubles/">Bash-it Plugins</a></h1>
-<time datetime="2013-08-11T16:41:00-04:00" pubdate><span class='month'>Aug</span> <span class='day'>11</span> <span class='year'>2013</span></time>
+<p><code>sorry, the z plugin is incompatible with the fasd plugin. you may use either, but not both.</code></p>
 
+<p>The message doesn&#8217;t stop you from going about your business, so I never really read it very closely: bash-it tells you everything you need to know. When installing, bash-it prompts you to make a variety of decisions about how many plugins you will use on a regular basis. I told bash-it to enable everything by default, but this decision caused a conflict between two plugins.</p>
 
-</article>
+<p>To see which plugins you have enabled, open a terminal window and type:</p>
 
+<p><code>$ bash-it show plugins</code></p>
 
+<p>In the output, you should see some flavor of the following diagnosing the problem:</p>
 
-<article>
-  
-<h1><a href="/blog/2013/08/03/textmate/">TextMate and Git</a></h1>
-<time datetime="2013-08-03T10:45:00-04:00" pubdate><span class='month'>Aug</span> <span class='day'>03</span> <span class='year'>2013</span></time>
+<p><code>z [x]     maintains a jump-list of the directories you actually use  
+z is DEPRECATED, use fasd instead</code></p>
 
+<p>Plugin z causes an error when activated with a newer plugin with the same functionality. Bash-it gives you the fix:</p>
 
-</article>
+<p><code>$ bash-it disable plugin z</code></p>
 
-
-
-<article>
-  
-<h1><a href="/blog/2013/07/28/working-web/">SelfControl for Working on the Web</a></h1>
-<time datetime="2013-07-28T20:53:00-04:00" pubdate><span class='month'>Jul</span> <span class='day'>28</span> <span class='year'>2013</span></time>
-
-
-</article>
-
-
-
-<article>
-  
-<h1><a href="/blog/2013/07/23/praxis/">Praxis Posts</a></h1>
-<time datetime="2013-07-23T21:19:00-04:00" pubdate><span class='month'>Jul</span> <span class='day'>23</span> <span class='year'>2013</span></time>
-
-
-</article>
-
-
-
-<article>
-  
-<h1><a href="/blog/2013/07/10/search-bar/">Search Bar</a></h1>
-<time datetime="2013-07-10T19:41:00-04:00" pubdate><span class='month'>Jul</span> <span class='day'>10</span> <span class='year'>2013</span></time>
-
-
-</article>
-
-
-
-<article>
-  
-<h1><a href="/blog/2013/07/08/design/">Design Refresh</a></h1>
-<time datetime="2013-07-08T00:39:00-04:00" pubdate><span class='month'>Jul</span> <span class='day'>08</span> <span class='year'>2013</span></time>
-
-
-</article>
-
-
-
-<article>
-  
-<h1><a href="/blog/2013/02/01/looking-forward/">Looking Forward</a></h1>
-<time datetime="2013-02-01T18:25:00-05:00" pubdate><span class='month'>Feb</span> <span class='day'>01</span> <span class='year'>2013</span></time>
-
-
-</article>
-
-
-
-<article>
-  
-<h1><a href="/blog/2013/01/25/teaching/">Teaching</a></h1>
-<time datetime="2013-01-25T17:26:00-05:00" pubdate><span class='month'>Jan</span> <span class='day'>25</span> <span class='year'>2013</span></time>
-
-
-</article>
-
-
-
-  
-  <h2>2012</h2>
-
-<article>
-  
-<h1><a href="/blog/2012/12/21/were-live/">We&#8217;re Live!</a></h1>
-<time datetime="2012-12-21T02:58:00-05:00" pubdate><span class='month'>Dec</span> <span class='day'>21</span> <span class='year'>2012</span></time>
-
-
-</article>
-
+<p>After that, your terminal should run free of the message.</p>
 </div>
 
+
+  <footer>
+    <p class="meta">
+      
   
+
+<span class="byline author vcard">Posted by <span class="fn">Brandon Walsh</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-08-11T16:41:00-04:00" pubdate data-updated="true">Aug 11<span>th</span>, 2013</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/08/03/textmate/" title="Previous Post: TextMate and Git">&laquo; TextMate and Git</a>
+      
+      
+    </p>
+  </footer>
 </article>
 
 </div>

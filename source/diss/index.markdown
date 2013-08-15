@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Diss Sound Clips"
-date: 2013-07-16 16:24
 comments: true
 sharing: true
 footer: true
@@ -62,10 +61,33 @@ footer: true
 			<br>
 			Text: Joyce, Ulysses, 114<br>
 			Audio: Norton, Part 1, 4.17.04.<br><br>
+		</li>
+		<li>
+			"Yes because he never did a thing like that before as ask to get his breakfast in bed with a couple of eggs since the City Arms hotel when he used to be pretending to be laid up with a sick voice doing his highness to make himself interesting for that old faggot Mrs Riordan that he thought had a great leg of and she never left us a farthing." <br> <br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/Penelope Riordan.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/Penelope Riordan.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio>
+			<br>
+			Text: Joyce, Ulysses, 738.<br>  
+			Audio: Norton, Part 4, 4.48.0.<br><br>
+		</li>
+		<li>
+			"Yes because he never did a thing like that before as ask to get his breakfast in bed with a couple of eggs since the City Arms hotel when he used to be pretending to be laid up with a sick voice doing his highness to make himself interesting for that old faggot Mrs Riordan that he thought had a great leg of and she never left us a farthing." <br> <br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/Penelope Librivox.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/Penelope Librivox.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio>
+			<br>
+			Text: Joyce, Ulysses, 738.<br>  
+			Audio: LibriVox, Part 18a, 0.0.30.<br><br>
 		</li> 
 	</ol> 
 </ul>
 <h4>Recordings Referenced</h4>
+LibriVox Readers. Ulysses. 2007. Digital.  
 Norton, Jim, and Marcella Riordan. Ulysses. [S.l.]: Naxos AudioBooks, 2004. Audiobook.
 <h4>Texts Referenced</h4>
 Joyce, James. Ulysses. 1st Vintage Intl Ed June 1990. Vintage, 1990. Print.
