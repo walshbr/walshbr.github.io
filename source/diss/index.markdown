@@ -15,7 +15,7 @@ footer: true
 				<source src="{{ root_url }}/ogg/And then he asked me…yes I said yes.ogg" type="audio/ogg">
 				Your browser does not support this audio format.
 			</audio> <br>
-			Text: Joyce, Ulysses, 783.<br>
+			Text: Joyce, <em>Ulysses</em>, 783.<br>
 			Audio: Norton, Part 4, 7.09.37.<br><br>
 		</li>
 		<li>
@@ -28,7 +28,7 @@ footer: true
 				<source src="{{ root_url }}/ogg/What the hell are you driving at.ogg" type="audio/ogg">
 	  			Your browser does not support this audio format.
 	  		</audio><br>
-			Text: Joyce, Ulysses, 207.<br>
+			Text: Joyce, <em>Ulysses</em>, 207.<br>
 			Audio: Norton, Part 2, 0.51.39.<br><br>
 		</li>
 			<li>
@@ -38,7 +38,7 @@ footer: true
 				<source src="{{ root_url}}/ogg/I feel so lonely.ogg" type="audio/ogg">		 			
 		  		Your browser does not support this audio format.
 		 	</audio><br>
-		 	Text: Joyce, Ulysses, 290.<br>
+		 	Text: Joyce, <em>Ulysses</em>, 290.<br>
 		 	Audio: Norton, Part 2, 3.53.36.<br><br>
 		</li>
 			<li>
@@ -48,7 +48,7 @@ footer: true
 				<source src="{{ root_url }}/ogg/Snakes Hiss.ogg" type="audio/ogg">
 		  		Your browser does not support this audio format.
 	  		</audio><br>
-			Text: Joyce, Ulysses, 282.<br>	  		
+			Text: Joyce, <em>Ulysses</em>, 282.<br>	  		
 	  		Audio: Norton, Part 2, 3.34.36.<br><br>
 		</li>
 		<li>
@@ -59,7 +59,7 @@ footer: true
 				Your browser does not support this audio format.
 			</audio>
 			<br>
-			Text: Joyce, Ulysses, 114<br>
+			Text: Joyce, <em>Ulysses</em>, 114<br>
 			Audio: Norton, Part 1, 4.17.04.<br><br>
 		</li>
 		<li>
@@ -70,7 +70,7 @@ footer: true
 				Your browser does not support this audio format.
 			</audio>
 			<br>
-			Text: Joyce, Ulysses, 738.<br>  
+			Text: Joyce, <em>Ulysses</em>, 738.<br>  
 			Audio: Norton, Part 4, 4.48.0.<br><br>
 		</li>
 		<li>
@@ -81,16 +81,16 @@ footer: true
 				Your browser does not support this audio format.
 			</audio>
 			<br>
-			Text: Joyce, Ulysses, 738.<br>  
+			Text: Joyce, <em>Ulysses</em>, 738.<br>  
 			Audio: LibriVox, Part 18a, 0.0.30.<br><br>
 		</li> 
 	</ol> 
 </ul>
 <h4>Recordings Referenced</h4>
-LibriVox Readers. Ulysses. 2007. Digital.  
-Norton, Jim, and Marcella Riordan. Ulysses. [S.l.]: Naxos AudioBooks, 2004. Audiobook.
+LibriVox Readers. <em>Ulysses</em>. 2007. Digital.  
+Norton, Jim, and Marcella Riordan. <em>Ulysses</em>. [S.l.]: Naxos AudioBooks, 2004. Audiobook.
 <h4>Texts Referenced</h4>
-Joyce, James. Ulysses. 1st Vintage Intl Ed June 1990. Vintage, 1990. Print.
+Joyce, James. <em>Ulysses</em>. 1st Vintage Intl Ed June 1990. Vintage, 1990. Print.
 
 
 	
