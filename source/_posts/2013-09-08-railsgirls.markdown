@@ -20,6 +20,6 @@ So, if I were coaching again, I would do the following differently:
 1. Bring an extra laptop.  
 2. Talk more about processes: of troubleshooting, of asking for and finding help, and even of conceptualizing new projects.  
 3. Strike a more satisfying balance between jumping in and letting students explore independently.  
-4. Learn more about the Rails installation process and known issues with different operating systems ahead of time.
+4. Learn more about the Rails installation process and known issues with different operating systems ahead of time.  
 
 I'm already looking forward to the next Rails Girls DH event!
