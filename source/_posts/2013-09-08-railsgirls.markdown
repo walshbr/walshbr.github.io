@@ -18,8 +18,8 @@ It's important to learn that we <em>all</em> break things. Constantly. I tried t
 
 So, if I were coaching again, I would do the following differently:  
 1. Bring an extra laptop.  
-2. Talk more about processes: of troubleshooting, of asking for and finding help, and even of conceptualizing new projects.  
-3. Strike a more satisfying balance between jumping in and letting students explore independently.  
-4. Learn more about the Rails installation process and known issues with different operating systems ahead of time.  
+2. Learn more about the Rails installation process and known issues with different operating systems ahead of time so that I am better equipped to troubleshoot such things.  
+3. Talk more about processes: of troubleshooting, of asking for and finding help, and even of conceptualizing new projects.  
+4. Strike a more satisfying balance between jumping in and letting students explore independently.  
 
 I'm already looking forward to the next Rails Girls DH event!
