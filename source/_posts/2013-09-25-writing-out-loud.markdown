@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writing Out Loud: Google Docs for Live Writing Revision and Discussion"
+title: "Writing Out Loud: Google Docs for Live Writing, Revision, and Discussion"
 date: 2013-09-25 09:45
 comments: true
 categories: 
