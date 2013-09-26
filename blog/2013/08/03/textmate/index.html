@@ -6,11 +6,11 @@
 <head>
   <a href="Top"></a>
   <meta charset="utf-8">
-  <title>We're Live! - Brandon Walsh</title>
+  <title>TextMate and Git - Brandon Walsh</title>
   <meta name="author" content="Brandon Walsh">
 
   
-  <meta name="description" content="The site is officially reborn and is now running on Octopress. In the coming days I will continue tinkering with the design and adding some content &hellip;">
+  <meta name="description" content="This one is for my own files as much as anything else. For some time now, I&#8217;ve been getting a persistent error in Git when I try to go through &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -19,7 +19,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://bmw9t.github.com/blog/2012/12/21/were-live/">
+  <link rel="canonical" href="http://bmw9t.github.com/blog/2013/08/03/textmate/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -83,7 +83,7 @@
   
   <header>
     
-      <h2 class="entry-title">We're Live!</h2>
+      <h2 class="entry-title">TextMate and Git</h2>
     
     
       <p class="meta">
@@ -99,14 +99,25 @@
   
 
 
-<time datetime="2012-12-21T02:58:00-05:00" pubdate data-updated="true">Dec 21<span>st</span>, 2012</time>
+<time datetime="2013-08-03T10:45:00-04:00" pubdate data-updated="true">Aug 3<span>rd</span>, 2013</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>The site is officially reborn and is now running on Octopress. In the coming days I will continue tinkering with the design and adding some content here and there, but the basic framework for the site is in place.</p>
+<div class="entry-content"><p>This one is for my own files as much as anything else. For some time now, I&#8217;ve been getting a persistent error in Git when I try to go through the steps of committing a file online. This particular error came about when trying to pull before pushing up to GitHub:</p>
+
+<p><code>/usr/bin/mate -w: /usr/bin/mate: No such file or directory
+error: There was a problem with the editor '/usr/bin/mate -w'.
+Not committing merge; use 'git commit' to complete the merge.</code></p>
+
+<p>From what I understand, this comes about because Git can&#8217;t find the symbolic link to TextMate, even though it has existed in the past. For whatever reason, this issue seems to come up from time to time on my machine. I&#8217;ve tried a number of different solutions online, but none seemed to take.
+<a href="http://stackoverflow.com/questions/9610884/cant-create-a-symbolic-link-with-textmate-in-terminal-mate-command-not-found">This</a> solution finally did it for me. First, of course, make sure that you have TextMate installed and updated (my first mistake). The solution:</p>
+
+<p><code>ln -s /Applications/TextMate.app/Contents/SharedSupport/Support/bin/mate /usr/local/bin/mate</code></p>
+
+<p>This very post was made free of the error.</p>
 </div>
 
 
@@ -129,7 +140,7 @@
   
 
 
-<time datetime="2012-12-21T02:58:00-05:00" pubdate data-updated="true">Dec 21<span>st</span>, 2012</time>
+<time datetime="2013-08-03T10:45:00-04:00" pubdate data-updated="true">Aug 3<span>rd</span>, 2013</time>
       
 
 
@@ -144,8 +155,10 @@
     
     <p class="meta">
       
+        <a class="basic-alignment left" href="/blog/2013/07/28/working-web/" title="Previous Post: SelfControl for Working on the Web">&laquo; SelfControl for Working on the Web</a>
       
-        <a class="basic-alignment right" href="/blog/2013/01/25/teaching/" title="Next Post: Teaching">Teaching &raquo;</a>
+      
+        <a class="basic-alignment right" href="/blog/2013/08/11/bash-it-plugins-and-symlink-troubles/" title="Next Post: Bash-it Plugins">Bash-it Plugins &raquo;</a>
       
     </p>
   </footer>
