@@ -9,6 +9,17 @@ footer: true
 <ul>
 	<ol>
 		<li>
+			"A husky fifenote blew.
+			Blew. Blue Bloom is on the"	<br><br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/blue_sirens.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/blue_sirens.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio> <br>
+			Text: Joyce, <em>Ulysses</em>, 256.<br>
+			Audio: Norton, Part 2, 2.33.40.<br><br>
+		</li>
+		<li>
 			“and then he asked me would I yes to say yes my mountain flower and first I put my arms around him yes and drew him down to me so he could feel my breasts all perfume yes and his heart was going like mad and yes I said yes I will Yes.”<br><br>	
 			<audio controls>
 				<source src="{{ root_url }}/MP3s/And then he asked me…yes I said yes.mp3" type="audio/mpeg">
@@ -61,6 +72,16 @@ footer: true
 			<br>
 			Text: Joyce, <em>Ulysses</em>, 114<br>
 			Audio: Norton, Part 1, 4.17.04.<br><br>
+		</li>
+		<li>
+					“and then he asked me would I yes to say yes my mountain flower and first I put my arms around him yes and drew him down to me so he could feel my breasts all perfume yes and his heart was going like mad and yes I said yes I will Yes.”<br><br>	
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/And then he asked me…yes I said yes.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/And then he asked me…yes I said yes.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio> <br>
+			Text: Joyce, <em>Ulysses</em>, 783.<br>
+			Audio: Norton, Part 4, 7.09.37.<br><br>
 		</li>
 		<li>
 			"Yes because he never did a thing like that before as ask to get his breakfast in bed with a couple of eggs since the City Arms hotel when he used to be pretending to be laid up with a sick voice doing his highness to make himself interesting for that old faggot Mrs Riordan that he thought had a great leg of and she never left us a farthing." <br> <br>
