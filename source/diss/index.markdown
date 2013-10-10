@@ -20,16 +20,6 @@ footer: true
 			Audio: Norton, Part 2, 2.33.40.<br><br>
 		</li>
 		<li>
-			“and then he asked me would I yes to say yes my mountain flower and first I put my arms around him yes and drew him down to me so he could feel my breasts all perfume yes and his heart was going like mad and yes I said yes I will Yes.”<br><br>	
-			<audio controls>
-				<source src="{{ root_url }}/MP3s/And then he asked me…yes I said yes.mp3" type="audio/mpeg">
-				<source src="{{ root_url }}/ogg/And then he asked me…yes I said yes.ogg" type="audio/ogg">
-				Your browser does not support this audio format.
-			</audio> <br>
-			Text: Joyce, <em>Ulysses</em>, 783.<br>
-			Audio: Norton, Part 4, 7.09.37.<br><br>
-		</li>
-		<li>
 			“What the hell are you driving at?<br>
 			I know. Shut up. Blast you! I have reasons.<br>
 			Amplius. Adhuc. Iterum. Postea.<br>
