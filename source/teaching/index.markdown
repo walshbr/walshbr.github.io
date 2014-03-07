@@ -13,7 +13,7 @@ sidebar: teaching.html
 <a href="#ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a> (Fall 2012, Spring 2013)
 
 <h3>Teaching Assistant</h3> 
-<a href="#ENGL3820">ENGL 3820: "History of Literature in English II"</a> (Spring 2014)  
+<a href="#ENGL3820">ENGL 3820: "History of Literature in English II"</a> (Spring 2014, Head TA)  
 <a href="#ENRN3210">ENRN 3210: "Shakespeare I"</a> (Fall 2013)  
 <a href="#ENWR3800">ENWR 3800: "Academic and Professional Writing"</a> (Spring 2012)  
 <a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> (Fall 2011)  
