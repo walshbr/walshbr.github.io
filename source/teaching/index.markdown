@@ -9,8 +9,10 @@ sidebar: teaching.html
 
 <section>
 <h3>Instructor</h3> 
-<a href="#IHGC3559">IHGC 3559: "American Youth and Film"</a> (Spring 2014, Co-taught with Elizabeth Fox)  
 <a href="#ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a> (Fall 2012, Spring 2013)
+
+<h3>Co-Instructor</h3>
+<a href="#IHGC3559">IHGC 3559: "American Youth and Film"</a> (Spring 2014, with Elizabeth Fox)  
 
 <h3>Teaching Assistant</h3> 
 <a href="#ENGL3820">ENGL 3820: "History of Literature in English II"</a> (Spring 2014, Head TA)  
@@ -21,6 +23,17 @@ sidebar: teaching.html
 --------
 
 <section>
+<h3><a name="ENWR1510Musical"></a>ENWR 1510: "The Musical: Then and Now"</h3>
+  
+This themed freshman writing course is based around various forms of the musical from the 1950's to the present. Beginning with a broad consideration of the role of arts in the marketplace and public life, the course then examines more "classic" musicals alongside newer works as a way of discussing the musical's continued and evolving relevance to everyday American life. The course familiarizes students with a variety of different genres of real world writing, print and digital: the academic article, the book chapter, the newspaper article, the blog post, and the comment thread, to name a few. We discuss the challenges of each uniqe mode in the service of distilling the expectations of readers in an academic and professional setting. The musicals: *Singin' in the Rain*, *The Muppets*, *West Side Story*, *Rocky Horror Picture Show*, *Dr. Horrible's Sing-Along Blog*, *Glee*, *Pitch Perfect*, and several music videos as distant cousins of the form.
+
+<a href="{{ root_url }}/teaching/The Musical Then and Now.pdf">Syllabus</a>
+
+<a href="#Top">Back to top</a>
+</section>
+----------
+
+<section>
 <h3><a name="IHGC3559"></a>IHGC 3559: "American Youth and Film"</h3>
 
 This seminar focuses on post-WWII American films made about or for teenagers and adolescents. The changing conceptions of aging, maturity, and American identity on screen form the crux of our discussion, and the course explores these topics in relation to race and rituals of belonging, sexuality and body horror, and the commodification of youth and American identity.
@@ -28,17 +41,6 @@ This seminar focuses on post-WWII American films made about or for teenagers and
 The films included, roughly, one from each decade since the 1950's: *The Wild One*, *West Side Story*, *Carrie*, and *The Breakfast Club*. The students selected the films for the '90s and '00s, and they chose *10 Things I Hate About You* and *21 Jump Street*.
 
 <a href="{{ root_url }}/teaching/IHGC3559Syllabus.pdf">Syllabus</a>
-
-<a href="#Top">Back to top</a>
-</section>
-----------
-
-<section>
-<h3><a name="ENWR1510Musical"></a>ENWR 1510: "The Musical: Then and Now"</h3>
-  
-This themed freshman writing course is based around various forms of the musical from the 1950's to the present. Beginning with a broad consideration of the role of arts in the marketplace and public life, the course then examines more "classic" musicals alongside newer works as a way of discussing the musical's continued and evolving relevance to everyday American life. The course familiarizes students with a variety of different genres of real world writing, print and digital: the academic article, the book chapter, the newspaper article, the blog post, and the comment thread, to name a few. We discuss the challenges of each uniqe mode in the service of distilling the expectations of readers in an academic and professional setting. The musicals: *Singin' in the Rain*, *The Muppets*, *West Side Story*, *Rocky Horror Picture Show*, *Dr. Horrible's Sing-Along Blog*, *Glee*, *Pitch Perfect*, and several music videos as distant cousins of the form.
-
-<a href="{{ root_url }}/teaching/The Musical Then and Now.pdf">Syllabus</a>
 
 <a href="#Top">Back to top</a>
 </section>
