@@ -9,14 +9,29 @@ sidebar: teaching.html
 
 <section>
 <h3>Instructor</h3> 
+<a href="#IHGC3559">IHGC 3559: "American Youth and Film"</a> (Spring 2014, Co-taught with Elizabeth Fox)  
 <a href="#ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a> (Fall 2012, Spring 2013)
 
 <h3>Teaching Assistant</h3> 
+<a href="#ENGL3820">ENGL 3820: "History of Literature in English II"</a> (Spring 2014)  
 <a href="#ENRN3210">ENRN 3210: "Shakespeare I"</a> (Fall 2013)  
 <a href="#ENWR3800">ENWR 3800: "Academic and Professional Writing"</a> (Spring 2012)  
 <a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> (Fall 2011)  
 </section>
 --------
+
+<section>
+<h3><a name="IHGC3559"></a>IHGC 3559: "American Youth and Film"</h3>
+
+This seminar focuses on post-WWII American films made about or for teenagers and adolescents. The changing conceptions of aging, maturity, and American identity on screen form the crux of our discussion, and the course explores these topics in relation to race and rituals of belonging, sexuality and body horror, and the commodification of youth and American identity.
+
+The films included, roughly, one from each decade since the 1950's: *The Wild One*, *West Side Story*, *Carrie*, and *The Breakfast Club*. The students selected the films for the '90s and '00s, and they chose *10 Things I Hate About You* and *21 Jump Street*.
+
+<a href="{{ root_url }}/teaching/IHGC3559Syllabus.pdf">Syllabus</a>
+
+<a href="#Top">Back to top</a>
+</section>
+----------
 
 <section>
 <h3><a name="ENWR1510Musical"></a>ENWR 1510: "The Musical: Then and Now"</h3>
@@ -28,6 +43,17 @@ This themed freshman writing course is based around various forms of the musical
 <a href="#Top">Back to top</a>
 </section>
 ----------
+
+<section>
+<h3><a name="ENGL3820"></a>ENGL 3820: "History of Literature in English II"</h3>
+
+From UVA's course description:  
+A literary history of the eighteenth and nineteenth centuries, spanning the period between the epic of Milton and the rise of Modernism. The course is a study in landmark events, including the rise of the novel, the epoch of Romanticism, the age of Victoria, and the emergence of American literature as collaborator (and competitor) with the English tradition. It’s also an encounter with notable writers, -- among them Fielding, Austen, Blake, Keats, Dickens, Emerson, Hawthorne, Melville, Whitman, Dickinson, Eliot and Wilde. The method of the course will be to ask students to concentrate on a limited number of memorable texts and to offer wider contexts within the lectures. We're particularly interested in arguments for the place of reading, literature, and the humanities in a digital age.  English majors, possible English majors, and non-English majors all warmly welcome.
+
+
+<a href="#Top">Back to top</a>
+</section>
+--------
 
 <section>
 <h3><a name="ENRN3210"></a>ENRN 3210: "Shakespeare I"</h3>
