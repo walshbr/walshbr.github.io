@@ -1,0 +1,207 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <a href="Top"></a>
+  <meta charset="utf-8">
+  <title>Bash-it Plugins - Brandon Walsh</title>
+  <meta name="author" content="Brandon Walsh">
+
+  
+  <meta name="description" content="Sometimes things go wrong. When this happens, I often find a temporary solution that works fine in the moment, but implementing the fix repeatedly &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://bmw9t.github.com/blog/2013/08/11/bash-it-plugins-and-symlink-troubles/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Brandon Walsh" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-37226549-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body    class="collapse-sidebar sidebar-footer" >
+  <header role="banner"><hgroup>
+	<div id="headtext">
+	  <h1><a href="/">Brandon Walsh</a></h1>
+	  
+	  
+	</div>
+</hgroup>
+
+</header>
+  <nav role="navigation"><!-- <ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul> -->
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:bmw9t.github.com" />
+    <input class="search" id="searchform" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about">About</a></li>
+  <li><a href="/blog/archives">Blog Archive</a></li>
+  <li><a href="/cv/index.html">CV</a></li>
+  <li><a href="/teaching">Courses</a></li>
+  <li><a href="/research">Research</a></li>
+</ul>
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h2 class="entry-title">Bash-it Plugins</h2>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-08-11T16:41:00-04:00" pubdate data-updated="true">Aug 11<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Sometimes things go wrong. When this happens, I often find a temporary solution that works fine in the moment, but implementing the fix repeatedly can get annoying over time. Here is something that I had been ignoring for a while and only recently took the time to fix.</p>
+
+<p>I use <a href="https://github.com/revans/bash-it">bash-it</a>, which has lots of neat tricks and functions. Since installing it, however, I had been getting a message every time I open up a terminal window:</p>
+
+<p><code>sorry, the z plugin is incompatible with the fasd plugin. you may use either, but not both.</code></p>
+
+<p>The message doesn&#8217;t stop you from going about your business, so I never really read it very closely: bash-it tells you everything you need to know. When installing, bash-it prompts you to make a variety of decisions about how many plugins you will use on a regular basis. I told bash-it to enable everything by default, but this decision caused a conflict between two plugins.</p>
+
+<p>To see which plugins you have enabled, open a terminal window and type:</p>
+
+<p><code>$ bash-it show plugins</code></p>
+
+<p>In the output, you should see some flavor of the following diagnosing the problem:</p>
+
+<p><code>z [x]     maintains a jump-list of the directories you actually use  
+z is DEPRECATED, use fasd instead</code></p>
+
+<p>Plugin z causes an error when activated with a newer plugin with the same functionality. Bash-it gives you the fix:</p>
+
+<p><code>$ bash-it disable plugin z</code></p>
+
+<p>After that, your terminal should run free of the message.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Brandon Walsh</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-08-11T16:41:00-04:00" pubdate data-updated="true">Aug 11<span>th</span>, 2013</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/08/03/textmate/" title="Previous Post: TextMate and Git">&laquo; TextMate and Git</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2013/09/08/railsgirls/" title="Next Post: Rails Girls Digital Humanities">Rails Girls Digital Humanities &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a><br />This work is by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Brandon Walsh</span> unless otherwise noted and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a>.</span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
