@@ -98,10 +98,142 @@ footer: true
 	</ol> 
 </ul>
 <h4>Recordings Referenced</h4>
-LibriVox Readers. <em>Ulysses</em>. 2007. Digital.  
-Norton, Jim, and Marcella Riordan. <em>Ulysses</em>. [S.l.]: Naxos AudioBooks, 2004. Audiobook.
+<ul>
+	<li>
+		LibriVox Readers. <em>Ulysses</em>. 2007. Digital.
+	</li>
+	<li>
+		Norton, Jim, and Marcella Riordan. <em>Ulysses</em>. [S.l.]: Naxos AudioBooks, 2004. Audiobook.
+	</li>
+</ul>
 <h4>Texts Referenced</h4>
-Joyce, James. <em>Ulysses</em>. 1st Vintage Intl Ed June 1990. Vintage, 1990. Print.
+<ul>
+	<li>
+		Joyce, James. <em>Ulysses</em>. 1st Vintage Intl Ed June 1990. Vintage, 1990. Print.
+	</li>
+</ul
 
+<h4>Hughes Chapter</h4>
+<ul>
+	<ol>
+		<li>
+			"Gee, but it’s hard to love someone<br>
+			When that someone don’t love you<br>
+			I’m so disgusted, heartbroken, too<br>
+			I’ve got those down hearted blues" <br><br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/1_down_hearted_blues_clip.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/1_down_hearted_blues_clip.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio><br>
+			Text: Original transcription.<br>
+			Audio: Smith, "Down Hearted Blues," 0.0.13.<br><br>
+		</li>
+		<li>
+			<br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/2_ko-ko.m4a" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/2_ko-ko.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio><br>
+			Audio: Parker, "Ko-Ko."<br><br>
+		</li>
+		<li>
+			<br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/3_original_faubus_fables.m4a" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/3_original_faubus_fables.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio><br>
+			Audio: Mingus, "Original Faubus Fables." <br><br>
+		</li>		
+		<li>
+			<br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/4_fables_of_faubus.m4a" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/4_fables_of_faubus.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio><br>
+			Audio: Mingus, "Fables of Faubus."<br><br>
+		</li>		
+		<li>
+			"My motto, <br>
+			As I live and learn,  <br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is:<br>
+			<em>Dig And Be Dug  <br>
+			In Return." </em><br><br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/5_motto.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/5_motto.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio><br>
+			Text: Hughes, "Motto," 5-8.<br>
+			Audio: Hughes, <em>Weary Blues</em>, 0.28.04<br><br>
+		</li>		
+		<li>
+			"Well that’s the motto of a hep-cat.<br>
+			But unfortunately this particular hep-cat didn’t live very long.<br>
+			He was cut down in the prime of his youth by the long scythe of too much good-timing.<br>
+			One night, because in Harlem we have night funerals,<br>
+			This young man was going down Lennox Avenue in a box.<br>
+			A long box. Dead in there. Dead in there."
+			<br><br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/6_dead_in_there.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/6_dead_in_there.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio><br>
+			Text: Original transcription.<br>
+			Audio: Mingus, <em>Weary Blues</em>, 0.28.51<br><br>
+		</li>
+		<li>
+			<br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/7_goodbye_newport_blues_full.m4a" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/7_goodbye_newport_blues_full.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio> <br>
+			Audio: Waters, "Goodbye Newport Blues." <br><br>
+		</li>
+		<li>
+			"By the pale dull pallor of a wan bulb light."
+			<br><br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/wan_light.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/wan_light.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio> <br>
+			Text: Original transcription. <br>
+			Audio: Hughes, <em>Weary Blues</em>, 0.6.03. <br><br>
+		</li>
+
+	</ol> 
+</ul>
+<h4>Recordings Referenced</h4>
+<ul>
+	<li>
+		Hughes, Langston Leonard Feather, and Charles Mingus. <em>Weary Blues</em>. MGM, 1959. CD.
+	</li>
+	<li>
+		Mingus, Charles. "Fables of Faubus." Columbia, 1959. CD. <em>Mingus Ah Um</em>.
+	</li>
+	<li>
+		---. "Original Faubus Fables." Vol. 4. Sony, 2000. CD. <em>Ken Burns Jazz: The Story of America’s Music</em>.
+	</li>
+	<li>
+		Parker, Charlie. "Ko-Ko." Vol. 1. Proper Box UK, 2002. CD. <em>Boss Bird: Studio Recordings, 1944-1951</em>.
+	</li>
+	<li>
+		Smith, Bessie. "Down Hearted Blues." Vol. 1. Sony, 1991. CD. <em>Bessie Smith: The Complete Recordings</em>.
+	</li>
+	<li>
+		Waters, Muddy. "Goodbye Newport Blues." Chess, 2001. CD. <em>At Newport 1960</em>.
+	</li>
+</ul>
+<h4>Texts Referenced</h4>
+<ul>
+	<li>Hughes, Langston. “Motto.” <em>The Poems: 1951-1967</em>. Ed. Arnold Rampersad. Vol. 3. Columbia: University of Missouri Press, 2001. 39. Print. <em>The Collected Works of Langston Hughes</em>.
+	</li>
+</ul>
 
 	
