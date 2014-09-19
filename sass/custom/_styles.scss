@@ -96,3 +96,16 @@ li {
 body{
 	max-width: 775px;
 }
+
+::-webkit-input-placeholder { /* For WebKit browsers */
+    line-height: 1.5em;
+}
+:-moz-placeholder { /* For Mozilla Firefox 4 to 18 */
+    line-height: 1.5em;
+}
+::-moz-placeholder { /* For Mozilla Firefox 19+ */
+    line-height: 1.5em;
+}
+:-ms-input-placeholder { /* For Internet Explorer 10+ */
+    line-height: 1.5em;
+}
