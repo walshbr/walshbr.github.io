@@ -4,7 +4,7 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="http://bmw9t.github.com/atom.xml" rel="self"/>
   <link href="http://bmw9t.github.com/"/>
-  <updated>2014-11-05T12:00:48-05:00</updated>
+  <updated>2015-01-05T10:52:21-05:00</updated>
   <id>http://bmw9t.github.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Deformance]]></title>
+    <link href="http://bmw9t.github.com/blog/2015/01/05/deformance/"/>
+    <updated>2015-01-05T10:18:00-05:00</updated>
+    <id>http://bmw9t.github.com/blog/2015/01/05/deformance</id>
+    <content type="html"><![CDATA[<p>My talk for the ACH’s panel at MLA 15 is entitled “The Devil in the Recording: Deformative Listening and Poetry.” I will be talking about the problems and affordances for deformance in the context of audio recordings, specifically those that have literary content. The particular method I will focus on is the reversal of audio recordings, taking my cue from the infamous claim that you can hear Satanic lyrics in Led Zeppelin’s “Stairway to Heaven” if you play the recording backwards. In the example below I will show how to reverse an audio file, and I will be working with Langston Hughes’s reading of “Motto” with Charles Mingus and Leonard Feather on his 1958 recording <em>Weary Blues</em>.</p>
+
+<p>Professional-grade sound-editing software like <em><a href="http://www.avid.com/us/products/family/pro-tools/">Pro Tools</a></em> or <em><a href="https://www.apple.com/logic-pro/">Logic</a></em> give you the capacity to do a lot in the way of sound mixing and work with music, but I often find myself drowning in their limitless options. They are also quite expensive. <em><a href="http://audacity.sourceforge.net/">Audacity</a></em> is my audio editing software of choice: the tool is open source and, most importantly, fairly intuitive and easy to use. Audacity is somewhat more limited than other options, but it does what it can cleanly and intuitively.</p>
+
+<p>To reverse an audio file, begin by opening that clip in <em>Audacity</em> in the same way that you would open a file in any other piece of software. You will get something that looks like this:</p>
+
+<p><img src="http://bmw9t.github.com/images/waveform.jpg" width="40%" class="right"></p>
+
+<p>What you see here is a <a href="http://manual.audacityteam.org/o/man/audacity_waveform.html">waveform</a>, a way of graphically representing the audio file in way that allows you to manipulate it. The y-axis of the waveform corresponds to volume – the taller the waveform, the louder the sound file’s contents are at that particular moment in time. This can be a quick and easy way to identify chunks of activity by looking for spikes in the volume.</p>
+
+<p><img src="http://bmw9t.github.com/images/axes.jpg"></p>
+
+<p>The x-axis represents time – the Hughes file I have sliced out is 46” long, and the program gives you a timeline along the top of the segment to situate you in the file. Clicking anywhere on the waveform will set the file playback to begin at that point, and you can click and drag to highlight a selection of the clip for processing.</p>
+
+<p>To process the file, highlight the section that you want reversed. In this case, since we are working with the entire file, we will just select everything. Under the “effect” menu, <em>Audacity</em> gives you a range of options for remixing your sound data, but we want the “reverse” function.</p>
+
+<p><img src="http://bmw9t.github.com/images/reverse.jpg" width="40%" class="right"></p>
+
+<p>Now you have a reversed file at your disposal. Sound tends to work in attack and decay, and much of the strangeness of a reversed recording comes from sounds increasing rather than fading in intensity over time. And, as I will discuss in my talk, the process throws into sharp relief the distinct character of recorded linguistic content.</p>
+
+<p><em>Audacity</em> saves files in <em>Audacity</em> project formats by default, so you will need to export your file to a different file format if you want to play it in a media player. I tend to use both .ogg and .mp3 files for browser compatibility. <em>Audacity</em> will also give you the opportunity to input light metadata for your file before it exports in case you want to curate your file for inclusion in an archive or home-library.</p>
+
+<p><img src="http://bmw9t.github.com/images/export.jpg" width="40%" class="right"></p>
+
+<p><em>Audacity</em> gives many other options for experimenting with sound remixing, distortion, and deformance that I would encourage you to explore. The software also gives you many options for working with sound files more generally. I have written <a href="http://bmw9t.github.io/blog/2013/11/13/audio-at-thatcampva/">elsewhere</a> about using Audacity to prepare sound files for research and presentation. Check out my other post if you want to learn more about how to slice out clips, mix together two sound files, or process DRM files.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[diss talk abstract]]></title>
@@ -430,15 +463,6 @@ Not committing merge; use 'git commit' to complete the merge.</code></p>
     <updated>2013-01-25T17:26:00-05:00</updated>
     <id>http://bmw9t.github.com/blog/2013/01/25/teaching</id>
     <content type="html"><![CDATA[<p>After some Git problems were sorted out and explained to me by the staff of the <a href="http://www.scholarslab.org/">Scholars&#8217; Lab</a>, I can make updates to the site again. I have added some content to the <a href="http://bmw9t.github.com/teaching/index.html">Teaching</a> page: the syllabus for my current writing course among other goodies. Enjoy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[We're Live!]]></title>
-    <link href="http://bmw9t.github.com/blog/2012/12/21/were-live/"/>
-    <updated>2012-12-21T02:58:00-05:00</updated>
-    <id>http://bmw9t.github.com/blog/2012/12/21/were-live</id>
-    <content type="html"><![CDATA[<p>The site is officially reborn and is now running on Octopress. In the coming days I will continue tinkering with the design and adding some content here and there, but the basic framework for the site is in place.</p>
 ]]></content>
   </entry>
   
