@@ -5,6 +5,9 @@ date: 2015-01-05 10:18
 comments: true
 categories: 
 ---
+
+[The following post is cross-listed on the [ACH](http://ach.org/)'s blog. The post details the methods used in putting together a talk for MLA 15 that takes place in 212 VCC West at 12:00 PM on Friday, January 9th.]
+
 My talk for the ACH’s panel at MLA 15 is entitled “The Devil in the Recording: Deformative Listening and Poetry.” I will be talking about the problems and affordances for deformance in the context of audio recordings, specifically those that have literary content. The particular method I will focus on is the reversal of audio recordings, taking my cue from the infamous claim that you can hear Satanic lyrics in Led Zeppelin’s “Stairway to Heaven” if you play the recording backwards. In the example below I will show how to reverse an audio file, and I will be working with Langston Hughes’s reading of “Motto” with Charles Mingus and Leonard Feather on his 1958 recording *Weary Blues*.
 
 Professional-grade sound-editing software like *[Pro Tools](http://www.avid.com/us/products/family/pro-tools/)* or *[Logic](https://www.apple.com/logic-pro/)* give you the capacity to do a lot in the way of sound mixing and work with music, but I often find myself drowning in their limitless options. They are also quite expensive. *[Audacity](http://audacity.sourceforge.net/)* is my audio editing software of choice: the tool is open source and, most importantly, fairly intuitive and easy to use. Audacity is somewhat more limited than other options, but it does what it can cleanly and intuitively.
