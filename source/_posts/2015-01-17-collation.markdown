@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Collation"
+title: "Collation and Writing Pedagogy"
 date: 2015-01-17 09:41
 comments: true
 categories: 
 ---
+
+[The following is the talk that I gave at the 2015 MLA Conference on a panel on "Pedagogy and Digital Editions." The Google Docs section is a slight reworking and recontextualization of a [previous post](http://bmw9t.github.io/blog/2013/09/25/writing-out-loud/) on the subject.]
+
 
 **Collation and Writing Pedagogy with Juxta Commons and Google Docs**
 
