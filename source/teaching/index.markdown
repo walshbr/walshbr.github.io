@@ -13,6 +13,7 @@ sidebar: teaching.html
 
 <h3>Co-Instructor</h3>
 <a href="#IHGC3559">IHGC 3559: "American Youth and Film"</a> (Spring 2014, with Elizabeth Fox)  
+<a href="#IHGC3550">IHGC 3550: "How to Survive an Apocalypse"</a> (Spring 2015)  
 
 <h3>Teaching Assistant</h3> 
 <a href="#ENGL3820">ENGL 3820: "History of Literature in English II"</a> (Spring 2014, Head TA)  
@@ -41,6 +42,17 @@ This seminar focuses on post-WWII American films made about or for teenagers and
 The films included, roughly, one from each decade since the 1950's: *The Wild One*, *West Side Story*, *Carrie*, and *The Breakfast Club*. The students selected the films for the '90s and '00s, and they chose *10 Things I Hate About You* and *21 Jump Street*.
 
 <a href="{{ root_url }}/teaching/IHGC3559Syllabus.pdf">Syllabus</a>
+
+<a href="#Top">Back to top</a>
+</section>
+----------
+
+<section>
+<h3><a name="IHGC3550"></a>IHGC 3550: "How to Survive an Apocalypse"</h3>
+  
+This course examines dystopian and post-apocalyptic scenarios from film, texts, and graphic narratives around the turn of the twenty-first century. Discussions of how alternative futures shape and elaborate concerns of the present will form the crux of our discussions, which will include such topics as zombie apocalypse and class anxiety, young adult dystopias and juvenile delinquency, nuclear war and superhero mythology, and technological terror and informational privacy. Tackling these topics across a variety of media will also allow us to assess the power of presentation to shape our understanding of controversial issues — and of our own future. Texts included two novels, two films, and two graphic novels: *The Handmaid's Tale*, *Ender's Game*, *28 Days Later*, *Battle Royale*, *Red Son*, and *Y: The Last Man*.
+
+<a href="{{ root_url }}/teaching/apocalypse.pdf">Syllabus</a>
 
 <a href="#Top">Back to top</a>
 </section>
