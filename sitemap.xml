@@ -18,7 +18,7 @@
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2013/07/10/search-bar/</loc>
-        <lastmod>2013-07-28T22:31:21-04:00</lastmod>
+        <lastmod>2013-07-28T22:31:20-04:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2013/07/23/praxis/</loc>
@@ -30,7 +30,7 @@
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2013/08/03/textmate/</loc>
-        <lastmod>2013-08-11T17:09:37-04:00</lastmod>
+        <lastmod>2013-08-11T17:09:36-04:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2013/08/11/bash-it-plugins-and-symlink-troubles/</loc>
@@ -42,19 +42,19 @@
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2013/09/25/writing-out-loud/</loc>
-        <lastmod>2013-09-25T11:00:07-04:00</lastmod>
+        <lastmod>2013-09-25T11:00:06-04:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2013/10/21/wizard/</loc>
-        <lastmod>2013-10-21T16:59:17-04:00</lastmod>
+        <lastmod>2013-10-21T16:59:16-04:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2013/11/02/twitter-1/</loc>
-        <lastmod>2014-03-13T20:48:01-04:00</lastmod>
+        <lastmod>2014-03-13T20:48:00-04:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2013/11/13/audio-at-thatcampva/</loc>
-        <lastmod>2013-11-13T10:30:17-05:00</lastmod>
+        <lastmod>2013-11-13T10:30:16-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2014/01/13/twitter-2/</loc>
@@ -74,15 +74,15 @@
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2014/09/16/prism-pedagogy/</loc>
-        <lastmod>2014-09-16T16:02:57-04:00</lastmod>
+        <lastmod>2014-09-16T16:02:56-04:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2014/11/05/diss-talk-abstract/</loc>
-        <lastmod>2014-11-05T12:00:43-05:00</lastmod>
+        <lastmod>2014-11-05T12:00:42-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2015/01/05/deformance/</loc>
-        <lastmod>2015-01-05T10:59:33-05:00</lastmod>
+        <lastmod>2015-01-05T10:59:32-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/2015/01/12/deformance-talk/</loc>
@@ -93,16 +93,22 @@
         <lastmod>2015-01-17T10:16:02-05:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://bmw9t.github.com/blog/2015/02/02/moving-people-linking-lives-dh-symposium/
+        </loc>
+        <lastmod>2015-02-02T14:39:46-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://bmw9t.github.com/about/</loc>
-        <lastmod>2013-07-28T22:03:07-04:00</lastmod>
+        <lastmod>2013-07-28T22:03:06-04:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/blog/archives/</loc>
-        <lastmod>2015-01-17T10:16:02-05:00</lastmod>
+        <lastmod>2015-02-02T14:39:46-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/cv/</loc>
-        <lastmod>2015-01-27T17:48:58-05:00</lastmod>
+        <lastmod>2015-02-02T14:39:46-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/diss/</loc>
@@ -110,7 +116,7 @@
     </url>
     <url>
         <loc>http://bmw9t.github.com/</loc>
-        <lastmod>2015-01-17T10:16:02-05:00</lastmod>
+        <lastmod>2015-02-02T14:39:46-05:00</lastmod>
     </url>
     <url>
         <loc>http://bmw9t.github.com/old-site/</loc>
@@ -130,6 +136,6 @@
     </url>
     <url>
         <loc>http://bmw9t.github.com/teaching/</loc>
-        <lastmod>2015-01-27T17:49:43-05:00</lastmod>
+        <lastmod>2015-01-27T17:49:42-05:00</lastmod>
     </url>
 </urlset>
