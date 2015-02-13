@@ -11,9 +11,7 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
-.themes/BlogTheme
-.themes/minimalist
-.themes/.themes/minimalist
+.themes/
 
 # Compiled source #
 ###################
