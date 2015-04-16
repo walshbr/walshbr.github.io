@@ -236,4 +236,26 @@ footer: true
 	</li>
 </ul>
 
-	
+<h4>Woolf Chapter</h4>
+
+<ul>
+	<ol>
+		<li>
+			<br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/glass.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/glass.ogg" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio><br>
+			Audio: Glass, "I'm Going to Make a Cake," 0.0.20.<br><br>
+		</li>
+		</li>
+	</ol>
+</ul>
+
+<h4>Recordings Referenced</h4>
+<ul>
+	<li>
+		Glass, Philip. "I'm Going to Make a Cake." <em>The Hours: Music from the Motion Picture</em>. Nonesuch, 2003. CD. 
+	</li>
+</ul>
