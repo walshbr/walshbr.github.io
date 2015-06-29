@@ -277,11 +277,6 @@ footer: true
 			Text: Eliot, <em>The Waste Land</em>, 31-4.<br>
 			Audio: Eliot, Part 1, 0.2.25.<br><br>
 		</li>
-	</ol>
-</ul>
-
-<ul>
-	<ol>
 		<li>
 				"Weialala leia
 				Wallala leialala"
@@ -294,11 +289,6 @@ footer: true
 			Text: Eliot, <em>The Waste Land</em>, 277-8, 290-1.<br>
 			Audio: Eliot, Part 3, 0.6.51.<br><br>
 		</li>
-	</ol>
-</ul>
-
-<ul>
-	<ol>
 		<li>
 				"Weialala leia
 				Wallala leialala"
