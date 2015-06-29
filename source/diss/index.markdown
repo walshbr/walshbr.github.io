@@ -271,7 +271,7 @@ footer: true
 			<br><br>
 			<audio controls>
 				<source src="{{ root_url }}/MP3s/eliot/1_german.mp3" type="audio/mpeg">
-				<source src="{{ root_url }}/ogg/eliot/1_german.mp3" type="audio/ogg">
+				<source src="{{ root_url }}/ogg/eliot/1_german.ogg" type="audio/ogg">
 				Your browser does not support this audio format.
 			</audio><br>
 			Text: Eliot, <em>The Waste Land</em>, 31-4.<br>
@@ -288,7 +288,7 @@ footer: true
 			<br><br>
 			<audio controls>
 				<source src="{{ root_url }}/MP3s/eliot/2_complete_repetition.mp3" type="audio/mpeg">
-				<source src="{{ root_url }}/ogg/eliot/2_complete_repetition.mp3" type="audio/ogg">
+				<source src="{{ root_url }}/ogg/eliot/2_complete_repetition.ogg" type="audio/ogg">
 				Your browser does not support this audio format.
 			</audio><br>
 			Text: Eliot, <em>The Waste Land</em>, 277-8, 290-1.<br>
@@ -305,7 +305,7 @@ footer: true
 			<br><br>
 			<audio controls>
 				<source src="{{ root_url }}/MP3s/eliot/3_isolated.mp3" type="audio/mpeg">
-				<source src="{{ root_url }}/ogg/eliot/3_isolated.mp3" type="audio/ogg">
+				<source src="{{ root_url }}/ogg/eliot/3_isolated.ogg" type="audio/ogg">
 				Your browser does not support this audio format.
 			</audio><br>
 			Text: Eliot, <em>The Waste Land</em>, 277-8, 290-1.<br>
