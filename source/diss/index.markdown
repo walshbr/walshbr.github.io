@@ -111,7 +111,7 @@ footer: true
 	<li>
 		Joyce, James. <em>Ulysses</em>. 1st Vintage Intl Ed June 1990. Vintage, 1990. Print.
 	</li>
-</ul
+</ul>
 
 <h4>Hughes Chapter</h4>
 <ul>
@@ -249,7 +249,6 @@ footer: true
 			</audio><br>
 			Audio: Glass, "I'm Going to Make a Cake," 0.0.20.<br><br>
 		</li>
-		</li>
 	</ol>
 </ul>
 
@@ -257,5 +256,74 @@ footer: true
 <ul>
 	<li>
 		Glass, Philip. "I'm Going to Make a Cake." <em>The Hours: Music from the Motion Picture</em>. Nonesuch, 2003. CD. 
+	</li>
+</ul>
+
+<h4>Eliot Chapter</h4>
+
+<ul>
+	<ol>
+		<li>
+			"<em>Frisch weht der Wind<br>
+			Der Heimat zu<br>
+			Mein Irisch Kind,<br> 
+			Wo weilest du?</em>" 
+			<br><br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/eliot/1_german.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/eliot/1_german.mp3" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio><br>
+			Text: Eliot, <em>The Waste Land</em>, 31-4.<br>
+			Audio: Eliot, Part 1, 0.2.25.<br><br>
+		</li>
+	</ol>
+</ul>
+
+<ul>
+	<ol>
+		<li>
+				"Weialala leia
+				Wallala leialala"
+			<br><br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/eliot/2_complete_repetition.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/eliot/2_complete_repetition.mp3" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio><br>
+			Text: Eliot, <em>The Waste Land</em>, 277-8, 290-1.<br>
+			Audio: Eliot, Part 3, 0.6.51.<br><br>
+		</li>
+	</ol>
+</ul>
+
+<ul>
+	<ol>
+		<li>
+				"Weialala leia
+				Wallala leialala"
+			<br><br>
+			<audio controls>
+				<source src="{{ root_url }}/MP3s/eliot/3_isolated.mp3" type="audio/mpeg">
+				<source src="{{ root_url }}/ogg/eliot/3_isolated.mp3" type="audio/ogg">
+				Your browser does not support this audio format.
+			</audio><br>
+			Text: Eliot, <em>The Waste Land</em>, 277-8, 290-1.<br>
+			Audio: Eliot, Part 3, 0.6.51 and 0.7.13.<br><br>
+		</li>
+	</ol>
+</ul>
+
+<h4>Recordings Referenced</h4>
+<ul>
+	<li>
+		Eliot, T.S. “The Waste Land.” Essential Eliot. HarperCollins Publishers, July 2006. CD. 
+	</li>
+</ul>
+
+<h4>Texts Referenced</h4>
+<ul>
+	<li>
+		Eliot, T.S. <em>The Waste Land: A Facsimile and Transcript of the Original Drafts Including the Annotations of Ezra Pound</em>. Ed. Valerie Eliot. San Diego: Harcourt Brace Co., 1971. Print.
 	</li>
 </ul>
