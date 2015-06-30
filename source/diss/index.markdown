@@ -9,7 +9,7 @@ footer: true
 <ul>
 	<ol>
 		<li>
-			"A husky fifenote blew.
+			"A husky fifenote blew.<br>
 			Blew. Blue Bloom is on the"	<br><br>
 			<audio controls>
 				<source src="{{ root_url }}/MP3s/blue_sirens.mp3" type="audio/mpeg">
@@ -278,7 +278,7 @@ footer: true
 			Audio: Eliot, Part 1, 0.2.25.<br><br>
 		</li>
 		<li>
-				"Weialala leia
+				"Weialala leia<br>
 				Wallala leialala"
 			<br><br>
 			<audio controls>
@@ -290,7 +290,7 @@ footer: true
 			Audio: Eliot, Part 3, 0.6.51.<br><br>
 		</li>
 		<li>
-				"Weialala leia
+				"Weialala leia<br>
 				Wallala leialala"
 			<br><br>
 			<audio controls>
