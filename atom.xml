@@ -4,7 +4,7 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="http://bmw9t.github.com/atom.xml" rel="self"/>
   <link href="http://bmw9t.github.com/"/>
-  <updated>2015-08-15T16:48:43-04:00</updated>
+  <updated>2015-09-10T11:26:41-04:00</updated>
   <id>http://bmw9t.github.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Woolf and the Quotation Mark]]></title>
+    <link href="http://bmw9t.github.com/blog/2015/09/10/woolf-and-the-quotation-mark/"/>
+    <updated>2015-09-10T11:21:00-04:00</updated>
+    <id>http://bmw9t.github.com/blog/2015/09/10/woolf-and-the-quotation-mark</id>
+    <content type="html"><![CDATA[<p><em>Cross-posted on the <a href="http://scholarslab.org/?p=12117/">Scholars&#8217; Lab blog</a></em></p>
+
+<p>For my fellowship in the Scholars&#8217; Lab this year I&#8217;ll be working with <a href="http://scholarslab.org/people/eric-rochester/">Eric</a> to expand a project we began last year on Virginia Woolf and natural language processing. My dissertation focuses on sound recordings and modernism, and this year I will focus on how Woolf&#8217;s quotation marks offer evidence of her engagement with sound as a textual device. In my reading, the quotation mark is the most obvious point at which sound meets text, the most heavily used sound recording technology in use by writers. Patterns in quotation mark usage across large corpora can tell us a lot about the role that sound plays in literature, but, as you might expect, there are <em>lots</em> of quotation marks - hundreds or thousands in any given text. Computational methods can help us make sense of the vast number and turn them into reasonable objects of study.</p>
+
+<p>You can find more information in <a href="http://scholarslab.org/digital-humanities/hearing-silent-woolf/">this post</a> about my thinking on quotation marks and some preliminary results from thinking about them in relation to Woolf. As I discuss there, finding quotation marks in a text is not especially challenging, but this year Eric and I will be focusing on a particular wrinkle in Woolf&#8217;s use of the marks, best conveyed in <em>The Hours</em>, Michael Cunningham&#8217;s late-century riff on Virginia Woolf. In <em>The Hours</em>, Cunningham offers a fictionalized version of Woolf meditating on her composition process:</p>
+
+<p>She passes a couple, a man and woman younger than herself, walking together, leisurely, bent towards each other in the soft lemon-colored glow of a streetlamp, talking (she hears the man, “told me <em>something something something</em> in this establishment, <em>something something</em>, harrumph, indeed”) (166).</p>
+
+<p>The repeated &#8221;<em>somethings</em>&#8221; of the passage suggest the character&#8217;s imperfect experience of the conversation as well as the limits of her senses. As the moment is conveyed through the character&#8217;s perspective, the conversation will always be incomplete. Recording technology was largely unreliable during the early days of the twentieth century, and, similarly, the sound record of this conversation as given by the text is already degraded before we hear it. Cunningham points to how the sounded voice is given character in the ears of the listener, and, in a print context, in the pen of the writer. A printed voice can speak in a variety of ways and in a variety of modes.</p>
+
+<p>Cunningham&#8217;s passage contains echoes of what will eventually be the famous first sentence of Woolf&#8217;s <em>Mrs. Dalloway</em>: &#8220;Mrs. Dalloway said she would buy the flowers herself.&#8221; The text implies that Mrs. Dalloway speaks, but it does not mark it as such: the same conversational tone in Cunningham remains here, but the narrator does not differentiate sound event from narrative by using quotation marks. We see moments of indirect speech like this all the time, when discourse becomes submerged in the texture of the narrative, but it doesn’t disappear entirely. Speech implies a lot: social relations, the thoughts of a speaking body, among others. Things get muddy when the line between narrative voice and speech becomes unclear. If quotation marks imply a different level of speech than unquoted speech, might they also imply changes in the social relations they represent?</p>
+
+<p><em>Mrs. Dalloway</em> is filled with moments like these, and this year I&#8217;ll be working to find ways to float them to the surface of the text. Examining these moments can tell us how conversation changes during the period, what people are talking about and for, how we conceive of the limits of print and sound, and about changing priorities in literary aesthetics. The goal this year is to train the computer to identify moments like this, moments that a human reader would be able to parse as spoken but that are not marked as such. Our first pass will be to work with the quoted material, which we can easily identify to build a series of trigger words that Woolf uses to flag speech as sound (said, asked, called, etc.). With this lexicon, we can then look for instances in her corpus where they pop up without punctuation. Teaching the computer to classify these passages correctly will be a big task, and this process alone will offer me lots of new material to work with as I untangle the relationship between modernist print and sound. In upcoming posts I&#8217;ll talk more about the process of learning natural language processing and about some preliminary results and problems. Stay tuned!</p>
+
+<p>Works Cited:</p>
+
+<p>Cunningham, Michael. <em>The Hours</em>. New York: Picador USA : Distributed by Holtzbrinck Publishers, 2002. Print.</p>
+
+<p>Woolf, Virginia. <em>Mrs. Dalloway</em>. 1st Harvest/HBJ ed. San Diego: Harcourt Brace Jovanovich, 1990. Print.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hearing Silent Woolf]]></title>
@@ -582,39 +609,6 @@ Not committing merge; use 'git commit' to complete the merge.</code></p>
 <p><img src="http://bmw9t.github.com/images/Self_Control_2.jpg" class="right"></p>
 
 <p>At its best, SelfControl allows me to temper the impulse to spend a lot of time hovering around my inbox; I tend to use SelfControl in hour long chunks to allow sessions of distraction-free work in between e-mail checks. How do you stay productive during long hours on the computer?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Praxis Posts]]></title>
-    <link href="http://bmw9t.github.com/blog/2013/07/23/praxis/"/>
-    <updated>2013-07-23T21:19:00-04:00</updated>
-    <id>http://bmw9t.github.com/blog/2013/07/23/praxis</id>
-    <content type="html"><![CDATA[<p>All last year I was a <a href="http://praxis.scholarslab.org/">Praxis Fellow</a> in the <a href="http://www.scholarslab.org/">Scholars&#8217; Lab</a>, where they gave us a &#8220;soup to nuts&#8221; crash course in all things digital humanities. As a part of the program, the fellows were asked to reflect periodically on their experiences on the Scholars&#8217; Lab blog.</p>
-
-<p>I did not do a good job of continually cross-posting those blog posts to this site, so I wanted to make sure that they were properly linked here. I posted with the program on a variety of topics from my work as a developer, to reflections on collaborative programming, to our own plan for the year. Many of the posts relate to <a href="http://www.prism.scholarslab.org">Prism</a>, the tool we built over the course of the year. The Scholars&#8217; Lab has <a href="http://www.scholarslab.org/people/brandon-walsh/">a list of all my posts to date</a>. Below I included the posts with a short gloss.</p>
-
-<ol>
-<ul>
-<li><a href="http://www.scholarslab.org/grad-student-research/hello-world/">Hello World</a>: I reflect on how our team would interact with the previous year&#8217;s Praxis team.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/failure/">Failure</a>: On the importance of failing in public and my first stab at creating a personal website.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/marking-and-explanation-in-prism-2/">Marking and Explanation in Prism</a>: Thoughts on the marking interface in Prism and its implications for the interpretive process.</li>
-<li><a href="http://www.scholarslab.org/grad-student-research/the-direction-of-prism/">The Direction of Prism</a>: Attempts to reflect broadly on how particular types of changes to the project might affect its direction.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/prism-proposal-against-anonymity/">Prism Proposal: Against Anonymity</a>: An argument for the redesign of Prism to track individual users in relation to the total dataset.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/poster-abstract-and-code-camp/">Poster Abstract and Code Camp</a>: Discusses our DH2013 poster abstract and first reflections on learning code.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/your-digital-life-in-140-characters/">Your Digital Life in 140 Characters</a>: I discuss my first foray into Twitter.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/fizzing-buzzing/">Fizzing, Buzzing</a>: Links my solution to the Fizz Buzz programming homework.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/grading-in-ruby/">Grading in Ruby</a>: I develop a very basic program that will compute your end of semester grading for you.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/ruby-grading-2-0/">Ruby Grading 2.0</a>: I attempt to redesign the same grading program to have cleaner, more elegant code.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/looking-forward/">Looking Forward</a>: Possible directions for the project.  </li>
-<li><a href="http://www.scholarslab.org/grad-student-research/on-learning-code/">On Learning Code</a>: Discusses the online tools that I found most helpful for learning coding.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/omniauth/">Omniauth</a>: On implementing Omniauth for Prism.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/out-on-a-small-limb/">Out on a (Small) Limb</a>: Discusses the importance of small feature branches when working collaboratively.</li>  
-<li><a href="http://www.scholarslab.org/grad-student-research/on-tasks-large-and-small/">On Tasks Large and Small</a>: On realistic expectations and identifying problems.</li>  
-<li><a href="http://www.scholarslab.org/experimental-humanities/arduino-rainbow-hack/">Arduino Rainbow Hack</a>: Reflects on an Arduino hackday held in the Scholars&#8217; Lab.</li>
-</ul>
-</ol>
-
 ]]></content>
   </entry>
   
