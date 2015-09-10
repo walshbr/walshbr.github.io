@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Woolf and the Quotation Mark"
+title: "Virginia Woolf, Natural Language Processing, and the Quotation Mark"
 date: 2015-09-10 11:21
 comments: true
 categories: 
