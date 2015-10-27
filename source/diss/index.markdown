@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Diss Sound Clips"
+title: "Dissertation Sound Clips"
 comments: true
 sharing: true
 footer: true
 ---
-<h4>Joyce Chapter</h4>
+<section>
+<h4>The Joycean Record: Listening Patterns and Sound Coteries</h4>
 <ul>
 	<ol>
 		<li>
@@ -112,8 +113,10 @@ footer: true
 		Joyce, James. <em>Ulysses</em>. 1st Vintage Intl Ed June 1990. Vintage, 1990. Print.
 	</li>
 </ul>
-
-<h4>Hughes Chapter</h4>
+</section>
+----------
+<section>
+<h4>Hughes's Audiences: Blues, Jazz, and the Performed Poem</h4>
 <ul>
 	<ol>
 		<li>
@@ -235,8 +238,10 @@ footer: true
 	<li>Hughes, Langston. “Motto.” <em>The Poems: 1951-1967</em>. Ed. Arnold Rampersad. Vol. 3. Columbia: University of Missouri Press, 2001. 39. Print. <em>The Collected Works of Langston Hughes</em>.
 	</li>
 </ul>
-
-<h4>Woolf Chapter</h4>
+</section>
+----------
+<section>
+<h4>Woolf and the Broken Groove: The Textual Record and Technologies of Sound Reproduction</h4>
 
 <ul>
 	<ol>
@@ -258,3 +263,4 @@ footer: true
 		Glass, Philip. "I'm Going to Make a Cake." <em>The Hours: Music from the Motion Picture</em>. Nonesuch, 2003. CD. 
 	</li>
 </ul>
+</section>
