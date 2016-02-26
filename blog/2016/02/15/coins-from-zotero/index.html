@@ -116,23 +116,26 @@
 
 <p>Mackenzie suggested that we take things a bit further by including <a href="https://en.wikipedia.org/wiki/COinS">COiNS</a> metadata in the bibliography so that someone coming to our bibliography could export our information into the citation manager of their choosing. Zotero&#8217;s API can also do this, and I used a piece of the <a href="https://github.com/urschrei/pyzotero">pyzotero</a> Python library to do so. The first step was to add this piece to the zot_bib_web code:</p>
 
-<pre><code>zot = zotero.Zotero(library_id, library_type, api_key)
-coins = zot.collection_items(collection_id, content='coins')
-coin_strings = [str(coin) for coin in coins]
-for coin in coin_strings:
-    fullhtml += coin
+<p>  zot = zotero.Zotero(library_id, library_type, api_key)
+  coins = zot.collection_items(collection_id, content=&#8217;coins&#8217;)
+  coin_strings = [str(coin) for coin in coins]
+  for coin in coin_strings:</p>
+
+<pre><code>fullhtml += coin
 </code></pre>
 
 <p>Now, before the program outputs html for the bibliography, it goes out to the Zotero API and gets COinS metadata for all the citations, converts them into a format that will work for the embedding, and then attaches each returned span to the HTML for the bibliography.</p>
 
 <p>Now that I had the data that I needed, I wanted to make it work a bit more cleanly in our workflow. Initially, the program returned each bibliographic entry in its own page and meant for the whole bibliography to also be a stand-alone page on the website. I got rid of all that and, instead, wanted to embed them within the website as I already had it. I have the python program exporting the bibliography and COinS data into a small HTML file that I then attach to a div with an id of &#8220;includedContent&#8221;. inserted in the bibliography page. I use some jQuery to do so:</p>
 
-<pre><code>&lt;script type="text/javascript"&gt;
-    $(function(){
-        $("#includedContent").load("/zotero-bib.html");
-    });
-&lt;/script&gt;
+<p>  <script type="text/javascript"></p>
+
+<pre><code>$(function(){
+  $("#includedContent").load("/zotero-bib.html");
+});
 </code></pre>
+
+<p>  </script></p>
 
 <p>Instead of distributing content across several different pages, I mark a placeholder area on the main site where all the bibliographic data and metadata will be dumped. All of the relevant data gets saved in a file &#8216;zot-bib.html&#8217; that gets automatically included inside the shell of the bibliography.html page. From there, I just modified the style so that it would fit into the aesthetic of the site.</p>
 
@@ -186,7 +189,7 @@ for coin in coin_strings:
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2015/09/20/music-genre-and-spotify-metadata/" title="Previous Post: Music Genre and Spotify Metadata">&laquo; Music Genre and Spotify Metadata</a>
+        <a class="basic-alignment left" href="/blog/2015/12/04/dh-mentoring/" title="Previous Post: Reflections on a Year of DH Mentoring">&laquo; Reflections on a Year of DH Mentoring</a>
       
       
     </p>
