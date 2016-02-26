@@ -4,7 +4,8 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="http://bmw9t.github.com/atom.xml" rel="self"/>
   <link href="http://bmw9t.github.com/"/>
-  <updated>2015-12-04T09:29:33-05:00</updated>
+
+  <updated>2016-02-15T09:53:28-05:00</updated>
   <id>http://bmw9t.github.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -53,6 +54,53 @@
 <p>When we met, Eric and I did a lot of different things. First, we would talk through my questions from the previous week. If I felt a particular section of code was clunky or poorly done, he would talk and walk me through rewriting the same piece in a more elegant form. We would often pair program, where Eric would write code while I watched, carefully stopping him each time I had a question about something he was doing. And we often took time to reflect on where the collaboration was going - what my end goal was as well as what my tasks before the next meeting would be. Any project has many pieces that could be dealt with at any time, and Eric was careful to give me solo tasks that he felt I could handle on my own, reserving more difficult tasks for times in which we would be able to work together. All of this is to say that any single hour we spent together was very different from the last. We constantly reinvented what the meetings looked like, which kept them fresh and pedagogically effective.</p>
 
 <p>This is my best attempt to recreate my experience of working in such a close mentoring relationship with Eric. Obviously, the collaboration relies on an extremely low student-to-teacher ratio: I can imagine this same approach working very well for a handful of students, but this work required a lot of individual attention that would be hard to sustain for larger classes. One idea for scaling the process up might be to divide a course into groups, being training one, and then have students later in the process begin to mentor those who are just beginning. Doing so would preserve what I see as the main advantage of this approach: it helps to collapse the hierarchy between student and teacher and engage both in a common project. Learning takes place, but it does so in the context of common effort. I&#8217;d have to think more about how this mentorship model could be adapted to fit different scenarios. The work with Eric is ongoing, but it&#8217;s already been one of the most valuable learning experiences I have had.</p>
+    <title type="html"><![CDATA[Embedding COinS Metadata on a Page Using the Zotero API]]></title>
+    <link href="http://bmw9t.github.com/blog/2016/02/15/coins-from-zotero/"/>
+    <updated>2016-02-15T09:33:00-05:00</updated>
+    <id>http://bmw9t.github.com/blog/2016/02/15/coins-from-zotero</id>
+    <content type="html"><![CDATA[<p><em>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2016/02/15/embedding-coins-data-on-a-page-using-the-zotero-api/">Washington and Lee University Digital Humanities Blog</a>]</em></p>
+
+<p>This year I am working with Mackenzie, Steve McCormick, and his students on the <a href="http://www.huondauvergne.org/">Huon d&#8217;Auvergne</a> project, a digital edition of a Franco-Italian romance epic. Last term we finished TEI-encoding of two of the manuscripts and put them online, and there is still much left to do. Making the digital editions of each manuscript online is a valuable scholarly endeavor in its own right, but we&#8217;ve also been spending a lot of time considering other ways in which we can enrich this scholarly production using the digital environment.</p>
+
+<p>All of which brings me to the <a href="http://www.huondauvergne.org/bibliography.html">bibliography</a> for our site. At first, our bibliography page was just a transcription of a text file that Steve would send along with regular updates. This collection of materials is great to have in its own right, but a better solution would be to leverage the many digital humanities approaches to citation management to produce something a bit more dynamic.</p>
+
+<p>Steve already had everything in a Zotero, so my first step was to integrate the site&#8217;s bibliography with the Zotero collection that Steve was using to populate the list. I found a <a href="https://github.com/davidswelt/zot_bib_web">python 2 library called zot_bib_web</a> that could do all this quite nicely with a bit of modification. Now, by running the script from my computer, the site&#8217;s bibliography will automatically pull in an updated Zotero collection for the project. Not only is it now easier to update our site (no more copying and pasting from a word document), but now others can contribute new resources to the same bibliography on Zotero by requesting to join the group and uploading citations. The project&#8217;s bibliography can continue to grow beyond us, and we will capture these additions as well.</p>
+
+<p>Mackenzie suggested that we take things a bit further by including <a href="https://en.wikipedia.org/wiki/COinS">COiNS</a> metadata in the bibliography so that someone coming to our bibliography could export our information into the citation manager of their choosing. Zotero&#8217;s API can also do this, and I used a piece of the <a href="https://github.com/urschrei/pyzotero">pyzotero</a> Python library to do so. The first step was to add this piece to the zot_bib_web code:</p>
+
+<pre><code>zot = zotero.Zotero(library_id, library_type, api_key)
+coins = zot.collection_items(collection_id, content='coins')
+coin_strings = [str(coin) for coin in coins]
+for coin in coin_strings:
+    fullhtml += coin
+</code></pre>
+
+<p>Now, before the program outputs html for the bibliography, it goes out to the Zotero API and gets COinS metadata for all the citations, converts them into a format that will work for the embedding, and then attaches each returned span to the HTML for the bibliography.</p>
+
+<p>Now that I had the data that I needed, I wanted to make it work a bit more cleanly in our workflow. Initially, the program returned each bibliographic entry in its own page and meant for the whole bibliography to also be a stand-alone page on the website. I got rid of all that and, instead, wanted to embed them within the website as I already had it. I have the python program exporting the bibliography and COinS data into a small HTML file that I then attach to a div with an id of &#8220;includedContent&#8221;. inserted in the bibliography page. I use some jQuery to do so:</p>
+
+<pre><code>&lt;script type="text/javascript"&gt;
+    $(function(){
+        $("#includedContent").load("/zotero-bib.html");
+    });
+&lt;/script&gt;
+</code></pre>
+
+<p>Instead of distributing content across several different pages, I mark a placeholder area on the main site where all the bibliographic data and metadata will be dumped. All of the relevant data gets saved in a file &#8216;zot-bib.html&#8217; that gets automatically included inside the shell of the bibliography.html page. From there, I just modified the style so that it would fit into the aesthetic of the site.</p>
+
+<p>Now anyone going to our bibliography page with a Zotero extension will see this in the right of the address bar:</p>
+
+<p><img src="http://bmw9t.github.com/images/zotero-extension.jpg"></p>
+
+<p>Clicking on the folder icon will bring up the Zotero interface for downloading any of the items in our collection.</p>
+
+<p><img src="http://bmw9t.github.com/images/zotero-download.jpg"></p>
+
+<p>And to update this information we only need to run a single python script from the terminal to re-generate everything.</p>
+
+<p>The code is not live on the Huon site just yet, but you can download and manipulate these pieces from an example file I uploaded to the <a href="https://github.com/wludh/huondauvergne/blob/zotero/zot_bib_web/zot_example.py">Huon GitHub repository</a>. You&#8217;ll probably want to start by installing zot_bib_web first to familiarize yourself with the configuration, and you&#8217;ll have a few settings to update before it will work for you: the library id, library type, api key, and collection ID will all need to be updated for your particular case, and the jQuery excerpt above will need to point to wherever you output the bibliography file.</p>
+
+<p>These steps have strengthened the way in which we handle bibliographic metadata so that it can be more useful for everyone, and we were really only able to do it because of the many great open source libraries that allow others to build on them. It&#8217;s a great thing - not having to reinvent the wheel.</p>
 ]]></content>
   </entry>
   
