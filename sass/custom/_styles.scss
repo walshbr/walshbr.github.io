@@ -109,3 +109,13 @@ body{
 :-ms-input-placeholder { /* For Internet Explorer 10+ */
     line-height: 1.5em;
 }
+
+nav{
+	border-top: 1px solid #e0e0e0 !important;
+	border-bottom: 1px solid #e0e0e0 !important;
+}
+
+input#searchform.search{
+	font-size: 1.1em !important;
+	line-height: 1.5em !important;
+}
