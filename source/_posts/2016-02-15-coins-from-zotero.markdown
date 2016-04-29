@@ -26,11 +26,10 @@ Now, before the program outputs html for the bibliography, it goes out to the Zo
 
 Now that I had the data that I needed, I wanted to make it work a bit more cleanly in our workflow. Initially, the program returned each bibliographic entry in its own page and meant for the whole bibliography to also be a stand-alone page on the website. I got rid of all that and, instead, wanted to embed them within the website as I already had it. I have the python program exporting the bibliography and COinS data into a small HTML file that I then attach to a div with an id of "includedContent". inserted in the bibliography page. I use some jQuery to do so:
 
-  <script type="text/javascript">
     $(function(){
       $("#includedContent").load("/zotero-bib.html");
     });
-  </script>
+
 
 Instead of distributing content across several different pages, I mark a placeholder area on the main site where all the bibliographic data and metadata will be dumped. All of the relevant data gets saved in a file 'zot-bib.html' that gets automatically included inside the shell of the bibliography.html page. From there, I just modified the style so that it would fit into the aesthetic of the site.
 
