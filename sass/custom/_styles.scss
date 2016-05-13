@@ -119,3 +119,42 @@ input#searchform.search{
 	font-size: 1.1em !important;
 	line-height: 1.5em !important;
 }
+
+@media only screen and (min-width: 635px) and (max-width: 991px){
+
+	nav form{
+		width: 155px !important;
+	}
+}
+
+@media only screen and (min-width: 992px){
+
+	nav form{
+		width: 155px !important;
+	}
+}
+
+@media only screen and (min-width: 635px) and (max-width: 671px){
+	nav form{
+		width: 118px !important;
+	}
+}
+
+img.mid {
+	width:50%;
+}
+
+img.small {
+	width: 25%;
+}
+
+img.right{
+	float:right;
+}
+
+img.left{
+	float:left;
+}
+
+div.clear{
+}
