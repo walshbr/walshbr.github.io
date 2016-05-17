@@ -20,11 +20,14 @@ Posts:
 
 <ul>
     <li>
-        <a href="http://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/">"Virginia Woolf, Natural Language Processing, and the Quotation Mark"</a>
+        <a href="https://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/">"Virginia Woolf, Natural Language Processing, and the Quotation Mark"</a>
     </li>
     <li>
-        <a href="http://bmw9t.github.io/blog/2015/03/23/woolf-huskey/">"Hearing Silent Woolf"</a>
+        <a href="https://bmw9t.github.io/blog/2015/03/23/woolf-huskey/">"Hearing Silent Woolf"</a>
     </li>
+    <li>
+        <a href="https://bmw9t.github.io/blog/2016/05/17/reading-speech/">Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark</a>
+    </li> 
 </ul>
 
 </section>
