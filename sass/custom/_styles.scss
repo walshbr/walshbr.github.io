@@ -125,6 +125,9 @@ input#searchform.search{
 	nav form{
 		width: 155px !important;
 	}
+	.subscription{
+	display:none;
+	}
 }
 
 @media only screen and (min-width: 992px){
@@ -137,6 +140,9 @@ input#searchform.search{
 @media only screen and (min-width: 635px) and (max-width: 671px){
 	nav form{
 		width: 118px !important;
+	}
+	.subscription{
+	display:none;
 	}
 }
 
@@ -157,4 +163,8 @@ img.left{
 }
 
 div.clear{
+}
+
+body{
+	max-width: 835px;
 }
