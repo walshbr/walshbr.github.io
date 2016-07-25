@@ -55,7 +55,7 @@ Posts:
 <h2>Humanities Programming</h2>
 <img class="mid right" src="{{ root_url }}/images/humanities_programming.png"><div class="clear"/>
 
-Each summer I run a course on "Humanities Programming" at <a href="https://dhtraining.org/">Humanities Intensive Learning and Training (HILT)</a>. Piloted by Wayne Graham and Jeremy Boggs, I took over and now lead the course with Ethan Reed. The course is meant to be an intensive introduction to programming for non-programmers that takes students through command line, git, HTML5/CSS, Ruby, and Rails. By the end, students will have tinkered on and deployed their own Ruby on Rails application. Materials can be found on our <a href="http://waynegraham.github.io/intro-to-dh-programming/">course site.</a> 
+Each summer I run a course on "Humanities Programming" at <a href="https://dhtraining.org/">Humanities Intensive Learning and Training (HILT)</a>. Piloted by Wayne Graham and Jeremy Boggs, I took over and now lead the course with Ethan Reed. The course is meant to be an intensive introduction to programming for non-programmers that takes students through command line, git, HTML5/CSS, Ruby, and Rails. By the end, students will have tinkered on and deployed their own Ruby on Rails application. Materials can be found on our <a href="humanitiesprogramming.github.io">course site.</a> 
 
 </section>
 <section>
