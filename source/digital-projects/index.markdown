@@ -67,5 +67,5 @@ From 2013 to 2015 I acted as Project Manager of the <a href="https://www.nines.o
 <section>
 <h2>Grounds for Argument</h2>
 <img class="mid right" src="{{ root_url }}/images/grounds_for_argument.png"><div class="clear"/>
-<a href="https://www.groundsforargument.org">Grounds for Argument</a> is an online Drupal resource for teaching writing and editing along the lines of the Little Red Schoolhouse approach as it was pioneered at the University of Chicago. I worked on the project for two consecutive summers, first contributing content to the many lessons and second as a backend developer facilitating transitions in our hosting platforms and carrying out various technical requests from the team.
+<a href="http://www.groundsforargument.org/drupal/welcome">Grounds for Argument</a> is an online Drupal resource for teaching writing and editing along the lines of the Little Red Schoolhouse approach as it was pioneered at the University of Chicago. I worked on the project for two consecutive summers, first contributing content to the many lessons and second as a backend developer facilitating transitions in our hosting platforms and carrying out various technical requests from the team.
 </section>
