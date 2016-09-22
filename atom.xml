@@ -4,7 +4,7 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="http://bmw9t.github.com/atom.xml" rel="self"/>
   <link href="http://bmw9t.github.com/"/>
-  <updated>2016-07-25T08:10:10-04:00</updated>
+  <updated>2016-09-22T15:19:50-04:00</updated>
   <id>http://bmw9t.github.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Text Analysis Workshop: Four Ways to Read a Text]]></title>
+    <link href="http://bmw9t.github.com/blog/2016/09/21/ways-to-read/"/>
+    <updated>2016-09-21T11:51:00-04:00</updated>
+    <id>http://bmw9t.github.com/blog/2016/09/21/ways-to-read</id>
+    <content type="html"><![CDATA[<p>On Monday I visited <a href="http://library.wlu.edu/about/library-directory/mackenzie-brooks">Mackenzie Brooks</a>&#8217;s course on &#8220;Data in the Humanities&#8221; to introduce digital text analysis to her students. I faced a few challenges when planning for the visit:</p>
+
+<ul>
+<li><strong>Scope</strong> - I had two hours for the workshop and a lot of material to cover. I was meant to introduce anything and everything, as much as I wanted in a general overview of text analysis.</li>
+<li><strong>Background</strong> - This course is an introductory digital humanities course that counts as a science credit at W&amp;L, so I assumed no prior knowledge of programming. Mackenzie will be covering some things with them later in the course, but at this stage I needed to avoid anything really technical.</li>
+<li><strong>Length</strong> - Two hours was both a lot of time and no time at all. It was certainly not enough time to teach anyone to program for the first time. As an aside, I often find it hard to gauge how much material is appropriate for anything longer than 75 minutes.</li>
+<li><strong>Content</strong> - Since this was meant to be a general overview of the field, I did not want to lean too heavily on analysis by tools. I worried that if I did so the takeaway for the students would be how to use the tools, not the underlying concepts that the tools aided them in exploring.</li>
+</ul>
+
+
+<p>I wound up developing a workshop I called &#8220;Introduction to Text Analysis: Four Ways to Read a Text.&#8221; Focusing on four ways meant that I felt comfortable cutting a section if things started to go long. It also meant that I was developing a workshop model that could easily fit varying lengths in the future. For example, I&#8217;ll be using portions of this workshop throughout my introduction to text analysis lectures in my own course this fall. The approach would necessarily be pretty distant - I couldn&#8217;t go into much detail for any one approach in this time. Finally, I wanted the students to think about text analysis concepts first and then come to tools that would help them to do so, so I tried to displace the tools and projects from the conversation slightly. The hope was that, by enacting the methods by hand first, the concepts would stick more easily than they might otherwise.</p>
+
+<p>The basic structure of the workshop was this:</p>
+
+<ol>
+<li>I introduce a basic methodology for reading.</li>
+<li>Students are presented with a handout asking them to read in a particular way with a prompt from me. They complete the exercise.</li>
+<li>We talk about the process. We clarify the concept a little more together, and the students infer some of the basic difficulties and affordances of the approach.</li>
+<li>Then I show a couple tools and projects that use that method for real results.</li>
+</ol>
+
+
+<p>The four ways of reading I covered were close reading, bags of words, topic modeling, and sentiment analysis. So, to use the topic modeling portion as an example, any one of those units looked something like this:</p>
+
+<ol>
+<li>I note how, until now, we have been discussing how counting words gives us a sense of the overall topic or scope of the text. Over time and in close proximity, individual words combine to give us a sense of what a text is about.</li>
+<li>I give the students three paragraphs with the words scrambled and out of order (done pretty quickly in Python). I ask the students to get in groups and tell me what the underlying topics or themes are for each excerpt. They had to produce three single-word topics for each paragraph, and paragraphs could share topics.</li>
+<li>We talk about how they are able to think of texts as made up of a series of topics like these. These topics are words that occur in noticeable patterns near one another. We have human limits as to how much we can comprehend, but computers can help us run similar, mathematical versions of the same process to find out what words occur near each other in statistically significant patterns. The results can be thought of as the underlying topics or discourses that make up a series of documents. A lot of hand waving, I know, but I am assuming here that students will examine topic modeling in more detail at a later date. Better, I think, to introduce the broad strokes than lose students in the details.</li>
+<li>I then share <a href="http://dsl.richmond.edu/dispatch/pages/intro">Mining the Dispath</a> as an example of topic modeling in action to show the students the kinds of research questions that can be explored using this method.</li>
+</ol>
+
+
+<p>So, in essence, what I tried to do is create an analog approach to teaching text analysis concepts that is flexible enough to fit a variety of needs and contexts. My handouts and slides are all up on <a href="https://github.com/bmw9t/waystoread">a github repository</a>. Feel free to share, reuse, and remix them in any way you would like.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark]]></title>
@@ -681,36 +722,6 @@ Twitter forces students to think small. The character limit on responses helps t
 <p>In all, teaching with Twitter requires a relatively small amount of effort to implement, as the barrier to entry for students is quite low. But a little planning about your setup ahead of time goes a long way. For more helpful tips on the logistics of using Twitter in the classroom, check out Mark Sample’s ProfHacker post on &#8221;<a href="http://chronicle.com/blogs/profhacker/practical-advice-for-teaching-with-twitter/26416">Practical Advice for Teaching with Twitter</a>.&#8221;</p>
 
 <p><em>Stay tuned for part two in my series on Teaching with Twitter, where I further discuss pedagogical benefits and justifications for class Twitter accounts.</em> </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Tri-Wizard Paper Outline Challenge]]></title>
-    <link href="http://bmw9t.github.com/blog/2013/10/21/wizard/"/>
-    <updated>2013-10-21T10:19:00-04:00</updated>
-    <id>http://bmw9t.github.com/blog/2013/10/21/wizard</id>
-    <content type="html"><![CDATA[<p>This teaching exercise grew directly out of a comment made by <a href="https://sites.google.com/site/wilkinsteachingportfolio/">Kirk Wilkins</a> in a recent <a href="http://fycchat.blogspot.com/">#FYCchat</a> on how he uses Harry Potter to facilitate group work. I instantly fell in love with the idea, but the semester was a bit too far along to integrate a whole Harry Potter house system into the course. Instead, I developed a one-off group activity in the same spirit: The Tri-Wizard Paper Outline Challenge. Group work with a twist - I sorted the students into the houses from Harry Potter, as they competed for our own <a href="http://harrypotter.wikia.com/wiki/Triwizard_Cup">Tri-Wizard Cup</a>, a literary mug filled with candy. &#8220;Let the magic of literature sweep you away to far-off lands!&#8221;</p>
-
-<p><img src="http://bmw9t.github.com/images/mug.jpg" width="40%" class="right"></p>
-
-<p>Enough Harry Potter. On to the activity, which works perfectly fine without the magical theme.</p>
-
-<p>When teaching a discussion section of a large literature survey that only meets once a week, talking about writing presents a constant challenge. Students are evaluated on their ability to execute writing assignments, but there is little class time in which to develop these skills <em>and</em> adequately address the literature. I have been working hard this semester to tie literary analysis consistently back to writing practices, and the Tri-Wizard Paper Outline Challenge attempts to do so by asking students to move from analysis to paper structuring in a very short timeframe. The exercise asks students to work in groups towards a possible paper outline in the course of a single class.</p>
-
-<p>Time Breakdown:<br/>
-5-10 minutes to explain the activity and read the passages aloud.<br/>
-30 minutes to work in groups<br/>
-10 minutes to share, declare a winner, and discuss.</p>
-
-<p>Split the class into four equal groups, each of which has the same small set of passages and the same paper prompt. In the time allowed, each group must develop a paper outline: a thesis statement and three supporting points that will draw upon close readings of the passages. At the end of 30 minutes, students nominate one student from their group to read their thesis and describe the structure of their group&#8217;s proposed paper outline. The instructor then gives very quick feedback on each group&#8217;s work and selects a &#8220;winner&#8221; - the outline most likely to lead a successfully executive argument.</p>
-
-<p>The exercise works best if things are kept as constrained as possible: common passages and a common paper prompt. The activity encourages aggressive time management, and too many options will likely detract from the students&#8217; ability to complete the exercise. I am currently teaching a course on <a href="http://bmw9t.github.com/teaching/#ENRN3210">Shakespeare&#8217;s Histories and Comedies</a>, so my passages all drew from a very small portion of Act I Scene I of <em>Merchant of Venice</em><img src="http://bmw9t.github.com/images/MOV.jpg" width="60%" class="left">. For a prompt I asked that students develop a paper broadly related to friendship, sexuality, marriage, or desire in some way. I chose passages that offer up opportunities for analysis and clear readings: the selections I chose had a strong homoerotic subtext, and several of the student groups picked up on this.</p>
-
-<p>The whole activity is quite frantic in 50 minutes, but it can still work well, so long as you help the students keep a close watch on the time. Ideally, it would be a 75-minute activity, allowing more time for reflection at the end and discussion. I chose to err on the side of not giving enough for follow up discussion of the event: I generally give a short email follow up to each class meeting, so I used this e-space to share more thoughts on why we did the activity and what to take away from it. I would recommend doing the same, even if this is not your usual practice.</p>
-
-<p>The exercise works especially well when conducted after students have already received feedback on written work and in dialogue with those paper comments. Written feedback from the instructor is essential to a student&#8217;s growth, but the ultimate aim is for students to internalize the critical attention so that they can revise their writing on their own. To facilitate this while framing the activity, speak in terms they recognize from your feedback on their papers when discussing how you will judge the final products. I required the theses to be written out because we had stressed the importance of a well-articulated thesis statement with specific language in earlier discussions. I encouraged students to consider alternative paper structures, to consider whether their work was an observation or an argument, and to ask whether their argument was fundamentally interesting or based on plot summary. Many of the group discussions took on aspects of these questions as they shaped their papers.</p>
-
-<p>Teaching detachment from one&#8217;s own writing can be very difficult. Some things just need to be cut, but we often feel personally invested in the words we put on the page. The Tri-Wizard Paper Outline Challenge also allows students to shape a paper outline in which they have little investment. The activity has no grade repercussions beyond participation, allowing students to shape ideas in a collaborative space that models the benefits for developing such detachment. Students have nothing to lose but candy, but what they stand to gain from hearing their peers and themselves speak in the language of good, critical writing - magical.</p>
 ]]></content>
   </entry>
   
