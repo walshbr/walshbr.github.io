@@ -34,7 +34,7 @@ Posts:
 Publications: 
 
 * "[Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking](http://llc.oxfordjournals.org/content/29/3/379)," Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; *Literary and Linguistic Computing* 2014; doi: 10.1093/llc/fqu030.
-
+* Prism, under the “Poetry” keyword in *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments* (forthcoming).
 * "Prism and Reading’s Shape" solicited for edited collection <i>Pataphysics Then &amp; Now</i> (under review).
 
 Posts: 
