@@ -18,17 +18,10 @@ Python project that uses natural language processing and machine learning to per
 
 Posts:
 
-<ul>
-    <li>
-        "<a href="https://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/">Virginia Woolf, Natural Language Processing, and the Quotation Mark</a>"
-    </li>
-    <li>
-        "<a href="https://bmw9t.github.io/blog/2015/03/23/woolf-huskey/">Hearing Silent Woolf</a>"
-    </li>
-    <li>
-        "<a href="https://bmw9t.github.io/blog/2016/05/17/reading-speech/">Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark</a>"
-    </li> 
-</ul>
+* "[Virginia Woolf, Natural Language Processing, and the Quotation Mark](https://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/)"
+* "[Hearing Silent Woolf](https://bmw9t.github.io/blog/2015/03/23/woolf-huskey/)"
+* "[Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark](https://bmw9t.github.io/blog/2016/05/17/reading-speech/)"
+
 
 </section>
 
@@ -40,15 +33,15 @@ Posts:
 
 Publications: 
 
-<ul><li>"<a href="http://llc.oxfordjournals.org/content/29/3/379">Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking</a>," Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; <i>Literary and Linguistic Computing</i> 2014; doi: 10.1093/llc/fqu030.</li>
+* "[Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking](http://llc.oxfordjournals.org/content/29/3/379)," Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; *Literary and Linguistic Computing* 2014; doi: 10.1093/llc/fqu030.
 
-<li>"Prism and Reading’s Shape" solicited for edited collection <i>Pataphysics Then &amp; Now</i> (under review).</li></ul>
+* "Prism and Reading’s Shape" solicited for edited collection <i>Pataphysics Then &amp; Now</i> (under review).
 
 Posts: 
 
-<ul><li>"<a href="http://bmw9t.github.io/blog/2014/09/16/prism-pedagogy/">Prism in the Classroom: Questions to Frame Discussion</a>"</li>
-<li><a href="{{ root_url }}/blog/2013/07/23/praxis/">Miscellaneous posts from the Praxis Program</a></li>
-</ul>
+* "[Prism in the Classroom: Questions to Frame Discussion](http://bmw9t.github.io/blog/2014/09/16/prism-pedagogy/)"
+* [Miscellaneous posts from the Praxis Program]({{ root_url }}/blog/2013/07/23/praxis/)
+
 </section>
 
 <section>
