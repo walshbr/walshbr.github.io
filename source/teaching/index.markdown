@@ -8,20 +8,79 @@ sidebar: teaching.html
 ---
 
 <section>
-<h3>Instructor</h3> 
-<a href="#ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a> (Fall 2012, Spring 2013)
 
-<h3>Co-Instructor</h3>
-<a href="#IHGC3559">IHGC 3559: "American Youth and Film"</a> (Spring 2014, with Elizabeth Fox)  
-<a href="#IHGC3550">IHGC 3550: "How to Survive an Apocalypse"</a> (Spring 2015)  
+<h3>Washington and Lee University</h3>
 
-<h3>Teaching Assistant</h3> 
-<a href="#ENGL3820">ENGL 3820: "History of Literature in English II"</a> (Spring 2014, Head TA)  
-<a href="#ENRN3210">ENRN 3210: "Shakespeare I"</a> (Fall 2013)  
-<a href="#ENWR3800">ENWR 3800: "Academic and Professional Writing"</a> (Spring 2012)  
-<a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> (Fall 2011)  
+<ol><ul>
+<li><a href="#ENGL394">ENGL 394: "Hacking the Book"</a><br>
+(Instructor, Projected Spring 2016; course fulfills DH credit)</li>
+<li><a href="#WRIT100">WRIT 100: "Writing in the Age of Digital Surveillance"</a><br>
+(Instructor, Projected Winter 2016)</li>
+<li><a href="#HIST211">HIST 211: "Scandal, Crime, and Spectacle in the 19th Century"</a><br>
+(Co-Instructor with Sarah Horowitz, Fall 2016; course fulfills DH credit)</li>
+<li><a href="#mellonfellows">Undergraduate Digital Humanities Fellows Program</a><br>
+(Co-administrator with Mackenzie Brooks, 2 cohorts; Fall 2015-present)</li>
+</ul></ol>
+
+<h3>University of Virginia</h3>
+
+<ol><ul><li><a href="#ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a> <br>(Instructor, Fall 2012, Spring 2013)</li>
+  <li><a href="#IHGC3559">IHGC 3559: "American Youth and Film"</a> <br>(Co-Instructor with Elizabeth Fox, Spring 2014)</li>  
+  <li><a href="#IHGC3550">IHGC 3550: "How to Survive an Apocalypse"</a><br> (Co-Instructor with Elizabeth Fox, Spring 2015)</li>
+  <li><a href="#ENGL3820">ENGL 3820: "History of Literature in English II"</a> <br>(Head Teaching Assistant, Spring 2014)</li>  
+  <li><a href="#ENRN3210">ENRN 3210: "Shakespeare I"</a> <br>(Teaching Assistant, Fall 2013)</li>  
+  <li><a href="#ENWR3800">ENWR 3800: "Academic and Professional Writing"</a> <br>(Teaching Assistant, Spring 2012)</li>  
+  <li><a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> <br>(Teaching Assistant, Fall 2011)</li></ul>  </ol>
 </section>
 --------
+
+<section>
+<h3><a name="ENGL394">ENGL 394: "Hacking the Book"</a></h3>
+  
+This course considers literary experiment instigated by the Internet and exercised on both analogue and digital platforms. When we think of “hacking,” we frequently think of solitary computer programmers in dark rooms. But hacking also implies a culture of profane disruption that closely mirrors developments in literary experimentation over the last seventy years. In this course, we will explore how new media affects the potential for literary experiment in the form of the printed book and how digital explorations offer new ways of engaging with textuality. We will read literature of and about the Internet as well as older texts that serve as precursors for the literary experiments of today. Authors include John Barth, Jean Baudrillard, Jorge Luis Borges, William Gibson, Kenneth Goldsmith, Seth Grahame-Smith, Shelley Jackson, Tom McCarthy, Vladimir Nabokov, and Mark Sample. In this course, we will act as scholar practitioners, reading, writing, and thinking critically, but also experimenting with forms, media, and technology. We will become textual hackers ourselves, exploring literary experiment in a variety of hands-on forms. Assignments include two papers and four digital or analog “hacks”: a Twine hypertext story, a cut up literature experiment, a Time Mapper spatial project, and a Twitter bot.
+
+<a href="{{ root_url }}/teaching/hacking-the-book-draft.pdf">Draft Syllabus</a>
+
+<a href="#Top">Back to top</a>
+</section>
+----------
+
+<section>
+<h3><a name="WRIT100">WRIT 100: "Writing in the Age of Digital Surveillance"</a></h3>
+  
+Concentrated work in composition with readings in which students write at least four revised essays in addition to completing several exercises emphasizing writing as a process. Stress on active reading, argumentation, the appropriate presentation of evidence, various methods of critical analysis, and clarity of style. 
+
+In this course, we will examine the legal, social, and economic pressures regularly exercised on us by various groups, not all of them benign, as we live our digital lives. In particular, we will explore writing as a means of taking back control in a world that is increasingly surveilled and policed. How can we become not only responsible digital consumers but also active contributors to publicly unfolding humanist pursuits on the Internet? What happens when Big Brother stops watching and starts reading? A variety of sources, journalistic, public, and academic will frame course discussions, and we will also explore a few digital humanities methods for critically examining digital information. In addition to extensive practice with critical writing, the course will also offer an option for pitching and crafting a piece of writing for a public venue. (FW Walsh)
+
+<a href="{{ root_url }}/teaching/writing-in-the-age-of-digital-surveillance-draft.pdf">Draft Syllabus</a>
+
+<a href="#Top">Back to top</a>
+</section>
+----------
+
+<section>
+<h3><a name="HIST211">HIST 211: "Scandal, Crime, and Spectacle in the 19th Century"</a></h3>
+  
+This course examines the intersection between scandal, crime and spectacle in nineteenth-century France and Britain. We will discuss the nature of scandals, the connection between scandals and political change, and how scandals and ideas about crime were used to articulate new ideas about class, gender and sexuality. In addition, this class will cover the rise of new theories of criminality in the 19th century and the popular fascination with crime and violence.  Crime and scandal also became interwoven into the fabric of the city as sources of urban spectacle.  Lastly, we will have an opportunity to discuss how issues of crime, scandal and spectacle resonate in the 21st century.  Some of the particular topics we will cover include the Diamond Necklace Affair, the trial of Oscar Wilde, the Jack the Ripper murders, and the birth of detective fiction.
+
+Through this course, students will be introduced to text analysis and data mining for the humanities.  This course assumes no prior knowledge of these skills, but asks: how can newly developed technologies that allow computers to “read” large quantities of text shed light on the past?  Students will work in groups throughout the course of the term to complete a digital history project that analyzes an element of the 19th century fascination with crime and scandal.
+
+<a href="https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/">Schedule and accompanying course textbook</a>
+
+<a href="#Top">Back to top</a>
+</section>
+----------
+
+<section>
+<h3><a name="mellonfellows">Washington and Lee Undergraduate Digital Humanities Fellows Program</a></h3>
+  
+Our attempt to adapt the principles of the [Praxis Network](http://praxis-network.org/) to the particular liberal arts context at Washington and Lee, our undergraduate fellowship gives students the opportunity to develop digital projects of their own design in collaboration with digital humanities faculty and with each other. In addition, fellows receive teaching and outreach opportunities to present their own digital humanities work at conferences and elsewhere on campus. Each fellowship experience is tailored to the individual students.
+
+<a href="https://digitalhumanities.wlu.edu/initiatives/undergraduate-fellowship/">More information</a>
+
+<a href="#Top">Back to top</a>
+</section>
+----------
 
 <section>
 <h3><a name="ENWR1510Musical"></a>ENWR 1510: "The Musical: Then and Now"</h3>
