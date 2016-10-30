@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-*[Cross-posted on the [WLUDH blog](http://digitalhumanities.wlu.edu/blog/2016/09/22/text-analysis-workshop-four-ways-to-read-a-text/).]*
+*[Crossposted on the [WLUDH blog](http://digitalhumanities.wlu.edu/blog/2016/09/22/text-analysis-workshop-four-ways-to-read-a-text/).]*
 
 On Monday I visited [Mackenzie Brooks](http://library.wlu.edu/about/library-directory/mackenzie-brooks)'s course on "Data in the Humanities" to introduce digital text analysis to her students. I faced a few challenges when planning for the visit:
 
