@@ -8,7 +8,6 @@ footer: false
 
 
 While the blogroll has miscellaneous scribblings, these are the more complete/robust projects that I have worked on. In addition to my work on projects at <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/bmw9t">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
-
 <section></section>
 <h2>Hearing Silent Woolf</h2>
 
