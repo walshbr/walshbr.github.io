@@ -10,7 +10,7 @@
   <meta name="author" content="Brandon Walsh">
 
   
-  <meta name="description" content="[Crossposted on the WLUDH blog] I am happy to share publicly the initial release of a project that I have been shopping around in various talks and &hellip;">
+  <meta name="description" content="[Crossposted on the WLULDH blog.] This semester I have been co-teaching a course on “Scandal, Crime, and Spectacle in the Nineteenth Century” with &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -83,6 +83,124 @@
   
   <div class="blog-index">
   
+  
+  
+
+    <article>
+      
+  <header>
+    
+      <h2 class="entry-title"><a href="/blog/2016/12/12/ripper-dataset/">Ripper Press Reports Dataset</a></h2>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-12-12T09:51:00-05:00" pubdate data-updated="true">Dec 12<span>th</span>, 2016</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2016/12/12/new-resource/">WLULDH blog</a>.]</p>
+
+<p>This semester I have been co-teaching a course on “Scandal, Crime, and Spectacle in the Nineteenth Century” with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Professor Sarah Horowitz</a> in the history department at W&amp;L. We’ve been experimenting with ways to make the work we did for the course available for others beyond our students this term, which led to an <a href="https://bmw9t.github.io/blog/2016/10/24/text-analysis-coursebook/">open coursebook on text analysis</a> that we used to teach some basic digital humanities methods.</p>
+
+<p>I’m happy to make available today another resource that has grown out of the course. For their final projects, our students conducted analyses of a variety of historical materials. One of our student groups was particularly interested in <a href="http://casebook.org/press_reports/">Casebook: Jack the Ripper</a>, a site that gathers transcriptions of primary and secondary materials related to the Whitechapel murders. The student group used just a few of the materials on the site for their analysis, but they only had the time to copy and paste a few things from the archive for use in <a href="http://voyant-tools.org/">Voyant</a>. I found myself wishing that we could offer a version of the site’s materials better formatted for text analysis.</p>
+
+<p>So we made one! With the permission of the editors at the Casebook, we have scraped and repackaged one portion of their site, the collection of press reports related to the murders, in a variety of forms for digital researchers. More details about the dataset are below, and we’ve drawn from the descriptive template for datasets used by Michigan State University while putting it together. Just write to us if you’re interested in using the dataset - we’ll be happy to give you access to them under the terms described below. And also feel free to get in touch if you have thoughts about how to make datasets like this more usable for this kind of work. We’re planning on using this dataset and others like it in future courses here at W&amp;L, so stay tuned for more resources in the future.</p>
+
+<hr />
+
+<p><strong>Title</strong></p>
+
+<p>Jack the Ripper Press Reports Dataset</p>
+
+<p><strong>Download</strong></p>
+
+<p>Write walshb@wlu.edu for download rights to this dataset. This work falls under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">cc by-nc license</a>. Anyone can use this data under these terms, but they must acknowledge, both in name and through hyperlink, <a href="http://casebook.org/press_reports/">Casebook: Jack the Ripper</a> as the original source of the data.</p>
+
+<p><strong>Description</strong></p>
+
+<p>This dataset features the full texts of 2677 newspaper articles between the years of 1844 and 1988 that reference the Whitechapel murders by Jack the Ripper. While the bulk of the texts are, in fact, contemporary to the murders, a handful of them skew closer to the present as press reports for contemporary crimes look back to the infamous case. The wide variety of sources available here gives a sense of how the coverage of the case differed by region, date, and publication.</p>
+
+<p><strong>Preferred Citation</strong></p>
+
+<p>Jack the Ripper Press Reports Dataset, Washington and Lee University Library.</p>
+
+<p><strong>Background</strong></p>
+
+<p>The Jack the Ripper Press Reports Dataset was scraped from <a href="https://casebook.org/">Casebook: Jack the Ripper</a> and republished with the permission of their editorial team in November 2016. The Washington and Lee University Digital Humanities group repackaged the reports here so that the collected dataset may be more easily used by interested researchers for text analysis.</p>
+
+<p><strong>Format</strong></p>
+
+<p>The same dataset exists here organized in three formats: two folders, ‘by_journal’ and ‘index’, and a CSV file.</p>
+
+<ul>
+  <li>by_journal: organizes all the press reports by journal title.</li>
+  <li>index: all files in a single folder.</li>
+  <li>casebook.csv: a CSV file containing all the texts and metadata.</li>
+</ul>
+
+<p>Each folder has related but slightly different file naming conventions:</p>
+
+<ul>
+  <li>by_journal:
+    <ul>
+      <li>journal_title/YearMonthDayPublished.txt</li>
+      <li>eg. augusta_chronicle/18890731.txt</li>
+    </ul>
+  </li>
+  <li>index:
+    <ul>
+      <li>journal_title_YearMonthDayPublished.txt</li>
+      <li>eg. augusta_chronicle_18890731.txt</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The CSV file is organized according to the following column conventions:</p>
+
+<ul>
+  <li>id of text, full filename from within the index folder, journal title, publication date, text of article</li>
+  <li>eg. 1, index/august_chronicle_18890731.txt, augusta_chronicle, 1889-07-31, “lorem ipsum…”</li>
+</ul>
+
+<p><strong>Size</strong></p>
+
+<p>The zip file contains two smaller folders and a CSV file. Each of these contains the same dataset organized in slightly different ways.</p>
+
+<ul>
+  <li>by_journal - 24.9 MB</li>
+  <li>index of all articles- 24.8 MB</li>
+  <li>casebook.csv - 18.4 MB</li>
+  <li>Total: 68.1 MB uncompressed</li>
+</ul>
+
+<p><strong>Data Quality</strong></p>
+
+<p>The text quality here is high, as the Casebook contributors transcribed them by hand.</p>
+
+<p><strong>Acknowledgements</strong></p>
+
+<p>Data collected and prepared by Brandon Walsh. Original dataset scraped from <a href="http://casebook.org/press_reports/">Casebook: Jack the Ripper</a> and republished with their permission.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
 
@@ -707,55 +825,6 @@ Aggregate genre map for New Order:
 <p>The current plan moving forward is to build a corpus of test passages containing both quoted speech and implied speech, train a python script against this set of passages, and then use this same script to search for instances of implied speech throughout Woolf’s corpus. Theoretically, at least, the script will search for a series of words that flag text as implied speech to a human reader - said, recalled, exclaimed, etc. Using this lexicon as a basis, the script would then pull out the context surrounding these words to produce a database of sentences meant to serve as speech. At Eric’s suggestion, I’m currently exploring the <a href="http://www.nltk.org/index.html">Natural Language Toolkit</a> to take a stab at all of this. My own hypothesis is that there will be an inverse relationship between quoted speech and implied speech in her corpus, that the amount of speech left unflagged by quotation marks will increase in the middle of Woolf’s career. Once I have all this material, I’ll be able to subject the results to further analysis and to think more deeply about speech in Woolf’s work. Who speaks? What about? What counts as a voice, and what is left in an ambiguous, unsounded state? </p>
 
 <p>The project is very much in its beginning stages, but it’s already opening up the way that I think about speech in Woolf’s text. It tries to untangle the relationship between our print record and our sonic record, and further work will help show how discourse is unfolding over time in the modernist period.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-
-    <article>
-      
-  <header>
-    
-      <h2 class="entry-title"><a href="/blog/2015/02/02/moving-people-linking-lives-dh-symposium/">Moving People, Linking Lives DH Symposium</a></h2>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2015-02-02T14:33:00-05:00" pubdate data-updated="true">Feb 2<span>nd</span>, 2015</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>[I am very excited to be working with Alison Booth, Jenny Strauss Clay, and Amy Ogden to plan a digital humanities symposium this March. What follows is our general announcement of the event, cross-posted on the <a href="http://scholarslab.org/uncategorized/moving-peoplelinking-lives-dh-symposium/">Scholars’ Lab</a> blog.]</p>
-
-<p>I am pleased to announce that “<a href="http://movingpeoplelinkinglives.org">Moving People, Linking Lives: An Interdisciplinary Symposium</a>” will take place March 20-21, 2015 at the University of Virginia. Presentations and workshops will open dialogue across different fields, periods, and methods, from textual interpretation to digital research. Invited participants include specialists on narrative theory and life writing, prosopography or comparative studies of life narratives in groups, and the diverse field of digital humanities or computer-assisted research on cultural materials, from ancient texts to Colonial archives, from printed books to social media.</p>
-
-<p>Invited participants include: Elton Barker, Jason Boyd, James Phelan, Susan Brown, Margaret Cormack, Courtney Evans, Will Hanley, Ben Jasnow, Ruth Page, Sue Perdue, Sidonie Smith. We hope to have lots of locals involved with digital work participate as well, and we particularly encourage graduate students to join in for the weekend!</p>
-
-<p>Our symposium will bridge the gaps among our fields; share the innovations of several digital projects; and welcome the skeptical or the uninitiated, whether in our historical fields or in the applications of technology in the humanities. Booth, Clay, and Ogden have each led digital projects with some common themes and aims: locating, identifying, and interpreting the narratives—or very often, the lack of discursive records—about individuals in groups or documents, in Homer or other ancient text, Medieval French hagiography, and nineteenth-century printed collections of biographies in English. We want to open discussion of many potential methods including our own—data mining and digital editions of texts; relational databases and historical timelines and maps—for research on groups of interlinked persons, narratives or data about their lives, and documents or other records, and synthesizing and visualizing this research in accessible ways that reach students and the public. Digital innovation, however, should be informed by traditions of scholarly interpretation and advanced theoretical insights and commitments. Narrative theory and Theory generally, ideological critique including studies of gender and race, textual and book history studies, transnational and social historiography, philology and language studies, archeology, cultural geography and critical cartography, are all gaining influence on digital projects.</p>
-
-<p>Invited participants will be posting about their research to <a href="http://movingpeoplelinkinglives.org">our blog</a> in the weeks leading up to the symposium, anyone is free to comment on the posts. In addition, our participants will be building a <a href="http://movingpeoplelinkinglives.org/bibliography/">Zotero-powered bibliography</a> in the weeks leading up to the symposium full of rich materials related to the event’s discussion.</p>
-
-<p>Organized and hosted by Alison Booth, Jenny Strauss Clay, and Amy Odgen and sponsored by the Page Barbour Committee, the departments of English, French, and Art, the Institute for Humanities and Global Cultures, the Scholars’ Lab and Institute for Advanced Technology in the Humanities, and other entities at UVa, all events are free and open to the public. More information can be found on the blog as planning progresses, and you can follow us on twitter at @livesdh.</p>
-
-<p>Join in the conversation on the blog at <a href="http://movingpeoplelinkinglives.org">movingpeoplelinkinglives.org</a>, and we hope to see many come out for fruitful interchange in March!</p>
 </div>
   
   

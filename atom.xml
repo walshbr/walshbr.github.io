@@ -4,7 +4,7 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="https://bmw9t.github.com/atom.xml" rel="self"/>
   <link href="https://bmw9t.github.com/"/>
-  <updated>2016-12-12T09:49:20-05:00</updated>
+  <updated>2016-12-12T10:10:14-05:00</updated>
   <id>https://bmw9t.github.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -12,6 +12,96 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ripper Press Reports Dataset]]></title>
+    <link href="https://bmw9t.github.com/blog/2016/12/12/ripper-dataset/"/>
+    <updated>2016-12-12T09:51:00-05:00</updated>
+    <id>https://bmw9t.github.com/blog/2016/12/12/ripper-dataset</id>
+    <content type="html"><![CDATA[<p>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2016/12/12/new-resource/">WLULDH blog</a>.]</p>
+
+<p>This semester I have been co-teaching a course on “Scandal, Crime, and Spectacle in the Nineteenth Century” with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Professor Sarah Horowitz</a> in the history department at W&amp;L. We’ve been experimenting with ways to make the work we did for the course available for others beyond our students this term, which led to an <a href="https://bmw9t.github.io/blog/2016/10/24/text-analysis-coursebook/">open coursebook on text analysis</a> that we used to teach some basic digital humanities methods.</p>
+
+<p>I’m happy to make available today another resource that has grown out of the course. For their final projects, our students conducted analyses of a variety of historical materials. One of our student groups was particularly interested in <a href="http://casebook.org/press_reports/">Casebook: Jack the Ripper</a>, a site that gathers transcriptions of primary and secondary materials related to the Whitechapel murders. The student group used just a few of the materials on the site for their analysis, but they only had the time to copy and paste a few things from the archive for use in <a href="http://voyant-tools.org/">Voyant</a>. I found myself wishing that we could offer a version of the site’s materials better formatted for text analysis.</p>
+
+<p>So we made one! With the permission of the editors at the Casebook, we have scraped and repackaged one portion of their site, the collection of press reports related to the murders, in a variety of forms for digital researchers. More details about the dataset are below, and we’ve drawn from the descriptive template for datasets used by Michigan State University while putting it together. Just write to us if you’re interested in using the dataset - we’ll be happy to give you access to them under the terms described below. And also feel free to get in touch if you have thoughts about how to make datasets like this more usable for this kind of work. We’re planning on using this dataset and others like it in future courses here at W&amp;L, so stay tuned for more resources in the future.</p>
+
+<hr />
+
+<p><strong>Title</strong></p>
+
+<p>Jack the Ripper Press Reports Dataset</p>
+
+<p><strong>Download</strong></p>
+
+<p>Write walshb@wlu.edu for download rights to this dataset. This work falls under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">cc by-nc license</a>. Anyone can use this data under these terms, but they must acknowledge, both in name and through hyperlink, <a href="http://casebook.org/press_reports/">Casebook: Jack the Ripper</a> as the original source of the data.</p>
+
+<p><strong>Description</strong></p>
+
+<p>This dataset features the full texts of 2677 newspaper articles between the years of 1844 and 1988 that reference the Whitechapel murders by Jack the Ripper. While the bulk of the texts are, in fact, contemporary to the murders, a handful of them skew closer to the present as press reports for contemporary crimes look back to the infamous case. The wide variety of sources available here gives a sense of how the coverage of the case differed by region, date, and publication.</p>
+
+<p><strong>Preferred Citation</strong></p>
+
+<p>Jack the Ripper Press Reports Dataset, Washington and Lee University Library.</p>
+
+<p><strong>Background</strong></p>
+
+<p>The Jack the Ripper Press Reports Dataset was scraped from <a href="https://casebook.org/">Casebook: Jack the Ripper</a> and republished with the permission of their editorial team in November 2016. The Washington and Lee University Digital Humanities group repackaged the reports here so that the collected dataset may be more easily used by interested researchers for text analysis.</p>
+
+<p><strong>Format</strong></p>
+
+<p>The same dataset exists here organized in three formats: two folders, ‘by_journal’ and ‘index’, and a CSV file.</p>
+
+<ul>
+  <li>by_journal: organizes all the press reports by journal title.</li>
+  <li>index: all files in a single folder.</li>
+  <li>casebook.csv: a CSV file containing all the texts and metadata.</li>
+</ul>
+
+<p>Each folder has related but slightly different file naming conventions:</p>
+
+<ul>
+  <li>by_journal:
+    <ul>
+      <li>journal_title/YearMonthDayPublished.txt</li>
+      <li>eg. augusta_chronicle/18890731.txt</li>
+    </ul>
+  </li>
+  <li>index:
+    <ul>
+      <li>journal_title_YearMonthDayPublished.txt</li>
+      <li>eg. augusta_chronicle_18890731.txt</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The CSV file is organized according to the following column conventions:</p>
+
+<ul>
+  <li>id of text, full filename from within the index folder, journal title, publication date, text of article</li>
+  <li>eg. 1, index/august_chronicle_18890731.txt, augusta_chronicle, 1889-07-31, “lorem ipsum…”</li>
+</ul>
+
+<p><strong>Size</strong></p>
+
+<p>The zip file contains two smaller folders and a CSV file. Each of these contains the same dataset organized in slightly different ways.</p>
+
+<ul>
+  <li>by_journal - 24.9 MB</li>
+  <li>index of all articles- 24.8 MB</li>
+  <li>casebook.csv - 18.4 MB</li>
+  <li>Total: 68.1 MB uncompressed</li>
+</ul>
+
+<p><strong>Data Quality</strong></p>
+
+<p>The text quality here is high, as the Casebook contributors transcribed them by hand.</p>
+
+<p><strong>Acknowledgements</strong></p>
+
+<p>Data collected and prepared by Brandon Walsh. Original dataset scraped from <a href="http://casebook.org/press_reports/">Casebook: Jack the Ripper</a> and republished with their permission.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Introduction to Text Analysis: A Coursebook]]></title>
@@ -712,19 +802,6 @@ Students are often familiar with anecdotal evidence that employers regularly exa
 Twitter forces students to think small. The character limit on responses helps to moderate the size of student comments, keeping them to a relatively standardized length and preventing the sense that a longer response indicates a deeper engagement with the course materials. The format can also offer ongoing practice for students in developing concise, specific thoughts on objects of study. I encourage students to think about twitter comments as a challenge to write micro-essays. Entire, coherent arguments can be constructed in 140 characters, and they will often be clearer for the obscene demand for concision. 140 characters is a short length even for a thesis statement, and the exercise demands no space be wasted—every word must have its place. The genre of the micro-essay can allow conversations about writing into the course on a regular basis as students consistently produce a variety of these mini-thesis statements over the course of a statement. <a href=" https://twitter.com/twitterfiction">@twitterfiction</a> can provide a good example of the power that can be achieved by such a small amount of writing.  </p>
 
 <p>Stating your pedagogical motives for students up front encourages students to engage with Twitter in terms that align with your objectives for including the activity in the course in the first place. For more advice on creating professional digital presences in the context of a scholarly community, see Ryan Cordell’s wonderful ProfHacker post on <a href="http://chronicle.com/blogs/profhacker/creating-and-maintaining-a-professional-presence-online-a-roundup-and-reflection/43030">Creating and Maintaining a Professional Presence Online</a>.  </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Audio at THATCampVA]]></title>
-    <link href="https://bmw9t.github.com/blog/2013/11/13/audio-at-thatcampva/"/>
-    <updated>2013-11-13T10:05:00-05:00</updated>
-    <id>https://bmw9t.github.com/blog/2013/11/13/audio-at-thatcampva</id>
-    <content type="html"><![CDATA[<p>I took part in <a href="http://virginia2013.thatcamp.org/">THATCampVA</a> this past weekend, where I led a session on using Audacity to mix and remix audio files for Digital Humanities projects. This was my session proposal, copied from <a href="http://virginia2013.thatcamp.org/2013/10/24/audacity-and-audio-in-play-and-in-practice/">the event’s main page</a>:</p>
-
-<p>“A session on working and playing with audio files using Audacity, which has a fairly low barrier to entry for editing sound objects. Depending on interest and ability, we can take either a practical or a playful approach. I’m happy to walk people through some of its basic functions useful to DHers working with sound- how to slice out clips properly, deal with proprietary formats, repair audio clips, overlay tracks, etc. Or we can play around with some of audacity’s fun effects – phase shifting, echoes, pitch alterations, reversing sound waves – useful to more creative endeavors and creating sound art. I’m especially interested in how tinkering with sound artifacts might offer us new ways to interpret them. When does a sound object become something else-something new? We can work with any sound files that people may bring in, though I’ll bring in some samples to play with. The prize goes to the person who can process an otherwise human voice into the scariest thing we’ve ever heard.”</p>
-
-<p><a href="https://docs.google.com/a/virginia.edu/document/d/1m52vaXn7OaTIKUALypAsV-bTp9u0axPmcHNxSjurVTA/edit">Here</a> is the link to my (admittedly fairly schematic) talking notes for the event. The group wound up wanting the introduction to Audacity before we played with the files, so I showed the group how to slice out and mix together a few seconds of a Bach partita to crossfade into the last sentences of <em>Ulysses</em>. Participants then tried their hand at remixing audio recordings based on their own interests, and a notable experiment took apart Orson Welles’s <em><a href="http://www.youtube.com/watch?v=Xs0K4ApWl4g">War of the Worlds&lt;/em&gt; broadcast</a>. The group for the session was really great and gave helpful feedback on some ideas I had been kicking around for how to remix poetry readings for literary analysis. Very fun for my first THATcamp ever, and, in the future, I think I have a better idea of the kind of planning that goes into a good session!</em></p>
 ]]></content>
   </entry>
   
