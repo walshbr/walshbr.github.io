@@ -22,7 +22,7 @@ Jack the Ripper Press Reports Dataset
 
 **Download**
 
-Write walshb@wlu.edu for download rights to this dataset. This work falls under a [cc by-nc license](https://creativecommons.org/licenses/by-nc/2.0/). Anyone can use this data under these terms, but they must acknowledge, both in name and through hyperlink, [Casebook: Jack the Ripper](http://casebook.org/press_reports/) as the original source of the data.
+The dataset can be downloaded [here](https://wlu.box.com/s/vfywfpwrivpb7iqc681mzu42tqjez0q9). Write walshb@wlu.edu if you have any problems accessing the dataset. This work falls under a [cc by-nc license](https://creativecommons.org/licenses/by-nc/2.0/). Anyone can use this data under these terms, but they must acknowledge, both in name and through hyperlink, [Casebook: Jack the Ripper](http://casebook.org/press_reports/) as the original source of the data.
 
 **Description**
 
