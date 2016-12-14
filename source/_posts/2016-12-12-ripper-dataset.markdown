@@ -7,9 +7,7 @@ categories:
 ---
 *[Crossposted on the [WLULDH blog](http://digitalhumanities.wlu.edu/blog/2016/12/12/new-resource/).]*
 
-[Crossposted on my personal blog.]
-
-Update: since posting this, [Laura McGrath](http://laurabmcgrath.com/) reached out about finding an error in the CSV version of the data. The version linked to here should be cleaned up now. In addition, you will want to follow steps at the end of this post if using the CSV file in Excel. And thanks to [Mackenzie Brooks](https://digitalhumanities.wlu.edu/blog/author/mackenzie-brooks/) for her advice on working with CSV files in Excel.
+Update: since posting this, [Laura McGrath](https://laurabmcgrath.wordpress.com/) reached out about finding an error in the CSV version of the data. The version linked to here should be cleaned up now. In addition, you will want to follow steps at the end of this post if using the CSV file in Excel. And thanks to [Mackenzie Brooks](https://digitalhumanities.wlu.edu/blog/author/mackenzie-brooks/) for her advice on working with CSV files in Excel.
 
 This semester I have been co-teaching a course on "Scandal, Crime, and Spectacle in the Nineteenth Century" with [Professor Sarah Horowitz](https://www.wlu.edu/directory/profile?ID=x2047) in the history department at W&L. We've been experimenting with ways to make the work we did for the course available for others beyond our students this term, which led to an [open coursebook on text analysis](https://bmw9t.github.io/blog/2016/10/24/text-analysis-coursebook/) that we used to teach some basic digital humanities methods.
 
@@ -82,17 +80,18 @@ Data collected and prepared by Brandon Walsh. Original dataset scraped from [Cas
 
 If working with the CSV data in Excel, you have a few extra steps to import the data. Excel has character limits on cells and other configurations that will make things go sideways unless you take precautions. Here are the steps to import the CSV file:
 
-1 Open Excel.
-2 Make a blank spreadsheet.
-3 Go to the Data menu.
-4 Click “Get External Data”.
-5 Select “Import Text File”.
-6 Navigate to your CSV file and select it.
-7 Select “Delimited” and hit next.
-8 In the next section, uncheck "Tab" and check "Comma", click next.
-9 In the next section, click on the fifth column (the column one to the right of the date column).
-10 At the top of the window, select "Text" as the column data format.
-11 It will take a little bit to process.
-12 Click ‘OK’ for any popups that come up.
-13 It will still take a bit to process.
-* Your spreadsheet should now be populated with the Press Reports data.
+1. Open Excel.
+2. Make a blank spreadsheet.
+3. Go to the Data menu.
+4. Click “Get External Data”.
+5. Select “Import Text File”.
+6. Navigate to your CSV file and select it.
+7. Select “Delimited” and hit next.
+8. In the next section, uncheck "Tab" and check "Comma", click next.
+9. In the next section, click on the fifth column (the column one to the right of the date column).
+10. At the top of the window, select "Text" as the column data format.
+11. It will take a little bit to process.
+12. Click ‘OK’ for any popups that come up.
+13. It will still take a bit to process.
+
+Your spreadsheet should now be populated with the Press Reports data.
