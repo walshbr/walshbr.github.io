@@ -10,7 +10,7 @@
   <meta name="author" content="Brandon Walsh">
 
   
-  <meta name="description" content="[Crossposted on the WLULDH blog.] This semester I have been co-teaching a course on “Scandal, Crime, and Spectacle in the Nineteenth Century” with &hellip;">
+  <meta name="description" content="[Crossposted on the WLULDH blog.] Update: since posting this, Laura McGrath reached out about finding an error in the CSV version of the data. The &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -106,7 +106,9 @@
   </header>
 
 
-<div class="entry-content"><p>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2016/12/12/new-resource/">WLULDH blog</a>.]</p>
+<div class="entry-content"><p><em>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2016/12/12/new-resource/">WLULDH blog</a>.]</em></p>
+
+<p>Update: since posting this, <a href="https://laurabmcgrath.wordpress.com/">Laura McGrath</a> reached out about finding an error in the CSV version of the data. The version linked to here should be cleaned up now. In addition, you will want to follow steps at the end of this post if using the CSV file in Excel. And thanks to <a href="https://digitalhumanities.wlu.edu/blog/author/mackenzie-brooks/">Mackenzie Brooks</a> for her advice on working with CSV files in Excel.</p>
 
 <p>This semester I have been co-teaching a course on “Scandal, Crime, and Spectacle in the Nineteenth Century” with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Professor Sarah Horowitz</a> in the history department at W&amp;L. We’ve been experimenting with ways to make the work we did for the course available for others beyond our students this term, which led to an <a href="https://bmw9t.github.io/blog/2016/10/24/text-analysis-coursebook/">open coursebook on text analysis</a> that we used to teach some basic digital humanities methods.</p>
 
@@ -188,6 +190,28 @@
 <p><strong>Acknowledgements</strong></p>
 
 <p>Data collected and prepared by Brandon Walsh. Original dataset scraped from <a href="http://casebook.org/press_reports/">Casebook: Jack the Ripper</a> and republished with their permission.</p>
+
+<hr />
+
+<p>If working with the CSV data in Excel, you have a few extra steps to import the data. Excel has character limits on cells and other configurations that will make things go sideways unless you take precautions. Here are the steps to import the CSV file:</p>
+
+<ol>
+  <li>Open Excel.</li>
+  <li>Make a blank spreadsheet.</li>
+  <li>Go to the Data menu.</li>
+  <li>Click “Get External Data”.</li>
+  <li>Select “Import Text File”.</li>
+  <li>Navigate to your CSV file and select it.</li>
+  <li>Select “Delimited” and hit next.</li>
+  <li>In the next section, uncheck “Tab” and check “Comma”, click next.</li>
+  <li>In the next section, click on the fifth column (the column one to the right of the date column).</li>
+  <li>At the top of the window, select “Text” as the column data format.</li>
+  <li>It will take a little bit to process.</li>
+  <li>Click ‘OK’ for any popups that come up.</li>
+  <li>It will still take a bit to process.</li>
+</ol>
+
+<p>Your spreadsheet should now be populated with the Press Reports data.</p>
 </div>
 
 
