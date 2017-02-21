@@ -1,0 +1,13 @@
+---
+layout: none
+permalink: .htaccess
+---
+
+RewriteEngine On
+RewriteCond %{http_host} ^www.newbieonruby.com [nc]
+RewriteRule ^(.*)$ http://newbieonruby.com/$1 [r=301,nc]
+
+AuthType Basic
+AuthName "Hello! Looks like you found your way here by reading my dissertation. If so, I have had to lock them down for copyright purposes. Please write me at bmw9t [at] virginia [dot] edu to get access to the audio clips. I'll be happy to give you access."
+AuthUserFile /.htpasswd
+require valid-user
