@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://bmw9t.github.com/sitemap.xml 
+Sitemap: https://walshbr.com/sitemap.xml 
