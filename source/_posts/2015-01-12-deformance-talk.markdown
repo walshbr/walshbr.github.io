@@ -33,7 +33,7 @@ But some reversed audio still sounds like a recognizable tune. Behind the “Sta
 Your browser does not support the video tag.
 </video>
 
-Source: [http://www.teoria.com/en/reference/q-r/retrograde.php]("http://www.teoria.com/en/reference/q-r/retrograde.php")
+Source: [http://www.teoria.com/en/reference/q-r/retrograde.php](http://www.teoria.com/en/reference/q-r/retrograde.php)
 
 The melody of the first ten measures is followed by a retrograde repetition of itself, meaning that it is a musical palindrome. All of the intervals of this first section become reversed and, if you were to fold the melody in upon itself, it would perfectly line up. Playing backwards is itself built into the creative process. The playback reflects this as the bouncing ball literally moves backwards on the page, but, if you were to write it out, it would look quite different. The kind of deformance that I am describing, that Zeppelin conspiracy theorists lament, and that Samuels and McGann suggest – it’s built into the music itself.
 
