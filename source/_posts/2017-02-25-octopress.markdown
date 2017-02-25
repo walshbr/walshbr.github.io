@@ -7,7 +7,7 @@ categories:
 ---
 I have been using GitHub to host my site as a .github.io domain for years now, but I decided to switch to something a bit easier to remember as way of consolidating a few pieces of my digital identity (I had been variably using bmw9t and walshbr as public-facing usernames in different places). I'm now up and running with [Reclaim Hosting](https://reclaimhosting.com/), and they have been fantastic in helping me to troubleshoot the issues. 
 
-I ran into a quirky issue with my setup, though, and I thought I'd document it in case someone else runs into this in the future. My old workflow looked like this:
+I ran into a quirky issue with my setup, though, and I thought I'd document it in case someone else runs into this in the future when trying to mix Octopress, GitHub, and custom domain mapping. My old workflow looked like this:
 
 1. Work locally.
 2. Push to GitHub for version control, issue tracking, and transparency.
