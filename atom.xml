@@ -4,7 +4,7 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="https://walshbr.com/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2017-02-25T10:39:12-05:00</updated>
+  <updated>2017-02-25T11:00:31-05:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -22,7 +22,7 @@
 
 <p>Update: since posting this, <a href="https://laurabmcgrath.wordpress.com/">Laura McGrath</a> reached out about finding an error in the CSV version of the data. The version linked to here should be cleaned up now. In addition, you will want to follow steps at the end of this post if using the CSV file in Excel. And thanks to <a href="https://digitalhumanities.wlu.edu/blog/author/mackenzie-brooks/">Mackenzie Brooks</a> for her advice on working with CSV files in Excel.</p>
 
-<p>This semester I have been co-teaching a course on “Scandal, Crime, and Spectacle in the Nineteenth Century” with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Professor Sarah Horowitz</a> in the history department at W&amp;L. We’ve been experimenting with ways to make the work we did for the course available for others beyond our students this term, which led to an <a href="https://bmw9t.github.io/blog/2016/10/24/text-analysis-coursebook/">open coursebook on text analysis</a> that we used to teach some basic digital humanities methods.</p>
+<p>This semester I have been co-teaching a course on “Scandal, Crime, and Spectacle in the Nineteenth Century” with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Professor Sarah Horowitz</a> in the history department at W&amp;L. We’ve been experimenting with ways to make the work we did for the course available for others beyond our students this term, which led to an <a href="https://walshbr.github.io/blog/2016/10/24/text-analysis-coursebook/">open coursebook on text analysis</a> that we used to teach some basic digital humanities methods.</p>
 
 <p>I’m happy to make available today another resource that has grown out of the course. For their final projects, our students conducted analyses of a variety of historical materials. One of our student groups was particularly interested in <a href="http://casebook.org/press_reports/">Casebook: Jack the Ripper</a>, a site that gathers transcriptions of primary and secondary materials related to the Whitechapel murders. The student group used just a few of the materials on the site for their analysis, but they only had the time to copy and paste a few things from the archive for use in <a href="http://voyant-tools.org/">Voyant</a>. I found myself wishing that we could offer a version of the site’s materials better formatted for text analysis.</p>
 
@@ -189,9 +189,9 @@
     <link href="https://walshbr.com/blog/2016/05/17/reading-speech/"/>
     <updated>2016-05-17T08:46:00-04:00</updated>
     <id>https://walshbr.com/blog/2016/05/17/reading-speech</id>
-    <content type="html"><![CDATA[<p><em>[Crossposted on the <a href="http://scholarslab.org/digital-humanities/reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark/">Scholars’ Lab blog</a> as well as the <a href="http://digitalhumanities.wlu.edu/blog/2016/05/17/reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark/">WLUDH blog</a>. What follows is a slightly more fleshed out version of what I presented this past week at <a href="https://hastac2016.org">HASTAC 2016</a> (complete with my memory-inflected transcript of the Q&amp;A). I gave a bit more context for the project at the event than I do here, so it might be helpful to read my past two posts on the project <a href="https://bmw9t.github.io/blog/2015/03/23/woolf-huskey/">here</a> and <a href="http://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/">here</a> before going forward. This talk continues that conversation.]</em></p>
+    <content type="html"><![CDATA[<p><em>[Crossposted on the <a href="http://scholarslab.org/digital-humanities/reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark/">Scholars’ Lab blog</a> as well as the <a href="http://digitalhumanities.wlu.edu/blog/2016/05/17/reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark/">WLUDH blog</a>. What follows is a slightly more fleshed out version of what I presented this past week at <a href="https://hastac2016.org">HASTAC 2016</a> (complete with my memory-inflected transcript of the Q&amp;A). I gave a bit more context for the project at the event than I do here, so it might be helpful to read my past two posts on the project <a href="https://walshbr.github.io/blog/2015/03/23/woolf-huskey/">here</a> and <a href="http://walshbr.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/">here</a> before going forward. This talk continues that conversation.]</em></p>
 
-<p>This year in the <a href="https://www.scholarslab.org">Scholar’s Lab</a> I have been working with Eric on a machine learning project that studies speech in Virginia Woolf’s fiction. I have written elsewhere about the <a href="https://bmw9t.github.io/blog/2015/03/23/woolf-huskey/">background for the project</a> and <a href="http://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/">initial thoughts  towards its implications</a>. For the purposes of this blog post, I will just present a single example to provide context. Consider the famous first line of <em>Mrs. Dalloway</em>:</p>
+<p>This year in the <a href="https://www.scholarslab.org">Scholar’s Lab</a> I have been working with Eric on a machine learning project that studies speech in Virginia Woolf’s fiction. I have written elsewhere about the <a href="https://walshbr.github.io/blog/2015/03/23/woolf-huskey/">background for the project</a> and <a href="http://walshbr.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/">initial thoughts  towards its implications</a>. For the purposes of this blog post, I will just present a single example to provide context. Consider the famous first line of <em>Mrs. Dalloway</em>:</p>
 
 <blockquote>
   <p>Mrs Dalloway said, “I will buy the flowers myself.”</p>
@@ -211,7 +211,7 @@
 
 <p>Supervised classification works on a similar principle. By using the proper tools, we can feed a computer program examples of something in order to have it later identify similar objects. For this project, this process means training the computer to recognize and read for speech by giving it examples to work from. By providing examples of speech occurring within quotation marks, we can teach the program when quotation marks are likely to occur. By giving it examples of what I am calling ‘implied speech,’ it can learn how to identify those as well. </p>
 
-<p>For this project, I analyzed Woolf texts downloaded from <a href="https://www.gutenberg.org/wiki/Main_Page">Project Gutenberg</a>. Eric and I put together scripts in Python 3 that used a package known as the <a href="https://nltk.org/">Natural Language Toolkit</a> for classifying. All of this work can be found at the project’s <a href="https;//www.github.com/bmw9t/woolf">GitHub repository</a>.</p>
+<p>For this project, I analyzed Woolf texts downloaded from <a href="https://www.gutenberg.org/wiki/Main_Page">Project Gutenberg</a>. Eric and I put together scripts in Python 3 that used a package known as the <a href="https://nltk.org/">Natural Language Toolkit</a> for classifying. All of this work can be found at the project’s <a href="https;//www.github.com/walshbr/woolf">GitHub repository</a>.</p>
 
 <p>The project is still ongoing, and we are still working out some difficulties in our Python scripts. But I find the complications of the process to be compelling in their own right. For one, when working in this way we have to tell the computer what features we want it to pay attention to: a computer does not intuitively know how to make sense of the examples that we want to train it on. In the example of romantic comedies, I might say something along the lines of “while watching these films, watch out for the scenes and dialogue that use the word ‘love.’” We break down the larger genre into concrete features that can be pulled out so that the program knows what to watch out for. </p>
 
@@ -531,7 +531,7 @@ Aggregate genre map for New Order:
     <link href="https://walshbr.com/blog/2015/01/17/collation/"/>
     <updated>2015-01-17T09:41:00-05:00</updated>
     <id>https://walshbr.com/blog/2015/01/17/collation</id>
-    <content type="html"><![CDATA[<p>[The following is the talk that I gave at the 2015 MLA Conference on a panel on “Pedagogy and Digital Editions.” The Google Docs section is a slight reworking and recontextualization of a <a href="http://bmw9t.github.io/blog/2013/09/25/writing-out-loud/">previous post</a> on the subject. I’m especially grateful to <a href="https://twitter.com/damozel_">Sarah Storti</a> and <a href="https://twitter.com/andrew_stauffer">Andrew Stauffer</a> for their suggestions and comments on how to use Juxta Commons to teach writing.]</p>
+    <content type="html"><![CDATA[<p>[The following is the talk that I gave at the 2015 MLA Conference on a panel on “Pedagogy and Digital Editions.” The Google Docs section is a slight reworking and recontextualization of a <a href="http://walshbr.github.io/blog/2013/09/25/writing-out-loud/">previous post</a> on the subject. I’m especially grateful to <a href="https://twitter.com/damozel_">Sarah Storti</a> and <a href="https://twitter.com/andrew_stauffer">Andrew Stauffer</a> for their suggestions and comments on how to use Juxta Commons to teach writing.]</p>
 
 <p><strong>Collation and Writing Pedagogy with Juxta Commons and Google Docs</strong></p>
 
@@ -596,7 +596,7 @@ Student C: “We could get rid of that word and use this phrase instead.”  </p
     <link href="https://walshbr.com/blog/2015/01/12/deformance-talk/"/>
     <updated>2015-01-12T10:29:00-05:00</updated>
     <id>https://walshbr.com/blog/2015/01/12/deformance-talk</id>
-    <content type="html"><![CDATA[<p>[The following is an only slightly modified version of the talk I gave at the <a href="http://ach.org/">ACH</a>’s panel on “Digital Deformance and Scholarly Forms” at the 2015 MLA conference. For more details on how to reverse audio recordings, see my <a href="http://bmw9t.github.io/blog/2015/01/05/deformance/">previous post on the subject</a>.]</p>
+    <content type="html"><![CDATA[<p>[The following is an only slightly modified version of the talk I gave at the <a href="http://ach.org/">ACH</a>’s panel on “Digital Deformance and Scholarly Forms” at the 2015 MLA conference. For more details on how to reverse audio recordings, see my <a href="http://walshbr.github.io/blog/2015/01/05/deformance/">previous post on the subject</a>.]</p>
 
 <p><strong>The Devil in the Recording: Deformative Listening and Sound Reproduction</strong></p>
 
@@ -699,7 +699,7 @@ Your browser does not support the video tag.
 
 <p><img src="https://walshbr.com/images/export.jpg" width="40%" class="right" /></p>
 
-<p><em>Audacity</em> gives many other options for experimenting with sound remixing, distortion, and deformance that I would encourage you to explore. The software also gives you many options for working with sound files more generally. I have written <a href="http://bmw9t.github.io/blog/2013/11/13/audio-at-thatcampva/">elsewhere</a> about using Audacity to prepare sound files for research and presentation. Check out my other post if you want to learn more about how to slice out clips, mix together two sound files, or process DRM files.</p>
+<p><em>Audacity</em> gives many other options for experimenting with sound remixing, distortion, and deformance that I would encourage you to explore. The software also gives you many options for working with sound files more generally. I have written <a href="http://walshbr.github.io/blog/2013/11/13/audio-at-thatcampva/">elsewhere</a> about using Audacity to prepare sound files for research and presentation. Check out my other post if you want to learn more about how to slice out clips, mix together two sound files, or process DRM files.</p>
 ]]></content>
   </entry>
   
