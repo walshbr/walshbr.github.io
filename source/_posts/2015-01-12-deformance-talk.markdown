@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-[The following is an only slightly modified version of the talk I gave at the [ACH](http://ach.org/)'s panel on "Digital Deformance and Scholarly Forms" at the 2015 MLA conference. For more details on how to reverse audio recordings, see my [previous post on the subject](http://bmw9t.github.io/blog/2015/01/05/deformance/).]
+[The following is an only slightly modified version of the talk I gave at the [ACH](http://ach.org/)'s panel on "Digital Deformance and Scholarly Forms" at the 2015 MLA conference. For more details on how to reverse audio recordings, see my [previous post on the subject](http://walshbr.github.io/blog/2015/01/05/deformance/).]
 
 **The Devil in the Recording: Deformative Listening and Sound Reproduction**
 

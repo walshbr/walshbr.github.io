@@ -7,19 +7,19 @@ footer: false
 ---
 
 
-While the blogroll has miscellaneous scribblings, these are the more complete/robust projects that I have worked on. In addition to my work on projects at <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/bmw9t">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
+While the blogroll has miscellaneous scribblings, these are the more complete/robust projects that I have worked on. In addition to my work on projects at <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/walshbr">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
 <section></section>
 <h2>Hearing Silent Woolf</h2>
 
 <img class="small right" src="{{ root_url }}/images/woolf.jpg" alt="woolf face">
 
-Python project that uses natural language processing and machine learning to perform distant readings of Virginia Woolf's use of quotation marks. The study aims to chart Woolf's use of moments that imply speech even when no punctuation is present. The project won first prize for the digital humanities panel I was on at the <a href="http://gradcouncil.com/2015-sessions/">2015 Huskey Research Exhibition at UVA</a>, and it was the basis for a fellowship in digital humanities in UVA's <a href="https://www.scholarslab.org">Scholars' Lab</a>. The project was carried out with significant contributions from Eric Rochester, Head of Research and Development in the Lab, and our code can be found on our <a href="https://www.github.com/bmw9t/woolf">GitHub repository</a>.
+Python project that uses natural language processing and machine learning to perform distant readings of Virginia Woolf's use of quotation marks. The study aims to chart Woolf's use of moments that imply speech even when no punctuation is present. The project won first prize for the digital humanities panel I was on at the <a href="http://gradcouncil.com/2015-sessions/">2015 Huskey Research Exhibition at UVA</a>, and it was the basis for a fellowship in digital humanities in UVA's <a href="https://www.scholarslab.org">Scholars' Lab</a>. The project was carried out with significant contributions from Eric Rochester, Head of Research and Development in the Lab, and our code can be found on our <a href="https://www.github.com/walshbr/woolf">GitHub repository</a>.
 
 Posts:
 
-* "[Virginia Woolf, Natural Language Processing, and the Quotation Mark](https://bmw9t.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/)"
-* "[Hearing Silent Woolf](https://bmw9t.github.io/blog/2015/03/23/woolf-huskey/)"
-* "[Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark](https://bmw9t.github.io/blog/2016/05/17/reading-speech/)"
+* "[Virginia Woolf, Natural Language Processing, and the Quotation Mark](https://walshbr.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/)"
+* "[Hearing Silent Woolf](https://walshbr.github.io/blog/2015/03/23/woolf-huskey/)"
+* "[Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark](https://walshbr.github.io/blog/2016/05/17/reading-speech/)"
 
 
 <section></section>
@@ -36,7 +36,7 @@ Publications:
 
 Posts: 
 
-* "[Prism in the Classroom: Questions to Frame Discussion](http://bmw9t.github.io/blog/2014/09/16/prism-pedagogy/)"
+* "[Prism in the Classroom: Questions to Frame Discussion](http://walshbr.github.io/blog/2014/09/16/prism-pedagogy/)"
 * [Miscellaneous posts from the Praxis Program]({{ root_url }}/blog/2013/07/23/praxis/)
 
 
@@ -61,5 +61,5 @@ From 2013 to 2015 I acted as Project Manager of the <a href="https://www.nines.o
 
 Posts: 
 
-* "[Introduction to Text Analysis: A Coursebook](http://bmw9t.github.io/blog/2016/10/24/text-analysis-coursebook/)"
+* "[Introduction to Text Analysis: A Coursebook](http://walshbr.github.io/blog/2016/10/24/text-analysis-coursebook/)"
 
