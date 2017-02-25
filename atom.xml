@@ -4,7 +4,7 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="https://walshbr.com/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2017-02-25T12:34:39-05:00</updated>
+  <updated>2017-02-25T12:38:05-05:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -20,7 +20,7 @@
     <id>https://walshbr.com/blog/2017/02/25/octopress</id>
     <content type="html"><![CDATA[<p>I have been using GitHub to host my site as a .github.io domain for years now, but I decided to switch to something a bit easier to remember as way of consolidating a few pieces of my digital identity (I had been variably using bmw9t and walshbr as public-facing usernames in different places). I’m now up and running with <a href="https://reclaimhosting.com/">Reclaim Hosting</a>, and they have been fantastic in helping me to troubleshoot the issues. </p>
 
-<p>I ran into a quirky issue with my setup, though, and I thought I’d document it in case someone else runs into this in the future. My old workflow looked like this:</p>
+<p>I ran into a quirky issue with my setup, though, and I thought I’d document it in case someone else runs into this in the future when trying to mix Octopress, GitHub, and custom domain mapping. My old workflow looked like this:</p>
 
 <ol>
   <li>Work locally.</li>
