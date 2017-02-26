@@ -57,7 +57,7 @@ From 2013 to 2015 I acted as Project Manager of the <a href="https://www.nines.o
 <section></section>
 <h2>Introduction to Text Analysis: A Coursebook</h2>
 <img class="mid right" src="{{ root_url }}/images/coursebook.png">
-<a href="https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/">Introduction to Text Analysis: A Coursebook</a> is an open, remixable set of course materials. Co-authored with Professor Sarah Horowitz of Washington and Lee University, the book is designed to be modularized so as to facilitate easy excerpting. The book was written with a student audience in mind, and it is as much a pedagogical experiment in collaborative writing as it is a teaching resource in its own right.
+<a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a> is an open, remixable set of course materials. Co-authored with Professor Sarah Horowitz of Washington and Lee University, the book is designed to be modularized so as to facilitate easy excerpting. The book was written with a student audience in mind, and it is as much a pedagogical experiment in collaborative writing as it is a teaching resource in its own right.
 
 Posts: 
 
