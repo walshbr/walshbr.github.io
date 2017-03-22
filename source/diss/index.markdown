@@ -5,5 +5,5 @@ comments: true
 sharing: true
 footer: true
 ---
-<script>window.location = "https://diss.herokuapp.com";</script>
+<script>window.location = "http://www.yoururl.com";</script>
 Redirecting you to the new site!
