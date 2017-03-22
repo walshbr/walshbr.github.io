@@ -28,4 +28,4 @@ In case you want to read more, here are some other pieces on co-teaching from my
 * Sarah Storti - [On Co-teaching and Gratitude](http://scholarslab.org/digital-humanities/on-co-teaching-and-gratitude/)
 * Ed Triplett - [One Teach, One Drift](http://scholarslab.org/digital-humanities/one-teach-one-drift/)
 * Here is another blip from me - [Washington and Lee Trip](http://scholarslab.org/digital-humanities/washington-and-lee-trip/)
-* And some of my syllabi and materials can be found [here](http://walshbr.com/teaching/) and (here)[https://humanitiesprogramming.github.io/]
+* And some of my syllabi and materials can be found [here](http://walshbr.com/teaching/) and [here](https://humanitiesprogramming.github.io/)
