@@ -3,7 +3,7 @@ layout: post
 title: "Music Genre and Spotify Metadata"
 date: 2015-09-20 16:51
 comments: true
-categories: 
+categories: [sound studies]
 ---
 
 *[Crossposted on the Scholars' Lab blog](http://scholarslab.org/?p=12173)*

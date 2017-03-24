@@ -3,7 +3,7 @@ layout: post
 title: "Ripper Press Reports Dataset"
 date: 2016-12-12 09:51
 comments: true
-categories: 
+categories: [resource, W&L]
 ---
 *[Crossposted on the [WLULDH blog](http://digitalhumanities.wlu.edu/blog/2016/12/12/new-resource/).]*
 

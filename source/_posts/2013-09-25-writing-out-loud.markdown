@@ -3,7 +3,7 @@ layout: post
 title: "Writing Out Loud: Google Docs for Live Writing, Revision, and Discussion"
 date: 2013-09-25 09:45
 comments: true
-categories: 
+categories: [pedagogy, tools, tips]
 ---
 I have been using Google Docs as a part of my teaching for almost two years now. The idea first came about in an advanced course on Academic and Professional Writing. We talked a lot about editing in the class, and many of the conversations about style took this shape:
 

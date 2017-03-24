@@ -3,7 +3,7 @@ layout: post
 title: "The Tri-Wizard Paper Outline Challenge"
 date: 2013-10-21 10:19
 comments: true
-categories: 
+categories: [pedagogy]
 ---
 This teaching exercise grew directly out of a comment made by Kirk Wilkins in a recent <a href="http://fycchat.blogspot.com/">#FYCchat</a> on how he uses Harry Potter to facilitate group work. I instantly fell in love with the idea, but the semester was a bit too far along to integrate a whole Harry Potter house system into the course. Instead, I developed a one-off group activity in the same spirit: The Tri-Wizard Paper Outline Challenge. Group work with a twist - I sorted the students into the houses from Harry Potter, as they competed for our own <a href="http://harrypotter.wikia.com/wiki/Triwizard_Cup">Tri-Wizard Cup</a>, a literary mug filled with candy. "Let the magic of literature sweep you away to far-off lands!"
 

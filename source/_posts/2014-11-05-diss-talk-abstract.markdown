@@ -3,7 +3,7 @@ layout: post
 title: "diss talk abstract"
 date: 2014-11-05 11:55
 comments: true
-categories: 
+categories: [talk]
 ---
 
 On Friday, November 7th I will be giving a talk to the UVA English Department entitled “The Joycean Record: Listening Patterns and Sound Coteries." The talk is a reworking of material from one of my dissertation chapters that I originally presented at last year's *MLA* meeting in Chicago.

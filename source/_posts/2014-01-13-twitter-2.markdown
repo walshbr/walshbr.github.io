@@ -3,7 +3,7 @@ layout: post
 title: "Teaching with Twitter - Part 2"
 date: 2014-01-13 16:07
 comments: true
-categories: 
+categories: [tools, tips, pedagogy]
 ---
 <em>This post is the second in a series reflecting on my experiments using Twitter in the classroom. Be sure to read the <a href="{{ root_url }}/blog/2013/11/02/twitter-1/">first</a> post that began the discussion.</em> 
 

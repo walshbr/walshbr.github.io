@@ -3,7 +3,7 @@ layout: post
 title: "TextMate and Git"
 date: 2013-08-03 10:45
 comments: true
-categories: 
+categories: [tools, tips]
 ---
 This one is for my own files as much as anything else. For some time now, I've been getting a persistent error in Git when I try to go through the steps of committing a file online. This particular error came about when trying to pull before pushing up to GitHub:
 

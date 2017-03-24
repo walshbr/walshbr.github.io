@@ -3,7 +3,7 @@ layout: post
 title: "Bash-it Plugins"
 date: 2013-08-11 16:41
 comments: true
-categories: 
+categories: [tools, tips]
 ---
 Sometimes things go wrong. When this happens, I often find a temporary solution that works fine in the moment, but implementing the fix repeatedly can get annoying over time. Here is something that I had been ignoring for a while and only recently took the time to fix.
 

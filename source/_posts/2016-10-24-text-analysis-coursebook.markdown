@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Text Analysis: A Coursebook"
 date: 2016-10-24 14:06
 comments: true
-categories: 
+categories: [text analysis, collaboration, W&L]
 ---
 
 *[Crossposted on the [WLUDH blog](http://digitalhumanities.wlu.edu/blog/2016/10/27/introduction-to-text-analysis-a-coursebook/)]*

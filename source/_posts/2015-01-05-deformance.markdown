@@ -3,7 +3,7 @@ layout: post
 title: "Deformance"
 date: 2015-01-05 10:18
 comments: true
-categories: 
+categories: [sound studies, conference, talk]
 ---
 
 [The following post is crosslisted on the [ACH](http://ach.org/)'s blog. The post details the methods used in putting together a talk for MLA 15 that takes place in 212 VCC West at 12:00 PM on Friday, January 9th.]

@@ -3,7 +3,7 @@ layout: post
 title: "Octopress, GitHub, and Custom Domains"
 date: 2017-02-25 12:00
 comments: true
-categories: 
+categories: [tips]
 ---
 I have been using GitHub to host my site as a .github.io domain for years now, but I decided to switch to something a bit easier to remember as way of consolidating a few pieces of my digital identity (I had been variably using bmw9t and walshbr as public-facing usernames in different places). I'm now up and running with [Reclaim Hosting](https://reclaimhosting.com/), and they have been fantastic in helping me to troubleshoot the issues. 
 

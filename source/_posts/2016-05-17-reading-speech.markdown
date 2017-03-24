@@ -3,7 +3,7 @@ layout: post
 title: "Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark"
 date: 2016-05-17 08:46
 comments: true
-categories: 
+categories: [Woolf, text analysis, sound studies]
 ---
 
 *[Crossposted on the [Scholars’ Lab blog](http://scholarslab.org/digital-humanities/reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark/) as well as the [WLUDH blog](http://digitalhumanities.wlu.edu/blog/2016/05/17/reading-speech-virginia-woolf-machine-learning-and-the-quotation-mark/). What follows is a slightly more fleshed out version of what I presented this past week at [HASTAC 2016](https://hastac2016.org) (complete with my memory-inflected transcript of the Q&A). I gave a bit more context for the project at the event than I do here, so it might be helpful to read my past two posts on the project [here](https://walshbr.github.io/blog/2015/03/23/woolf-huskey/) and [here](http://walshbr.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/) before going forward. This talk continues that conversation.]*

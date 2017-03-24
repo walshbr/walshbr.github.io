@@ -3,7 +3,7 @@ layout: post
 title: "Reflections on a Year of DH Mentoring"
 date: 2015-12-04 09:13
 comments: true
-categories: 
+categories: [pedagogy, Scholars' Lab]
 ---
 
 *[Crossposted on the [Scholars' Lab blog](http://scholarslab.org/digital-humanities/reflections-on-a-year-of-dh-mentoring/) and the [Digital Humanities at Washington and Lee blog](http://digitalhumanities.wlu.edu/blog/2015/12/03/reflections-on-a-year-of-dh-mentoring/)]*

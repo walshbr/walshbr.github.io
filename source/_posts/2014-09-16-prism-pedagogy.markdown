@@ -3,7 +3,7 @@ layout: post
 title: "Prism in the Classroom: Questions to Frame Discussion"
 date: 2014-09-16 13:55
 comments: true
-categories: 
+categories: [pedagogy, tools, tips]
 ---
 
 Crossposted on the [Scholars' Lab blog](http://scholarslab.org/digital-humanities/prism-in-the-classroom-questions-to-frame-discussion/).

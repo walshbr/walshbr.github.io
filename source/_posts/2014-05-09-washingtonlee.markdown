@@ -3,7 +3,7 @@ layout: post
 title: "Washington and Lee Trip"
 date: 2014-05-09 10:31
 comments: true
-categories: 
+categories: [W&L, pedagogy, collaboration]
 ---
 
 <em>Crossposted on the <a href="http://www.scholarslab.org/uncategorized/washington-and-lee-trip/">Scholars' Lab blog</a>.</em>
