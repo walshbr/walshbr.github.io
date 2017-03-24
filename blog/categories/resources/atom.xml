@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: resource | Brandon Walsh]]></title>
-  <link href="https://walshbr.com/blog/categories/resource/atom.xml" rel="self"/>
+  <title><![CDATA[Category: resources | Brandon Walsh]]></title>
+  <link href="https://walshbr.com/blog/categories/resources/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2017-03-23T23:27:45-04:00</updated>
+  <updated>2017-03-23T23:37:04-04:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
