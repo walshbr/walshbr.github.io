@@ -3,7 +3,7 @@ layout: post
 title: "Rails Girls Digital Humanities"
 date: 2013-09-08
 comments: true
-categories: [conference]
+categories: [conferences]
 ---
 This past weekend I coached at <a href="http://railsgirls.com/digitalhumanities_fairfax">Rails Girls Digital Humanities</a> at the <a href="http://chnm.gmu.edu/">Roy Rosenzweig Center for History and New Media</a>. The event was amazing, the women were inspiring, and the tacos were delicious. It was just wonderful to take a first attempt at teaching Ruby on Rails in a community that was so supportive and welcoming! I learned a lot about teaching from the day. Here are a few thoughts on the experience and on how I would be a better coach in the future.
 

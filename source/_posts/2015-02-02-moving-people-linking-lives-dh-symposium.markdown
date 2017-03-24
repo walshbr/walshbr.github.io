@@ -3,7 +3,7 @@ layout: post
 title: "Moving People, Linking Lives DH Symposium"
 date: 2015-02-02 14:33
 comments: true
-categories: [conference]
+categories: [conferences]
 ---
 [I am very excited to be working with Alison Booth, Jenny Strauss Clay, and Amy Ogden to plan a digital humanities symposium this March. What follows is our general announcement of the event, cross-posted on the [Scholars' Lab](http://scholarslab.org/uncategorized/moving-peoplelinking-lives-dh-symposium/) blog.]
 

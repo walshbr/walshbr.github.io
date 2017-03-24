@@ -3,7 +3,7 @@ layout: post
 title: "Audio at THATCampVA"
 date: 2013-11-13 10:05
 comments: true
-categories: [sound studies, conference]
+categories: [sound studies, conferences]
 ---
 
 I took part in <a href ="http://virginia2013.thatcamp.org/">THATCampVA</a> this past weekend, where I led a session on using Audacity to mix and remix audio files for Digital Humanities projects. This was my session proposal, copied from <a href="http://virginia2013.thatcamp.org/2013/10/24/audacity-and-audio-in-play-and-in-practice/">the event's main page</a>:
