@@ -4,7 +4,7 @@
   <title><![CDATA[Category: documentation | Brandon Walsh]]></title>
   <link href="https://walshbr.com/blog/categories/documentation/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2017-05-09T06:57:39-04:00</updated>
+  <updated>2017-05-09T07:06:46-04:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -87,11 +87,11 @@
 
 <p>Now anyone going to our bibliography page with a Zotero extension will see this in the right of the address bar:</p>
 
-<p><img src="/images/zotero-extension.jpg" /></p>
+<p><img src="{{ root_url }}/images/zotero-extension.jpg" /></p>
 
 <p>Clicking on the folder icon will bring up the Zotero interface for downloading any of the items in our collection.</p>
 
-<p><img src="/images/zotero-download.jpg" /></p>
+<p><img src="{{ root_url }}/images/zotero-download.jpg" /></p>
 
 <p>And to update this information we only need to run a single python script from the terminal to re-generate everything.</p>
 
