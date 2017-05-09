@@ -14,7 +14,7 @@ It’s a well-known fact that you can find the devil in popular music. Simply ta
 
 So here is part of “Stairway to Heaven” backwards. 			
 
-<audio controls><source src="{{ root_url }}/MP3s/zeppelin_reversed.mp3" type="audio/mpeg"><source src="{{ root_url }}/ogg/zeppelin_reversed.ogg" type="audio/ogg">Your browser does not support this audio format.</audio>
+<audio controls><source src="{{ root_url }}/mp3s/mla-2015/zeppelin_reversed.mp3" type="audio/mpeg"><source src="{{ root_url }}/ogg/mla-2015/zeppelin_reversed.ogg" type="audio/ogg">Your browser does not support this audio format.</audio>
 
 Source: [http://youtu.be/zGsUcPdPWBg?t=47s](http://youtu.be/zGsUcPdPWBg?t=47s) 
 
@@ -43,11 +43,11 @@ In Langston Hughes’s 1958 recording of “Motto” in collaboration with Charl
 
 "Motto"
 
-<audio controls><source src="{{ root_url }}/MP3s/5_motto.mp3" type="audio/mpeg"><source src="{{ root_url }}/ogg/5_motto.ogg" type="audio/ogg">Your browser does not support this audio format.</audio>
+<audio controls><source src="{{ root_url }}/mp3s/mla-2015/motto.mp3" type="audio/mpeg"><source src="{{ root_url }}/ogg/mla-2015/5_motto.ogg" type="audio/ogg">Your browser does not support this audio format.</audio>
 
 "Motto" Reversed
 
-<audio controls><source src="{{ root_url }}/MP3s/motto_reversed.mp3" type="audio/mpeg"><source src="{{ root_url }}/ogg/motto_reversed.ogg" type="audio/ogg">Your browser does not support this audio format.</audio>
+<audio controls><source src="{{ root_url }}/mp3s/mla-2015/motto_reversed.mp3" type="audio/mpeg"><source src="{{ root_url }}/ogg/mla-2015/motto_reversed.ogg" type="audio/ogg">Your browser does not support this audio format.</audio>
 
 The recording is a useful analogy for vocal sound recordings more generally in that it has two distinct pieces – a musical (non-verbal sound) component, and a recorded voice (with linguistic content). The two elements often intertwine and are not easily separated (this example not withstanding). You can hear, I think, the stark difference between the reversed poetic content by Hughes and the reversed instrumental content. Hughes reversed sounds like nonsense, while the saxophone in particular still sounds like something of a melody. The digital reversal of sound recordings treats them both as waveforms with no semantic content – it reverses them just as easily and happily as it would any other sound recording. 
 
