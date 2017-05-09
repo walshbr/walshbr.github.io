@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tips | Brandon Walsh]]></title>
   <link href="https://walshbr.com/blog/categories/tips/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2017-03-24T00:08:06-04:00</updated>
+  <updated>2017-05-09T06:57:39-04:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -86,7 +86,7 @@
     <link href="https://walshbr.com/blog/2014/01/13/twitter-2/"/>
     <updated>2014-01-13T16:07:00-05:00</updated>
     <id>https://walshbr.com/blog/2014/01/13/twitter-2</id>
-    <content type="html"><![CDATA[<p><em>This post is the second in a series reflecting on my experiments using Twitter in the classroom. Be sure to read the <a href="{{ root_url }}/blog/2013/11/02/twitter-1/">first</a> post that began the discussion.</em> </p>
+    <content type="html"><![CDATA[<p><em>This post is the second in a series reflecting on my experiments using Twitter in the classroom. Be sure to read the <a href="/blog/2013/11/02/twitter-1/">first</a> post that began the discussion.</em> </p>
 
 <p>In my previous post, I described the process by which I went about integrating Twitter into my discussion section, but I offered few reasons for why instructors might want to do so. There are good pedagogical justifications for including social media, and it benefits interested instructors to give the move considered thought before integrating Twitter into course syllabi. I was prepared for students to push back against the idea of moving class conversation to Twitter, so I gave an opening pitch for the class activity containing several rationales for the experiment to my students. I encouraged students to think about Twitter as an exercise that would broaden their <strong>audience</strong>, allow them to practice digital <strong>professionalization</strong>, and challenge them to think small in their <strong>writing</strong>.  </p>
 
@@ -142,17 +142,17 @@ Student C: “We could get rid of that word and use this phrase instead.”  </p
 
 <p>Hard to wrap your head around, right? Just imagine if those conversations were spoken. <em>Talking</em> about writing can only get you so far: writing is graphic, after all. As I write and edit, I try out different options on the page. I model possibilities, but I do so <em>in</em> writing. Discussing the editing process without visual representations of suggested changes can make things too abstract to be meaningful for students. I developed an exercise that I call “Writing Out Loud” that more closely mirrors my actual editing process. Using a Google Doc as a collaborative writing space, students are able to model alternate revisions visually and in real time for discussion.</p>
 
-<p><img src="{{ root_url }}/images/WOL_settings.jpg" width="60%" class="right" /> </p>
+<p><img src="/images/WOL_settings.jpg" width="60%" class="right" /> </p>
 
 <p>The setup requires a projector-equipped classroom and that students bring their laptops to class. Circulate the link to the Google Doc ahead of time, taking care that anyone with the link can edit the document. </p>
 
 <p>The template of the Google Doc consists of a blank space at the top for displaying the sentence under question and a series of workspaces for each student consisting of their name and a few blank lines. Separate workspaces prevent overlapping revisions, and they also minimize the disorienting effects of having multiple people writing on the same document.</p>
 
-<p><img src="{{ root_url }}/images/WOL_template.jpg" width="60%" class="left" /></p>
+<p><img src="/images/WOL_template.jpg" width="60%" class="left" /></p>
 
 <p>We usually turn to the exercise when a student feels a particular sentence is not working but cannot articulate why. When this happens, put the Writing Out Loud template on the projector with the original version of the sentence at the top. Using their own laptops, students sign onto the Doc and type out alternative versions of the sentence, and the multiple possible revisions show up on the overhead for everyone to see and discuss. After each student rewrites the sentence to be something that they feel works better, ask for volunteers to explain how the changes affect meaning. The whole process only takes a few minutes, and it allows you to abstract writing principles from the actual process of revision rather that the other way around. How does the structure of a sentence matter? How can word choice change everything? What pieces of a sentence are repetitive?</p>
 
-<p><img src="{{ root_url }}/images/WOL_filled.jpg" width="60%" class="right" /></p>
+<p><img src="/images/WOL_filled.jpg" width="60%" class="right" /></p>
 
 <p>Obviously Writing Out Loud works better on micro-edits, revisions at the level of the sentence. The standard process of the exercise—write, collate, and discuss—would take far too long with anything longer than a few lines. The exercise can be particularly useful for those sentences that carry a lot of importance for entire arguments: thesis statements, topic sentences, the first sentences of the document, etc. </p>
 
