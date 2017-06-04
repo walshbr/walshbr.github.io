@@ -4,7 +4,7 @@
   <title><![CDATA[Category: pedagogy | Brandon Walsh]]></title>
   <link href="https://walshbr.com/blog/categories/pedagogy/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2017-05-09T06:57:39-04:00</updated>
+  <updated>2017-05-09T07:06:46-04:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -114,7 +114,7 @@
 
 <p>A potential writing exercise for use with Juxta is simple: a student writes a paragraph, and they then rewrite that paragraph several times. Finally, the student uploads each version to Juxta before writing a brief reflection on the differences between the drafts. What remains constant? Where do changes cluster? Do these edits indicate any special anxiety or concern with any one particular element of the writing process – transitional sentences, thematic chaining, logic, etc.? Do the ideas themselves stay the same? Fixating on these details can allow students to conceive of writing as an assemblage of various components that result in the illusion of a coherent whole. </p>
 
-<p><img src="/images/variants.jpg" width="100%" /></p>
+<p><img src="{{ root_url }}/images/variants.jpg" width="100%" /></p>
 
 <p>In the example above, the student is writing a grant proposal for his tennis team. In an early draft, the class noted that the writing held the team at too much of a remove when the author wanted to stress its importance to him as a second family. Such a charge can seem like a big task, but processing the paragraph through the Juxta assignment throws into sharp relief the minute edits created in a revision to create such systemic change. Comparing the two revisions in Juxta, we can see that, by and large, the student revised the subjects of this first paragraph. “I” becomes “we,” and “friends” will become a “family.” He works to increase the sense of unity among the group of people he describes, a unity that will later become essential in his argument that the organization provides more to the community than just a place to play sports. The Juxta assignment allows a student better insight into how each of these component pieces can easily be sent into motion and radically change the character of the whole document. A large, sweeping suggestion like “adjust your tone” becomes revision by way of a thousand moving pieces. Much more doable.</p>
 
@@ -122,7 +122,7 @@
 
 <p>Juxta’s strength as a collation tool is also its limitation for the sort of teaching exercise that I am describing. Juxta has the benefit of being quantitative: its visualizations can offer users quick and accurate depictions of things that might otherwise go unrecognized – a missing comma, or a single different word. Juxta works best with large documents that are largely the same. But if the corresponding passages become too different Juxta will be thrown into disarray. </p>
 
-<p><img src="/images/too_much_difference.jpg" width="100%" /></p>
+<p><img src="{{ root_url }}/images/too_much_difference.jpg" width="100%" /></p>
 
 <p>While it is very good at processing texts to find small differences, the software does not quite work if the documents are too different from one another. Its system allows for either exact similarity or difference at the level of character. It cannot tell, for example, if you have reworded a particular phrase or removed it entirely. The paragraph in this example was heavily rewritten, with only a few words in common between the two drafts. While this sort of at a glance collation could be useful to identify revised sections in longer documents, it does little to unsettle the idea of writing as a search for a fully realized whole. Juxta Commons works best for helping students to see the massive change that can be wrought by a collection of small changes.</p>
 
@@ -138,11 +138,11 @@ Student C: “We could get rid of that word and use this phrase instead.”  </p
 
 <p>The setup requires a projector-equipped classroom and that students bring their laptops to class. Circulate the link to the Google Doc ahead of time, taking care that anyone with the link can edit the document. The template of the Google Doc consists of a blank space at the top for displaying the sentence under question and a series of workspaces for each student consisting of their name and a few blank lines. Separate workspaces prevent overlapping revisions, and they also minimize the disorienting effects of having multiple people writing on the same document.</p>
 
-<p><img src="/images/WOL_template.jpg" width="40%" class="right" /></p>
+<p><img src="{{ root_url }}/images/WOL_template.jpg" width="40%" class="right" /></p>
 
 <p>We usually turn to the exercise when a student feels a particular sentence is not working but cannot articulate why. When this happens, I put the Writing Out Loud template on the projector with the original version of the sentence at the top. Using their own laptops, students sign onto the Doc and type out alternative versions of the sentence, and the multiple possible revisions show up on the overhead for everyone to see and discuss. After each student rewrites the sentence to be something that they feel works better, ask for volunteers to explain how the changes affect meaning. The whole process only takes a few minutes, and it allows you to abstract writing principles from the actual process of revision rather that the other way around. How does the structure of a sentence matter? How can word choice change everything? What pieces of a sentence are repetitive?</p>
 
-<p><img src="/images/WOL_filled.jpg" width="100%" /></p>
+<p><img src="{{ root_url }}/images/WOL_filled.jpg" width="100%" /></p>
 
 <p>I especially like this exercise because it asks multiple students to engage in the revision process. It is always easier to revise when you have critical distance on a piece of writing, and outside editors with no attachment to a particular word or phrase can offer just that. In the above example, the sentence under discussion contained the colloquial phrase “get the word out.” The class offered a range of alternatives that range in their formality. Instead of receiving an edict to professionalize their tone, the student gets a glimpse of many possibilities from which he can choose. The exercise also allows the choices to exist side by side, making collation possible in a way that the usual revision process makes difficult. Most students, I would wager, work with one or, at most, two drafts open at a single time. Google Docs can allow a number of possibilities to emerge.</p>
 
