@@ -10,7 +10,7 @@
   <meta name="author" content="Brandon Walsh">
 
   
-  <meta name="description" content="[Crossposted on the WLUDH blog.] For me, co-teaching is the ultimate teaching experience. I’ve been fortunate to find several opportunities for it &hellip;">
+  <meta name="description" content="[Crossposted to the Scholars’ Lab blog.] For the past several years, I’ve taught a Humanities Programming course at HILT. The course was piloted by &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -83,6 +83,115 @@
   
   <div class="blog-index">
   
+  
+  
+
+    <article>
+      
+  <header>
+    
+      <h2 class="entry-title"><a href="/blog/2017/06/03/what-should-you-do-in-a-week/">What Should You Do in a Week?</a></h2>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2017-06-03T20:17:00-04:00" pubdate data-updated="true">Jun 3<span>rd</span>, 2017</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><em>[Crossposted to the <a href="http://scholarslab.org/digital-humanities/what-should-you-do-in-a-week/">Scholars’ Lab blog</a>.]</em></p>
+
+<p>For the past several years, I’ve taught a <a href="http://humanitiesprogramming.github.io">Humanities Programming</a> course at <a href="http://www.dhtraining.org/">HILT</a>. The course was piloted by Wayne Graham and Jeremy Boggs, but, these days, I co-teach the course with <a href="http://scholarslab.org/people/ethan-reed/">Ethan Reed</a>, one of our DH fellows in the Scholars’ Lab. The course is a soup-to-nuts introduction to the kinds of methods and technologies that are useful for humanities programming. We’re changing the course a fair amount this year, so I thought I’d offer a few notes on what we’re doing and the pedagogical motivations for doing so. You can find our syllabus, slides, resources, and more on <a href="https://humanitiesprogramming.github.io/syllabus/">the site</a>. </p>
+
+<p>We broke the course down into two halves:</p>
+
+<ul>
+  <li>Basics: command line, Git, GitHub, HTML/CSS
+    <ul>
+      <li>Project: personal website</li>
+    </ul>
+  </li>
+  <li>Programming concepts: Ruby
+    <ul>
+      <li>Project: Rails application deployed through Heroku and up on GitHub</li>
+    </ul>
+  </li>
+</ul>
+
+<p>In the first half, people learned the basic stack necessary to work towards a personal website, then deploying that site through GitHub pages. In the second half, students took in a series of lessons about Ruby syntax, but the underlying goal was to teach them the programming concepts common to a number of programming languages. Then, we shifted gears and had them work through a series of Rails tutorials that pushed them towards a real-life situation where they’re working through and on a thing (in this case a sort of platform for crowdsourcing transcriptions of images). </p>
+
+<p>I really enjoyed teaching the Rails course, and I think there was a lot of good in it. But over the past few years it has raised a number of pedagogical questions for me:</p>
+
+<ul>
+  <li>What can you reasonably hope to teach in a week-long workshop?</li>
+  <li>Is it better to do more with less or less with more?</li>
+  <li>What is the upper-limit on the amount of new information students can take in during the week?</li>
+  <li>What will students actually use/remember from the course once the week is over?</li>
+</ul>
+
+<p>To be fair, week-long workshops like this one often raise similar concerns for me. I had two main concerns about our course in particular. </p>
+
+<p>The first was a question of audience. We got people of all different skill levels in the course. Some people were there to get going with programming for the first time. These newcomers often seemed really comfortable with the course during the first half, while the second half of the course could result in a lot of frustration when the difficulty of the material suddenly seemed to skyrocket. Other students were experienced developers with several languages under their belt who were there specifically to learn Rails. The first half of the course seemed to be largely review for this experienced group, while the second half was really what they were there to take on.  It’s great that we were able to pull in students with such diverse experiences, but I was especially concerned for the people new to programming who felt lost during the second half of the course. Those experienced folks looking to learn Rails? I think they can probably find their way into the framework some other way. But I didn’t want our course to turn people off from programming because the presentation of the material felt frustrating. We can fix that. I always feel as though we should be able to explain these methods to anyone, and I wanted our alumni to feel that they were empowered by their new experiences, not frustrated. I wanted our course to reflect that principle by focusing on this audience of people looking for an introduction, not an advanced tutorial. </p>
+
+<p>I also wondered a lot about the outcomes of the course. I wondered how many of the students really did anything with web applications after the course was over. Those advanced students there specifically for Rails probably did, and I’m glad that they had tangible skills to walk away with. But, for the average person just getting into digital humanities programming, I imagine that Rails wasn’t something they were going to use right away. After all, you use what you need to do what you need. And, while Rails gives you a lot of options, it’s not necessarily the tool you need for the thing in front of you - specially when you’re starting out.</p>
+
+<p>So we set about redesigning the course with some of these thoughts in mind and with a few principles:</p>
+
+<ul>
+  <li>Less is more.</li>
+  <li>A single audience is better than many.</li>
+  <li>If you won’t use it, you’ll lose it.</li>
+</ul>
+
+<p>I wondered how we might redesign the course to better reflect the kinds of work that are most common to humanists using programming for their work. I sat down and thought about common tasks that I use programming for beyond building apps/web services. I made a list of some common tasks that, when they confront me, I go, “I can write a script for that!” The resulting syllabus is <a href="https://humanitiesprogramming.github.io/syllabus/">on the site</a>, but I’ll reiterate it here. The main changes took place in the second half of the course:</p>
+
+<ul>
+  <li>Basics: command line, git, GitHub, HTML/CSS
+    <ul>
+      <li>Project: personal website</li>
+    </ul>
+  </li>
+  <li>Programming concepts: Python
+    <ul>
+      <li>Project(s): Applied Python for acquiring, processing, and analyzing humanities data</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The switch from Python to Ruby reflects, in part, my own changing practices, but I also find that the Pythonic syntax enforces good stylistic practices in learners. In place of working on a large Rails app, we keep the second half of the course focused on daily tasks that programming is good for. After learning the basic concepts from Python, we introduce a few case studies for applied Python. Like all our materials, these are available <a href="http://humanitiesprogramming.github.io/resources/">on our site</a>. But I’d encourage interested folks to check out the Jupyter notebooks for these units if you’re interested. These are the new units on applications of Python to typical situations:</p>
+
+<ul>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/working-with-csv.ipynb">Working with CSV files</a></li>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/working-with-apis.ipynb">Getting data from API’s</a></li>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/intro-to-scraping.ipynb">Introduction to Web Scraping</a></li>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/text-analysis.ipynb">Basic Text Analysis</a></li>
+</ul>
+
+<p>In the process of working through these materials, the students work with real, live humanities data drawn from <a href="https://www.gutenberg.org/">Project Gutenberg</a>, the <a href="https://dp.la/">DPLA</a>, and the <a href="http://www.casebook.org/press_reports/">Jack the Ripper Casebook</a>. We walk the students through a few different options for building a corpus of data and working with it. After gathering data, we talk about problems with it and how to use it. Of course, you could run an entire course on such things. Our goal here is not to cover everything. In fact, I erred on the side of keeping the lessons relatively lightweight, with the assumption that the jump in difficulty level would require us to move pretty slowly. The main goal is to show how situations that appear to be much more complicated still boil down to the same basic concepts the students have just learned. We want to shrink the perceived gap between those beginning exercises and the kinds of scripts that are actually useful for your own day-to-day work. We introduce some slightly more advanced concepts along the way, but hopefully enough of the material will remain familiar that the students can excel. Ideally, the concepts we work through in these case studies will be more immediately useful to someone trying to introduce programming into their workflow for the first time. And, in being more immediately useful, the exercises might be more likely to give a lasting foundation for them to keep building on into the future. </p>
+
+<p>We’ve also rebranded the course slightly. The course description has changed, as we’ve attempted to soften jargon and make it clear that students are meant to come to the course not knowing the terms or technologies in the description (they’re going to learn them with us!). The course name has changed as well, first as a joke but then in a serious way. Instead of simply being called “Humanities Programming,” the course is now “Help! I’m a Humanist! - Programming for Humanists with Python.” The goal there is to expose the human aspect of the course - no one is born knowing this stuff, and learning it means dealing with a load of tough feelings: anxiety, frustration, imposter syndrome, etc. I wanted to foreground all of this right away by making my own internal monologue part of the course title. The course can’t alleviate all those feelings, but I hoped to make it clear that we’re taking them into account and thinking about the human side of what it means to teach and learn this material. We’re in it together. </p>
+
+<p>So. What can you do in a week? Quite a lot. What should you do - that’s a much tougher question. I’ve timed this post to go out right around when HILT starts. If I figure it out in the next week I’ll let you know.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
 
@@ -800,78 +909,6 @@
 <p>The code is not live on the Huon site just yet, but you can download and manipulate these pieces from an example file I uploaded to the <a href="https://github.com/wludh/huondauvergne/blob/zotero/zot_bib_web/zot_example.py">Huon GitHub repository</a>. You’ll probably want to start by installing zot_bib_web first to familiarize yourself with the configuration, and you’ll have a few settings to update before it will work for you: the library id, library type, api key, and collection ID will all need to be updated for your particular case, and the jQuery excerpt above will need to point to wherever you output the bibliography file.</p>
 
 <p>These steps have strengthened the way in which we handle bibliographic metadata so that it can be more useful for everyone, and we were really only able to do it because of the many great open source libraries that allow others to build on them. It’s a great thing - not having to reinvent the wheel.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-
-    <article>
-      
-  <header>
-    
-      <h2 class="entry-title"><a href="/blog/2015/12/04/dh-mentoring/">Reflections on a Year of DH Mentoring</a></h2>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2015-12-04T09:13:00-05:00" pubdate data-updated="true">Dec 4<span>th</span>, 2015</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><em>[Crossposted on the <a href="http://scholarslab.org/digital-humanities/reflections-on-a-year-of-dh-mentoring/">Scholars’ Lab blog</a> and the <a href="http://digitalhumanities.wlu.edu/blog/2015/12/03/reflections-on-a-year-of-dh-mentoring/">Digital Humanities at Washington and Lee blog</a>]</em></p>
-
-<p>This year I am working with <a href="http://scholarslab.org/people/eric-rochester/">Eric Rochester</a> in the <a href="http://scholarslab.org/">Scholars’ Lab</a> on a fellowship project that has me learning natural language processing (NLP), the application of computational methods to human languages. We’re adapting these techniques to study quotation marks in the novels of Virginia Woolf (read more about the project <a href="http://scholarslab.org/digital-humanities/virginia-woolf-natural-language-processing-and-the-quotation-mark/">here</a>). We actually started several months before this academic year began, and, as we close out another semester, I have been spending time thinking about just what has made it such an effective learning experience for me. I already had a technical background from my time in the Scholars’ Lab at the beginning of the process, but I had no experience with Python or NLP. Now I feel most comfortable with the former of any other programming language and familiar enough with the latter to experiment with it in my own work.</p>
-
-<p>The general mode of proceeding has been this: depending on schedules and deadlines, we meet once or twice every two weeks. Between our meetings I would work as far and as much as I could, and the sessions would offer a space for Eric and me to talk about what I had done. The following are a handful of things we have done that, I think, have helped to create such an effective environment for learning new technical skills. Though they are particular to this study, I think they can be usefully extrapolated to apply to many other project-based courses of study in digital humanities. They are primarily written from the perspective of a student but with an eye to how and why the methods Eric used proved so effective for me.</p>
-
-<p><strong>Let the Wheel Be Reinvented Before Sharing Shortcuts</strong></p>
-
-<p>I came to Eric with a very small program adapted from Matt Jockers’s book on Text Analysis with R for Students of Literature that did little beyond count quotation marks and give some basic statistics. I was learning as I built the thing, so I was unaware that I was reinventing the wheel in many cases, rebuilding many protocols for dealing with commonly recognized problems that come from working with natural language. After working on my program and my approach to a degree of satisfaction, Eric pulled back the curtain to reveal that a commonly used python module, the Natural Language ToolKit <a href="http://www.nltk.org/">(NLTK)</a>, could address many of my issues and more. NLTK came as something of a revelation, and working inductively in this way gave me a great sense of the underlying problems the tools could address. By inventing my own way to read in a text, clean it to make its text uniformly readable by the computer, and breaking the whole piece into a series of words that could be analyzed, I understood the magic behind a couple lines of NLTK code that could do all that for me. The experience also helped me to recognize ways in which we would have to adapt NLTK for our own purposes as I worked through the book.</p>
-
-<p><strong>Have a Plan, but Be Flexible</strong></p>
-
-<p>After discussing NLTK and how it offered an easier way of doing the things that I wanted, Eric had me systematically work through the <a href="http://www.nltk.org/book/">NLTK book</a> for a few months. Our meetings took on the character of an independent study: the book set the syllabus, and I went through the first seven chapters at my own pace. Working from a book gave our meetings structure, but we were careful not to hew too closely to the material. Not all chapters were relevant to the project, and we cut sections of the book accordingly. We shaped the course of study to the intellectual questions rather than the other way around.</p>
-
-<p><strong>Move from Theory to Practice / Textbook to Project</strong></p>
-
-<p>As I worked through the book, I was able to recognize certain sections that felt most relevant to the Woolf work. Once I felt as though I had reached a critical mass, we switched from the book to the project itself and started working. I tend to learn from doing best, so the shift from theory to execution was a natural one. The quick and satisfying transition helped the work to feel productive right away: I was applying my new skills as I was still learning to feel comfortable with them. Where the initial months had more the feel of a traditional student-teacher interaction, the project-based approach we took up at this point felt more like a real and true collaboration. Eric and I would develop to-do items together, we would work alongside each other, and we would talk over the project together.</p>
-
-<p><strong>Document Everything</strong></p>
-
-<p>Between our meetings I would work as far and as much as I could, carefully noting places at which I encountered problems. In some cases, these were conceptual problems that needed clarifying, and these larger questions frequently found their way into separate notes. But my questions were frequently about what a particular line of code, a particular command or function, might be doing. In that case, I made comments directly in the code describing my confusion. I quickly found that these notes were as much for me as for Eric–I needed to get back in the frame of mind that led to the confusion in the first place, and copious notes helped remind me what the problem was. These notes offered a point of departure for our meetings: we always had a place to start, and we did so based on the work that I had done.</p>
-
-<p><strong>Communicate in as Many Ways as Possible</strong></p>
-
-<p>We met in person as much as possible, but we also used a variety of other platforms to keep things moving. Eric and I had all of our code on <a href="https://github.com/erochest/woolf">GitHub</a> so that we could share everything that we had each been working on and discuss things from a distance if necessary. Email, obviously, can do a lot, but I found the chat capabilities of the Scholars’ Lab’s IRC channel to be far better for this sort of work. If I hit a particular snag that would only require a couple minutes for Eric to answer, we could quickly work things out through a web chat. With Skype and Google Hangouts we could even share the code on the other person’s computer even from hundreds of miles away. All of these things meant that we could keep working around whatever life events happened to call us away.</p>
-
-<p><strong>Recognize Spinning Wheels</strong></p>
-
-<p>These multiple avenues of communication are especially important when teaching technical skills. Not all questions or problems are the same: students can work through some on their own, but others can take them days to troubleshoot. Some amount of frustration is a necessary part of learning, and I do think it’s necessary that students learn to confront technical problems on their own. But not all frustration is pedagogically productive. There comes a point when you have tried a dozen potential solutions and you feel as though you have hit a wall. An extra set of eyes can (and should) help. Eric and I talked constantly about how to recognize when it was time for me to ask for help, and low-impact channels of communication like IRC could allow him to give me quick fixes to what, to me at least, seemed like impossible problems. Software development is a collaborative process, and asking for help is an important skill for humanists to develop.</p>
-
-<p><strong>In-person Meetings Can Take Many Forms</strong></p>
-
-<p>When we met, Eric and I did a lot of different things. First, we would talk through my questions from the previous week. If I felt a particular section of code was clunky or poorly done, he would talk and walk me through rewriting the same piece in a more elegant form. We would often pair program, where Eric would write code while I watched, carefully stopping him each time I had a question about something he was doing. And we often took time to reflect on where the collaboration was going - what my end goal was as well as what my tasks before the next meeting would be. Any project has many pieces that could be dealt with at any time, and Eric was careful to give me solo tasks that he felt I could handle on my own, reserving more difficult tasks for times in which we would be able to work together. All of this is to say that any single hour we spent together was very different from the last. We constantly reinvented what the meetings looked like, which kept them fresh and pedagogically effective.</p>
-
-<p>This is my best attempt to recreate my experience of working in such a close mentoring relationship with Eric. Obviously, the collaboration relies on an extremely low student-to-teacher ratio: I can imagine this same approach working very well for a handful of students, but this work required a lot of individual attention that would be hard to sustain for larger classes. One idea for scaling the process up might be to divide a course into groups, being training one, and then have students later in the process begin to mentor those who are just beginning. Doing so would preserve what I see as the main advantage of this approach: it helps to collapse the hierarchy between student and teacher and engage both in a common project. Learning takes place, but it does so in the context of common effort. I’d have to think more about how this mentorship model could be adapted to fit different scenarios. The work with Eric is ongoing, but it’s already been one of the most valuable learning experiences I have had.</p>
-
 </div>
   
   

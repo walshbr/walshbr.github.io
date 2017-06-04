@@ -10,7 +10,7 @@
   <meta name="author" content="Brandon Walsh">
 
   
-  <meta name="description" content="Crossposted on the Scholars’ Lab blog. Last week Sarah and I drove to Washington and Lee University as part of a new collaboration enabled by a grant &hellip;">
+  <meta name="description" content="Crossposted on the Scholars’ Lab blog This past year the Scholars’ Lab has implemented many performance upgrades and bug fixes for Prism. The most &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -83,6 +83,51 @@
   
   <div class="blog-index">
   
+  
+  
+
+    <article>
+      
+  <header>
+    
+      <h2 class="entry-title"><a href="/blog/2014/08/20/prism-heroku/">Prism News - Heroku and LLC</a></h2>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-08-20T09:32:00-04:00" pubdate data-updated="true">Aug 20<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Crossposted on the <a href="http://www.scholarslab.org/announcements/prism-news-heroku-and-llc/">Scholars’ Lab blog</a></p>
+
+<p>This past year the Scholars’ Lab has implemented many performance upgrades and bug fixes for <a href="http://prism.scholarslab.org">Prism</a>. The most recent upgrade is particularly exciting: users can now deploy their own personal Prism installations to Heroku with the click of a button. Well - it will take the click of a button and a few other commands. I’ve added a section detailing just how to do so under the “<a href="https://github.com/scholarslab/prism#deploy-to-heroku">Deploy to Heroku</a>” section of the Prism Github readme.</p>
+
+<p>It was already possible to implement private user communities by marking uploaded prism games as “unlisted” and then distributing the links to your group of participants. The Heroku deploy function makes this process a bit easier by allowing to users to host all of their games in one place. The process also sets you up well to tinker with the Prism codebase using a live app, as Heroku provides instructions for cloning the app to your desktop.</p>
+
+<p>All of this on the heels of another exciting announcement: the Praxis Program has a short article on Prism appearing in the <a href="http://llc.oxfordjournals.org/content/early/2014/07/08/llc.fqu030.full?keytype=ref&amp;ijkey=4zaX5fIvQwiLhIJ">Digital Humanities 2013 special conference issue of Literary and Linguistic Computing</a>. In the piece, we summarize Prism’s and interventions into conversations on crowdsourcing with special reference to its user interface.</p>
+
+<p>It’s a good day to e-highlight!</p>
+</div>
+  
+  
+
+
+    </article>
   
   
 
@@ -554,54 +599,6 @@ z is DEPRECATED, use fasd instead</code></p>
 <p><code>$ bash-it disable plugin z</code></p>
 
 <p>After that, your terminal should run free of the message.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-
-    <article>
-      
-  <header>
-    
-      <h2 class="entry-title"><a href="/blog/2013/08/03/textmate/">TextMate and Git</a></h2>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-08-03T10:45:00-04:00" pubdate data-updated="true">Aug 3<span>rd</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>This one is for my own files as much as anything else. For some time now, I’ve been getting a persistent error in Git when I try to go through the steps of committing a file online. This particular error came about when trying to pull before pushing up to GitHub:</p>
-
-<p><code>/usr/bin/mate -w: /usr/bin/mate: No such file or directory
-error: There was a problem with the editor '/usr/bin/mate -w'.
-Not committing merge; use 'git commit' to complete the merge.</code></p>
-
-<p>From what I understand, this comes about because Git can’t find the symbolic link to TextMate, even though it has existed in the past. For whatever reason, this issue seems to come up from time to time on my machine. I’ve tried a number of different solutions online, but none seemed to take.
-<a href="http://stackoverflow.com/questions/9610884/cant-create-a-symbolic-link-with-textmate-in-terminal-mate-command-not-found">This</a> solution finally did it for me. First, of course, make sure that you have TextMate installed and updated (my first mistake). The solution:</p>
-
-<p><code>ln -s /Applications/TextMate.app/Contents/SharedSupport/Support/bin/mate /usr/local/bin/mate</code></p>
-
-<p>This very post was made free of the error.  </p>
 </div>
   
   
