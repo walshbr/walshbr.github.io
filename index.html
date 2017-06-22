@@ -9,16 +9,16 @@
   <title>Brandon Walsh</title>
   <meta name="author" content="Brandon Walsh">
 
-  
-  <meta name="description" content="[Crossposted on the WLUDH blog.] For me, co-teaching is the ultimate teaching experience. I’ve been fortunate to find several opportunities for it &hellip;">
-  
+
+  <meta name="description" content="[Crossposted to the Scholars’ Lab blog.] For the past several years, I’ve taught a Humanities Programming course at HILT. The course was piloted by &hellip;">
+
 
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  
+
   <link rel="canonical" href="https://walshbr.com/">
 <!--   <link href="/favicon.png" rel="icon">
  -->  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
@@ -30,7 +30,7 @@
 <link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
-  
+
   <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-37226549-1']);
@@ -50,23 +50,23 @@
   <header role="banner"><hgroup>
 	<div id="headtext">
 	  <h1><a href="/">Brandon Walsh</a></h1>
-	  
+
 	</div>
 </hgroup>
 
 </header>
   <nav role="navigation"><ul class="subscription" data-subscription="rss">
   <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
+
 </ul>
-  
+
 <form action="https://google.com/search" method="get">
   <fieldset role="search">
     <input type="hidden" name="q" value="site:walshbr.com" />
     <input class="search" id="searchform" type="text" name="q" results="0" placeholder="Search"/>
   </fieldset>
 </form>
-  
+
 <ul class="main-navigation">
   <li><a href="/about">About</a></li>
   <li><a href="/blog/archives">Archive</a></li>
@@ -80,21 +80,20 @@
     <div id="content">
       <div>
 <article role="article">
-  
+
   <div class="blog-index">
-  
-  
-  
+
+
+
 
     <article>
-      
+
   <header>
-    
-      <h2 class="entry-title"><a href="/blog/2017/03/22/co-teaching/">On Co-Teaching and Digital Humanities</a></h2>
-    
-    
+
+      <h2 class="entry-title"><a href="/blog/2017/06/03/what-should-you-do-in-a-week/">What Should You Do in a Week?</a></h2>
+
+
       <p class="meta">
-        
 
 
 
@@ -103,13 +102,123 @@
 
 
 
-  
+
+
+
+
+<time datetime="2017-06-03T20:17:00-04:00" pubdate data-updated="true">Jun 3<span>rd</span>, 2017</time>
+
+      </p>
+
+  </header>
+
+
+  <div class="entry-content"><p><em>[Crossposted to the <a href="http://scholarslab.org/digital-humanities/what-should-you-do-in-a-week/">Scholars’ Lab blog</a>.]</em></p>
+
+<p>For the past several years, I’ve taught a <a href="http://humanitiesprogramming.github.io">Humanities Programming</a> course at <a href="http://www.dhtraining.org/">HILT</a>. The course was piloted by Wayne Graham and Jeremy Boggs, but, these days, I co-teach the course with <a href="http://scholarslab.org/people/ethan-reed/">Ethan Reed</a>, one of our DH fellows in the Scholars’ Lab. The course is a soup-to-nuts introduction to the kinds of methods and technologies that are useful for humanities programming. We’re changing the course a fair amount this year, so I thought I’d offer a few notes on what we’re doing and the pedagogical motivations for doing so. You can find our syllabus, slides, resources, and more on <a href="https://humanitiesprogramming.github.io/syllabus/">the site</a>. </p>
+
+<p>We broke the course down into two halves:</p>
+
+<ul>
+  <li>Basics: command line, Git, GitHub, HTML/CSS
+    <ul>
+      <li>Project: personal website</li>
+    </ul>
+  </li>
+  <li>Programming concepts: Ruby
+    <ul>
+      <li>Project: Rails application deployed through Heroku and up on GitHub</li>
+    </ul>
+  </li>
+</ul>
+
+<p>In the first half, people learned the basic stack necessary to work towards a personal website, then deploying that site through GitHub pages. In the second half, students took in a series of lessons about Ruby syntax, but the underlying goal was to teach them the programming concepts common to a number of programming languages. Then, we shifted gears and had them work through a series of Rails tutorials that pushed them towards a real-life situation where they’re working through and on a thing (in this case a sort of platform for crowdsourcing transcriptions of images). </p>
+
+<p>I really enjoyed teaching the Rails course, and I think there was a lot of good in it. But over the past few years it has raised a number of pedagogical questions for me:</p>
+
+<ul>
+  <li>What can you reasonably hope to teach in a week-long workshop?</li>
+  <li>Is it better to do more with less or less with more?</li>
+  <li>What is the upper-limit on the amount of new information students can take in during the week?</li>
+  <li>What will students actually use/remember from the course once the week is over?</li>
+</ul>
+
+<p>To be fair, week-long workshops like this one often raise similar concerns for me. I had two main concerns about our course in particular. </p>
+
+<p>The first was a question of audience. We got people of all different skill levels in the course. Some people were there to get going with programming for the first time. These newcomers often seemed really comfortable with the course during the first half, while the second half of the course could result in a lot of frustration when the difficulty of the material suddenly seemed to skyrocket. Other students were experienced developers with several languages under their belt who were there specifically to learn Rails. The first half of the course seemed to be largely review for this experienced group, while the second half was really what they were there to take on.  It’s great that we were able to pull in students with such diverse experiences, but I was especially concerned for the people new to programming who felt lost during the second half of the course. Those experienced folks looking to learn Rails? I think they can probably find their way into the framework some other way. But I didn’t want our course to turn people off from programming because the presentation of the material felt frustrating. We can fix that. I always feel as though we should be able to explain these methods to anyone, and I wanted our alumni to feel that they were empowered by their new experiences, not frustrated. I wanted our course to reflect that principle by focusing on this audience of people looking for an introduction, not an advanced tutorial. </p>
+
+<p>I also wondered a lot about the outcomes of the course. I wondered how many of the students really did anything with web applications after the course was over. Those advanced students there specifically for Rails probably did, and I’m glad that they had tangible skills to walk away with. But, for the average person just getting into digital humanities programming, I imagine that Rails wasn’t something they were going to use right away. After all, you use what you need to do what you need. And, while Rails gives you a lot of options, it’s not necessarily the tool you need for the thing in front of you - specially when you’re starting out.</p>
+
+<p>So we set about redesigning the course with some of these thoughts in mind and with a few principles:</p>
+
+<ul>
+  <li>Less is more.</li>
+  <li>A single audience is better than many.</li>
+  <li>If you won’t use it, you’ll lose it.</li>
+</ul>
+
+<p>I wondered how we might redesign the course to better reflect the kinds of work that are most common to humanists using programming for their work. I sat down and thought about common tasks that I use programming for beyond building apps/web services. I made a list of some common tasks that, when they confront me, I go, “I can write a script for that!” The resulting syllabus is <a href="https://humanitiesprogramming.github.io/syllabus/">on the site</a>, but I’ll reiterate it here. The main changes took place in the second half of the course:</p>
+
+<ul>
+  <li>Basics: command line, git, GitHub, HTML/CSS
+    <ul>
+      <li>Project: personal website</li>
+    </ul>
+  </li>
+  <li>Programming concepts: Python
+    <ul>
+      <li>Project(s): Applied Python for acquiring, processing, and analyzing humanities data</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The switch from Python to Ruby reflects, in part, my own changing practices, but I also find that the Pythonic syntax enforces good stylistic practices in learners. In place of working on a large Rails app, we keep the second half of the course focused on daily tasks that programming is good for. After learning the basic concepts from Python, we introduce a few case studies for applied Python. Like all our materials, these are available <a href="http://humanitiesprogramming.github.io/resources/">on our site</a>. But I’d encourage interested folks to check out the Jupyter notebooks for these units if you’re interested. These are the new units on applications of Python to typical situations:</p>
+
+<ul>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/working-with-csv.ipynb">Working with CSV files</a></li>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/working-with-apis.ipynb">Getting data from API’s</a></li>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/intro-to-scraping.ipynb">Introduction to Web Scraping</a></li>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/text-analysis.ipynb">Basic Text Analysis</a></li>
+</ul>
+
+<p>In the process of working through these materials, the students work with real, live humanities data drawn from <a href="https://www.gutenberg.org/">Project Gutenberg</a>, the <a href="https://dp.la/">DPLA</a>, and the <a href="http://www.casebook.org/press_reports/">Jack the Ripper Casebook</a>. We walk the students through a few different options for building a corpus of data and working with it. After gathering data, we talk about problems with it and how to use it. Of course, you could run an entire course on such things. Our goal here is not to cover everything. In fact, I erred on the side of keeping the lessons relatively lightweight, with the assumption that the jump in difficulty level would require us to move pretty slowly. The main goal is to show how situations that appear to be much more complicated still boil down to the same basic concepts the students have just learned. We want to shrink the perceived gap between those beginning exercises and the kinds of scripts that are actually useful for your own day-to-day work. We introduce some slightly more advanced concepts along the way, but hopefully enough of the material will remain familiar that the students can excel. Ideally, the concepts we work through in these case studies will be more immediately useful to someone trying to introduce programming into their workflow for the first time. And, in being more immediately useful, the exercises might be more likely to give a lasting foundation for them to keep building on into the future. </p>
+
+<p>We’ve also rebranded the course slightly. The course description has changed, as we’ve attempted to soften jargon and make it clear that students are meant to come to the course not knowing the terms or technologies in the description (they’re going to learn them with us!). The course name has changed as well, first as a joke but then in a serious way. Instead of simply being called “Humanities Programming,” the course is now “Help! I’m a Humanist! - Programming for Humanists with Python.” The goal there is to expose the human aspect of the course - no one is born knowing this stuff, and learning it means dealing with a load of tough feelings: anxiety, frustration, imposter syndrome, etc. I wanted to foreground all of this right away by making my own internal monologue part of the course title. The course can’t alleviate all those feelings, but I hoped to make it clear that we’re taking them into account and thinking about the human side of what it means to teach and learn this material. We’re in it together. </p>
+
+<p>So. What can you do in a week? Quite a lot. What should you do - that’s a much tougher question. I’ve timed this post to go out right around when HILT starts. If I figure it out in the next week I’ll let you know.</p>
+</div>
+
+
+
+
+    </article>
+
+
+
+    <article>
+
+  <header>
+
+      <h2 class="entry-title"><a href="/blog/2017/03/22/co-teaching/">On Co-Teaching and Digital Humanities</a></h2>
+
+
+      <p class="meta">
+
+
+
+
+
+
+
+
+
+
 
 
 <time datetime="2017-03-22T12:53:00-04:00" pubdate data-updated="true">Mar 22<span>nd</span>, 2017</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -142,23 +251,22 @@
   <li>And some of my syllabi and materials can be found <a href="http://walshbr.com/teaching/">here</a> and <a href="https://humanitiesprogramming.github.io/">here</a></li>
 </ul>
 </div>
-  
-  
+
+
 
 
     </article>
-  
-  
+
+
 
     <article>
-      
+
   <header>
-    
+
       <h2 class="entry-title"><a href="/blog/2017/03/02/in-out-across-with/">In, Out, Across, With: Collaborative Education and Digital Humanities (Job Talk for Scholars&#8217; Lab)</a></h2>
-    
-    
+
+
       <p class="meta">
-        
 
 
 
@@ -167,13 +275,14 @@
 
 
 
-  
+
+
 
 
 <time datetime="2017-03-02T09:31:00-05:00" pubdate data-updated="true">Mar 2<span>nd</span>, 2017</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -249,23 +358,22 @@
 
 <p>Foremost, then, I see the Head of Graduate Programs as someone who takes the lists, documents, and curricula that I have discussed and connects them to the people that serve them and that they are meant to speak to. This person is one who builds relationships, who navigates the prepositions of my title. <img src="/images/job-talk-slides/slide17.jpg" alt="Title Slide Last" /> It’s the job of such a person to blast the boundary between “you’re in” and “you’re out” so that the tech-adverse or shy student can find a seat at the table. This is someone who makes sure that the work of the fellows is represented across institutions and in their own departments. This person makes sure the fellows are well positioned professionally. This person builds up people and embeds them to networks where they can flourish. Their job is never to forget what it’s like to be the person trying to learn. Their job is to hear “I’m not a tech person” and answer “not yet, but you could be! and I know just the people to help. Let’s learn together.”</p>
 </div>
-  
-  
+
+
 
 
     </article>
-  
-  
+
+
 
     <article>
-      
+
   <header>
-    
+
       <h2 class="entry-title"><a href="/blog/2017/02/25/octopress/">Octopress, GitHub, and Custom Domains</a></h2>
-    
-    
+
+
       <p class="meta">
-        
 
 
 
@@ -274,13 +382,14 @@
 
 
 
-  
+
+
 
 
 <time datetime="2017-02-25T12:00:00-05:00" pubdate data-updated="true">Feb 25<span>th</span>, 2017</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -318,23 +427,22 @@
 
 <p>To get around this issue, I needed to make that CNAME file a more permanent part of the repository. I made a copy of the CNAME file locally and put it in the _source directory of the Octopress project - this is the directory that Octopress generates the blog from, so now new builds of the site will contain the record of the custom domain. Things seem more or less stable now, though I have fingers and toes crossed.</p>
 </div>
-  
-  
+
+
 
 
     </article>
-  
-  
+
+
 
     <article>
-      
+
   <header>
-    
+
       <h2 class="entry-title"><a href="/blog/2016/12/12/ripper-dataset/">Ripper Press Reports Dataset</a></h2>
-    
-    
+
+
       <p class="meta">
-        
 
 
 
@@ -343,13 +451,14 @@
 
 
 
-  
+
+
 
 
 <time datetime="2016-12-12T09:51:00-05:00" pubdate data-updated="true">Dec 12<span>th</span>, 2016</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -460,23 +569,22 @@
 
 <p>Your spreadsheet should now be populated with the Press Reports data.</p>
 </div>
-  
-  
+
+
 
 
     </article>
-  
-  
+
+
 
     <article>
-      
+
   <header>
-    
+
       <h2 class="entry-title"><a href="/blog/2016/10/24/text-analysis-coursebook/">Introduction to Text Analysis: A Coursebook</a></h2>
-    
-    
+
+
       <p class="meta">
-        
 
 
 
@@ -485,13 +593,14 @@
 
 
 
-  
+
+
 
 
 <time datetime="2016-10-24T14:06:00-04:00" pubdate data-updated="true">Oct 24<span>th</span>, 2016</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -507,23 +616,22 @@
 
 <p>Update: I got around to doing that! You can find the new, improved, and more stable version of the site <a href="http://walshbr.com/textanalysiscoursebook/">here</a>.</p>
 </div>
-  
-  
+
+
 
 
     </article>
-  
-  
+
+
 
     <article>
-      
+
   <header>
-    
+
       <h2 class="entry-title"><a href="/blog/2016/09/21/ways-to-read/">Text Analysis Workshop: Four Ways to Read a Text</a></h2>
-    
-    
+
+
       <p class="meta">
-        
 
 
 
@@ -532,13 +640,14 @@
 
 
 
-  
+
+
 
 
 <time datetime="2016-09-21T11:51:00-04:00" pubdate data-updated="true">Sep 21<span>st</span>, 2016</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -575,23 +684,22 @@
 
 <p>So, in essence, what I tried to do is create a hands-on approach to teaching text analysis concepts that is flexible enough to fit a variety of needs and contexts. My handouts and slides are all up on <a href="https://github.com/bmw9t/waystoread">a github repository</a>. Feel free to share, reuse, and remix them in any way you would like.</p>
 </div>
-  
-  
+
+
 
 
     </article>
-  
-  
+
+
 
     <article>
-      
+
   <header>
-    
+
       <h2 class="entry-title"><a href="/blog/2016/05/17/reading-speech/">Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark</a></h2>
-    
-    
+
+
       <p class="meta">
-        
 
 
 
@@ -600,13 +708,14 @@
 
 
 
-  
+
+
 
 
 <time datetime="2016-05-17T08:46:00-04:00" pubdate data-updated="true">May 17<span>th</span>, 2016</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -676,23 +785,22 @@
 
 <p>A: I wrote about this extensively in my dissertation, but for here I will just say that I think the textual phenomenon the questioner is referencing occurs on a continuum. Some graphic markings, like pictures, shapes, punctuation marks, do not clearly translate to sound. And the reverse is true: the sounded quality of a recording can only ever be remediated by a print text. There are no perfect analogues between different media forms. Audiobook performers might attempt to convey things like punctuation or implied speech (in the audiobook of <em>Ulysses</em>, for example, Jim Norton throws his voice and lowers his volume to suggest free indirect discourse). In the end, I think such moments are playing with an idea of what my dissertation calls audiotextuality, the idea that all texts recordings of texts, to varying degrees, contain both sound and print elements. The two spheres may work in harmony or against each other as a kind of productive friction. The idea is a slippery one, but I think it speaks to moments like the implied punctuation mark that come through in a particularly powerful audiobook recording.</p>
 </div>
-  
-  
+
+
 
 
     </article>
-  
-  
+
+
 
     <article>
-      
+
   <header>
-    
+
       <h2 class="entry-title"><a href="/blog/2016/02/29/apps-maps-models/">Apps, Maps, & Models: A New View</a></h2>
-    
-    
+
+
       <p class="meta">
-        
 
 
 
@@ -701,13 +809,14 @@
 
 
 
-  
+
+
 
 
 <time datetime="2016-02-29T08:54:00-05:00" pubdate data-updated="true">Feb 29<span>th</span>, 2016</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -725,23 +834,22 @@
 
 <p>Obviously, the event left me with more questions than answers, but I think that is ultimately the sign of a successful symposium. I would encourage you to check out the videos of the conference, as this short note is necessarily reductive of such a productive event. The talks will offer you new thoughts on old questions and new ways of thinking about digital scholarship no matter your discipline.</p>
 </div>
-  
-  
+
+
 
 
     </article>
-  
-  
+
+
 
     <article>
-      
+
   <header>
-    
+
       <h2 class="entry-title"><a href="/blog/2016/02/15/coins-from-zotero/">Embedding COinS Metadata on a Page Using the Zotero API</a></h2>
-    
-    
+
+
       <p class="meta">
-        
 
 
 
@@ -750,13 +858,14 @@
 
 
 
-  
+
+
 
 
 <time datetime="2016-02-15T09:33:00-05:00" pubdate data-updated="true">Feb 15<span>th</span>, 2016</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -801,23 +910,21 @@
 
 <p>These steps have strengthened the way in which we handle bibliographic metadata so that it can be more useful for everyone, and we were really only able to do it because of the many great open source libraries that allow others to build on them. It’s a great thing - not having to reinvent the wheel.</p>
 </div>
-  
-  
+
+
 
 
     </article>
-  
-  
+    
 
     <article>
-      
+
   <header>
-    
+
       <h2 class="entry-title"><a href="/blog/2015/12/04/dh-mentoring/">Reflections on a Year of DH Mentoring</a></h2>
-    
-    
+
+
       <p class="meta">
-        
 
 
 
@@ -826,13 +933,14 @@
 
 
 
-  
+
+
 
 
 <time datetime="2015-12-04T09:13:00-05:00" pubdate data-updated="true">Dec 4<span>th</span>, 2015</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -873,22 +981,21 @@
 <p>This is my best attempt to recreate my experience of working in such a close mentoring relationship with Eric. Obviously, the collaboration relies on an extremely low student-to-teacher ratio: I can imagine this same approach working very well for a handful of students, but this work required a lot of individual attention that would be hard to sustain for larger classes. One idea for scaling the process up might be to divide a course into groups, being training one, and then have students later in the process begin to mentor those who are just beginning. Doing so would preserve what I see as the main advantage of this approach: it helps to collapse the hierarchy between student and teacher and engage both in a common project. Learning takes place, but it does so in the context of common effort. I’d have to think more about how this mentorship model could be adapted to fit different scenarios. The work with Eric is ongoing, but it’s already been one of the most valuable learning experiences I have had.</p>
 
 </div>
-  
-  
+
+
 
 
     </article>
-  
+
 
     <article>
-      
+
   <header>
-    
+
       <h2 class="entry-title"><a href="/blog/2015/09/20/music-genre-and-spotify-metadata/">Music Genre and Spotify Metadata</a></h2>
-    
-    
+
+
       <p class="meta">
-        
 
 
 
@@ -897,13 +1004,14 @@
 
 
 
-  
+
+
 
 
 <time datetime="2015-09-20T16:51:00-04:00" pubdate data-updated="true">Sep 20<span>th</span>, 2015</time>
-        
+
       </p>
-    
+
   </header>
 
 
@@ -951,22 +1059,22 @@ Aggregate genre map for New Order:
 
 <p>Fowler, Alastair David Shaw. Kinds of Literature: An Introduction to the Theory of Genres and Modes. Repr. Oxford: Clarendon Press, 1997. Print.</p>
 </div>
-  
-  
+
+
 
 
     </article>
-  
+
 
   <div class="pagination">
-    
+
       <a class="prev" href="/blog/page/2/">&larr; Older</a>
-     
+
      <a href="/blog/archives">Blog Archives</a>
-    
+
   </div>
 </div>
-  
+
 </article>
 
   <section>
@@ -978,9 +1086,9 @@ Aggregate genre map for New Order:
 </div>
 
 <aside class="sidebar">
-  
-    
-  
+
+
+
 </aside>
 
 
@@ -992,17 +1100,17 @@ Aggregate genre map for New Order:
 </p>
 
 </footer>
-  
+
 
 <script type="text/javascript">
       var disqus_shortname = 'bmw9t';
-      
-        
+
+
         // var disqus_developer = 1;
         var disqus_identifier = 'https://walshbr.com/index.html';
         var disqus_url = 'https://walshbr.com/index.html';
         var disqus_script = 'embed.js';
-      
+
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
       dsq.src = 'https://' + disqus_shortname + '.disqus.com/' + disqus_script;

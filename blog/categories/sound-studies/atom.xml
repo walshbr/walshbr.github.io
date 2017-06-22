@@ -4,7 +4,7 @@
   <title><![CDATA[Category: sound studies | Brandon Walsh]]></title>
   <link href="https://walshbr.com/blog/categories/sound-studies/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2017-05-09T07:06:46-04:00</updated>
+  <updated>2017-06-03T20:46:32-04:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -175,7 +175,7 @@ Aggregate genre map for New Order:
 
 <p>When I talk to you, you make certain assumptions about me as a person based on what you’re hearing. You decide whether or not I might be worth paying attention to, and you develop a sense of our social relations based around the sound of my voice. The voice conveys and generates assumptions about the body and about power: am I making myself heard? Am I registering as a speaking voice? Am I worth listening to?</p>
 
-<p><a href="http://commons.wikimedia.org/wiki/File:Day_14_Occupy_Wall_Street_September_30_2011_Shankbone_2.JPG "><img src="{{ root_url }}/images/occupy.jpg" width="60%" class="left" /></a></p>
+<p><a href="http://commons.wikimedia.org/wiki/File:Day_14_Occupy_Wall_Street_September_30_2011_Shankbone_2.JPG "><img src="/images/occupy.jpg" width="60%" class="left" /></a></p>
 
 <p>The human microphone, made famous by Occupy Wall Street, nicely encapsulates the social dimensions of sound that interest me: one person speaks, and the people around her repeat what she says more loudly, again and again, amplifying the human voice without technology. Sound literally moves through multiple bodies and structures the social relations between people, and the whole movement is an attempt to make a group of people heard by those who would rather not listen.</p>
 
@@ -183,23 +183,23 @@ Aggregate genre map for New Order:
 
 <p>All of this brings me to the quotation mark. The humble piece of punctuation does a lot of work for us every day, and I want to think more closely about how it can help us understand how texts speak. The quotation mark is the most obvious point at which sound meets text. Computational methods tend to focus on the vocabulary of a text as the building blocks of meaning, but they can also help us turn quotation marks into objects of inquiry. Quotation marks can tell us a lot about how texts engage with the human voice, but there are <em>lots</em> of them in texts. Digital methods can help us make sense of the scale.</p>
 
-<p><img src="{{ root_url }}/images/woolf.jpg" width="40%" class="right" />I examine Virginia Woolf’s quotation marks, in particular, for a number of reasons. Aesthetically, we can see her bridging the Victorian and modernist literary periods, though she tends to fall in with the latter of the two. Politically, she lived through periods of intense social and political upheaval at the beginning of the twentieth century. Very few recordings of Woolf remain, but she nonetheless thought deeply about sound recording. The worldwide market for gramophones exploded during her lifetime, and her texts frequently featured technologies of sound reproduction. Woolf’s gramophones frequently malfunction in her novels, and I’m interested in seeing how her quotation marks might analogously be irregular or broken intentionally. Woolf is especially good for thinking about punctuation marks in this way: she owned a printing press, and she often set type herself. </p>
+<p><img src="/images/woolf.jpg" width="40%" class="right" />I examine Virginia Woolf’s quotation marks, in particular, for a number of reasons. Aesthetically, we can see her bridging the Victorian and modernist literary periods, though she tends to fall in with the latter of the two. Politically, she lived through periods of intense social and political upheaval at the beginning of the twentieth century. Very few recordings of Woolf remain, but she nonetheless thought deeply about sound recording. The worldwide market for gramophones exploded during her lifetime, and her texts frequently featured technologies of sound reproduction. Woolf’s gramophones frequently malfunction in her novels, and I’m interested in seeing how her quotation marks might analogously be irregular or broken intentionally. Woolf is especially good for thinking about punctuation marks in this way: she owned a printing press, and she often set type herself. </p>
 
 <p>The following series of histograms gives a rough estimation of how Woolf’s use of quotation changes over the course of her career. <a href="https://github.com/erochest/woolf/commits/master">On GitHub</a> you can find the script I’ve been working on with Eric to generate these results. The number of quotations is plotted on the y-axis against their position in the novel on the x-axis, so each histogram represents more quoted speech with higher bars and more concentrated darknesses. If you have an especially good understanding of a particular novel, <em>Mrs. Dalloway</em>, say, you could pick out moments of intense conversation based on sudden spikes in the number of quotations. The histograms are organized in such a way that to read chronologically through Woolf’s career you would read left to right line by line, as you would the text of a book. The top-left histogram is Woolf’s earliest novel, the bottom-right corner her last.</p>
 
-<p><a href="{{ root_url }}/images/huskey-histograms/1915_the_voyage_out.jpg"><img src="{{ root_url }}/images/huskey-histograms/1915_the_voyage_out.jpg" width="32%" /></a>
-<a href="{{ root_url }}/images/huskey-histograms/1919_night_and_day.jpg"><img src="{{ root_url }}/images/huskey-histograms/1919_night_and_day.jpg" width="32%" /></a>
-<a href="{{ root_url }}/images/huskey-histograms/1922_jacobs_room.jpg"><img src="{{ root_url }}/images/huskey-histograms/1922_jacobs_room.jpg" width="32%" /></a>
-<a href="{{ root_url }}/images/huskey-histograms/1925_mrs.dalloway.jpg"><img src="{{ root_url }}/images/huskey-histograms/1925_mrs.dalloway.jpg" width="32%" /></a>
-<a href="{{ root_url }}/images/huskey-histograms/1927_to_the_lighthouse.jpg"><img src="{{ root_url }}/images/huskey-histograms/1927_to_the_lighthouse.jpg" width="32%" /></a>
-<a href="{{ root_url }}/images/huskey-histograms/1928_orlando.jpg"><img src="{{ root_url }}/images/huskey-histograms/1928_orlando.jpg" width="32%" /></a>
-<a href="{{ root_url }}/images/huskey-histograms/1931_the_waves.jpg"><img src="{{ root_url }}/images/huskey-histograms/1931_the_waves.jpg" width="32%" /></a>
-<a href="{{ root_url }}/images/huskey-histograms/1937_the_years.jpg"><img src="{{ root_url }}/images/huskey-histograms/1937_the_years.jpg" width="32%" /></a>
-<a href="{{ root_url }}/images/huskey-histograms/1941_between_the_acts.jpg"><img src="{{ root_url }}/images/huskey-histograms/1941_between_the_acts.jpg" width="32%" /></a></p>
+<p><a href="/images/huskey-histograms/1915_the_voyage_out.jpg"><img src="/images/huskey-histograms/1915_the_voyage_out.jpg" width="32%" /></a>
+<a href="/images/huskey-histograms/1919_night_and_day.jpg"><img src="/images/huskey-histograms/1919_night_and_day.jpg" width="32%" /></a>
+<a href="/images/huskey-histograms/1922_jacobs_room.jpg"><img src="/images/huskey-histograms/1922_jacobs_room.jpg" width="32%" /></a>
+<a href="/images/huskey-histograms/1925_mrs.dalloway.jpg"><img src="/images/huskey-histograms/1925_mrs.dalloway.jpg" width="32%" /></a>
+<a href="/images/huskey-histograms/1927_to_the_lighthouse.jpg"><img src="/images/huskey-histograms/1927_to_the_lighthouse.jpg" width="32%" /></a>
+<a href="/images/huskey-histograms/1928_orlando.jpg"><img src="/images/huskey-histograms/1928_orlando.jpg" width="32%" /></a>
+<a href="/images/huskey-histograms/1931_the_waves.jpg"><img src="/images/huskey-histograms/1931_the_waves.jpg" width="32%" /></a>
+<a href="/images/huskey-histograms/1937_the_years.jpg"><img src="/images/huskey-histograms/1937_the_years.jpg" width="32%" /></a>
+<a href="/images/huskey-histograms/1941_between_the_acts.jpg"><img src="/images/huskey-histograms/1941_between_the_acts.jpg" width="32%" /></a></p>
 
-<p>To my eye, the output suggests high concentrations of conversation in the novels at the beginning and ending of Woolf’s career. We can see that her middle period, especially, appears to have a significant decrease in the amount of quoted speech. In one sense, this might make sense to someone familiar with Woolf’s career. Her first two novels feel more typically Victorian in their aesthetics, and she really gets into the thick of modernist experiment with her third novel. One way we often describe the shift from Victorian to the modernist period is as a shift inward, away from society and towards the psychology of the self. So it makes sense that we might see the amount of conversation between multiple speaking bodies significantly fall away over the course of those novels. <a href="{{ root_url }}/images/huskey-histograms/1931_the_waves.jpg">The seventh histogram</a> is especially interesting, because it suggests the least amount of speech of anything in her corpus. But if we visualize things a different way, we see that this novel, <em>The Waves</em>, actually shows a huge spike in punctuated speech. This graph represents the percentage of each text that is contained within quotation marks, the amount of text represented as punctuated speech.</p>
+<p>To my eye, the output suggests high concentrations of conversation in the novels at the beginning and ending of Woolf’s career. We can see that her middle period, especially, appears to have a significant decrease in the amount of quoted speech. In one sense, this might make sense to someone familiar with Woolf’s career. Her first two novels feel more typically Victorian in their aesthetics, and she really gets into the thick of modernist experiment with her third novel. One way we often describe the shift from Victorian to the modernist period is as a shift inward, away from society and towards the psychology of the self. So it makes sense that we might see the amount of conversation between multiple speaking bodies significantly fall away over the course of those novels. <a href="/images/huskey-histograms/1931_the_waves.jpg">The seventh histogram</a> is especially interesting, because it suggests the least amount of speech of anything in her corpus. But if we visualize things a different way, we see that this novel, <em>The Waves</em>, actually shows a huge spike in punctuated speech. This graph represents the percentage of each text that is contained within quotation marks, the amount of text represented as punctuated speech.</p>
 
-<p><a href="{{ root_url }}/images/huskey-histograms/percentage-quoted.jpg"><img src="{{ root_url }}/images/huskey-histograms/percentage-quoted.jpg" class="right" /></a></p>
+<p><a href="/images/huskey-histograms/percentage-quoted.jpg"><img src="/images/huskey-histograms/percentage-quoted.jpg" class="right" /></a></p>
 
 <p>This might look like a problem with the data: how could the text with the fewest number of quotations also have the highest percentage of quoted speech? But the script is actually giving me exactly what I asked for: <em>The Waves</em> is a series of monologues by six disembodied voices, and the amount of non-speech text is extremely small. More generally, charting the percentage of quoted speech in the corpus appears to support my general readings of the original nine histograms: roughly three times as much punctuated speech in the early novels as in the middle period, with a slight leveling off in the end of her career. </p>
 
@@ -234,7 +234,7 @@ Aggregate genre map for New Order:
 
 <p>So here is part of “Stairway to Heaven” backwards. 			</p>
 
-<audio controls=""><source src="{{ root_url }}/mp3s/mla-2015/zeppelin_reversed.mp3" type="audio/mpeg" /><source src="{{ root_url }}/ogg/mla-2015/zeppelin_reversed.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
+<audio controls=""><source src="/mp3s/mla-2015/zeppelin_reversed.mp3" type="audio/mpeg" /><source src="/ogg/mla-2015/zeppelin_reversed.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
 
 <p>Source: <a href="http://youtu.be/zGsUcPdPWBg?t=47s">http://youtu.be/zGsUcPdPWBg?t=47s</a> </p>
 
@@ -242,14 +242,14 @@ Aggregate genre map for New Order:
 
 <p>But sound recordings are something different. They are bound in time in a different way. Daniel Albright in <em>Untwisting the Serpent</em> describes music by way of “Lessing’s famous distinction between the spatially juxtapositive arts of <em>nebeinander</em>, such as painting, sculpture, and architecture, and the temporally progressive arts of <em>nacheinander</em>, such as poetry and music” (9). Our experience of music and poetry depend upon their ability to move forward in time. To put the distinction in the context of deformance: you can move around a sculpture and view it from different angles, but it remains the same sculpture. Deform a musical recording by reversing its waveform, however, and you end with a different musical artifact entirely, one with different component parts. Hence, it can sound like gibberish. </p>
 
-<p><img src="{{ root_url }}/images/waveform-large.jpg" width="50%" class="right" /></p>
+<p><img src="/images/waveform-large.jpg" width="50%" class="right" /></p>
 
 <p>Here is the waveform for the Zeppelin clip. The waveform here is a charting of intensity over time, and the reversal literally changes the original artifact. It’s a mirror image, but our ears are hard-pressed to be able to reconnect the new object to its original. Many kinds of deformance you can do on an audio recording would work in the same way – alter the pitches, smash them tighter, stretch them out, etc. You alter that wave, and you get something else entirely. At what point does it become something new?</p>
 
 <p>But some reversed audio still sounds like a recognizable tune. Behind the “Stairway to Satan” claim is a long history behind it of musical reversal and mirroring. Musicians and listeners have been fascinated with the vectored nature of sound for centuries, and composers have experimented with reversal as a spur to creativity for ages. Take this melody. </p>
 
 <video width="320" height="240" controls="">
-  <source src="{{ root_url }}/videos/canon-retrogrado.mp4" type="video/mp4" />
+  <source src="/videos/canon-retrogrado.mp4" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
 
@@ -263,11 +263,11 @@ Your browser does not support the video tag.
 
 <p>“Motto”</p>
 
-<audio controls=""><source src="{{ root_url }}/mp3s/mla-2015/motto.mp3" type="audio/mpeg" /><source src="{{ root_url }}/ogg/mla-2015/5_motto.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
+<audio controls=""><source src="/mp3s/mla-2015/motto.mp3" type="audio/mpeg" /><source src="/ogg/mla-2015/5_motto.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
 
 <p>“Motto” Reversed</p>
 
-<audio controls=""><source src="{{ root_url }}/mp3s/mla-2015/motto_reversed.mp3" type="audio/mpeg" /><source src="{{ root_url }}/ogg/mla-2015/motto_reversed.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
+<audio controls=""><source src="/mp3s/mla-2015/motto_reversed.mp3" type="audio/mpeg" /><source src="/ogg/mla-2015/motto_reversed.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
 
 <p>The recording is a useful analogy for vocal sound recordings more generally in that it has two distinct pieces – a musical (non-verbal sound) component, and a recorded voice (with linguistic content). The two elements often intertwine and are not easily separated (this example not withstanding). You can hear, I think, the stark difference between the reversed poetic content by Hughes and the reversed instrumental content. Hughes reversed sounds like nonsense, while the saxophone in particular still sounds like something of a melody. The digital reversal of sound recordings treats them both as waveforms with no semantic content – it reverses them just as easily and happily as it would any other sound recording. </p>
 
@@ -275,7 +275,7 @@ Your browser does not support the video tag.
 
 <p>Deformance of poetic recordings forces us to consider the nature of recorded literary recordings anew. We might extrapolate from the character of this recording that all recorded voices contain a linguistic element as well an audible one. Not fully audio nor fully textual artifacts, I want to say that they are, instead something we might call audiotextual, a term that Jason Camlot has recently used in relation to the classification of Victorian literary recordings as an expansion of McGann’s own historicist approach to textual criticism. </p>
 
-<p><img src="{{ root_url }}/images/audiotextual.jpg" width="40%" class="right" /></p>
+<p><img src="/images/audiotextual.jpg" width="40%" class="right" /></p>
 
 <p>I want to use the term as a play on audiovisual to describe the state of such sound recordings. Like the Hughes recording, with both an instrumental, sound component as well as a linguistic one, audiotextual recordings exist in sound as well as in print. It’s a fairly simple idea, but I think it is one that often gets concerned as we discuss sound recordings. Literary sound recordings are not reducible to their relationship with a print text: they have both sounded <em>and</em> print components. Audiobooks, in particular, not being “poetic” often seem to get left out of close listenings and treated as mere reproductions of print texts. If you read the reviews of any Amazon audiobook or <a href="http://www.librivox.org">LibriVox</a> recording, you will see hundreds of people who expect an audiobook to be an unmediated, honest representation of the print origin. Audiotextual might be used equally to describe both Hughes’s literary sound recordings as well as Hughes’s poetry itself, saturated as it is with traces of the live performance techniques of jazz and blues musicians. </p>
 
