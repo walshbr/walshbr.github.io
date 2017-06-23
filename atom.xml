@@ -4,7 +4,7 @@
   <title><![CDATA[Brandon Walsh]]></title>
   <link href="https://walshbr.com/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2017-06-23T09:49:55-04:00</updated>
+  <updated>2017-06-23T09:54:40-04:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -19,8 +19,6 @@
     <updated>2017-06-16T13:47:00-04:00</updated>
     <id>https://walshbr.com/blog/2017/06/16/remixing-the-sound-archive</id>
     <content type="html"><![CDATA[<p><em>[Recently I spoke at NEMLA 2017 with <a href="http://www.sherwoodweb.org/">Ken Sherwood</a> and <a href="https://sites.sas.upenn.edu/mustazza/biocv">Chris Mustazza</a>. The panel was on “Pedagogy and Poetry Audio: DH Approaches to Teaching Recorded Poetry/Archives,” and my own contribution extended some <a href="http://walshbr.com/blog/2015/01/12/deformance-talk/">past experiments</a> with using deformance as a mode of analysis for audio recordings. The talk was given from notes, but the following is a rough recreation of what took place.]</em></p>
-
-<p><img src="https://walshbr.com/images/nemla/slide01.jpg" alt="introductory slide" /></p>
 
 <p>Robust public sound archives have made a wide variety of material accessible to students and researchers for the first time, and they provide helpful records of the history of poetic performance throughout the past century. But they can also appear overwhelming in their magnitude, particularly for students: where to begin listening? How to begin analyzing any recording, let alone multiple recordings in relation to each other? This talk argues that we can help students start to explore these archives if we think about them as more than just an account of past performances: sound collections can provide the materials for resonant experiments in audio composition. I want to think about new ways to explore these archives through automatic means, through the use of software that algorithmically explores the sound collection as an object of study by tampering with it, dismantling it, and reassembling it. In the process, we might just uncover new interpretive dimensions.</p>
 
