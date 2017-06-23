@@ -21,7 +21,7 @@ a:hover {
 	text-decoration:underline;
 }
 
-a:active 
+a:active
 {
 	color:#0181eb;
 	text-decoration:none;
@@ -167,4 +167,8 @@ div.clear{
 
 body{
 	max-width: 835px;
+}
+
+#placement-bottom{
+  display:none;
 }
