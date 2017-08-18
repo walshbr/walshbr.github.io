@@ -4,7 +4,7 @@
   <title><![CDATA[Category: W&L | Brandon Walsh]]></title>
   <link href="https://walshbr.com/blog/categories/w-l/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2017-08-18T15:51:10-04:00</updated>
+  <updated>2017-08-18T18:20:19-04:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Collaborative Writing to Build Digital Humanities Praxis]]></title>
+    <link href="https://walshbr.com/blog/2017/08/04/collaborative-writing-to-build-digital-humanities-praxis/"/>
+    <updated>2017-08-04T14:40:00-04:00</updated>
+    <id>https://walshbr.com/blog/2017/08/04/collaborative-writing-to-build-digital-humanities-praxis</id>
+    <content type="html"><![CDATA[<p><em>[The following is the rough text of my short paper given at the 2017 Digital Humanities conference in Montréal.]</em></p>
+
+<p><img src="{{ root_url }}/images/collaborative-writing/1.jpg" alt="title slide" /></p>
+
+<p>Thanks very much for having me today! I’m Brandon Walsh, Head of Graduate Programs in the Scholars’ Lab at the University of Virginia Library. I’ll be talking a bit today about “Collaborative Writing to Build Digital Humanities Praxis.” Since the subject here is collaboration I wanted to spend a few minutes here on my collaborators.</p>
+
+<p><img src="{{ root_url }}/images/collaborative-writing/2.jpg" alt="thank you slide" /></p>
+
+<p>This work was begun at my previous position at Washington and Lee University’s library. My principal collaborator here is and was Professor Sarah Horowitz, from Washington and Lee University. We conceived the project together, co-taught the associated course, and her writing figures prominently on the project I will describe. The other names here are individuals, institutions, or projects who figure explicitly in the talk, whether they know it or not. You can find a Zotero collection with the resources mentioned during the talk <a href="goo.gl/2CuWj7">here</a>.</p>
+
+<p>So. To begin. Emergent programs like those associated with the <a href="http://praxis-network.org">Praxis Network</a> have redefined the possibilities for digital humanities training by offering models for project-based pedagogy. These efforts provide innovative institutional frameworks for building up and sharing digital skills, but they primarily focus on graduate or undergraduate education. They tend to think in terms of students. The long-term commitments that programs like these require can make them difficult to adapt for the professional development of other librarians, staff, and faculty collaborators. While members of these groups might share deep interests in undertaking such programs themselves, their institutional commitments often prevent them from committing the time to such professional development, particularly if the outcomes are not immediately legible for their own structures of reporting. I argue that we can make such praxis programs viable for broader communities by expanding the range of their potential outcomes and forms. In particular, I want to explore the potential for collaborative writing projects to develop individual skillsets and, by extension, the capacity of digital humanities programs.</p>
+
+<p><img src="{{ root_url }}/images/collaborative-writing/3.jpg" alt="coursebook site" /></p>
+
+<p>While the example here focuses on a coursebook written for an undergraduate audience, I believe the model and set of pedagogical issues can be extrapolated to other circumstances. By considering writing projects as potential opportunities for project-based development, I argue that we can produce professionally legible outcomes that both serve institutional priorities and prove useful beyond local contexts.</p>
+
+<p>The particular case study for this talk is an <a href="http://walshbr.com/textanalysiscoursebook">open coursebook</a> written for a course on digital text analysis (Walsh and Horowitz, 2016). In fall of 2015, Professor Sarah Horowitz, a colleague in the history department at Washington and Lee University, approached the University Library with an interest in digital text analysis and a desire to incorporate these methods in her upcoming class. She had a growing interest in the topic, and she wanted support to help her take these ideas and make them a reality in her research and teaching. As the Mellon Digital Humanities Fellow working in the University Library, I was asked to support Professor Horowitz’s requests because of my own background working with and teaching text analysis. Professor Horowitz and I conceived of writing the coursebook as a means by which the Library could meet her needs while also building the capacity of the University’s digital humanities resources. The idea was that, rather than offer her a handful of workshops, the two of us would co-author materials together that could then be used by Professor Horowitz later on. The writing of these materials would be the scene of the teaching and learning. Our model in this regard was as an initiative undertaken by the Digital Fellows at the CUNY Graduate Center, where their Graduate Fellows produce documentation and shared digital resources for the wider community. We aimed to expand upon their example, however, by making collaborative writing a centerpiece of our pedagogical experiment.</p>
+
+<p><img src="{{ root_url }}/images/collaborative-writing/4.jpg" alt="tech stack" /></p>
+
+<p>We included Professor Horowitz directly in the creation of the course materials, a process that required her to engage in a variety of technologies central to a certain kind of web publishing workflow: command line, Markdown, Git, and GitHub. We produced the materials on a platform called <a href="https://www.gitbook.com/">GitBook</a>, which provides a handy interface for writing that invokes many elements of this tech stack in a non-obtrusive way. Their editor allows you to write in markdown and previews the resultant text for you, but it also responds to the standard slew of MS Word keyboard shortcuts that many writers are familiar with. In this way we were able to keep the focus on the writing even as we slowly expanded Professor Horowitz’s ability to work directly with these technologies. From a writing standpoint, the process also required synthesis of both text analysis techniques and disciplinary material relevant to a course in nineteenth-century history. I provided the former, Professor Horowitz would review and critique as she added the latter, then I would review, etc. The result, I think, is more than either of us could have produced on our own, and we each learned a lot about the other’s subject matter. The result of the collaboration is that, after co-writing the materials and teaching the course together, Professor Horowitz is prepared to offer the course herself in the future without the support of the library. We now also possess course materials that, through careful structuring and selection of platforms, could be reusable in other courses at our own institutions and beyond. In this case, we tried to take special care to make each lesson stand on its own and to compartmentalize each topic according to the various parts of each class workshop. One section would introduce a topic from a theoretical standpoint, the next would offer a case study using a particular tool, and the last would offer course exercises that were particular to our course. We hoped this structuring would make it easy for the work to be excerpted and built upon by others for their own unique needs.</p>
+
+<p><img src="{{ root_url }}/images/collaborative-writing/5.jpg" alt="table of contents" /></p>
+
+<p>Writing collaborations such as these can fit the professional needs of people in a variety of spaces in the university. Course preparation, for example, often takes place behind the scenes and away from the eyes of students and other scholars. You tend to only see the final result as it is performed with students in a workshop or participants in a class. With a little effort, this hidden teaching labor can be transformed into openly available resources capable of being remixed into other contexts. We are following here on the example of Shawn Graham (2016), who has illustrated through his own resources for a class on <a href="http://workbook.craftingdigitalhistory.ca/">Crafting Digital History</a> that course materials can be effectively leveraged to serve a wider good in ways that still parse in a professional context. In our case, the collaboration produced public-facing web writing in the form of an open educational resource. The history department regarded the project as a success for its potential to bring new courses, skills, and students into the major as a result of Professor Horowitz’s training. The University Library valued the collaboration for its production of open access materials, development of faculty skills, and exploration of workflows and platforms for faculty collaboration. We documented and managed the writing process in a <a href="https://github.com/walshbr/introduction-to-text-analysis">GitHub repository</a>.</p>
+
+<p><img src="{{ root_url }}/images/collaborative-writing/6.jpg" alt="GitHub repository" /></p>
+
+<p>This versioned workflow was key to our conception of the project, as we hoped to structure the project in such a way that others could copy down and spin up their own versions of the course materials for their own needs. We were careful to compartmentalize the lessons according to their focus on theory, application, or course exercises, and we provided <a href="http://walshbr.com/textanalysiscoursebook/book/conclusion/adapting/">documentation</a> to walk readers through the technical process of adapting the book to reflect their own disciplinary content. We wrote reasonably detailed directions aimed at two different audiences - those with a tech background and those without. We wanted people to be able to pull down, tear apart, and reuse those pieces that were relevant for them. We hoped to create a mechanism by which readers and teachers could iterate using our materials to create their own versions.</p>
+
+<p><img src="{{ root_url }}/images/collaborative-writing/7.jpg" alt="Adapting the Book" /></p>
+
+<p>Writing projects like this one provide spaces for shared learning experiences that position student and teacher as equals. By writing in public and asking students and faculty collaborators to discuss, produce, and revise open educational resources, we can break down distinctions between writer and audience, teacher and student, programmer and non-programmer. In this spirit, work by Robin DeRosa (2016) with the <a href="https://openamlit.pressbooks.com/">Open Anthology of Earlier American Literature</a> and Cathy Davidson with HASTAC has shown that students can make productive contributions to digital humanities research at the same time that they learn themselves. These contributions offer a more intimate form of pedagogy – a more caring and inviting form of building that can draw newcomers into the field by way of non-hierarchical peer mentoring. It is no secret that academia contains “severe power imbalances” that adversely affect teaching and the lives of instructors, students, and peers (McGill, 2016). I see collaborative writing as helping to create shared spaces of exploration that work against such structures of power. They can help to generate what Bethany Nowviskie (2016) has recently advocated as a turn towards a “feminist ethics of care” to “illuminate the relationships of small components, one to another, within great systems.” By writing together, teams engage in what Nowviskie (2011) calls the “perpetual peer review” of collaborative work. Through conversations about ethical collaboration and shared credit early in the process, we can privilege the voice of the learner as a valued contributor to a wider community of practitioners even before they might know the technical details of the tools or skills under discussion.</p>
+
+<p>Collaborative writing projects can thus serve as training in digital humanities praxis: they can help introduce the skills, tools, and theories associated with the field, and projects like ours do so in public. Productive failure in this space has long been a hallmark of work in the digital humanities, so much so that “Failure” was listed as a keyword in the new anthology Digital Pedagogy in the Humanities (Croxall and Warnick, 2016). Writing in public carries many of the same rewards – and risks. Many of those new to digital work, in particular, rightfully fear putting their work online before it is published. The clearest way in which we can invite people into the rewards of public digital work is by sharing the burdens and risks of such work. In her recent work on generous thinking, Kathleen Fitzpatrick (2016) has advocated for “thinking with rather than reflexively against both the people and the materials with which we work.” By framing digital humanities praxis first and foremost as an activity whose successes and failures are shared, we can lower the stakes for newcomers. Centering this approach to digital humanities pedagogy in the practice of writing productively displaces the very digital tools and methodologies that it is meant to teach. Even if the ultimate goal is to develop a firm grounding in a particular digital topic, focusing on the writing invites students and collaborators into a space where anyone can contribute. By privileging the writing rather than technical skills as the means of engagement and ultimate outcome, we can shape a more inviting and generous introduction to digital humanities praxis.</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Croxall, B. and Warnick, Q. (2016). “Failure.” In Digital Pedagogy in the Humanities: Concepts, Models, and Experiments. Modern Languages Association.</li>
+  <li>DeRosa, R. (2016). “The Open Anthology of Earlier American Literature.” https://openamlit.pressbooks.com/.</li>
+  <li>Fitzpatrick, K. (2016). “Generous Thinking: The University and the Public Good.” Planned Obsolescence. http://www.plannedobsolescence.net/generous-thinking-the-university-and-the-public-good/.</li>
+  <li>Graham, S. (2016). “Crafting Digital History.” http://workbook.craftingdigitalhistory.ca/.</li>
+  <li>McGill, B. (2016). “Serial Bullies: An Academic Failing and the Need for Crowd-Sourced Truthtelling.” Dynamic Ecology. https://dynamicecology.wordpress.com/2016/10/18/serial-bullies-an-academic-failing-and-the-need-for-crowd-sourced-truthtelling/.</li>
+  <li>Nowviskie, B. (2011). “Where Credit Is Due.” http://nowviskie.org/2011/where-credit-is-due/.</li>
+  <li>———. 2016. “Capacity Through Care.” http://nowviskie.org/2016/capacity-through-care/.
+Ramsay, S. (2010). “Learning to Program.” http://stephenramsay.us/2012/06/10/learning-to-program/.</li>
+  <li>———. 2014. “The Hermeneutics of Screwing Around; or What You Do with a Million Books.” In Pastplay: Teaching and Learning History with Technology, edited by Kevin Kee. University of Michigan Press. http://hdl.handle.net/2027/spo.12544152.0001.001.</li>
+  <li>The Praxis Network (2017). University of Virginia Library’s Scholars’ Lab. http://praxis-network.org/.
+Walsh, Brandon, and Sarah Horowitz. 2016. “Introduction to Text Analysis: A Coursebook.” http://www.walshbr.com/textanalysiscoursebook</li>
+</ul>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[On Co-Teaching and Digital Humanities]]></title>
@@ -258,54 +317,6 @@
 <p>One last thing - this project was an experiment in open and collaborative publishing. In the process of writing the book, it became clear that the platform we used for producing it - <a href="https://www.gitbook.com/">GitBook</a> - was becoming a problem. The platform was fantastic for spinning up a quick collaboration, and it really paid dividends in its ease of use for writers new to Markdown and version control. But the service was new and under heavy development. Ultimately, the code was out of our control, and I wanted something more stable and more fully in my hands for long-term sustainability. I am in the process of transferring the materials to a Jekyll installation that would run off GitHub pages. Rather than wait for this final, archive version of the site to be complete, it seemed better to release this current working version out into the world. I will update all the links here once I migrate things over. If the current hosting site is down, you can download a PDF copy of the most recent version of the book <a href="{{ root_url }} /assets/introduction-to-text-analysis.pdf">here</a>.</p>
 
 <p>Update: I got around to doing that! You can find the new, improved, and more stable version of the site <a href="http://walshbr.com/textanalysiscoursebook/">here</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Embedding COinS Metadata on a Page Using the Zotero API]]></title>
-    <link href="https://walshbr.com/blog/2016/02/15/coins-from-zotero/"/>
-    <updated>2016-02-15T09:33:00-05:00</updated>
-    <id>https://walshbr.com/blog/2016/02/15/coins-from-zotero</id>
-    <content type="html"><![CDATA[<p><em>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2016/02/15/embedding-coins-data-on-a-page-using-the-zotero-api/">Washington and Lee University Digital Humanities Blog</a>]</em></p>
-
-<p>This year I am working with Mackenzie, Steve McCormick, and his students on the <a href="http://www.huondauvergne.org/">Huon d’Auvergne</a> project, a digital edition of a Franco-Italian romance epic. Last term we finished TEI-encoding of two of the manuscripts and put them online, and there is still much left to do. Making the digital editions of each manuscript online is a valuable scholarly endeavor in its own right, but we’ve also been spending a lot of time considering other ways in which we can enrich this scholarly production using the digital environment.</p>
-
-<p>All of which brings me to the <a href="http://www.huondauvergne.org/bibliography.html">bibliography</a> for our site. At first, our bibliography page was just a transcription of a text file that Steve would send along with regular updates. This collection of materials is great to have in its own right, but a better solution would be to leverage the many digital humanities approaches to citation management to produce something a bit more dynamic.</p>
-
-<p>Steve already had everything in a Zotero, so my first step was to integrate the site’s bibliography with the Zotero collection that Steve was using to populate the list. I found a <a href="https://github.com/davidswelt/zot_bib_web">python 2 library called zot_bib_web</a> that could do all this quite nicely with a bit of modification. Now, by running the script from my computer, the site’s bibliography will automatically pull in an updated Zotero collection for the project. Not only is it now easier to update our site (no more copying and pasting from a word document), but now others can contribute new resources to the same bibliography on Zotero by requesting to join the group and uploading citations. The project’s bibliography can continue to grow beyond us, and we will capture these additions as well.</p>
-
-<p>Mackenzie suggested that we take things a bit further by including <a href="https://en.wikipedia.org/wiki/COinS">COiNS</a> metadata in the bibliography so that someone coming to our bibliography could export our information into the citation manager of their choosing. Zotero’s API can also do this, and I used a piece of the <a href="https://github.com/urschrei/pyzotero">pyzotero</a> Python library to do so. The first step was to add this piece to the zot_bib_web code:</p>
-
-<p>zot = zotero.Zotero(library_id, library_type, api_key)
-  coins = zot.collection_items(collection_id, content=’coins’)
-  coin_strings = [str(coin) for coin in coins]
-  for coin in coin_strings:
-    fullhtml += coin</p>
-
-<p>Now, before the program outputs html for the bibliography, it goes out to the Zotero API and gets COinS metadata for all the citations, converts them into a format that will work for the embedding, and then attaches each returned span to the HTML for the bibliography.</p>
-
-<p>Now that I had the data that I needed, I wanted to make it work a bit more cleanly in our workflow. Initially, the program returned each bibliographic entry in its own page and meant for the whole bibliography to also be a stand-alone page on the website. I got rid of all that and, instead, wanted to embed them within the website as I already had it. I have the python program exporting the bibliography and COinS data into a small HTML file that I then attach to a div with an id of “includedContent”. inserted in the bibliography page. I use some jQuery to do so:</p>
-
-<pre><code>$(function(){
-  $("#includedContent").load("/zotero-bib.html");
-});
-</code></pre>
-
-<p>Instead of distributing content across several different pages, I mark a placeholder area on the main site where all the bibliographic data and metadata will be dumped. All of the relevant data gets saved in a file ‘zot-bib.html’ that gets automatically included inside the shell of the bibliography.html page. From there, I just modified the style so that it would fit into the aesthetic of the site.</p>
-
-<p>Now anyone going to our bibliography page with a Zotero extension will see this in the right of the address bar:</p>
-
-<p><img src="{{ root_url }}/images/zotero-extension.jpg" /></p>
-
-<p>Clicking on the folder icon will bring up the Zotero interface for downloading any of the items in our collection.</p>
-
-<p><img src="{{ root_url }}/images/zotero-download.jpg" /></p>
-
-<p>And to update this information we only need to run a single python script from the terminal to re-generate everything.</p>
-
-<p>The code is not live on the Huon site just yet, but you can download and manipulate these pieces from an example file I uploaded to the <a href="https://github.com/wludh/huondauvergne/blob/zotero/zot_bib_web/zot_example.py">Huon GitHub repository</a>. You’ll probably want to start by installing zot_bib_web first to familiarize yourself with the configuration, and you’ll have a few settings to update before it will work for you: the library id, library type, api key, and collection ID will all need to be updated for your particular case, and the jQuery excerpt above will need to point to wherever you output the bibliography file.</p>
-
-<p>These steps have strengthened the way in which we handle bibliographic metadata so that it can be more useful for everyone, and we were really only able to do it because of the many great open source libraries that allow others to build on them. It’s a great thing - not having to reinvent the wheel.</p>
 ]]></content>
   </entry>
   
