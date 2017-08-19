@@ -25,16 +25,16 @@ Posts:
 <section></section>
 <h2>Prism</h2>
 <img class="mid right" src="{{ root_url }}/images/digital-projects/prism.png" alt="prism visualize page">
-<a href="https://www.prism.scholarslab.org">Prism</a> is a browser-based Ruby on Rails application that facilitates text analysis among large groups of people. Built by the <a href="https://www.praxis.scholarslab.org">Praxis Program</a> at the <a href="https://www.scholarslab.org">Scholars' Lab</a>. I came on during the second year of development and have served lead developer since (though the tool is no longer in active development). The tool has gotten significant uptake by K-12 educators. 
+<a href="https://www.prism.scholarslab.org">Prism</a> is a browser-based Ruby on Rails application that facilitates text analysis among large groups of people. Built by the <a href="https://www.praxis.scholarslab.org">Praxis Program</a> at the <a href="https://www.scholarslab.org">Scholars' Lab</a>. I came on during the second year of development and have served lead developer since (though the tool is no longer in active development). The tool has gotten significant uptake by K-12 educators.
 
 
-Publications: 
+Publications:
 
 * "[Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking](http://llc.oxfordjournals.org/content/29/3/379)," Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; *Literary and Linguistic Computing* 2014; doi: 10.1093/llc/fqu030.
 * "Prism," under the “Poetry” keyword in *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments* (forthcoming).
 * "Prism and Reading’s Shape" solicited for edited collection <i>Pataphysics Then &amp; Now</i> (under review).
 
-Posts: 
+Posts:
 
 * "[Prism in the Classroom: Questions to Frame Discussion](http://walshbr.github.io/blog/2014/09/16/prism-pedagogy/)"
 * [Miscellaneous posts from the Praxis Program]({{ root_url }}/blog/2013/07/23/praxis/)
@@ -45,7 +45,7 @@ Posts:
 <h2>Humanities Programming</h2>
 <img class="mid right" src="{{ root_url }}/images/humanities_programming.png">
 
-Each summer I run a course on "Humanities Programming" at <a href="https://dhtraining.org/">Humanities Intensive Learning and Training (HILT)</a>. Piloted by Wayne Graham and Jeremy Boggs, I took over and now lead the course with Ethan Reed. The course is meant to be an intensive introduction to programming for non-programmers that takes students through command line, git, HTML5/CSS, Ruby, and Rails. By the end, students will have tinkered on and deployed their own Ruby on Rails application. Materials can be found on our <a href="https://humanitiesprogramming.github.io">course site.</a> 
+Each summer I run a course on "Humanities Programming" at <a href="https://dhtraining.org/">Humanities Intensive Learning and Training (HILT)</a>. Piloted by Wayne Graham and Jeremy Boggs, I took over and now lead the course with Ethan Reed. The course is meant to be an intensive introduction to programming for non-programmers that takes students through command line, git, HTML5/CSS, Ruby, and Rails. By the end, students will have tinkered on and deployed their own Ruby on Rails application. Materials can be found on our <a href="https://humanitiesprogramming.github.io">course site.</a>
 
 
 <section></section>
@@ -59,7 +59,7 @@ From 2013 to 2015 I acted as Project Manager of the <a href="https://www.nines.o
 <img class="mid right" src="{{ root_url }}/images/coursebook.png">
 <a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a> is an open, remixable set of course materials. Co-authored with Professor Sarah Horowitz of Washington and Lee University, the book is designed to be modularized so as to facilitate easy excerpting. The book was written with a student audience in mind, and it is as much a pedagogical experiment in collaborative writing as it is a teaching resource in its own right.
 
-Posts: 
+Posts:
 
 * "[Introduction to Text Analysis: A Coursebook](http://walshbr.github.io/blog/2016/10/24/text-analysis-coursebook/)"
-
+* "[Collaborative Writing to Build Digital Humanities Praxis](http://walshbr.com/blog/2017/08/04/collaborative-writing-to-build-digital-humanities-praxis/)"
