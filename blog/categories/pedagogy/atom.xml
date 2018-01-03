@@ -4,7 +4,7 @@
   <title><![CDATA[Category: pedagogy | Brandon Walsh]]></title>
   <link href="https://walshbr.com/blog/categories/pedagogy/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2018-01-03T09:40:36-05:00</updated>
+  <updated>2018-01-03T14:10:04-05:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[frustration is a feature]]></title>
+    <link href="https://walshbr.com/blog/2018/01/03/frustration/"/>
+    <updated>2018-01-03T09:44:00-05:00</updated>
+    <id>https://walshbr.com/blog/2018/01/03/frustration</id>
+    <content type="html"><![CDATA[<p><em>[The following talk will be given at MLA18 as a part of <a href="https://mla.confex.com/mla/2018/meetingapp.cgi/Session/1212">Panel 203: Anxious Pedagogies - Negotiating Precarity and Insecurity in the Classroom</a>]. Technically I suppose the title should be “Anxiety is a Feature,” but the alliteration was too tempting.]</em></p>
+
+<p><img src="{{ root_url }}/images/frustration/1.jpg" alt="title slide" /></p>
+
+<p>Thanks for putting this panel together, Shawna. And thanks, all of you, for your thoughts - I’ve learned a lot from our exchanges leading up to this panel.</p>
+
+<p><img src="{{ root_url }}/images/frustration/2.jpg" alt="title slide" /></p>
+
+<p>I’m the Head of Graduate Programs in the Scholars’ Lab, a digital humanities center at the UVA Library. I want to come at the question of anxious pedagogies from the perspective of my role in the lab, where I often teach programming and DH skills and methods in addition to my primary duties, which are developing and administering the lab’s educational and professional development programs for graduate students. I work with students very self-consciously trying to step outside of their comfort zones, and I’d like to think about the anxieties associated with these cases in particular.</p>
+
+<p>I want to ask what, exactly, it is that we’re teaching our students. If you’re a sighted reader of English, your skin has probably been crawling due to the grammatical error in my slide here. And that’s part of the point - this error is the subject of memes (but it’s one I constantly make in emails). You might be embarrassed for me and wish someone had pointed it out to me ahead of time. Let’s explore that.</p>
+
+<p><img src="{{ root_url }}/images/frustration/3.jpg" alt="title slide" /></p>
+
+<p>There’s a Python error of a similar kind in this slide. In programming, such small mistakes are major issues that can cause a project to fail. They’re also common for beginning programmers and DHers. A student has an error like this, and, quite understandably, they ask for help from the teacher. The instructor, as a human being, quite understandably, wants to help. I want to talk about that moment - the point at which a student needs help and the nature of the contribution that we as colleagues and mentors are prepared to give.</p>
+
+<p>The ability to identify the kinds of problems I’m pointing out depends a lot on background and training. To expect such problems to be immediately identifiable makes a lot of assumptions about education, literacy, and background that no instructor should make. This is as true of the first example as in the second, which expects that someone has a background in programming and so knows that adding an ‘s’ means the computer creates two objects - fruit and fruits - with no relationship to each other.</p>
+
+<p><img src="{{ root_url }}/images/frustration/4.jpg" alt="title slide" /></p>
+
+<p>I have seen so many students stare, with mounting frustration, at chunks of code, feeling that they are beyond them, that issues in code represent some failing on their own part rather than a natural part of programming (we all make mistakes). Sure, my job is to teach them the skills with which they can solve these problems - the syntax that will prevent such errors in the future. But it’s also to help them recognize that no one is born knowing this stuff. Born knowing anything. And that such anxieties and frustrations are part of what all of us all deal with on a regular basis.</p>
+
+<p>I am not suggesting that we should approach such student frustration as feelings to be worked past or to be toughed out. Instead I want to suggest that the most important, radical act that we can make as teachers is to center frustration and anxiety in our teaching. This feeling, that of knowing something is there but not seeing it, or of knowing something is wrong but not how to address it, are central to the very idea of what it means to learn and to teach. Sianne Ngai might call these “ugly feelings” - those feelings that lead to no cathartic action and that are associated, instead, with pause, frustration, and paralysis.</p>
+
+<p>I’d suggest that our primary role as teachers is not to teach any particular content. Nor is our primary role to teach methods. Our ultimate aim should be to help students learn how to learn, how to keep going with the material outside the context of our courses. And, importantly, how to do this work with, through, and alongside such difficult emotions.</p>
+
+<p>In DH we often valorize failure and what can be learned from it, but it can be difficult to know how to deal with the feelings associated with it. I’ve tried to develop exercises (drawing upon the work of <a href="waynegraham.github.io">Wayne Graham</a>, <a href="http://jeremyboggs.net/">Jeremy Boggs</a>, <a href="http://literaturegeek.com/">Amanda Visconti</a>, and <a href="http://nowviskie.org/">Bethany Nowviskie</a>) that help students sit with and think through frustration and affect. To teach web design, I ask students to draw a series of prototypes for websites using pencil and paper, some explicitly designed to fail, so as to develop a better sense of what it might mean for a website to succeed. Or I ask students to explore a set of programming exercises that have bugs artificially introduced to them as a way of helping them learn concrete steps for exploring problems in the face of mounting anxiety.  </p>
+
+<p>I’d love to hear from all of you if you have any thoughts for how to center, rather than expel, frustration and anxiety from teaching, learning, and the classroom. These issues are especially salient while teaching programming to humanists, as the interdisciplinary nature of it requires people step out of their comfort zone. But as others on this panel have articulated so well, these issues extend to the whole person. Beyond the content we teach and the act of learning it - our students are living in states of continual anxiety. To say nothing of the personal, social, or systemic traumas to which many of them have been subjected about which we may never know.</p>
+
+<p>Most of what we do in the Scholars’ Lab is help students navigate these situations in a professional context. Most of what I do tends to revolve around convincing students that they are good enough. That they are qualified enough to <a href="http://scholarslab.org/visiting-workshops-at-washington-and-lee-university/">teach a workshops on DH</a> or to apply for any <a href="http://scholarslab.org/professional-development/">number of DH or alt-ac jobs</a>.  That a little goes a long way. That imposter syndrome is something felt by everyone. That their work has worth.</p>
+
+<p>There are a number of things we can do as administrators to help mitigate the anxieties of our students. Advocate for them by actively campaigning for the bureaucratic status to serve on committees, teach courses, and offer them the support that they need. Petition our legislatures and administrations for more just labor relations. Figure out the small bureaucratic things that translate to big pains for our students - things like delayed payments, long turnarounds on applications, gatekeeping practices.</p>
+
+<p>My point, our point, really, is that our students and colleagues are consistently in positions of anxiety and frustration - in and out of the classroom. So I’d ask instead what can we do to make our institutions, our classrooms, and our one-on-one interactions with our students more empathetic, but also more consciously aware of and engaged in the negative affects they bring out. Because as I opened this short talk by pointing out - frustration and anxiety are not bugs. They are features. Woven into the very texture of what it means to be human and to be a learner. The question is - what are we prepared to do about it?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Collaborative Writing to Build Digital Humanities Praxis]]></title>
@@ -346,50 +389,6 @@ feeding a little life with tribes two birds
   <li>Here is another blip from me - <a href="http://scholarslab.org/digital-humanities/washington-and-lee-trip/">Washington and Lee Trip</a></li>
   <li>And some of my syllabi and materials can be found <a href="http://walshbr.com/teaching/">here</a> and <a href="https://humanitiesprogramming.github.io/">here</a></li>
 </ul>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Reflections on a Year of DH Mentoring]]></title>
-    <link href="https://walshbr.com/blog/2015/12/04/dh-mentoring/"/>
-    <updated>2015-12-04T09:13:00-05:00</updated>
-    <id>https://walshbr.com/blog/2015/12/04/dh-mentoring</id>
-    <content type="html"><![CDATA[<p><em>[Crossposted on the <a href="http://scholarslab.org/digital-humanities/reflections-on-a-year-of-dh-mentoring/">Scholars’ Lab blog</a> and the <a href="http://digitalhumanities.wlu.edu/blog/2015/12/03/reflections-on-a-year-of-dh-mentoring/">Digital Humanities at Washington and Lee blog</a>]</em></p>
-
-<p>This year I am working with <a href="http://scholarslab.org/people/eric-rochester/">Eric Rochester</a> in the <a href="http://scholarslab.org/">Scholars’ Lab</a> on a fellowship project that has me learning natural language processing (NLP), the application of computational methods to human languages. We’re adapting these techniques to study quotation marks in the novels of Virginia Woolf (read more about the project <a href="http://scholarslab.org/digital-humanities/virginia-woolf-natural-language-processing-and-the-quotation-mark/">here</a>). We actually started several months before this academic year began, and, as we close out another semester, I have been spending time thinking about just what has made it such an effective learning experience for me. I already had a technical background from my time in the Scholars’ Lab at the beginning of the process, but I had no experience with Python or NLP. Now I feel most comfortable with the former of any other programming language and familiar enough with the latter to experiment with it in my own work.</p>
-
-<p>The general mode of proceeding has been this: depending on schedules and deadlines, we meet once or twice every two weeks. Between our meetings I would work as far and as much as I could, and the sessions would offer a space for Eric and me to talk about what I had done. The following are a handful of things we have done that, I think, have helped to create such an effective environment for learning new technical skills. Though they are particular to this study, I think they can be usefully extrapolated to apply to many other project-based courses of study in digital humanities. They are primarily written from the perspective of a student but with an eye to how and why the methods Eric used proved so effective for me.</p>
-
-<p><strong>Let the Wheel Be Reinvented Before Sharing Shortcuts</strong></p>
-
-<p>I came to Eric with a very small program adapted from Matt Jockers’s book on Text Analysis with R for Students of Literature that did little beyond count quotation marks and give some basic statistics. I was learning as I built the thing, so I was unaware that I was reinventing the wheel in many cases, rebuilding many protocols for dealing with commonly recognized problems that come from working with natural language. After working on my program and my approach to a degree of satisfaction, Eric pulled back the curtain to reveal that a commonly used python module, the Natural Language ToolKit <a href="http://www.nltk.org/">(NLTK)</a>, could address many of my issues and more. NLTK came as something of a revelation, and working inductively in this way gave me a great sense of the underlying problems the tools could address. By inventing my own way to read in a text, clean it to make its text uniformly readable by the computer, and breaking the whole piece into a series of words that could be analyzed, I understood the magic behind a couple lines of NLTK code that could do all that for me. The experience also helped me to recognize ways in which we would have to adapt NLTK for our own purposes as I worked through the book.</p>
-
-<p><strong>Have a Plan, but Be Flexible</strong></p>
-
-<p>After discussing NLTK and how it offered an easier way of doing the things that I wanted, Eric had me systematically work through the <a href="http://www.nltk.org/book/">NLTK book</a> for a few months. Our meetings took on the character of an independent study: the book set the syllabus, and I went through the first seven chapters at my own pace. Working from a book gave our meetings structure, but we were careful not to hew too closely to the material. Not all chapters were relevant to the project, and we cut sections of the book accordingly. We shaped the course of study to the intellectual questions rather than the other way around.</p>
-
-<p><strong>Move from Theory to Practice / Textbook to Project</strong></p>
-
-<p>As I worked through the book, I was able to recognize certain sections that felt most relevant to the Woolf work. Once I felt as though I had reached a critical mass, we switched from the book to the project itself and started working. I tend to learn from doing best, so the shift from theory to execution was a natural one. The quick and satisfying transition helped the work to feel productive right away: I was applying my new skills as I was still learning to feel comfortable with them. Where the initial months had more the feel of a traditional student-teacher interaction, the project-based approach we took up at this point felt more like a real and true collaboration. Eric and I would develop to-do items together, we would work alongside each other, and we would talk over the project together.</p>
-
-<p><strong>Document Everything</strong></p>
-
-<p>Between our meetings I would work as far and as much as I could, carefully noting places at which I encountered problems. In some cases, these were conceptual problems that needed clarifying, and these larger questions frequently found their way into separate notes. But my questions were frequently about what a particular line of code, a particular command or function, might be doing. In that case, I made comments directly in the code describing my confusion. I quickly found that these notes were as much for me as for Eric–I needed to get back in the frame of mind that led to the confusion in the first place, and copious notes helped remind me what the problem was. These notes offered a point of departure for our meetings: we always had a place to start, and we did so based on the work that I had done.</p>
-
-<p><strong>Communicate in as Many Ways as Possible</strong></p>
-
-<p>We met in person as much as possible, but we also used a variety of other platforms to keep things moving. Eric and I had all of our code on <a href="https://github.com/erochest/woolf">GitHub</a> so that we could share everything that we had each been working on and discuss things from a distance if necessary. Email, obviously, can do a lot, but I found the chat capabilities of the Scholars’ Lab’s IRC channel to be far better for this sort of work. If I hit a particular snag that would only require a couple minutes for Eric to answer, we could quickly work things out through a web chat. With Skype and Google Hangouts we could even share the code on the other person’s computer even from hundreds of miles away. All of these things meant that we could keep working around whatever life events happened to call us away.</p>
-
-<p><strong>Recognize Spinning Wheels</strong></p>
-
-<p>These multiple avenues of communication are especially important when teaching technical skills. Not all questions or problems are the same: students can work through some on their own, but others can take them days to troubleshoot. Some amount of frustration is a necessary part of learning, and I do think it’s necessary that students learn to confront technical problems on their own. But not all frustration is pedagogically productive. There comes a point when you have tried a dozen potential solutions and you feel as though you have hit a wall. An extra set of eyes can (and should) help. Eric and I talked constantly about how to recognize when it was time for me to ask for help, and low-impact channels of communication like IRC could allow him to give me quick fixes to what, to me at least, seemed like impossible problems. Software development is a collaborative process, and asking for help is an important skill for humanists to develop.</p>
-
-<p><strong>In-person Meetings Can Take Many Forms</strong></p>
-
-<p>When we met, Eric and I did a lot of different things. First, we would talk through my questions from the previous week. If I felt a particular section of code was clunky or poorly done, he would talk and walk me through rewriting the same piece in a more elegant form. We would often pair program, where Eric would write code while I watched, carefully stopping him each time I had a question about something he was doing. And we often took time to reflect on where the collaboration was going - what my end goal was as well as what my tasks before the next meeting would be. Any project has many pieces that could be dealt with at any time, and Eric was careful to give me solo tasks that he felt I could handle on my own, reserving more difficult tasks for times in which we would be able to work together. All of this is to say that any single hour we spent together was very different from the last. We constantly reinvented what the meetings looked like, which kept them fresh and pedagogically effective.</p>
-
-<p>This is my best attempt to recreate my experience of working in such a close mentoring relationship with Eric. Obviously, the collaboration relies on an extremely low student-to-teacher ratio: I can imagine this same approach working very well for a handful of students, but this work required a lot of individual attention that would be hard to sustain for larger classes. One idea for scaling the process up might be to divide a course into groups, being training one, and then have students later in the process begin to mentor those who are just beginning. Doing so would preserve what I see as the main advantage of this approach: it helps to collapse the hierarchy between student and teacher and engage both in a common project. Learning takes place, but it does so in the context of common effort. I’d have to think more about how this mentorship model could be adapted to fit different scenarios. The work with Eric is ongoing, but it’s already been one of the most valuable learning experiences I have had.</p>
-
 ]]></content>
   </entry>
   

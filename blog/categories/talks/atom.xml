@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talks | Brandon Walsh]]></title>
   <link href="https://walshbr.com/blog/categories/talks/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2018-01-03T09:40:36-05:00</updated>
+  <updated>2018-01-03T14:10:04-05:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[frustration is a feature]]></title>
+    <link href="https://walshbr.com/blog/2018/01/03/frustration/"/>
+    <updated>2018-01-03T09:44:00-05:00</updated>
+    <id>https://walshbr.com/blog/2018/01/03/frustration</id>
+    <content type="html"><![CDATA[<p><em>[The following talk will be given at MLA18 as a part of <a href="https://mla.confex.com/mla/2018/meetingapp.cgi/Session/1212">Panel 203: Anxious Pedagogies - Negotiating Precarity and Insecurity in the Classroom</a>]. Technically I suppose the title should be “Anxiety is a Feature,” but the alliteration was too tempting.]</em></p>
+
+<p><img src="{{ root_url }}/images/frustration/1.jpg" alt="title slide" /></p>
+
+<p>Thanks for putting this panel together, Shawna. And thanks, all of you, for your thoughts - I’ve learned a lot from our exchanges leading up to this panel.</p>
+
+<p><img src="{{ root_url }}/images/frustration/2.jpg" alt="title slide" /></p>
+
+<p>I’m the Head of Graduate Programs in the Scholars’ Lab, a digital humanities center at the UVA Library. I want to come at the question of anxious pedagogies from the perspective of my role in the lab, where I often teach programming and DH skills and methods in addition to my primary duties, which are developing and administering the lab’s educational and professional development programs for graduate students. I work with students very self-consciously trying to step outside of their comfort zones, and I’d like to think about the anxieties associated with these cases in particular.</p>
+
+<p>I want to ask what, exactly, it is that we’re teaching our students. If you’re a sighted reader of English, your skin has probably been crawling due to the grammatical error in my slide here. And that’s part of the point - this error is the subject of memes (but it’s one I constantly make in emails). You might be embarrassed for me and wish someone had pointed it out to me ahead of time. Let’s explore that.</p>
+
+<p><img src="{{ root_url }}/images/frustration/3.jpg" alt="title slide" /></p>
+
+<p>There’s a Python error of a similar kind in this slide. In programming, such small mistakes are major issues that can cause a project to fail. They’re also common for beginning programmers and DHers. A student has an error like this, and, quite understandably, they ask for help from the teacher. The instructor, as a human being, quite understandably, wants to help. I want to talk about that moment - the point at which a student needs help and the nature of the contribution that we as colleagues and mentors are prepared to give.</p>
+
+<p>The ability to identify the kinds of problems I’m pointing out depends a lot on background and training. To expect such problems to be immediately identifiable makes a lot of assumptions about education, literacy, and background that no instructor should make. This is as true of the first example as in the second, which expects that someone has a background in programming and so knows that adding an ‘s’ means the computer creates two objects - fruit and fruits - with no relationship to each other.</p>
+
+<p><img src="{{ root_url }}/images/frustration/4.jpg" alt="title slide" /></p>
+
+<p>I have seen so many students stare, with mounting frustration, at chunks of code, feeling that they are beyond them, that issues in code represent some failing on their own part rather than a natural part of programming (we all make mistakes). Sure, my job is to teach them the skills with which they can solve these problems - the syntax that will prevent such errors in the future. But it’s also to help them recognize that no one is born knowing this stuff. Born knowing anything. And that such anxieties and frustrations are part of what all of us all deal with on a regular basis.</p>
+
+<p>I am not suggesting that we should approach such student frustration as feelings to be worked past or to be toughed out. Instead I want to suggest that the most important, radical act that we can make as teachers is to center frustration and anxiety in our teaching. This feeling, that of knowing something is there but not seeing it, or of knowing something is wrong but not how to address it, are central to the very idea of what it means to learn and to teach. Sianne Ngai might call these “ugly feelings” - those feelings that lead to no cathartic action and that are associated, instead, with pause, frustration, and paralysis.</p>
+
+<p>I’d suggest that our primary role as teachers is not to teach any particular content. Nor is our primary role to teach methods. Our ultimate aim should be to help students learn how to learn, how to keep going with the material outside the context of our courses. And, importantly, how to do this work with, through, and alongside such difficult emotions.</p>
+
+<p>In DH we often valorize failure and what can be learned from it, but it can be difficult to know how to deal with the feelings associated with it. I’ve tried to develop exercises (drawing upon the work of <a href="waynegraham.github.io">Wayne Graham</a>, <a href="http://jeremyboggs.net/">Jeremy Boggs</a>, <a href="http://literaturegeek.com/">Amanda Visconti</a>, and <a href="http://nowviskie.org/">Bethany Nowviskie</a>) that help students sit with and think through frustration and affect. To teach web design, I ask students to draw a series of prototypes for websites using pencil and paper, some explicitly designed to fail, so as to develop a better sense of what it might mean for a website to succeed. Or I ask students to explore a set of programming exercises that have bugs artificially introduced to them as a way of helping them learn concrete steps for exploring problems in the face of mounting anxiety.  </p>
+
+<p>I’d love to hear from all of you if you have any thoughts for how to center, rather than expel, frustration and anxiety from teaching, learning, and the classroom. These issues are especially salient while teaching programming to humanists, as the interdisciplinary nature of it requires people step out of their comfort zone. But as others on this panel have articulated so well, these issues extend to the whole person. Beyond the content we teach and the act of learning it - our students are living in states of continual anxiety. To say nothing of the personal, social, or systemic traumas to which many of them have been subjected about which we may never know.</p>
+
+<p>Most of what we do in the Scholars’ Lab is help students navigate these situations in a professional context. Most of what I do tends to revolve around convincing students that they are good enough. That they are qualified enough to <a href="http://scholarslab.org/visiting-workshops-at-washington-and-lee-university/">teach a workshops on DH</a> or to apply for any <a href="http://scholarslab.org/professional-development/">number of DH or alt-ac jobs</a>.  That a little goes a long way. That imposter syndrome is something felt by everyone. That their work has worth.</p>
+
+<p>There are a number of things we can do as administrators to help mitigate the anxieties of our students. Advocate for them by actively campaigning for the bureaucratic status to serve on committees, teach courses, and offer them the support that they need. Petition our legislatures and administrations for more just labor relations. Figure out the small bureaucratic things that translate to big pains for our students - things like delayed payments, long turnarounds on applications, gatekeeping practices.</p>
+
+<p>My point, our point, really, is that our students and colleagues are consistently in positions of anxiety and frustration - in and out of the classroom. So I’d ask instead what can we do to make our institutions, our classrooms, and our one-on-one interactions with our students more empathetic, but also more consciously aware of and engaged in the negative affects they bring out. Because as I opened this short talk by pointing out - frustration and anxiety are not bugs. They are features. Woven into the very texture of what it means to be human and to be a learner. The question is - what are we prepared to do about it?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Collaborative Writing to Build Digital Humanities Praxis]]></title>
@@ -363,71 +406,6 @@ feeding a little life with tribes two birds
 <p>The current plan moving forward is to build a corpus of test passages containing both quoted speech and implied speech, train a python script against this set of passages, and then use this same script to search for instances of implied speech throughout Woolf’s corpus. Theoretically, at least, the script will search for a series of words that flag text as implied speech to a human reader - said, recalled, exclaimed, etc. Using this lexicon as a basis, the script would then pull out the context surrounding these words to produce a database of sentences meant to serve as speech. At Eric’s suggestion, I’m currently exploring the <a href="http://www.nltk.org/index.html">Natural Language Toolkit</a> to take a stab at all of this. My own hypothesis is that there will be an inverse relationship between quoted speech and implied speech in her corpus, that the amount of speech left unflagged by quotation marks will increase in the middle of Woolf’s career. Once I have all this material, I’ll be able to subject the results to further analysis and to think more deeply about speech in Woolf’s work. Who speaks? What about? What counts as a voice, and what is left in an ambiguous, unsounded state? </p>
 
 <p>The project is very much in its beginning stages, but it’s already opening up the way that I think about speech in Woolf’s text. It tries to untangle the relationship between our print record and our sonic record, and further work will help show how discourse is unfolding over time in the modernist period.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Collation and Writing Pedagogy]]></title>
-    <link href="https://walshbr.com/blog/2015/01/17/collation/"/>
-    <updated>2015-01-17T09:41:00-05:00</updated>
-    <id>https://walshbr.com/blog/2015/01/17/collation</id>
-    <content type="html"><![CDATA[<p>[The following is the talk that I gave at the 2015 MLA Conference on a panel on “Pedagogy and Digital Editions.” The Google Docs section is a slight reworking and recontextualization of a <a href="http://walshbr.github.io/blog/2013/09/25/writing-out-loud/">previous post</a> on the subject. I’m especially grateful to <a href="https://twitter.com/damozel_">Sarah Storti</a> and <a href="https://twitter.com/andrew_stauffer">Andrew Stauffer</a> for their suggestions and comments on how to use Juxta Commons to teach writing.]</p>
-
-<p><strong>Collation and Writing Pedagogy with Juxta Commons and Google Docs</strong></p>
-
-<p>We typically think about using digital collation to compare those documents that already exist. The usual model gathers multiple copies, multiple witnesses, of the same text, and juxtaposes them to gather a sense of the very small, micro changes that have been made to a document. We use these changes to deconstruct our sense of a complete and unified final whole. Instead, we get a sense of a series of related texts, of a work manifesting in different forms, and of stages of a revision process for which we were not present. I am especially interested in the last of these categories: collation tools allow us to uncover revision histories that might be otherwise obscured. They help us to uncover past stages of the writing process, breaking apart a text that might seem concrete and fixed and make it appear fluid and subject to change. </p>
-
-<p>The illusion of a final unified text is a problem for textual editing, and collation tools have helped us to solve it for decades. This same problem, the tendency to think of texts as final objects with no prior histories, is at its core one of the key difficulties facing student writers. There is a danger for students to think of writing as crafting a marble structure – you chip away at it piece by piece until it forms a perfect, fixed form – the form it was meant to possess all along. Instead, I want to argue that collation tools can be used by teachers to help students conceive of writing as a kind of assemblage, a piecing together that instantiates one possible combination among many of a set of textual components. This mode of writing is, by contrast, characterized by play, transformation, and fluidity.  </p>
-
-<p>I will talk about two tools today in this context - <a href="http://juxtacommons.org/">Juxta Commons</a> and <a href="http://www.google.com/docs/about/">Google Docs</a> – and the exercises I use with each. The former is a collation tool proper, and, while the latter is more typically used for collaborative writing, it lends itself quite readily to the practice. So my focus here is on the practical – how to think about and use these tools for to teach writing and revision. I hope to tease out more of their implications in the discussion.</p>
-
-<p><strong>Juxta Commons</strong></p>
-
-<p>Juxta Commons, probably familiar to many, is the latest iteration of Juxta, a piece of software that allows a user to upload multiple textual witnesses and, at a glance, discern the differences. The tool’s digital nature means that the process is quantified and streamlined – no laboring over the collator. It also has the benefit of offering a number of visualizations for graphically understanding the differences between two witnesses, a fact that I find helpful for talking about student writing. </p>
-
-<p>A potential writing exercise for use with Juxta is simple: a student writes a paragraph, and they then rewrite that paragraph several times. Finally, the student uploads each version to Juxta before writing a brief reflection on the differences between the drafts. What remains constant? Where do changes cluster? Do these edits indicate any special anxiety or concern with any one particular element of the writing process – transitional sentences, thematic chaining, logic, etc.? Do the ideas themselves stay the same? Fixating on these details can allow students to conceive of writing as an assemblage of various components that result in the illusion of a coherent whole. </p>
-
-<p><img src="{{ root_url }}/images/variants.jpg" width="100%" /></p>
-
-<p>In the example above, the student is writing a grant proposal for his tennis team. In an early draft, the class noted that the writing held the team at too much of a remove when the author wanted to stress its importance to him as a second family. Such a charge can seem like a big task, but processing the paragraph through the Juxta assignment throws into sharp relief the minute edits created in a revision to create such systemic change. Comparing the two revisions in Juxta, we can see that, by and large, the student revised the subjects of this first paragraph. “I” becomes “we,” and “friends” will become a “family.” He works to increase the sense of unity among the group of people he describes, a unity that will later become essential in his argument that the organization provides more to the community than just a place to play sports. The Juxta assignment allows a student better insight into how each of these component pieces can easily be sent into motion and radically change the character of the whole document. A large, sweeping suggestion like “adjust your tone” becomes revision by way of a thousand moving pieces. Much more doable.</p>
-
-<p>Juxta Commons has the added bonus of being envisioned as a commons - an online community of textual scholars. It is quite easy to share sets with others, and it would take little effort to set up a repository of shared collation sets among a classroom. To encourage objective reflection as a component of writing, I would ask each student to write a short reflection on a different student’s collation set, observing the differences and reflecting on the minute changes that got them there.</p>
-
-<p>Juxta’s strength as a collation tool is also its limitation for the sort of teaching exercise that I am describing. Juxta has the benefit of being quantitative: its visualizations can offer users quick and accurate depictions of things that might otherwise go unrecognized – a missing comma, or a single different word. Juxta works best with large documents that are largely the same. But if the corresponding passages become too different Juxta will be thrown into disarray. </p>
-
-<p><img src="{{ root_url }}/images/too_much_difference.jpg" width="100%" /></p>
-
-<p>While it is very good at processing texts to find small differences, the software does not quite work if the documents are too different from one another. Its system allows for either exact similarity or difference at the level of character. It cannot tell, for example, if you have reworded a particular phrase or removed it entirely. The paragraph in this example was heavily rewritten, with only a few words in common between the two drafts. While this sort of at a glance collation could be useful to identify revised sections in longer documents, it does little to unsettle the idea of writing as a search for a fully realized whole. Juxta Commons works best for helping students to see the massive change that can be wrought by a collection of small changes.</p>
-
-<p><strong>Google Docs</strong></p>
-
-<p>One of the difficulties with using Juxta to collate is that it relies on a student’s already extant drafts – revision must already have taken place, which seems to defeat the whole purpose of an exercise designed to unsettle the writing process. Google Docs is not a tool made for collation, but I do think that it can helpfully generate just those many witnesses that <strong>could</strong> be collated. By using Google Docs as a collaborative writing space, classmates can help another generate different textual possibilities for a single sentence. My use of Google Docs in conjunction with a discussion of writing first came about in an advanced course on Academic and Professional Writing. We talked a lot about editing in the class, and many of the conversations about style took this shape:</p>
-
-<p>Student A: “Something about this word feels strange, but I don’t know what it is.” <br />
-Student B: “What if we moved the phrase to the beginning of the sentence?”<br />
-Student C: “We could get rid of that word and use this phrase instead.”  </p>
-
-<p>Those statements are hard to wrap your head around. Just imagine if those conversations were spoken. Talking about writing can only get you so far: writing is graphic, after all. As I write and edit, I try out different options on the page. I model possibilities, but I do so <em>in</em> writing. Discussing the editing process without visual representations of suggested changes can make things too abstract to be meaningful for students. They need to see the different possibilities, the different potential witnesses. I developed an exercise that I call “Writing Out Loud” that more closely mirrors my actual editing process. Using a Google Doc as a collaborative writing space, students are able to model alternate revisions visually and in real time for discussion.</p>
-
-<p>The setup requires a projector-equipped classroom and that students bring their laptops to class. Circulate the link to the Google Doc ahead of time, taking care that anyone with the link can edit the document. The template of the Google Doc consists of a blank space at the top for displaying the sentence under question and a series of workspaces for each student consisting of their name and a few blank lines. Separate workspaces prevent overlapping revisions, and they also minimize the disorienting effects of having multiple people writing on the same document.</p>
-
-<p><img src="{{ root_url }}/images/WOL_template.jpg" width="40%" class="right" /></p>
-
-<p>We usually turn to the exercise when a student feels a particular sentence is not working but cannot articulate why. When this happens, I put the Writing Out Loud template on the projector with the original version of the sentence at the top. Using their own laptops, students sign onto the Doc and type out alternative versions of the sentence, and the multiple possible revisions show up on the overhead for everyone to see and discuss. After each student rewrites the sentence to be something that they feel works better, ask for volunteers to explain how the changes affect meaning. The whole process only takes a few minutes, and it allows you to abstract writing principles from the actual process of revision rather that the other way around. How does the structure of a sentence matter? How can word choice change everything? What pieces of a sentence are repetitive?</p>
-
-<p><img src="{{ root_url }}/images/WOL_filled.jpg" width="100%" /></p>
-
-<p>I especially like this exercise because it asks multiple students to engage in the revision process. It is always easier to revise when you have critical distance on a piece of writing, and outside editors with no attachment to a particular word or phrase can offer just that. In the above example, the sentence under discussion contained the colloquial phrase “get the word out.” The class offered a range of alternatives that range in their formality. Instead of receiving an edict to professionalize their tone, the student gets a glimpse of many possibilities from which he can choose. The exercise also allows the choices to exist side by side, making collation possible in a way that the usual revision process makes difficult. Most students, I would wager, work with one or, at most, two drafts open at a single time. Google Docs can allow a number of possibilities to emerge.</p>
-
-<p>The Google Docs exercise works better on micro-edits, revisions at the level of the sentence. The standard process of the exercise—write, collate, and discuss—would take far too long with anything longer than a few lines. The exercise can be particularly useful for those sentences that carry a lot of importance for entire arguments: thesis statements, topic sentences, the first sentences of the document, etc. Where Juxta is entirely quantitative and offers hand graphic visualizations of textual difference, this Google Docs exercise relies on you and the students to collate the materials yourselves. You can recognize subtle differences – a reworded idea vs. a dropped idea, for example. It trains students to internalize the practice of collation and reflect on the interpretive possibilities offered by such differences.</p>
-
-<p><strong>Closing Analysis</strong></p>
-
-<p>I find that students often think of editing as an intense, sweeping process that involves wholesale transformation from the ground up. Modeling multiple, slightly different versions of the same sentence can allow for a more concrete discussion of the sweeping rhetorical changes that even the smallest edits can make. In this sense, I think using these tools in the classroom allows students to conceive of a single composition as one instantiation among many. Forcing them to compose several different models means that the writing process will be looser. Collation as composition offers students a subjunctive space wherein they dwell in possibilities. It is a vision of composition as de and reconstruction, as a process that is constantly unfolding.</p>
-
-<p>Digital tools uncover how writing is really always already such a fluid process, and they can allow students to see their own composition process in this way while they are still in the thick of it. Digital collation can offer students the chance to think of their own works as messy, subjunctive spaces, as things in flux. By allowing multiple possible versions of the same text to exist alongside and in relation to one another, they can allow students to slip between different textual realities. Most importantly, the process severs the link between the quality of an idea and the manner of its presentation. Instead of one right answer, students can see that there are many possible solutions to any writing difficulty.</p>
-
-<p>I have touched on how exercises like these can also encourage students to distill writing principles from the process rather than the other way around. They can also help students to discover editorial principals through their own writing. I am imagining here a praxis-oriented approach to teaching textual editing where practice leads to principal, one where scholarly readings might come after a student has written an essay, revised it, and, in effect, produced their own edition of their text. An exercise with Juxta might lead to a discussion of eclectic editions, while Google Docs could lead to a fruitful discussion of accidentals and substantives. I am not suggesting that these sorts of exercises replace the good work performed by studying classic editions, reading about editorial practices, or producing one’s own edition by carrying out the steps of the editorial process. But in a class that has an explicit focus on composition, exercises with tools like Juxta Commons and Google Docs can help connect textual criticism with writing pedagogy.</p>
 ]]></content>
   </entry>
   
