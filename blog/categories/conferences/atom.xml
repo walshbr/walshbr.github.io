@@ -4,7 +4,7 @@
   <title><![CDATA[Category: conferences | Brandon Walsh]]></title>
   <link href="https://walshbr.com/blog/categories/conferences/atom.xml" rel="self"/>
   <link href="https://walshbr.com/"/>
-  <updated>2018-01-07T08:56:54-05:00</updated>
+  <updated>2018-01-07T12:45:42-05:00</updated>
   <id>https://walshbr.com/</id>
   <author>
     <name><![CDATA[Brandon Walsh]]></name>
@@ -76,7 +76,7 @@
 
 <p>A potential writing exercise for use with Juxta is simple: a student writes a paragraph, and they then rewrite that paragraph several times. Finally, the student uploads each version to Juxta before writing a brief reflection on the differences between the drafts. What remains constant? Where do changes cluster? Do these edits indicate any special anxiety or concern with any one particular element of the writing process – transitional sentences, thematic chaining, logic, etc.? Do the ideas themselves stay the same? Fixating on these details can allow students to conceive of writing as an assemblage of various components that result in the illusion of a coherent whole. </p>
 
-<p><img src="{{ root_url }}/images/variants.jpg" width="100%" /></p>
+<p><img src="/images/variants.jpg" width="100%" /></p>
 
 <p>In the example above, the student is writing a grant proposal for his tennis team. In an early draft, the class noted that the writing held the team at too much of a remove when the author wanted to stress its importance to him as a second family. Such a charge can seem like a big task, but processing the paragraph through the Juxta assignment throws into sharp relief the minute edits created in a revision to create such systemic change. Comparing the two revisions in Juxta, we can see that, by and large, the student revised the subjects of this first paragraph. “I” becomes “we,” and “friends” will become a “family.” He works to increase the sense of unity among the group of people he describes, a unity that will later become essential in his argument that the organization provides more to the community than just a place to play sports. The Juxta assignment allows a student better insight into how each of these component pieces can easily be sent into motion and radically change the character of the whole document. A large, sweeping suggestion like “adjust your tone” becomes revision by way of a thousand moving pieces. Much more doable.</p>
 
@@ -84,7 +84,7 @@
 
 <p>Juxta’s strength as a collation tool is also its limitation for the sort of teaching exercise that I am describing. Juxta has the benefit of being quantitative: its visualizations can offer users quick and accurate depictions of things that might otherwise go unrecognized – a missing comma, or a single different word. Juxta works best with large documents that are largely the same. But if the corresponding passages become too different Juxta will be thrown into disarray. </p>
 
-<p><img src="{{ root_url }}/images/too_much_difference.jpg" width="100%" /></p>
+<p><img src="/images/too_much_difference.jpg" width="100%" /></p>
 
 <p>While it is very good at processing texts to find small differences, the software does not quite work if the documents are too different from one another. Its system allows for either exact similarity or difference at the level of character. It cannot tell, for example, if you have reworded a particular phrase or removed it entirely. The paragraph in this example was heavily rewritten, with only a few words in common between the two drafts. While this sort of at a glance collation could be useful to identify revised sections in longer documents, it does little to unsettle the idea of writing as a search for a fully realized whole. Juxta Commons works best for helping students to see the massive change that can be wrought by a collection of small changes.</p>
 
@@ -100,11 +100,11 @@ Student C: “We could get rid of that word and use this phrase instead.”  </p
 
 <p>The setup requires a projector-equipped classroom and that students bring their laptops to class. Circulate the link to the Google Doc ahead of time, taking care that anyone with the link can edit the document. The template of the Google Doc consists of a blank space at the top for displaying the sentence under question and a series of workspaces for each student consisting of their name and a few blank lines. Separate workspaces prevent overlapping revisions, and they also minimize the disorienting effects of having multiple people writing on the same document.</p>
 
-<p><img src="{{ root_url }}/images/WOL_template.jpg" width="40%" class="right" /></p>
+<p><img src="/images/WOL_template.jpg" width="40%" class="right" /></p>
 
 <p>We usually turn to the exercise when a student feels a particular sentence is not working but cannot articulate why. When this happens, I put the Writing Out Loud template on the projector with the original version of the sentence at the top. Using their own laptops, students sign onto the Doc and type out alternative versions of the sentence, and the multiple possible revisions show up on the overhead for everyone to see and discuss. After each student rewrites the sentence to be something that they feel works better, ask for volunteers to explain how the changes affect meaning. The whole process only takes a few minutes, and it allows you to abstract writing principles from the actual process of revision rather that the other way around. How does the structure of a sentence matter? How can word choice change everything? What pieces of a sentence are repetitive?</p>
 
-<p><img src="{{ root_url }}/images/WOL_filled.jpg" width="100%" /></p>
+<p><img src="/images/WOL_filled.jpg" width="100%" /></p>
 
 <p>I especially like this exercise because it asks multiple students to engage in the revision process. It is always easier to revise when you have critical distance on a piece of writing, and outside editors with no attachment to a particular word or phrase can offer just that. In the above example, the sentence under discussion contained the colloquial phrase “get the word out.” The class offered a range of alternatives that range in their formality. Instead of receiving an edict to professionalize their tone, the student gets a glimpse of many possibilities from which he can choose. The exercise also allows the choices to exist side by side, making collation possible in a way that the usual revision process makes difficult. Most students, I would wager, work with one or, at most, two drafts open at a single time. Google Docs can allow a number of possibilities to emerge.</p>
 
@@ -133,7 +133,7 @@ Student C: “We could get rid of that word and use this phrase instead.”  </p
 
 <p>So here is part of “Stairway to Heaven” backwards. 			</p>
 
-<audio controls=""><source src="{{ root_url }}/mp3s/mla-2015/zeppelin_reversed.mp3" type="audio/mpeg" /><source src="{{ root_url }}/ogg/mla-2015/zeppelin_reversed.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
+<audio controls=""><source src="/mp3s/mla-2015/zeppelin_reversed.mp3" type="audio/mpeg" /><source src="/ogg/mla-2015/zeppelin_reversed.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
 
 <p>Source: <a href="http://youtu.be/zGsUcPdPWBg?t=47s">http://youtu.be/zGsUcPdPWBg?t=47s</a> </p>
 
@@ -141,14 +141,14 @@ Student C: “We could get rid of that word and use this phrase instead.”  </p
 
 <p>But sound recordings are something different. They are bound in time in a different way. Daniel Albright in <em>Untwisting the Serpent</em> describes music by way of “Lessing’s famous distinction between the spatially juxtapositive arts of <em>nebeinander</em>, such as painting, sculpture, and architecture, and the temporally progressive arts of <em>nacheinander</em>, such as poetry and music” (9). Our experience of music and poetry depend upon their ability to move forward in time. To put the distinction in the context of deformance: you can move around a sculpture and view it from different angles, but it remains the same sculpture. Deform a musical recording by reversing its waveform, however, and you end with a different musical artifact entirely, one with different component parts. Hence, it can sound like gibberish. </p>
 
-<p><img src="{{ root_url }}/images/waveform-large.jpg" width="50%" class="right" /></p>
+<p><img src="/images/waveform-large.jpg" width="50%" class="right" /></p>
 
 <p>Here is the waveform for the Zeppelin clip. The waveform here is a charting of intensity over time, and the reversal literally changes the original artifact. It’s a mirror image, but our ears are hard-pressed to be able to reconnect the new object to its original. Many kinds of deformance you can do on an audio recording would work in the same way – alter the pitches, smash them tighter, stretch them out, etc. You alter that wave, and you get something else entirely. At what point does it become something new?</p>
 
 <p>But some reversed audio still sounds like a recognizable tune. Behind the “Stairway to Satan” claim is a long history behind it of musical reversal and mirroring. Musicians and listeners have been fascinated with the vectored nature of sound for centuries, and composers have experimented with reversal as a spur to creativity for ages. Take this melody. </p>
 
 <video width="320" height="240" controls="">
-  <source src="{{ root_url }}/videos/canon-retrogrado.mp4" type="video/mp4" />
+  <source src="/videos/canon-retrogrado.mp4" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
 
@@ -162,11 +162,11 @@ Your browser does not support the video tag.
 
 <p>“Motto”</p>
 
-<audio controls=""><source src="{{ root_url }}/mp3s/mla-2015/motto.mp3" type="audio/mpeg" /><source src="{{ root_url }}/ogg/mla-2015/5_motto.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
+<audio controls=""><source src="/mp3s/mla-2015/motto.mp3" type="audio/mpeg" /><source src="/ogg/mla-2015/5_motto.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
 
 <p>“Motto” Reversed</p>
 
-<audio controls=""><source src="{{ root_url }}/mp3s/mla-2015/motto_reversed.mp3" type="audio/mpeg" /><source src="{{ root_url }}/ogg/mla-2015/motto_reversed.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
+<audio controls=""><source src="/mp3s/mla-2015/motto_reversed.mp3" type="audio/mpeg" /><source src="/ogg/mla-2015/motto_reversed.ogg" type="audio/ogg" />Your browser does not support this audio format.</audio>
 
 <p>The recording is a useful analogy for vocal sound recordings more generally in that it has two distinct pieces – a musical (non-verbal sound) component, and a recorded voice (with linguistic content). The two elements often intertwine and are not easily separated (this example not withstanding). You can hear, I think, the stark difference between the reversed poetic content by Hughes and the reversed instrumental content. Hughes reversed sounds like nonsense, while the saxophone in particular still sounds like something of a melody. The digital reversal of sound recordings treats them both as waveforms with no semantic content – it reverses them just as easily and happily as it would any other sound recording. </p>
 
@@ -174,7 +174,7 @@ Your browser does not support the video tag.
 
 <p>Deformance of poetic recordings forces us to consider the nature of recorded literary recordings anew. We might extrapolate from the character of this recording that all recorded voices contain a linguistic element as well an audible one. Not fully audio nor fully textual artifacts, I want to say that they are, instead something we might call audiotextual, a term that Jason Camlot has recently used in relation to the classification of Victorian literary recordings as an expansion of McGann’s own historicist approach to textual criticism. </p>
 
-<p><img src="{{ root_url }}/images/audiotextual.jpg" width="40%" class="right" /></p>
+<p><img src="/images/audiotextual.jpg" width="40%" class="right" /></p>
 
 <p>I want to use the term as a play on audiovisual to describe the state of such sound recordings. Like the Hughes recording, with both an instrumental, sound component as well as a linguistic one, audiotextual recordings exist in sound as well as in print. It’s a fairly simple idea, but I think it is one that often gets concerned as we discuss sound recordings. Literary sound recordings are not reducible to their relationship with a print text: they have both sounded <em>and</em> print components. Audiobooks, in particular, not being “poetic” often seem to get left out of close listenings and treated as mere reproductions of print texts. If you read the reviews of any Amazon audiobook or <a href="http://www.librivox.org">LibriVox</a> recording, you will see hundreds of people who expect an audiobook to be an unmediated, honest representation of the print origin. Audiotextual might be used equally to describe both Hughes’s literary sound recordings as well as Hughes’s poetry itself, saturated as it is with traces of the live performance techniques of jazz and blues musicians. </p>
 
@@ -210,23 +210,23 @@ Your browser does not support the video tag.
 
 <p>To reverse an audio file, begin by opening that clip in <em>Audacity</em> in the same way that you would open a file in any other piece of software. You will get something that looks like this:</p>
 
-<p><img src="{{ root_url }}/images/waveform.jpg" width="40%" class="right" /></p>
+<p><img src="/images/waveform.jpg" width="40%" class="right" /></p>
 
 <p>What you see here is a <a href="http://manual.audacityteam.org/o/man/audacity_waveform.html">waveform</a>, a way of graphically representing the audio file in way that allows you to manipulate it. The y-axis of the waveform corresponds to volume – the taller the waveform, the louder the sound file’s contents are at that particular moment in time. This can be a quick and easy way to identify chunks of activity by looking for spikes in the volume.</p>
 
-<p><img src="{{ root_url }}/images/axes.jpg" /></p>
+<p><img src="/images/axes.jpg" /></p>
 
 <p>The x-axis represents time – the Hughes file I have sliced out is 46” long, and the program gives you a timeline along the top of the segment to situate you in the file. Clicking anywhere on the waveform will set the file playback to begin at that point, and you can click and drag to highlight a selection of the clip for processing.</p>
 
 <p>To process the file, highlight the section that you want reversed. In this case, since we are working with the entire file, we will just select everything. Under the “effect” menu, <em>Audacity</em> gives you a range of options for remixing your sound data, but we want the “reverse” function. </p>
 
-<p><img src="{{ root_url }}/images/reverse.jpg" width="40%" class="right" /></p>
+<p><img src="/images/reverse.jpg" width="40%" class="right" /></p>
 
 <p>Now you have a reversed file at your disposal. Sound tends to work in attack and decay, and much of the strangeness of a reversed recording comes from sounds increasing rather than fading in intensity over time. And, as I will discuss in my talk, the process throws into sharp relief the distinct character of recorded linguistic content. </p>
 
 <p><em>Audacity</em> saves files in <em>Audacity</em> project formats by default, so you will need to export your file to a different file format if you want to play it in a media player. I tend to use both .ogg and .mp3 files for browser compatibility. <em>Audacity</em> will also give you the opportunity to input light metadata for your file before it exports in case you want to curate your file for inclusion in an archive or home-library.</p>
 
-<p><img src="{{ root_url }}/images/export.jpg" width="40%" class="right" /></p>
+<p><img src="/images/export.jpg" width="40%" class="right" /></p>
 
 <p><em>Audacity</em> gives many other options for experimenting with sound remixing, distortion, and deformance that I would encourage you to explore. The software also gives you many options for working with sound files more generally. I have written <a href="http://walshbr.github.io/blog/2013/11/13/audio-at-thatcampva/">elsewhere</a> about using Audacity to prepare sound files for research and presentation. Check out my other post if you want to learn more about how to slice out clips, mix together two sound files, or process DRM files.</p>
 ]]></content>
