@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Teaching"
+date: 2013-01-25 17:26
+comments: true
+categories:
+---
+After some Git problems were sorted out and explained to me by the staff of the <a href="http://www.scholarslab.org/">Scholars' Lab</a>, I can make updates to the site again. I have added some content to the <a href="{{ root_url }}/teaching">Teaching</a> page: the syllabus for my current writing course among other goodies. Enjoy!

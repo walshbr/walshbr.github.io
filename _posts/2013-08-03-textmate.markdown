@@ -1,0 +1,20 @@
+---
+layout: post
+title: "TextMate and Git"
+date: 2013-08-03 10:45
+comments: true
+categories: [tools, tips]
+---
+This one is for my own files as much as anything else. For some time now, I've been getting a persistent error in Git when I try to go through the steps of committing a file online. This particular error came about when trying to pull before pushing up to GitHub:
+
+
+`/usr/bin/mate -w: /usr/bin/mate: No such file or directory
+error: There was a problem with the editor '/usr/bin/mate -w'.
+Not committing merge; use 'git commit' to complete the merge.`
+
+From what I understand, this comes about because Git can't find the symbolic link to TextMate, even though it has existed in the past. For whatever reason, this issue seems to come up from time to time on my machine. I've tried a number of different solutions online, but none seemed to take.
+<a href="http://stackoverflow.com/questions/9610884/cant-create-a-symbolic-link-with-textmate-in-terminal-mate-command-not-found">This</a> solution finally did it for me. First, of course, make sure that you have TextMate installed and updated (my first mistake). The solution:
+
+`ln -s /Applications/TextMate.app/Contents/SharedSupport/Support/bin/mate /usr/local/bin/mate`
+
+This very post was made free of the error.  

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "MLA 2015 Abstracts"
+date: 2014-03-21 09:23
+comments: true
+categories: [conferences, talks]
+---
+
+It's abstract time for next year's big conference season. My two abstracts for MLA 2015 in Vancouver are below. This year I skewed digital humanities in a huge way: one paper would discuss digital collation and pedagogy, while the other would talk about listening practices and sound manipulation.
+
+**Collation and Writing Pedagogy with Juxta Commons and Google Docs**
+
+This talk argues for digital collation tools as means of modeling revision in writing instruction. While collation tools are more typically used to examine already extant textual variants, they can also be used to model rhetorical possibilities in writing that is still in process. I suggest that tools like Juxta Commons and Google Docs, the former explicitly designed for collation and the latter more typically used for collaborative writing, can model a subjunctive mode of composition when used in congress with student writing. By allowing multiple possible versions of the same text to exist alongside and in relation to one another, they allow students to conceive of multiple realities at once, unhooking the quality of an idea from the manner of its presentation and allowing a student to think critically about both. The process allows students to abstract writing principles from revision rather than the other way around. It also allows students to distill editorial concepts by creating real-life editorial scenarios with their own writing as the subject.
+
+**The Devil in the Recording: Deformative Listening and Poetry**
+
+Modernists at the turn of the twentieth century were enamored of sound recording technology for the new possibilities that it offered for preserving their work, but they also obsessed over the materiality of the new media: skipping needles, record grooves, and the hiss of the recording. This talk examines the possibilities for listening to sound recordings of modernist works in ways newly enabled by digital technologies so as to reflect back on modernist engagement with sound and media. Lisa Samuels and Jerome McGann invoke Emily Dickinson's suggestion of reading backwards line-by-line as a model for deformative reading. Retrograde constructions have been part of music theory treatises for centuries, and my work works in dialogue with these modes of thought to take the backwards turn a step further by listening to poetry recordings in reverse. Listening to recordings backwards alienates us from the semantic meanings of a text, but the process offers us a new sense of the recordings as sound objects, allows us to reconceive sonic and interpretive enmeshings, and enables us to hear anew the relationship between verse and music in song settings. Ultimately, I suggest that deformative listening practices offer heightened forms of close listening. Digital tools used will likely include Audacity and Sound Arguments, and I will discuss recordings of works by T.S. Eliot and Langston Hughes.
