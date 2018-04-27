@@ -1,0 +1,17 @@
+.divider {
+    margin: 1em 0 0;
+    padding: 0 0 1em;
+    position: relative;
+    background:
+    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAYAAACsXeyTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVQIHWNIS0sr/v//PwMMDzY+ADqMahlW4J91AAAAAElFTkSuQmCC)
+    bottom left
+    repeat-x;
+    background:
+    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAYAAACsXeyTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVQIHWNIS0sr/v//PwMMDzY+ADqMahlW4J91AAAAAElFTkSuQmCC)
+    top left
+    repeat-x;
+}
+
+article h3{
+  margin: 0 0 0 0;
+}

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<h1>Category: {{ page.category | capitalize }}</h1>
 {% for post in site.categories[page.category] %}
 	{% include archive_post.html %}
 {% endfor %}

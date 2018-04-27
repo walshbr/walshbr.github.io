@@ -1,16 +1,12 @@
 {% capture category %}
 {{ post.categories | size }}
 {% endcapture %}
-<h1>
-    <a href="{{ root_url }}{{ post.url }}">{{post.title}}</a>
-</h1>
-<time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>
-{{ post.date | date: "<span class='month'>%b</span> <span class='day'>%d</span> <span class='year'>%Y</span>"}}
-</time>
+<h3>
+    {{ post.date | date: "<span class='month'>%b</span> <span class='day'>%d</span>"}} | <a href="{{ root_url }}{{ post.url }}">{{post.title}}</a>
+</h3>
 {% if post.categories[0] %}
-<footer>
   {% assign categories = post.categories | category_links %}
   {{ category_links:post.categories }}
-  <span class="categories">posted in {{ categories }}</span>
-</footer>
+  <span class="categories">Posted in {{ categories }}</span>
 {% endif %}
+<div class="divider"/>
