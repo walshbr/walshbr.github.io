@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Teaching
+title: Pedagogy
 comments: true
 sharing: true
 footer: false
-permalink: /teaching
+permalink: /pedagogy
+order: 4
 ---
+
 <h2>Washington and Lee University</h2>
 
 <ol>

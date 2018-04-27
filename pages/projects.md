@@ -5,6 +5,7 @@ comments: false
 sharing: true
 footer: false
 permalink: /projects
+order: 3
 ---
 
 

@@ -7,7 +7,7 @@ new_post_ext    = "md"  # default new post file extension when using the
 task :test do
   sh "bundle exec jekyll build"
   options = { :assume_extension => true,
-  :http_status_ignore => [401]}
+  :http_status_ignore => [0, 401]}
   HTMLProofer.check_directory("./_site", options).run
 end
 

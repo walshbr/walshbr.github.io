@@ -2,6 +2,7 @@
 layout: page
 title: Blog Archive
 footer: false
+order: 5
 ---
 
 <div id="blog-archives">

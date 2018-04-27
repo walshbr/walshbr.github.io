@@ -6,6 +6,7 @@ sharing: true
 footer: true
 sidebar: true
 permalink: /about
+order: 1
 ---
 
 <p><img class="right" width="40%" src="{{ root_url }}/assets/images/new_me.jpg" title="Brandon Walsh" alt="brandon pic">
