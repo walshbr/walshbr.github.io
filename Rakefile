@@ -4,7 +4,8 @@ posts_dir       = "_posts"    # directory for blog files
 new_post_ext    = "md"  # default new post file extension when using the
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
 public_dir      = "public"    # compiled site directory
-
+source_dir      = "_site"
+deploy_default  = "push"
 
 task :test do
   sh "bundle exec jekyll build"
@@ -55,9 +56,28 @@ multitask :push do
   end
 end
 
+task :deploy do
+  # Check if preview posts exist, which should not be published
+  if File.exists?(".preview-mode")
+    puts "## Found posts in preview mode, regenerating files ..."
+    File.delete(".preview-mode")
+    Rake::Task[:generate].execute
+  end
+
+  Rake::Task[:copydot].invoke(source_dir, public_dir)
+  Rake::Task["#{deploy_default}"].execute
+end
+
+desc "copy dot files for deployment"
+task :copydot, :source, :dest do |t, args|
+  FileList["#{args.source}/**/.*"].exclude("**/.", "**/..", "**/.DS_Store", "**/._*").each do |file|
+    cp_r file, file.gsub(/#{args.source}/, "#{args.dest}") unless File.directory?(file)
+  end
+end
+
+desc "Generate jekyll site"
 task :generate do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   puts "## Generating Site with Jekyll"
-  system "compass compile --css-dir #{source_dir}/stylesheets"
-  system "jekyll"
+  system "jekyll build"
 end
