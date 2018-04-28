@@ -3,7 +3,7 @@ require 'html-proofer'
 posts_dir       = "_posts"    # directory for blog files
 new_post_ext    = "md"  # default new post file extension when using the
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
-public_dir      = "_site"    # compiled site directory
+public_dir      = "public"    # compiled site directory
 source_dir      = "_site"
 deploy_default  = "push"
 deploy_branch  = "master"
