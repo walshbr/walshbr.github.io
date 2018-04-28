@@ -6,6 +6,7 @@ deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
 public_dir      = "public"    # compiled site directory
 source_dir      = "_site"
 deploy_default  = "push"
+deploy_branch  = "master"
 
 task :test do
   sh "bundle exec jekyll build"
