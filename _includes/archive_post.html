@@ -10,7 +10,9 @@
 <article>
 	<h1 class="title"><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>
 	<div class="meta">
-		<span class="date">{{ date | date: "%b %e" }}</span> | 
+		<span class="date">{{ date | date: "%b %e" }}</span> |
+		{% comment %}
 		<span class="tags">{% include categories.html %}</span>
+		{% endcomment %}
 	</div>
 </article>

@@ -4,9 +4,13 @@
 <h3>
     {{ post.date | date: "<span class='month'>%b</span> <span class='day'>%d</span>"}} | <a href="{{ root_url }}{{ post.url }}">{{post.title}}</a>
 </h3>
+{% comment %}
 {% if post.categories[0] %}
   {% assign categories = post.categories | category_links %}
+  {% comment %}
   {{ category_links:post.categories }}
+  {% endcomment %}
   <span class="categories">Posted in {{ categories }}</span>
 {% endif %}
+{% endcomment %}
 <div class="divider"/>

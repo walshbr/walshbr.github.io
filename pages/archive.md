@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog Archive
+permalink: /archive
 footer: false
 order: 5
 ---
