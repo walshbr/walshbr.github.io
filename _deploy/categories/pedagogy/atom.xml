@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: pedagogy | Brandon Walsh]]></title>
+  <link href="http://lanyon.getpoole.com/categories/pedagogy/atom.xml" rel="self"/>
+  <link href="http://lanyon.getpoole.com/"/>
+  <updated>2018-04-27T20:11:44-04:00</updated>
+  <id>http://lanyon.getpoole.com/</id>
+  <author>
+    <name><![CDATA[{"name"=>"Brandon Walsh", "url"=>"https://twitter.com/mdo", "email"=>"walsh@virginia.edu"}]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Frustration is a Feature]]></title>
+    <link href="http://lanyon.getpoole.com/blog/2018/01/03/frustration/"/>
+    <updated>2018-01-03T09:44:00-05:00</updated>
+    <id>http://lanyon.getpoole.com/blog/2018/01/03/frustration</id>
+    <content type="html"><![CDATA[<p><em>The following talk was given at MLA18 as a part of Panel 203: Anxious Pedagogies - Negotiating Precarity and Insecurity in the Classroom. Technically I suppose the title should be “Anxiety Is a Feature,” but the alliteration was too tempting.</em></p>
+
+<p><img src="/assets/images/frustration/1.jpg" alt="title slide" /></p>
+
+<p>Thanks for putting this panel together, Shawna. And thanks, all of you, for your thoughts - I’ve learned a lot from our exchanges leading up to this panel.</p>
+
+<p><img src="/assets/images/frustration/2.jpg" alt="Text: &quot;What are you teaching you're students?&quot;" /></p>
+
+<p>I’m the Head of Graduate Programs in the Scholars’ Lab, a digital humanities center at the UVA Library. I want to come at the question of anxious pedagogies from the perspective of my role in the lab, where I often teach programming and DH skills and methods in addition to my primary duties, which are developing and administering the lab’s educational and professional development programs for graduate students. I work with students very self-consciously trying to step outside of their comfort zones, and I’d like to think about the anxieties associated with these cases in particular.</p>
+
+<p>I want to ask what, exactly, it is that we’re teaching our students. If you’re a sighted reader of English, your skin has probably been crawling due to the grammatical error in my slide here. And that’s part of the point - this error is the subject of memes (but it’s one I constantly make in emails). You might be embarrassed for me and wish someone had pointed it out to me ahead of time. Let’s explore that.</p>
+
+<p><img src="/assets/images/frustration/3.jpg" alt="Basic Python syntax error" /></p>
+
+<p>There’s a Python error of a similar kind in this slide. In programming, such small mistakes are major issues that can cause a project to fail. They’re also common for beginning programmers and DHers. A student has an error like this, and, quite understandably, they ask for help from the teacher. The instructor, as a human being, quite understandably wants to help. I want to talk about that moment - the point at which a student needs help and the nature of the contribution that we as colleagues and mentors are prepared to give.</p>
+
+<p>The ability to identify the kinds of problems I’m pointing out depends a lot on background and training. To expect such problems to be immediately identifiable makes a lot of assumptions about education, literacy, and background that no instructor should make. This is as true of the first example as in the second, which expects that someone has a background in programming and so knows that a computer would not be able to infer a relationship between the variables ‘fruit’ and ‘fruits’ - adding the extra ‘s’ in that last line by accident causes problems.</p>
+
+<p><img src="/assets/images/frustration/4.jpg" alt="XKCD comic about how every day 10,000 people learn something for the first time." /></p>
+
+<p>I have seen so many students stare, with mounting frustration, at chunks of code, feeling that they are beyond them, that issues in code represent some failing on their own part rather than a natural part of programming (we all make mistakes). Sure, my job is to teach them the skills with which they can solve these problems - the syntax that will prevent such errors in the future. But it’s also to help them recognize that no one is born knowing this stuff. Born knowing anything. And that such anxieties and frustrations are part of what all of us all deal with on a regular basis.</p>
+
+<p>I am not suggesting that we should approach such student frustration as feelings to be worked past or to be toughed out. Instead I want to suggest that the most important, radical act that we can make as teachers is to center frustration and anxiety in our teaching. This feeling, that of knowing something is there but not seeing it, or of knowing something is wrong but not how to address it, are central to the very idea of what it means to learn and to teach. Sianne Ngai might call these “ugly feelings” - those feelings that lead to no cathartic action and that are associated, instead, with pause, frustration, and paralysis.</p>
+
+<p>I’d suggest that our primary role as teachers is not to teach any particular content. Nor is our primary role to teach methods. Our ultimate aim should be to help students learn how to learn, how to keep going with the material outside the context of our courses. And, importantly, how to do this work with, through, and alongside such difficult emotions.</p>
+
+<p>In DH we often valorize failure and what can be learned from it, but it can be difficult to know how to deal with the feelings associated with it. I’ve tried to develop exercises (drawing upon the work of <a href="http://waynegraham.github.io/">Wayne Graham</a>, <a href="http://jeremyboggs.net/">Jeremy Boggs</a>, <a href="http://literaturegeek.com/">Amanda Visconti</a>, and <a href="http://nowviskie.org/">Bethany Nowviskie</a>) that help students sit with and think through the frustration and anxiety associated with failure. To teach web design, I ask students to draw a series of prototypes for websites using pencil and paper, some explicitly designed to fail, so as to develop a better sense of what it might mean for a website to succeed. Or I ask students to explore a set of programming exercises that have bugs artificially introduced to them as a way of helping them learn concrete steps for exploring problems in the face of mounting anxiety.</p>
+
+<p>I’d love to hear from all of you if you have any thoughts for how to center, rather than expel, frustration and anxiety from teaching, learning, and the classroom. These issues are especially salient while teaching programming to humanists, as the interdisciplinary nature of it requires people step out of their comfort zone. But as others on this panel have articulated so well, these issues extend to the whole person. Beyond the content we teach and the act of learning it - our students are living in states of continual anxiety. To say nothing of the personal, social, or systemic traumas to which many of them have been subjected about which we may never know.</p>
+
+<p>Most of what we do in the Scholars’ Lab is help students navigate these situations in a professional context. Most of what I do tends to revolve around convincing students that they are good enough. That they are qualified enough to <a href="http://scholarslab.org/visiting-workshops-at-washington-and-lee-university/">teach a workshops on DH</a> or <a href="http://scholarslab.org/professional-development/">to apply for any number of DH or alt-ac jobs</a>.  That a little goes a long way. That imposter syndrome is something felt by everyone. That their work has worth.</p>
+
+<p>There are a number of things we can do as administrators to help mitigate the anxieties of our students. Advocate for them by actively campaigning for the bureaucratic status to serve on committees, teach courses, and offer them the support that they need. Petition our legislatures and administrations for more just labor relations. Figure out the small bureaucratic things that translate to big pains for our students - things like delayed payments, long turnarounds on applications, gatekeeping practices.</p>
+
+<p>My point, our point, really, is that our students and colleagues are consistently in positions of anxiety and frustration - in and out of the classroom. So I’d ask what can we do to make our institutions, our classrooms, and our one-on-one interactions with our students more empathetic, but also more consciously aware of and engaged in the negative emotions they might bring out. Because as the title of this short talk suggests - frustration and anxiety are not pedagogical bugs. They are features. Woven into the very texture of what it means to be human and to be a learner. The question is - what are we prepared to do about it?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Collaborative Writing to Build Digital Humanities Praxis]]></title>
+    <link href="http://lanyon.getpoole.com/blog/2017/08/04/collaborative-writing-to-build-digital-humanities-praxis/"/>
+    <updated>2017-08-04T14:40:00-04:00</updated>
+    <id>http://lanyon.getpoole.com/blog/2017/08/04/collaborative-writing-to-build-digital-humanities-praxis</id>
+    <content type="html"><![CDATA[<p><em>[The following is the rough text of my short paper given at the 2017 Digital Humanities conference in Montréal.]</em></p>
+
+<p><img src="/assets/images/collaborative-writing/1.jpg" alt="title slide" /></p>
+
+<p>Thanks very much for having me today! I’m Brandon Walsh, Head of Graduate Programs in the Scholars’ Lab at the University of Virginia Library. I’ll be talking a bit today about “Collaborative Writing to Build Digital Humanities Praxis.” Since the subject here is collaboration I wanted to spend a few minutes here on my collaborators.</p>
+
+<p><img src="/assets/images/collaborative-writing/2.jpg" alt="thank you slide" /></p>
+
+<p>This work was begun at my previous position at Washington and Lee University’s library. My principal collaborator here is and was Professor Sarah Horowitz, from Washington and Lee University. We conceived the project together, co-taught the associated course, and her writing figures prominently on the project I will describe. The other names here are individuals, institutions, or projects who figure explicitly in the talk, whether they know it or not. You can find a Zotero collection with the resources mentioned during the talk <a href="http://goo.gl/2CuWj7">here</a>.</p>
+
+<p>So. To begin. Emergent programs like those associated with the <a href="http://praxis-network.org">Praxis Network</a> have redefined the possibilities for digital humanities training by offering models for project-based pedagogy. These efforts provide innovative institutional frameworks for building up and sharing digital skills, but they primarily focus on graduate or undergraduate education. They tend to think in terms of students. The long-term commitments that programs like these require can make them difficult to adapt for the professional development of other librarians, staff, and faculty collaborators. While members of these groups might share deep interests in undertaking such programs themselves, their institutional commitments often prevent them from committing the time to such professional development, particularly if the outcomes are not immediately legible for their own structures of reporting. I argue that we can make such praxis programs viable for broader communities by expanding the range of their potential outcomes and forms. In particular, I want to explore the potential for collaborative writing projects to develop individual skillsets and, by extension, the capacity of digital humanities programs.</p>
+
+<p><img src="/assets/images/collaborative-writing/3.jpg" alt="coursebook site" /></p>
+
+<p>While the example here focuses on a coursebook written for an undergraduate audience, I believe the model and set of pedagogical issues can be extrapolated to other circumstances. By considering writing projects as potential opportunities for project-based development, I argue that we can produce professionally legible outcomes that both serve institutional priorities and prove useful beyond local contexts.</p>
+
+<p>The particular case study for this talk is an <a href="http://walshbr.com/textanalysiscoursebook">open coursebook</a> written for a course on digital text analysis (Walsh and Horowitz, 2016). In fall of 2015, Professor Sarah Horowitz, a colleague in the history department at Washington and Lee University, approached the University Library with an interest in digital text analysis and a desire to incorporate these methods in her upcoming class. She had a growing interest in the topic, and she wanted support to help her take these ideas and make them a reality in her research and teaching. As the Mellon Digital Humanities Fellow working in the University Library, I was asked to support Professor Horowitz’s requests because of my own background working with and teaching text analysis. Professor Horowitz and I conceived of writing the coursebook as a means by which the Library could meet her needs while also building the capacity of the University’s digital humanities resources. The idea was that, rather than offer her a handful of workshops, the two of us would co-author materials together that could then be used by Professor Horowitz later on. The writing of these materials would be the scene of the teaching and learning. Our model in this regard was as an initiative undertaken by the Digital Fellows at the CUNY Graduate Center, where their Graduate Fellows produce documentation and shared digital resources for the wider community. We aimed to expand upon their example, however, by making collaborative writing a centerpiece of our pedagogical experiment.</p>
+
+<p><img src="/assets/images/collaborative-writing/4.jpg" alt="tech stack" /></p>
+
+<p>We included Professor Horowitz directly in the creation of the course materials, a process that required her to engage in a variety of technologies central to a certain kind of web publishing workflow: command line, Markdown, Git, and GitHub. We produced the materials on a platform called <a href="https://www.gitbook.com/">GitBook</a>, which provides a handy interface for writing that invokes many elements of this tech stack in a non-obtrusive way. Their editor allows you to write in markdown and previews the resultant text for you, but it also responds to the standard slew of MS Word keyboard shortcuts that many writers are familiar with. In this way we were able to keep the focus on the writing even as we slowly expanded Professor Horowitz’s ability to work directly with these technologies. From a writing standpoint, the process also required synthesis of both text analysis techniques and disciplinary material relevant to a course in nineteenth-century history. I provided the former, Professor Horowitz would review and critique as she added the latter, then I would review, etc. The result, I think, is more than either of us could have produced on our own, and we each learned a lot about the other’s subject matter. The result of the collaboration is that, after co-writing the materials and teaching the course together, Professor Horowitz is prepared to offer the course herself in the future without the support of the library. We now also possess course materials that, through careful structuring and selection of platforms, could be reusable in other courses at our own institutions and beyond. In this case, we tried to take special care to make each lesson stand on its own and to compartmentalize each topic according to the various parts of each class workshop. One section would introduce a topic from a theoretical standpoint, the next would offer a case study using a particular tool, and the last would offer course exercises that were particular to our course. We hoped this structuring would make it easy for the work to be excerpted and built upon by others for their own unique needs.</p>
+
+<p><img src="/assets/images/collaborative-writing/5.jpg" alt="table of contents" /></p>
+
+<p>Writing collaborations such as these can fit the professional needs of people in a variety of spaces in the university. Course preparation, for example, often takes place behind the scenes and away from the eyes of students and other scholars. You tend to only see the final result as it is performed with students in a workshop or participants in a class. With a little effort, this hidden teaching labor can be transformed into openly available resources capable of being remixed into other contexts. We are following here on the example of Shawn Graham (2016), who has illustrated through his own resources for a class on <a href="http://workbook.craftingdigitalhistory.ca/">Crafting Digital History</a> that course materials can be effectively leveraged to serve a wider good in ways that still parse in a professional context. In our case, the collaboration produced public-facing web writing in the form of an open educational resource. The history department regarded the project as a success for its potential to bring new courses, skills, and students into the major as a result of Professor Horowitz’s training. The University Library valued the collaboration for its production of open access materials, development of faculty skills, and exploration of workflows and platforms for faculty collaboration. We documented and managed the writing process in a <a href="https://github.com/walshbr/introduction-to-text-analysis">GitHub repository</a>.</p>
+
+<p><img src="/assets/images/collaborative-writing/6.jpg" alt="GitHub repository" /></p>
+
+<p>This versioned workflow was key to our conception of the project, as we hoped to structure the project in such a way that others could copy down and spin up their own versions of the course materials for their own needs. We were careful to compartmentalize the lessons according to their focus on theory, application, or course exercises, and we provided <a href="http://walshbr.com/textanalysiscoursebook/book/conclusion/adapting/">documentation</a> to walk readers through the technical process of adapting the book to reflect their own disciplinary content. We wrote reasonably detailed directions aimed at two different audiences - those with a tech background and those without. We wanted people to be able to pull down, tear apart, and reuse those pieces that were relevant for them. We hoped to create a mechanism by which readers and teachers could iterate using our materials to create their own versions.</p>
+
+<p><img src="/assets/images/collaborative-writing/7.jpg" alt="Adapting the Book" /></p>
+
+<p>Writing projects like this one provide spaces for shared learning experiences that position student and teacher as equals. By writing in public and asking students and faculty collaborators to discuss, produce, and revise open educational resources, we can break down distinctions between writer and audience, teacher and student, programmer and non-programmer. In this spirit, work by Robin DeRosa (2016) with the <a href="https://openamlit.pressbooks.com/">Open Anthology of Earlier American Literature</a> and Cathy Davidson with HASTAC has shown that students can make productive contributions to digital humanities research at the same time that they learn themselves. These contributions offer a more intimate form of pedagogy – a more caring and inviting form of building that can draw newcomers into the field by way of non-hierarchical peer mentoring. It is no secret that academia contains “severe power imbalances” that adversely affect teaching and the lives of instructors, students, and peers (McGill, 2016). I see collaborative writing as helping to create shared spaces of exploration that work against such structures of power. They can help to generate what Bethany Nowviskie (2016) has recently advocated as a turn towards a “feminist ethics of care” to “illuminate the relationships of small components, one to another, within great systems.” By writing together, teams engage in what Nowviskie (2011) calls the “perpetual peer review” of collaborative work. Through conversations about ethical collaboration and shared credit early in the process, we can privilege the voice of the learner as a valued contributor to a wider community of practitioners even before they might know the technical details of the tools or skills under discussion.</p>
+
+<p>Collaborative writing projects can thus serve as training in digital humanities praxis: they can help introduce the skills, tools, and theories associated with the field, and projects like ours do so in public. Productive failure in this space has long been a hallmark of work in the digital humanities, so much so that “Failure” was listed as a keyword in the new anthology Digital Pedagogy in the Humanities (Croxall and Warnick, 2016). Writing in public carries many of the same rewards – and risks. Many of those new to digital work, in particular, rightfully fear putting their work online before it is published. The clearest way in which we can invite people into the rewards of public digital work is by sharing the burdens and risks of such work. In her recent work on generous thinking, Kathleen Fitzpatrick (2016) has advocated for “thinking with rather than reflexively against both the people and the materials with which we work.” By framing digital humanities praxis first and foremost as an activity whose successes and failures are shared, we can lower the stakes for newcomers. Centering this approach to digital humanities pedagogy in the practice of writing productively displaces the very digital tools and methodologies that it is meant to teach. Even if the ultimate goal is to develop a firm grounding in a particular digital topic, focusing on the writing invites students and collaborators into a space where anyone can contribute. By privileging the writing rather than technical skills as the means of engagement and ultimate outcome, we can shape a more inviting and generous introduction to digital humanities praxis.</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Croxall, B. and Warnick, Q. (2016). “Failure.” In Digital Pedagogy in the Humanities: Concepts, Models, and Experiments. Modern Languages Association.</li>
+  <li>DeRosa, R. (2016). “The Open Anthology of Earlier American Literature.” https://openamlit.pressbooks.com/.</li>
+  <li>Fitzpatrick, K. (2016). “Generous Thinking: The University and the Public Good.” Planned Obsolescence. http://www.plannedobsolescence.net/generous-thinking-the-university-and-the-public-good/.</li>
+  <li>Graham, S. (2016). “Crafting Digital History.” http://workbook.craftingdigitalhistory.ca/.</li>
+  <li>McGill, B. (2016). “Serial Bullies: An Academic Failing and the Need for Crowd-Sourced Truthtelling.” Dynamic Ecology. https://dynamicecology.wordpress.com/2016/10/18/serial-bullies-an-academic-failing-and-the-need-for-crowd-sourced-truthtelling/.</li>
+  <li>Nowviskie, B. (2011). “Where Credit Is Due.” http://nowviskie.org/2011/where-credit-is-due/.</li>
+  <li>———. 2016. “Capacity Through Care.” http://nowviskie.org/2016/capacity-through-care/.
+Ramsay, S. (2010). “Learning to Program.” http://stephenramsay.us/2012/06/10/learning-to-program/.</li>
+  <li>———. 2014. “The Hermeneutics of Screwing Around; or What You Do with a Million Books.” In Pastplay: Teaching and Learning History with Technology, edited by Kevin Kee. University of Michigan Press. http://hdl.handle.net/2027/spo.12544152.0001.001.</li>
+  <li>The Praxis Network (2017). University of Virginia Library’s Scholars’ Lab. http://praxis-network.org/.
+Walsh, Brandon, and Sarah Horowitz. 2016. “Introduction to Text Analysis: A Coursebook.” http://www.walshbr.com/textanalysiscoursebook</li>
+</ul>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What Should You Do in a Week?]]></title>
+    <link href="http://lanyon.getpoole.com/blog/2017/06/03/what-should-you-do-in-a-week/"/>
+    <updated>2017-06-03T20:17:00-04:00</updated>
+    <id>http://lanyon.getpoole.com/blog/2017/06/03/what-should-you-do-in-a-week</id>
+    <content type="html"><![CDATA[<p><em>[Crossposted to the <a href="http://scholarslab.org/digital-humanities/what-should-you-do-in-a-week/">Scholars’ Lab blog</a>.]</em></p>
+
+<p>For the past several years, I’ve taught a <a href="http://humanitiesprogramming.github.io">Humanities Programming</a> course at <a href="http://www.dhtraining.org/">HILT</a>. The course was piloted by Wayne Graham and Jeremy Boggs, but, these days, I co-teach the course with <a href="http://scholarslab.org/people/ethan-reed/">Ethan Reed</a>, one of our DH fellows in the Scholars’ Lab. The course is a soup-to-nuts introduction to the kinds of methods and technologies that are useful for humanities programming. We’re changing the course a fair amount this year, so I thought I’d offer a few notes on what we’re doing and the pedagogical motivations for doing so. You can find our syllabus, slides, resources, and more on <a href="https://humanitiesprogramming.github.io/syllabus/">the site</a>.</p>
+
+<p>We broke the course down into two halves:</p>
+
+<ul>
+  <li>Basics: command line, Git, GitHub, HTML/CSS
+    <ul>
+      <li>Project: personal website</li>
+    </ul>
+  </li>
+  <li>Programming concepts: Ruby
+    <ul>
+      <li>Project: Rails application deployed through Heroku and up on GitHub</li>
+    </ul>
+  </li>
+</ul>
+
+<p>In the first half, people learned the basic stack necessary to work towards a personal website, then deploying that site through GitHub pages. In the second half, students took in a series of lessons about Ruby syntax, but the underlying goal was to teach them the programming concepts common to a number of programming languages. Then, we shifted gears and had them work through a series of Rails tutorials that pushed them towards a real-life situation where they’re working through and on a thing (in this case a sort of platform for crowdsourcing transcriptions of images).</p>
+
+<p>I really enjoyed teaching the Rails course, and I think there was a lot of good in it. But over the past few years it has raised a number of pedagogical questions for me:</p>
+
+<ul>
+  <li>What can you reasonably hope to teach in a week-long workshop?</li>
+  <li>Is it better to do more with less or less with more?</li>
+  <li>What is the upper-limit on the amount of new information students can take in during the week?</li>
+  <li>What will students actually use/remember from the course once the week is over?</li>
+</ul>
+
+<p>To be fair, week-long workshops like this one often raise similar concerns for me. I had two main concerns about our course in particular.</p>
+
+<p>The first was a question of audience. We got people of all different skill levels in the course. Some people were there to get going with programming for the first time. These newcomers often seemed really comfortable with the course during the first half, while the second half of the course could result in a lot of frustration when the difficulty of the material suddenly seemed to skyrocket. Other students were experienced developers with several languages under their belt who were there specifically to learn Rails. The first half of the course seemed to be largely review for this experienced group, while the second half was really what they were there to take on.  It’s great that we were able to pull in students with such diverse experiences, but I was especially concerned for the people new to programming who felt lost during the second half of the course. Those experienced folks looking to learn Rails? I think they can probably find their way into the framework some other way. But I didn’t want our course to turn people off from programming because the presentation of the material felt frustrating. We can fix that. I always feel as though we should be able to explain these methods to anyone, and I wanted our alumni to feel that they were empowered by their new experiences, not frustrated. I wanted our course to reflect that principle by focusing on this audience of people looking for an introduction, not an advanced tutorial.</p>
+
+<p>I also wondered a lot about the outcomes of the course. I wondered how many of the students really did anything with web applications after the course was over. Those advanced students there specifically for Rails probably did, and I’m glad that they had tangible skills to walk away with. But, for the average person just getting into digital humanities programming, I imagine that Rails wasn’t something they were going to use right away. After all, you use what you need to do what you need. And, while Rails gives you a lot of options, it’s not necessarily the tool you need for the thing in front of you - specially when you’re starting out.</p>
+
+<p>So we set about redesigning the course with some of these thoughts in mind and with a few principles:</p>
+
+<ul>
+  <li>Less is more.</li>
+  <li>A single audience is better than many.</li>
+  <li>If you won’t use it, you’ll lose it.</li>
+</ul>
+
+<p>I wondered how we might redesign the course to better reflect the kinds of work that are most common to humanists using programming for their work. I sat down and thought about common tasks that I use programming for beyond building apps/web services. I made a list of some common tasks that, when they confront me, I go, “I can write a script for that!” The resulting syllabus is <a href="https://humanitiesprogramming.github.io/syllabus/">on the site</a>, but I’ll reiterate it here. The main changes took place in the second half of the course:</p>
+
+<ul>
+  <li>Basics: command line, git, GitHub, HTML/CSS
+    <ul>
+      <li>Project: personal website</li>
+    </ul>
+  </li>
+  <li>Programming concepts: Python
+    <ul>
+      <li>Project(s): Applied Python for acquiring, processing, and analyzing humanities data</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The switch from Python to Ruby reflects, in part, my own changing practices, but I also find that the Pythonic syntax enforces good stylistic practices in learners. In place of working on a large Rails app, we keep the second half of the course focused on daily tasks that programming is good for. After learning the basic concepts from Python, we introduce a few case studies for applied Python. Like all our materials, these are available <a href="http://humanitiesprogramming.github.io/resources/">on our site</a>. But I’d encourage interested folks to check out the Jupyter notebooks for these units if you’re interested. These are the new units on applications of Python to typical situations:</p>
+
+<ul>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/working-with-csv.ipynb">Working with CSV files</a></li>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/working-with-apis.ipynb">Getting data from API’s</a></li>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/intro-to-scraping.ipynb">Introduction to Web Scraping</a></li>
+  <li><a href="https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/text-analysis.ipynb">Basic Text Analysis</a></li>
+</ul>
+
+<p>In the process of working through these materials, the students work with real, live humanities data drawn from <a href="https://www.gutenberg.org/">Project Gutenberg</a>, the <a href="https://dp.la/">DPLA</a>, and the <a href="http://www.casebook.org/press_reports/">Jack the Ripper Casebook</a>. We walk the students through a few different options for building a corpus of data and working with it. After gathering data, we talk about problems with it and how to use it. Of course, you could run an entire course on such things. Our goal here is not to cover everything. In fact, I erred on the side of keeping the lessons relatively lightweight, with the assumption that the jump in difficulty level would require us to move pretty slowly. The main goal is to show how situations that appear to be much more complicated still boil down to the same basic concepts the students have just learned. We want to shrink the perceived gap between those beginning exercises and the kinds of scripts that are actually useful for your own day-to-day work. We introduce some slightly more advanced concepts along the way, but hopefully enough of the material will remain familiar that the students can excel. Ideally, the concepts we work through in these case studies will be more immediately useful to someone trying to introduce programming into their workflow for the first time. And, in being more immediately useful, the exercises might be more likely to give a lasting foundation for them to keep building on into the future.</p>
+
+<p>We’ve also rebranded the course slightly. The course description has changed, as we’ve attempted to soften jargon and make it clear that students are meant to come to the course not knowing the terms or technologies in the description (they’re going to learn them with us!). The course name has changed as well, first as a joke but then in a serious way. Instead of simply being called “Humanities Programming,” the course is now “Help! I’m a Humanist! - Programming for Humanists with Python.” The goal there is to expose the human aspect of the course - no one is born knowing this stuff, and learning it means dealing with a load of tough feelings: anxiety, frustration, imposter syndrome, etc. I wanted to foreground all of this right away by making my own internal monologue part of the course title. The course can’t alleviate all those feelings, but I hoped to make it clear that we’re taking them into account and thinking about the human side of what it means to teach and learn this material. We’re in it together.</p>
+
+<p>So. What can you do in a week? Quite a lot. What should you do - that’s a much tougher question. I’ve timed this post to go out right around when HILT starts. If I figure it out in the next week I’ll let you know.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[On Co-Teaching and Digital Humanities]]></title>
+    <link href="http://lanyon.getpoole.com/blog/2017/03/22/co-teaching/"/>
+    <updated>2017-03-22T12:53:00-04:00</updated>
+    <id>http://lanyon.getpoole.com/blog/2017/03/22/co-teaching</id>
+    <content type="html"><![CDATA[<p><em>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2017/03/23/on-co-teaching-and-digital-humanities/">WLUDH blog</a>.]</em></p>
+
+<p>For me, co-teaching is the ultimate teaching experience. I’ve been fortunate to find several opportunities for it over the years. During graduate school, I co-taught a number of short courses, several DH classes, and a couple workshops. Here at W&amp;L I’ve been able to teach alongside faculty from the history department and the Library. Each experience has been deeply rewarding. These days I’m spending more time thinking about digital humanities from a curricular and pedagogical standpoint, so I wanted to offer a few quick notes on how co-teaching might play a role in those discussions.</p>
+
+<p>I’m sympathetic to arguments against putting two or more people at the front of the classroom. It’s expensive to use two faculty members to teach a single course when one might do, so I can understand how, in a certain logic, the format seems profoundly inefficient. You have a set number of courses that need to be taught, and you need people to teach them. And I have also heard people say that co-teaching is a lot more work than teaching a course solo. I understand these objections. But I wanted to offer just a few notes on the benefits of co-teaching - why you might want to consider it as a path for growing your digital humanities program even in the face of such hesitations. I’ve found that the co-teaching experience fully compliments the work that we do as digital humanists for a number of reasons. I think of co-teaching as a way to make the teaching of digital humanities more fully reflect the ways we tend to practice it.</p>
+
+<p><strong>Co-teaching allows for more interdisciplinary courses.</strong></p>
+
+<p>Interdisciplinarity is hard. By its very nature, it assumes research, thinking, and teaching that lie at the intersections of <em>at least</em> two fields, usually more. In the case of digital humanities, this is exacerbated because the methodologies of the combined fields often seem to be so distinct from one another. Literary criticism and statistical methods, archival research and computer science, literary theory and web design. These binaries are flawed, of course, and these fields have a lot to say to and about each other. But, in the context of teaching digital humanities, sometimes bringing these fields together requires expertise that one teacher alone might not possess. A second instructor makes it easier to bridge perceived gaps in skills or training. And those skills, if they are meant to be taught, require time and energy from the instructors. On a more practical level, it can be profoundly helpful to have one instructor float in the classroom to offer technical assistance while the other leads discussion so as to prevent troubleshooting from breaking up the class. It is not enough to say that interdisciplinary courses need a second instructor. They often require additional hands on deck.</p>
+
+<p><strong>Co-teaching models collaboration for students.</strong></p>
+
+<p>Digital humanities work often requires multiple people to work together, but I’d wager that students often expect there to be a single person in charge of a class. Students might come into the class expecting a lecture model. Or, at the very least, they might expect the teacher to be an expert on the material. Or, they might expect the instructor to lead discussion. These formats are all well and good, and many instructors thrive on these models. I prefer to position my students as equal collaborators with me in the material of the course. We explore the material together, and, even if I might serve as a guiding hand, their observations are just as important as my own. I try to give my students space to assert themselves as experts, as real collaborators in the course. Co-teaching helps to set the stage for this kind of approach, because the baseline assumption is that no one person knows everything. If that were the case, you would not need a second instructor. There is always a second voice in the room. By unsettling the top-down hierarchy of the classroom, co-teaching helps to disperse authority out into other parts of the group. The co-teacher not in charge on a particular day might even be seated alongside the students, learning with them. This approach to teaching works especially well as a vehicle for digital humanities. After all, most digital humanities projects have many collaborators, each of whom brings a different set of skills to the table. No person operates as an expert in all parts of a collaborative project - not even the project manager. Digital humanities work is, by its nature, collaborative. Students should know this, see this, and feel this, and it can start at the front of the classroom.</p>
+
+<p><strong>Co-teaching transfers skills from one instructor to another.</strong></p>
+
+<p>Digital humanities faculty and staff are often brought in to support courses and projects by teaching particular methods or tools. This kind of training can sometimes happen in one-off workshops or in external labs, but the co-teaching model can offer a deeper, more immersive mentoring experience. Co-teaching can be as much for the instruction of the students as it is for the professional development of the teachers. For the willing faculty member, a semester-long engagement with material that stretches their own technical abilities can set them up to teach the material by themselves in the future. They can learn alongside the students and expand their portfolio of skills. At W&amp;L we have had successes in a number of disciplines with this approach - faculty in history, journalism, and French have expanded their skills with text analysis, multimedia design and storytelling, and textual encoding all while developing and teaching new courses. We’ve even managed, at times, to document this process so that we have <a href="http://walshbr.com/textanalysiscoursebook/">demonstrable, professionally legible evidence</a> of the kinds of work possible when two people work together. When both instructors share course time for the entire semester it can help to expand the capacity of a digital humanities program by spreading expertise among many collaborators.</p>
+
+<p>Of course, all of this requires a lot of buy-in, both from the faculty teaching together and from the administration overseeing the development of such courses. You need a lot of people ready to see the value in this process. The particulars of your campus might provide their own limitations or opportunities. Putting together collaborations like these takes time and energy, but it’s worth it. I think of co-teaching as an investment - in the future of the program, the students, and the instructors. What requires two instructors today might, with the right preparation and participation, only require one tomorrow.</p>
+
+<p>In case you want to read more, here are some other pieces on co-teaching from myself and past collaborators (happy to be pointed to others!):</p>
+
+<ul>
+  <li>Sarah Storti - <a href="http://scholarslab.org/digital-humanities/on-co-teaching-and-gratitude/">On Co-Teaching and Gratitude</a></li>
+  <li>Ed Triplett - <a href="http://scholarslab.org/digital-humanities/one-teach-one-drift/">One Teach, One Drift</a></li>
+  <li>Here is another blip from me - <a href="http://scholarslab.org/digital-humanities/washington-and-lee-trip/">Washington and Lee Trip</a></li>
+  <li>And some of my syllabi and materials can be found <a href="http://walshbr.com/teaching/">here</a> and <a href="https://humanitiesprogramming.github.io/">here</a></li>
+</ul>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reflections on a Year of DH Mentoring]]></title>
+    <link href="http://lanyon.getpoole.com/blog/2015/12/04/dh-mentoring/"/>
+    <updated>2015-12-04T09:13:00-05:00</updated>
+    <id>http://lanyon.getpoole.com/blog/2015/12/04/dh-mentoring</id>
+    <content type="html"><![CDATA[<p><em>[Crossposted on the <a href="http://scholarslab.org/digital-humanities/reflections-on-a-year-of-dh-mentoring/">Scholars’ Lab blog</a> and the <a href="http://digitalhumanities.wlu.edu/blog/2015/12/03/reflections-on-a-year-of-dh-mentoring/">Digital Humanities at Washington and Lee blog</a>]</em></p>
+
+<p>This year I am working with <a href="http://scholarslab.org/people/eric-rochester/">Eric Rochester</a> in the <a href="http://scholarslab.org/">Scholars’ Lab</a> on a fellowship project that has me learning natural language processing (NLP), the application of computational methods to human languages. We’re adapting these techniques to study quotation marks in the novels of Virginia Woolf (read more about the project <a href="http://scholarslab.org/digital-humanities/virginia-woolf-natural-language-processing-and-the-quotation-mark/">here</a>). We actually started several months before this academic year began, and, as we close out another semester, I have been spending time thinking about just what has made it such an effective learning experience for me. I already had a technical background from my time in the Scholars’ Lab at the beginning of the process, but I had no experience with Python or NLP. Now I feel most comfortable with the former of any other programming language and familiar enough with the latter to experiment with it in my own work.</p>
+
+<p>The general mode of proceeding has been this: depending on schedules and deadlines, we meet once or twice every two weeks. Between our meetings I would work as far and as much as I could, and the sessions would offer a space for Eric and me to talk about what I had done. The following are a handful of things we have done that, I think, have helped to create such an effective environment for learning new technical skills. Though they are particular to this study, I think they can be usefully extrapolated to apply to many other project-based courses of study in digital humanities. They are primarily written from the perspective of a student but with an eye to how and why the methods Eric used proved so effective for me.</p>
+
+<p><strong>Let the Wheel Be Reinvented Before Sharing Shortcuts</strong></p>
+
+<p>I came to Eric with a very small program adapted from Matt Jockers’s book on Text Analysis with R for Students of Literature that did little beyond count quotation marks and give some basic statistics. I was learning as I built the thing, so I was unaware that I was reinventing the wheel in many cases, rebuilding many protocols for dealing with commonly recognized problems that come from working with natural language. After working on my program and my approach to a degree of satisfaction, Eric pulled back the curtain to reveal that a commonly used python module, the Natural Language ToolKit <a href="http://www.nltk.org/">(NLTK)</a>, could address many of my issues and more. NLTK came as something of a revelation, and working inductively in this way gave me a great sense of the underlying problems the tools could address. By inventing my own way to read in a text, clean it to make its text uniformly readable by the computer, and breaking the whole piece into a series of words that could be analyzed, I understood the magic behind a couple lines of NLTK code that could do all that for me. The experience also helped me to recognize ways in which we would have to adapt NLTK for our own purposes as I worked through the book.</p>
+
+<p><strong>Have a Plan, but Be Flexible</strong></p>
+
+<p>After discussing NLTK and how it offered an easier way of doing the things that I wanted, Eric had me systematically work through the <a href="http://www.nltk.org/book/">NLTK book</a> for a few months. Our meetings took on the character of an independent study: the book set the syllabus, and I went through the first seven chapters at my own pace. Working from a book gave our meetings structure, but we were careful not to hew too closely to the material. Not all chapters were relevant to the project, and we cut sections of the book accordingly. We shaped the course of study to the intellectual questions rather than the other way around.</p>
+
+<p><strong>Move from Theory to Practice / Textbook to Project</strong></p>
+
+<p>As I worked through the book, I was able to recognize certain sections that felt most relevant to the Woolf work. Once I felt as though I had reached a critical mass, we switched from the book to the project itself and started working. I tend to learn from doing best, so the shift from theory to execution was a natural one. The quick and satisfying transition helped the work to feel productive right away: I was applying my new skills as I was still learning to feel comfortable with them. Where the initial months had more the feel of a traditional student-teacher interaction, the project-based approach we took up at this point felt more like a real and true collaboration. Eric and I would develop to-do items together, we would work alongside each other, and we would talk over the project together.</p>
+
+<p><strong>Document Everything</strong></p>
+
+<p>Between our meetings I would work as far and as much as I could, carefully noting places at which I encountered problems. In some cases, these were conceptual problems that needed clarifying, and these larger questions frequently found their way into separate notes. But my questions were frequently about what a particular line of code, a particular command or function, might be doing. In that case, I made comments directly in the code describing my confusion. I quickly found that these notes were as much for me as for Eric–I needed to get back in the frame of mind that led to the confusion in the first place, and copious notes helped remind me what the problem was. These notes offered a point of departure for our meetings: we always had a place to start, and we did so based on the work that I had done.</p>
+
+<p><strong>Communicate in as Many Ways as Possible</strong></p>
+
+<p>We met in person as much as possible, but we also used a variety of other platforms to keep things moving. Eric and I had all of our code on <a href="https://github.com/erochest/woolf">GitHub</a> so that we could share everything that we had each been working on and discuss things from a distance if necessary. Email, obviously, can do a lot, but I found the chat capabilities of the Scholars’ Lab’s IRC channel to be far better for this sort of work. If I hit a particular snag that would only require a couple minutes for Eric to answer, we could quickly work things out through a web chat. With Skype and Google Hangouts we could even share the code on the other person’s computer even from hundreds of miles away. All of these things meant that we could keep working around whatever life events happened to call us away.</p>
+
+<p><strong>Recognize Spinning Wheels</strong></p>
+
+<p>These multiple avenues of communication are especially important when teaching technical skills. Not all questions or problems are the same: students can work through some on their own, but others can take them days to troubleshoot. Some amount of frustration is a necessary part of learning, and I do think it’s necessary that students learn to confront technical problems on their own. But not all frustration is pedagogically productive. There comes a point when you have tried a dozen potential solutions and you feel as though you have hit a wall. An extra set of eyes can (and should) help. Eric and I talked constantly about how to recognize when it was time for me to ask for help, and low-impact channels of communication like IRC could allow him to give me quick fixes to what, to me at least, seemed like impossible problems. Software development is a collaborative process, and asking for help is an important skill for humanists to develop.</p>
+
+<p><strong>In-person Meetings Can Take Many Forms</strong></p>
+
+<p>When we met, Eric and I did a lot of different things. First, we would talk through my questions from the previous week. If I felt a particular section of code was clunky or poorly done, he would talk and walk me through rewriting the same piece in a more elegant form. We would often pair program, where Eric would write code while I watched, carefully stopping him each time I had a question about something he was doing. And we often took time to reflect on where the collaboration was going - what my end goal was as well as what my tasks before the next meeting would be. Any project has many pieces that could be dealt with at any time, and Eric was careful to give me solo tasks that he felt I could handle on my own, reserving more difficult tasks for times in which we would be able to work together. All of this is to say that any single hour we spent together was very different from the last. We constantly reinvented what the meetings looked like, which kept them fresh and pedagogically effective.</p>
+
+<p>This is my best attempt to recreate my experience of working in such a close mentoring relationship with Eric. Obviously, the collaboration relies on an extremely low student-to-teacher ratio: I can imagine this same approach working very well for a handful of students, but this work required a lot of individual attention that would be hard to sustain for larger classes. One idea for scaling the process up might be to divide a course into groups, being training one, and then have students later in the process begin to mentor those who are just beginning. Doing so would preserve what I see as the main advantage of this approach: it helps to collapse the hierarchy between student and teacher and engage both in a common project. Learning takes place, but it does so in the context of common effort. I’d have to think more about how this mentorship model could be adapted to fit different scenarios. The work with Eric is ongoing, but it’s already been one of the most valuable learning experiences I have had.</p>
+
+]]></content>
+  </entry>
+  
+</feed>

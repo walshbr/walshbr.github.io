@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Text Analysis Workshop: Four Ways to Read a Text &middot; Brandon Walsh
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet" href="/styles/style.css"
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>Head of Graduate Programs at the Scholars' Lab in the UVA Library</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about">About</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/projects">Projects</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/cv">CV</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/pedagogy">Pedagogy</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/pages/archive/">Blog Archive</a>
+        
+      
+    
+  </nav>
+
+  <div class="sidebar-item">
+      Work by Brandon Walsh is <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">CC-BY</a>.
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Brandon Walsh</a>
+            <small></small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <div class="post">
+  <h1 class="post-title">Text Analysis Workshop: Four Ways to Read a Text</h1>
+  <span class="post-date">21 Sep 2016</span>
+  
+
+<span class="categories">
+  
+    Categories: <a class='category' href='/categories/documentation/'>documentation</a>, <a class='category' href='/categories/resources/'>resources</a>, <a class='category' href='/categories/text-analysis/'>text analysis</a>
+  
+</span>
+
+
+  <p><em>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2016/09/22/text-analysis-workshop-four-ways-to-read-a-text/">WLUDH blog</a>.]</em></p>
+
+<p>On Monday I visited <a href="http://library.wlu.edu/about/library-directory/mackenzie-brooks">Mackenzie Brooks</a>’s course on “Data in the Humanities” to introduce digital text analysis to her students. I faced a few challenges when planning for the visit:</p>
+
+<ul>
+  <li><strong>Scope</strong> - I had two hours for the workshop and a lot of material to cover. I was meant to introduce anything and everything, as much as I wanted in a general overview of text analysis.</li>
+  <li><strong>Background</strong> - This course is an introductory digital humanities course that counts as a science credit at W&amp;L, so I assumed no prior knowledge of programming. Mackenzie will be covering some things with them later in the course, but at this stage I needed to avoid anything really technical.</li>
+  <li><strong>Length</strong> - Two hours was both a lot of time and no time at all. It was certainly not enough time to teach anyone to program for the first time. As an aside, I often find it hard to gauge how much material is appropriate for anything longer than 75 minutes.</li>
+  <li><strong>Content</strong> - Since this was meant to be a general overview of the field, I did not want to lean too heavily on analysis by tools. I worried that if I did so the takeaway for the students would be how to use the tools, not the underlying concepts that the tools aided them in exploring.</li>
+</ul>
+
+<p>I wound up developing a workshop I called “Introduction to Text Analysis: Four Ways to Read a Text.” Focusing on four ways meant that I felt comfortable cutting a section if things started to go long. It also meant that I was developing a workshop model that could easily fit varying lengths in the future. For example, I’ll be using portions of this workshop throughout my introduction to text analysis lectures in my own course this fall. The approach would necessarily be pretty distant - I couldn’t go into much detail for any one method in this time. Finally, I wanted the students to think about text analysis concepts first and then come to tools that would help them to do so, so I tried to displace the tools and projects from the conversation slightly. The hope was that, by enacting or intuiting the methods by hand first, the concepts would stick more easily than they might otherwise.</p>
+
+<p>The basic structure of the workshop was this:</p>
+
+<ol>
+  <li>I introduce a basic methodology for reading.</li>
+  <li>Students are presented with a handout asking them to read in a particular way with a prompt from me. They complete the exercise.</li>
+  <li>We talk about the process. We clarify the concept a little more together, and the students infer some of the basic difficulties and affordances of the approach.</li>
+  <li>Then I show a couple tools and projects that use that method for real results.</li>
+</ol>
+
+<p>The four ways of reading I covered were close reading, bags of words, topic modeling, and sentiment analysis. So, to use the topic modeling portion as an example, any one of those units looked something like this:</p>
+
+<ol>
+  <li>I note how, until now, we have been discussing how counting words gives us a sense of the overall topic or scope of the text. Over time and in close proximity, individual words combine to give us a sense of what a text is about.</li>
+  <li>I give the students three paragraphs with the words scrambled and out of order (done pretty quickly in Python). I ask the students to get in groups and tell me what the underlying topics or themes are for each excerpt. They had to produce three single-word topics for each paragraph, and paragraphs could share topics.</li>
+  <li>We talk about how were able to determine the topics of the texts even with the paragraphs virtually unreadable. Even out of order, certain words in proximity together suggest the underlying theme of a text. We can think of texts as made up of a series of topics like these, clusters of words that occur in noticeable patterns near one another. We have human limits as to how much we can comprehend, but computers can help us run similar, mathematical versions of the same process to find out what words occur near each other in statistically significant patterns. The results can be thought of as the underlying topics or discourses that make up a series of documents. A lot of hand waving, I know, but I am assuming here that students will examine topic modeling in more detail at a later date. Better, I think, to introduce the broad strokes than lose students in the details.</li>
+  <li>I then share <a href="http://dsl.richmond.edu/dispatch/pages/intro">Mining the Dispatch</a> as an example of topic modeling in action to show the students the kinds of research questions that can be explored using this method.</li>
+</ol>
+
+<p>So, in essence, what I tried to do is create a hands-on approach to teaching text analysis concepts that is flexible enough to fit a variety of needs and contexts. My handouts and slides are all up on <a href="https://github.com/bmw9t/waystoread">a github repository</a>. Feel free to share, reuse, and remix them in any way you would like.</p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/blog/2018/01/03/frustration/">
+            Frustration is a Feature
+            <small>03 Jan 2018</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/2017/08/04/collaborative-writing-to-build-digital-humanities-praxis/">
+            Collaborative Writing to Build Digital Humanities Praxis
+            <small>04 Aug 2017</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/2017/06/16/remixing-the-sound-archive/">
+            Remixing the Sound Archive: Cut-up Poetry Recordings
+            <small>16 Jun 2017</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

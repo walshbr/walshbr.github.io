@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Octopress, GitHub, and Custom Domains &middot; Brandon Walsh
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet" href="/styles/style.css"
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>Head of Graduate Programs at the Scholars' Lab in the UVA Library</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about">About</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/projects">Projects</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/cv">CV</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/pedagogy">Pedagogy</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/pages/archive/">Blog Archive</a>
+        
+      
+    
+  </nav>
+
+  <div class="sidebar-item">
+      Work by Brandon Walsh is <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">CC-BY</a>.
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Brandon Walsh</a>
+            <small></small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <div class="post">
+  <h1 class="post-title">Octopress, GitHub, and Custom Domains</h1>
+  <span class="post-date">25 Feb 2017</span>
+  
+
+<span class="categories">
+  
+    Categories: <a class='category' href='/categories/tips/'>tips</a>
+  
+</span>
+
+
+  <p>I have been using GitHub to host my site as a .github.io domain for years now, but I decided to switch to something a bit easier to remember as way of consolidating a few pieces of my digital identity (I had been variably using bmw9t and walshbr as public-facing usernames in different places). I’m now up and running with <a href="https://reclaimhosting.com/">Reclaim Hosting</a>, and they have been fantastic in helping me to troubleshoot the issues.</p>
+
+<p>I ran into a quirky issue with my setup, though, and I thought I’d document it in case someone else runs into this in the future when trying to mix Octopress, GitHub, and custom domain mapping. My old workflow looked like this:</p>
+
+<ol>
+  <li>Work locally.</li>
+  <li>Push to GitHub for version control, issue tracking, and transparency.</li>
+  <li>GitHub serves and hosts the site.</li>
+</ol>
+
+<p>So I’m just changing that last piece to include Reclaim. Normally this involves two steps:</p>
+
+<ul>
+  <li>Visiting the settings page for your GitHub repository and giving it a custom domain.</li>
+  <li>Following the instructions <a href="https://help.github.com/articles/quick-start-setting-up-a-custom-domain/">here</a> to have your own registered domain point to GitHub and vice versa. In the case of Reclaim Hosting, they had their own set of instructions for making things <a href="https://community.reclaimhosting.com/t/domain-mapping-to-github/270">work</a>.</li>
+</ul>
+
+<p>Reclaim helped me work out kinks, and now the workflow, as I understand it, looks like this:</p>
+
+<ol>
+  <li>Work locally</li>
+  <li>Push to GitHub for version control, issue tracking, and transparency</li>
+  <li>GitHub points to Reclaim, which grabs the content</li>
+  <li>Reclaim serves the content.</li>
+</ol>
+
+<p>The problem I ran into appeared to be in step four - the content kept disappearing from the Reclaim domain for reasons that took me a while to figure out. Things would periodically return to the Reclaim splash page suggesting I had no content there. After a while, I realized that the problem was only manifesting later in the workflow but actually being caused earlier on.</p>
+
+<p>When you change the custom domain settings for your repository, GitHub actually creates a file in the repository for you. When you give a GitHub repository a custom domain, it creates a <a href="https://github.com/walshbr/walshbr.github.io/blob/master/CNAME">CNAME file in the repository’s root</a>. This file contains the custom domain, so it’s pretty important.</p>
+
+<p>That was the problem. My blog is built in <a href="http://octopress.org/">Octopress</a>, a souped up version of Jekyll. After working on content locally, Octopress has a rake command that pushes everything to GitHub. Octopress appears to wipe out the content of the repository and rebuild the whole thing every time. That new CNAME file? It was getting destroyed each time I pushed new content to the site, so whenever I updated my site the domain would appear to go down. The project kept forgetting that it had a custom domain.</p>
+
+<p>To get around this issue, I needed to make that CNAME file a more permanent part of the repository. I made a copy of the CNAME file locally and put it in the _source directory of the Octopress project - this is the directory that Octopress generates the blog from, so now new builds of the site will contain the record of the custom domain. Things seem more or less stable now, though I have fingers and toes crossed.</p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/blog/2018/01/03/frustration/">
+            Frustration is a Feature
+            <small>03 Jan 2018</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/2017/08/04/collaborative-writing-to-build-digital-humanities-praxis/">
+            Collaborative Writing to Build Digital Humanities Praxis
+            <small>04 Aug 2017</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/2017/06/16/remixing-the-sound-archive/">
+            Remixing the Sound Archive: Cut-up Poetry Recordings
+            <small>16 Jun 2017</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

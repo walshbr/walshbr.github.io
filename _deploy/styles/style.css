@@ -1,0 +1,69 @@
+.divider {
+    margin: 1em 0 0;
+    padding: 0 0 1em;
+    position: relative;
+    background:
+    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAYAAACsXeyTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVQIHWNIS0sr/v//PwMMDzY+ADqMahlW4J91AAAAAElFTkSuQmCC)
+    bottom left
+    repeat-x;
+    background:
+    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAYAAACsXeyTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVQIHWNIS0sr/v//PwMMDzY+ADqMahlW4J91AAAAAElFTkSuQmCC)
+    top left
+    repeat-x;
+}
+
+article h3{
+  margin: 0 0 0 0;
+}
+
+img.mid {
+	width:50%;
+}
+
+img.small {
+	width: 25%;
+}
+
+img.right{
+	float:right;
+}
+
+img.left{
+	float:left;
+}
+
+div.clear{
+}
+
+img {
+  -webkit-border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    -ms-border-radius: 0.3em;
+    -o-border-radius: 0.3em;
+    border-radius: 0.3em;
+    border-top-left-radius: 0.3em;
+    border-top-right-radius: 0.3em;
+    border-bottom-right-radius: 0.3em;
+    border-bottom-left-radius: 0.3em;
+    -webkit-box-shadow: rgba(0,0,0,0.15) 0 1px 4px;
+    -moz-box-shadow: rgba(0,0,0,0.15) 0 1px 4px;
+    box-shadow: rgba(0,0,0,0.15) 0 1px 4px;
+    border: #fff 0.5em solid;
+    border-top-color: rgb(255, 255, 255);
+    border-top-style: solid;
+    border-top-width: 0.5em;
+    border-right-color: rgb(255, 255, 255);
+    border-right-style: solid;
+    border-right-width: 0.5em;
+    border-bottom-color: rgb(255, 255, 255);
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-left-color: rgb(255, 255, 255);
+    border-left-style: solid;
+    border-left-width: 0.5em;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: documentation | Brandon Walsh]]></title>
+  <link href="http://lanyon.getpoole.com/categories/documentation/atom.xml" rel="self"/>
+  <link href="http://lanyon.getpoole.com/"/>
+  <updated>2018-04-27T20:11:44-04:00</updated>
+  <id>http://lanyon.getpoole.com/</id>
+  <author>
+    <name><![CDATA[{"name"=>"Brandon Walsh", "url"=>"https://twitter.com/mdo", "email"=>"walsh@virginia.edu"}]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Text Analysis Workshop: Four Ways to Read a Text]]></title>
+    <link href="http://lanyon.getpoole.com/blog/2016/09/21/ways-to-read/"/>
+    <updated>2016-09-21T11:51:00-04:00</updated>
+    <id>http://lanyon.getpoole.com/blog/2016/09/21/ways-to-read</id>
+    <content type="html"><![CDATA[<p><em>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2016/09/22/text-analysis-workshop-four-ways-to-read-a-text/">WLUDH blog</a>.]</em></p>
+
+<p>On Monday I visited <a href="http://library.wlu.edu/about/library-directory/mackenzie-brooks">Mackenzie Brooks</a>’s course on “Data in the Humanities” to introduce digital text analysis to her students. I faced a few challenges when planning for the visit:</p>
+
+<ul>
+  <li><strong>Scope</strong> - I had two hours for the workshop and a lot of material to cover. I was meant to introduce anything and everything, as much as I wanted in a general overview of text analysis.</li>
+  <li><strong>Background</strong> - This course is an introductory digital humanities course that counts as a science credit at W&amp;L, so I assumed no prior knowledge of programming. Mackenzie will be covering some things with them later in the course, but at this stage I needed to avoid anything really technical.</li>
+  <li><strong>Length</strong> - Two hours was both a lot of time and no time at all. It was certainly not enough time to teach anyone to program for the first time. As an aside, I often find it hard to gauge how much material is appropriate for anything longer than 75 minutes.</li>
+  <li><strong>Content</strong> - Since this was meant to be a general overview of the field, I did not want to lean too heavily on analysis by tools. I worried that if I did so the takeaway for the students would be how to use the tools, not the underlying concepts that the tools aided them in exploring.</li>
+</ul>
+
+<p>I wound up developing a workshop I called “Introduction to Text Analysis: Four Ways to Read a Text.” Focusing on four ways meant that I felt comfortable cutting a section if things started to go long. It also meant that I was developing a workshop model that could easily fit varying lengths in the future. For example, I’ll be using portions of this workshop throughout my introduction to text analysis lectures in my own course this fall. The approach would necessarily be pretty distant - I couldn’t go into much detail for any one method in this time. Finally, I wanted the students to think about text analysis concepts first and then come to tools that would help them to do so, so I tried to displace the tools and projects from the conversation slightly. The hope was that, by enacting or intuiting the methods by hand first, the concepts would stick more easily than they might otherwise.</p>
+
+<p>The basic structure of the workshop was this:</p>
+
+<ol>
+  <li>I introduce a basic methodology for reading.</li>
+  <li>Students are presented with a handout asking them to read in a particular way with a prompt from me. They complete the exercise.</li>
+  <li>We talk about the process. We clarify the concept a little more together, and the students infer some of the basic difficulties and affordances of the approach.</li>
+  <li>Then I show a couple tools and projects that use that method for real results.</li>
+</ol>
+
+<p>The four ways of reading I covered were close reading, bags of words, topic modeling, and sentiment analysis. So, to use the topic modeling portion as an example, any one of those units looked something like this:</p>
+
+<ol>
+  <li>I note how, until now, we have been discussing how counting words gives us a sense of the overall topic or scope of the text. Over time and in close proximity, individual words combine to give us a sense of what a text is about.</li>
+  <li>I give the students three paragraphs with the words scrambled and out of order (done pretty quickly in Python). I ask the students to get in groups and tell me what the underlying topics or themes are for each excerpt. They had to produce three single-word topics for each paragraph, and paragraphs could share topics.</li>
+  <li>We talk about how were able to determine the topics of the texts even with the paragraphs virtually unreadable. Even out of order, certain words in proximity together suggest the underlying theme of a text. We can think of texts as made up of a series of topics like these, clusters of words that occur in noticeable patterns near one another. We have human limits as to how much we can comprehend, but computers can help us run similar, mathematical versions of the same process to find out what words occur near each other in statistically significant patterns. The results can be thought of as the underlying topics or discourses that make up a series of documents. A lot of hand waving, I know, but I am assuming here that students will examine topic modeling in more detail at a later date. Better, I think, to introduce the broad strokes than lose students in the details.</li>
+  <li>I then share <a href="http://dsl.richmond.edu/dispatch/pages/intro">Mining the Dispatch</a> as an example of topic modeling in action to show the students the kinds of research questions that can be explored using this method.</li>
+</ol>
+
+<p>So, in essence, what I tried to do is create a hands-on approach to teaching text analysis concepts that is flexible enough to fit a variety of needs and contexts. My handouts and slides are all up on <a href="https://github.com/bmw9t/waystoread">a github repository</a>. Feel free to share, reuse, and remix them in any way you would like.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Embedding COinS Metadata on a Page Using the Zotero API]]></title>
+    <link href="http://lanyon.getpoole.com/blog/2016/02/15/coins-from-zotero/"/>
+    <updated>2016-02-15T09:33:00-05:00</updated>
+    <id>http://lanyon.getpoole.com/blog/2016/02/15/coins-from-zotero</id>
+    <content type="html"><![CDATA[<p><em>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2016/02/15/embedding-coins-data-on-a-page-using-the-zotero-api/">Washington and Lee University Digital Humanities Blog</a>]</em></p>
+
+<p>This year I am working with Mackenzie, Steve McCormick, and his students on the <a href="http://www.huondauvergne.org/">Huon d’Auvergne</a> project, a digital edition of a Franco-Italian romance epic. Last term we finished TEI-encoding of two of the manuscripts and put them online, and there is still much left to do. Making the digital editions of each manuscript online is a valuable scholarly endeavor in its own right, but we’ve also been spending a lot of time considering other ways in which we can enrich this scholarly production using the digital environment.</p>
+
+<p>All of which brings me to the <a href="http://www.huondauvergne.org/biblio_temp">bibliography</a> for our site. At first, our bibliography page was just a transcription of a text file that Steve would send along with regular updates. This collection of materials is great to have in its own right, but a better solution would be to leverage the many digital humanities approaches to citation management to produce something a bit more dynamic.</p>
+
+<p>Steve already had everything in a Zotero, so my first step was to integrate the site’s bibliography with the Zotero collection that Steve was using to populate the list. I found a <a href="https://github.com/davidswelt/zot_bib_web">python 2 library called zot_bib_web</a> that could do all this quite nicely with a bit of modification. Now, by running the script from my computer, the site’s bibliography will automatically pull in an updated Zotero collection for the project. Not only is it now easier to update our site (no more copying and pasting from a word document), but now others can contribute new resources to the same bibliography on Zotero by requesting to join the group and uploading citations. The project’s bibliography can continue to grow beyond us, and we will capture these additions as well.</p>
+
+<p>Mackenzie suggested that we take things a bit further by including <a href="https://en.wikipedia.org/wiki/COinS">COiNS</a> metadata in the bibliography so that someone coming to our bibliography could export our information into the citation manager of their choosing. Zotero’s API can also do this, and I used a piece of the <a href="https://github.com/urschrei/pyzotero">pyzotero</a> Python library to do so. The first step was to add this piece to the zot_bib_web code:</p>
+
+<p>zot = zotero.Zotero(library_id, library_type, api_key)
+  coins = zot.collection_items(collection_id, content=’coins’)
+  coin_strings = [str(coin) for coin in coins]
+  for coin in coin_strings:
+    fullhtml += coin</p>
+
+<p>Now, before the program outputs html for the bibliography, it goes out to the Zotero API and gets COinS metadata for all the citations, converts them into a format that will work for the embedding, and then attaches each returned span to the HTML for the bibliography.</p>
+
+<p>Now that I had the data that I needed, I wanted to make it work a bit more cleanly in our workflow. Initially, the program returned each bibliographic entry in its own page and meant for the whole bibliography to also be a stand-alone page on the website. I got rid of all that and, instead, wanted to embed them within the website as I already had it. I have the python program exporting the bibliography and COinS data into a small HTML file that I then attach to a div with an id of “includedContent”. inserted in the bibliography page. I use some jQuery to do so:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$(function(){
+  $("#includedContent").load("/zotero-bib.html");
+});
+</code></pre></div></div>
+
+<p>Instead of distributing content across several different pages, I mark a placeholder area on the main site where all the bibliographic data and metadata will be dumped. All of the relevant data gets saved in a file ‘zot-bib.html’ that gets automatically included inside the shell of the bibliography.html page. From there, I just modified the style so that it would fit into the aesthetic of the site.</p>
+
+<p>Now anyone going to our bibliography page with a Zotero extension will see this in the right of the address bar:</p>
+
+<p><img src="/assets/images/zotero-extension.jpg" alt="Image of zotero functioning as an extension next to the sidebar." /></p>
+
+<p>Clicking on the folder icon will bring up the Zotero interface for downloading any of the items in our collection.</p>
+
+<p><img src="/assets/images/zotero-download.jpg" alt="Bulk downloading citations using zotero." /></p>
+
+<p>And to update this information we only need to run a single python script from the terminal to re-generate everything.</p>
+
+<p>The code is not live on the Huon site just yet, but you can download and manipulate these pieces from an example file I uploaded to the <a href="https://github.com/wludh/huondauvergne/blob/zotero/zot_bib_web/zot_example.py">Huon GitHub repository</a>. You’ll probably want to start by installing zot_bib_web first to familiarize yourself with the configuration, and you’ll have a few settings to update before it will work for you: the library id, library type, api key, and collection ID will all need to be updated for your particular case, and the jQuery excerpt above will need to point to wherever you output the bibliography file.</p>
+
+<p>These steps have strengthened the way in which we handle bibliographic metadata so that it can be more useful for everyone, and we were really only able to do it because of the many great open source libraries that allow others to build on them. It’s a great thing - not having to reinvent the wheel.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Praxis Posts]]></title>
+    <link href="http://lanyon.getpoole.com/blog/2013/07/23/praxis/"/>
+    <updated>2013-07-23T21:19:00-04:00</updated>
+    <id>http://lanyon.getpoole.com/blog/2013/07/23/praxis</id>
+    <content type="html"><![CDATA[<p>All last year I was a <a href="http://praxis.scholarslab.org/">Praxis Fellow</a> in the <a href="http://www.scholarslab.org/">Scholars’ Lab</a>, where they gave us a “soup to nuts” crash course in all things digital humanities. As a part of the program, the fellows were asked to reflect periodically on their experiences on the Scholars’ Lab blog.</p>
+
+<p>I did not do a good job of continually cross-posting those blog posts to this site, so I wanted to make sure that they were properly linked here. I posted with the program on a variety of topics from my work as a developer, to reflections on collaborative programming, to our own plan for the year. Many of the posts relate to <a href="http://www.prism.scholarslab.org">Prism</a>, the tool we built over the course of the year. The Scholars’ Lab has <a href="http://www.scholarslab.org/people/brandon-walsh/">a list of all my posts to date</a>. Below I included the posts with a short gloss.</p>
+<ol>
+<ul>
+<li><a href="http://www.scholarslab.org/grad-student-research/hello-world/">Hello World</a>: I reflect on how our team would interact with the previous year's Praxis team.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/failure/">Failure</a>: On the importance of failing in public and my first stab at creating a personal website.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/marking-and-explanation-in-prism-2/">Marking and Explanation in Prism</a>: Thoughts on the marking interface in Prism and its implications for the interpretive process.</li>
+<li><a href="http://www.scholarslab.org/grad-student-research/the-direction-of-prism/">The Direction of Prism</a>: Attempts to reflect broadly on how particular types of changes to the project might affect its direction.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/prism-proposal-against-anonymity/">Prism Proposal: Against Anonymity</a>: An argument for the redesign of Prism to track individual users in relation to the total dataset.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/poster-abstract-and-code-camp/">Poster Abstract and Code Camp</a>: Discusses our DH2013 poster abstract and first reflections on learning code.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/your-digital-life-in-140-characters/">Your Digital Life in 140 Characters</a>: I discuss my first foray into Twitter.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/fizzing-buzzing/">Fizzing, Buzzing</a>: Links my solution to the Fizz Buzz programming homework.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/grading-in-ruby/">Grading in Ruby</a>: I develop a very basic program that will compute your end of semester grading for you.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/ruby-grading-2-0/">Ruby Grading 2.0</a>: I attempt to redesign the same grading program to have cleaner, more elegant code.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/looking-forward/">Looking Forward</a>: Possible directions for the project.  </li>
+<li><a href="http://www.scholarslab.org/grad-student-research/on-learning-code/">On Learning Code</a>: Discusses the online tools that I found most helpful for learning coding.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/omniauth/">Omniauth</a>: On implementing Omniauth for Prism.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/out-on-a-small-limb/">Out on a (Small) Limb</a>: Discusses the importance of small feature branches when working collaboratively.</li>  
+<li><a href="http://www.scholarslab.org/grad-student-research/on-tasks-large-and-small/">On Tasks Large and Small</a>: On realistic expectations and identifying problems.</li>  
+<li><a href="http://www.scholarslab.org/experimental-humanities/arduino-rainbow-hack/">Arduino Rainbow Hack</a>: Reflects on an Arduino hackday held in the Scholars' Lab.</li>
+</ul>
+</ol>
+]]></content>
+  </entry>
+  
+</feed>
