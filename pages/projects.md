@@ -26,7 +26,7 @@ Posts:
 <div class="divider"></div>
 <h2>Prism</h2>
 <img class="mid right" src="{{ root_url }}/assets/images/digital-projects/prism.png" alt="prism visualize page">
-<a href="http://www.prism.scholarslab.org">Prism</a> is a browser-based Ruby on Rails application that facilitates text analysis among large groups of people. Built by the <a href="http://www.praxis.scholarslab.org">Praxis Program</a> at the <a href="http://www.scholarslab.org">Scholars' Lab</a>. I came on during the second year of development and have served lead developer since (though the tool is no longer in active development). The tool has gotten significant uptake by K-12 educators.
+<a href="http://prism.scholarslab.org">Prism</a> is a browser-based Ruby on Rails application that facilitates text analysis among large groups of people. Built by the <a href="http://praxis.scholarslab.org">Praxis Program</a> at the <a href="http://www.scholarslab.org">Scholars' Lab</a>. I came on during the second year of development and have served lead developer since (though the tool is no longer in active development). The tool has gotten significant uptake by K-12 educators.
 
 
 Publications:
