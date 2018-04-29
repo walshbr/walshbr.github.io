@@ -11,3 +11,6 @@ deploy:
   target_branch: master
   on:
     branch: source
+cache:
+  directories:
+  - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
