@@ -12,7 +12,7 @@ Recent Invited Presentations and Workshops
 
 *	Invited talk on graduate studies and digital humanities, Digital Integrative Liberal Arts Center, Georgia Tech, March 2018
 *	Invited talk, “Text Analysis Pedagogy for Non-Programmers,” University of Pennsylvania WordLab, November 2017
-* Invited text analysis coach and workshop leader, [Ohio 5 Student Newspaper Hackathon](https://hackoh5.ohio5.org/), College of Wooster, March 2017
+* Invited text analysis coach and workshop leader, [Ohio 5 Student Newspaper Hackathon](https://hackoh5.ohio5.or/), College of Wooster, March 2017
 * Keynote, “Planning a DH Project When You Feel like an Imposter”, and invited workshop leader, “Introduction to Text Analysis with Twitter”, Undergraduate Network for Research in the Humanities Conference, Lexington, VA, January 2017
 * Invited talk, "Project Managing from the Outside In," opening remarks for Digital Scholarship Retreat, Universiy of Michigan, March 2015
 * Invited guest lectures on digital humanities software development and project management with Sarah Storti, presentations entitled "Design Instincts" and "Do you want to build a project?," Washington &amp; Lee University, April 2014, May 2015
