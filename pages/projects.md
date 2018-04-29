@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "Projects"
-comments: false
-sharing: true
 footer: false
 permalink: /projects
-order: 3
+order: 2
 ---
 
 

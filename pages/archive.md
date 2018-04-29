@@ -3,7 +3,7 @@ layout: page
 title: Blog Archive
 permalink: /archive
 footer: false
-order: 5
+order: 6
 ---
 
 <div id="blog-archives">

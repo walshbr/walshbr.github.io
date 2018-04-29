@@ -3,11 +3,11 @@ layout: post
 title: "Design Refresh"
 date: 2013-07-08 00:39
 comments: true
-categories: 
+categories:
 ---
-At long last, I am ready to unveil the project that I have been working on over the summer - a design refresh for site. The main drive behind this aesthetic: I noticed the sheer abundance of information that the basic octopress theme gives you. This setup leads to a lot of duplicate information that ultimately makes things feel cluttered. I tried to keep things very minimal in this design, eliminating as much overlapping information and noise as possible. 
+At long last, I am ready to unveil the project that I have been working on over the summer - a design refresh for site. The main drive behind this aesthetic: I noticed the sheer abundance of information that the basic octopress theme gives you. This setup leads to a lot of duplicate information that ultimately makes things feel cluttered. I tried to keep things very minimal in this design, eliminating as much overlapping information and noise as possible.
 
-I used a few different models for the design of the site. The main inspirations came from the sites of <a href="http://aijazansari.com/">Aijaz Ansari</a>, <a href="http://clioweb.org/">Jeremy Boggs</a>, and <a href="http://inletters.com/">Daniel Carter</a>. Ansari's <a href="http://aijazansari.com/2012/08/27/how-to-customize-octopress-theme/">blog post</a> on customizing Octopress, especially, proved essential as I worked through my own setup. There are still a few things that I could stand to change for this current design, but it felt as thought it was time to let the current iteration see the light of day. 
+I used a few different models for the design of the site. The main inspirations came from the sites of <a href="http://aijazansari.com/">Aijaz Ansari</a>, <a href="http://jeremyboggs.net/">Jeremy Boggs</a>, and <a href="http://inletters.com/">Daniel Carter</a>. Ansari's <a href="http://aijazansari.com/2012/08/27/how-to-customize-octopress-theme/">blog post</a> on customizing Octopress, especially, proved essential as I worked through my own setup. There are still a few things that I could stand to change for this current design, but it felt as thought it was time to let the current iteration see the light of day. 
 
 A couple issues I ran into:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teaching with Twitter - Part 2"
+title: "Teaching with Twitter - Part Two"
 date: 2014-01-13 16:07
 comments: true
 categories: [tools, tips, pedagogy]

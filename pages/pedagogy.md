@@ -1,45 +1,39 @@
 ---
 layout: page
 title: Pedagogy
-comments: true
-sharing: true
 footer: false
 permalink: /pedagogy
-order: 4
+order: 3
 ---
 
-In addition to the specific courses below, you can find a number of my thoughts on pedagogy by checking out the <a href="/categories/pedagogy/">pedagogy</a> tag in the blog archive. 
+In addition to the specific courses below, I've written a number of posts on the blog about my approach to pedagogy:
+
+{% for post in site.categories['pedagogy'] %}
+* <a href="{{ post.url }}">{{ post.title }}</a>{% endfor %}
 
 <div class="divider"></div>
 
-<h2>Washington and Lee University</h2>
+## Washington and Lee University
 
-<ol>
-    <ul>
-        <li><a href="#ENGL394">ENGL 394: "Hacking the Book"</a><br>
-        (Instructor, Projected Spring 2016; course fulfills DH credit)</li>
-        <li><a href="#WRIT100">WRIT 100: "Writing in the Age of Digital Surveillance"</a><br>
-        (Instructor, Projected Winter 2016)</li>
-        <li><a href="#HIST211">HIST 211: "Scandal, Crime, and Spectacle in the 19th Century"</a><br>
-        (Co-Instructor with Sarah Horowitz, Fall 2016; course fulfills DH credit)</li>
-        <li><a href="#mellonfellows">Undergraduate Digital Humanities Fellows Program</a><br>
-        (Co-administrator with Mackenzie Brooks, 2 cohorts; Fall 2015-present)</li>
-    </ul>
-</ol>
+* <a href="#ENGL394">ENGL 394: "Hacking the Book"</a><br>
+      (Instructor, Projected Spring 2016; course fulfills DH credit)
+* <a href="#WRIT100">WRIT 100: "Writing in the Age of Digital Surveillance"</a><br>
+      (Instructor, Projected Winter 2016)
+* <a href="#HIST211">HIST 211: "Scandal, Crime, and Spectacle in the 19th Century"</a><br>
+      (Co-Instructor with Sarah Horowitz, Fall 2016; course fulfills DH credit)
+* <a href="#mellonfellows">Undergraduate Digital Humanities Fellows Program</a><br>
+      (Co-administrator with Mackenzie Brooks, 2 cohorts; Fall 2015-present)
 
-<h2>University of Virginia</h2>
 
-<ol>
-    <ul>
-        <li><a href="#ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a> <br>(Instructor, Fall 2012, Spring 2013)</li>
-        <li><a href="#IHGC3559">IHGC 3559: "American Youth and Film"</a> <br>(Co-Instructor with Elizabeth Fox, Spring 2014)</li>  
-        <li><a href="#IHGC3550">IHGC 3550: "How to Survive an Apocalypse"</a><br> (Co-Instructor with Elizabeth Fox, Spring 2015)</li>
-        <li><a href="#ENGL3820">ENGL 3820: "History of Literature in English II"</a> <br>(Head Teaching Assistant, Spring 2014)</li>  
-        <li><a href="#ENRN3210">ENRN 3210: "Shakespeare I"</a> <br>(Teaching Assistant, Fall 2013)</li>  
-        <li><a href="#ENWR3800">ENWR 3800: "Academic and Professional Writing"</a> <br>(Teaching Assistant, Spring 2012)</li>  
-        <li><a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> <br>(Teaching Assistant, Fall 2011)</li>
-    </ul>  
-</ol>
+## University of Virginia
+
+* <a href="#ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a> <br>(Instructor, Fall 2012, Spring 2013)
+* <a href="#IHGC3559">IHGC 3559: "American Youth and Film"</a> <br>(Co-Instructor with Elizabeth Fox, Spring 2014)
+* <a href="#IHGC3550">IHGC 3550: "How to Survive an Apocalypse"</a><br> (Co-Instructor with Elizabeth Fox, Spring 2015)
+* <a href="#ENGL3820">ENGL 3820: "History of Literature in English II"</a> <br>(Head Teaching Assistant, Spring 2014)
+* <a href="#ENRN3210">ENRN 3210: "Shakespeare I"</a> <br>(Teaching Assistant, Fall 2013)
+* <a href="#ENWR3800">ENWR 3800: "Academic and Professional Writing"</a> <br>(Teaching Assistant, Spring 2012)
+* <a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> <br>(Teaching Assistant, Fall 2011)
 
 <div class="divider"></div>
 <h2><a name="ENGL394"></a>ENGL 394: "Hacking the Book"</h2>

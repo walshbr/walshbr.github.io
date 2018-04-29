@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "Dissertation Sound Clips"
-comments: true
-sharing: true
 footer: true
 permalink: /diss
 ---
