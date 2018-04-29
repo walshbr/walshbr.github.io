@@ -7,6 +7,6 @@
 {% if post.categories[0] %}
   {% assign categories = post.categories | category_links %}
   {{ category_links:post.categories }}
-  <span class="categories">Posted in {{ categories }}</span>
+  <span class="categories">Posted in {{ categories }}</span>.
 {% endif %}
 <div class="divider"/>

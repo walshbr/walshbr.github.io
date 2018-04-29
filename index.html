@@ -14,9 +14,10 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
     {% if post.categories %}{% include categories.html %}{% endif %}
+    <div id="post-content">
     {{ post.content }}
+    </div>
   </div>
-  <div class="divider"></div>
   {% endfor %}
 </div>
 

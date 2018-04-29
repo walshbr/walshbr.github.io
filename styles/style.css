@@ -71,3 +71,7 @@ img {
 #blog-archives h2, .page h2 {
   margin-top: 10px;
 }
+
+#post-content{
+  padding-top: 16px;
+}
