@@ -5,7 +5,7 @@ date: 2013-07-23 21:19
 comments: true
 categories: [documentation]
 ---
-All last year I was a <a href="http://praxis.scholarslab.org/">Praxis Fellow</a> in the <a href="http://www.scholarslab.og/">Scholars' Lab</a>, where they gave us a "soup to nuts" crash course in all things digital humanities. As a part of the program, the fellows were asked to reflect periodically on their experiences on the Scholars' Lab blog.
+All last year I was a <a href="http://praxis.scholarslab.org/">Praxis Fellow</a> in the <a href="http://www.scholarslab.org/">Scholars' Lab</a>, where they gave us a "soup to nuts" crash course in all things digital humanities. As a part of the program, the fellows were asked to reflect periodically on their experiences on the Scholars' Lab blog.
 
 I did not do a good job of continually cross-posting those blog posts to this site, so I wanted to make sure that they were properly linked here. I posted with the program on a variety of topics from my work as a developer, to reflections on collaborative programming, to our own plan for the year. Many of the posts relate to <a href="http://prism.scholarslab.org">Prism</a>, the tool we built over the course of the year. The Scholars' Lab has <a href="http://www.scholarslab.org/people/brandon-walsh/">a list of all my posts to date</a>. Below I included the posts with a short gloss.
 <ol>
