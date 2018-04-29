@@ -45,7 +45,8 @@ task :default do
   # statically generated files.
   sh("JEKYLL_ENV=production bundle exec jekyll build")
   options = { :assume_extension => true,
-  :http_status_ignore => [0, 401]}
+  :http_status_ignore => [0, 401],
+  :ssl_verifypeer => false}
   HTMLProofer.check_directory("./_site", options).run
   puts "Jekyll successfully built"
 end
