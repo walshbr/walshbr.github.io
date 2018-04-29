@@ -27,3 +27,11 @@ plugins: [jekyll-paginate]
 paginate: 3
 paginate_path: "page:num"
 category_dir: 'categories'
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
