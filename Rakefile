@@ -50,7 +50,7 @@ task :default do
     :typhoeus => {
     :ssl_verifypeer => false,
     :ssl_verifyhost => 0 },
-    :url_ignore => 'http://diss.herokuapp.com'
+    :url_ignore => ['http://diss.herokuapp.com']
   }
   HTMLProofer.check_directory("./_site", options).run
   puts "Jekyll successfully built"
