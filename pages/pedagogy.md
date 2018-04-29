@@ -8,7 +8,7 @@ permalink: /pedagogy
 order: 4
 ---
 
-In addition to the specific courses below, you can find a number of my thoughts on pedagogy by checking out the <a href="/categories/pedagogy/">pedagogy</a> tag in the blog archive.
+In addition to the specific courses below, you can find a number of my thoughts on pedagogy by checking out the <a href="/categories/pedagogy/">pedagogy</a> tag in the blog archive. 
 
 <div class="divider"></div>
 
