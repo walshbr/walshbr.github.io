@@ -10,7 +10,6 @@ tagline:
 description:         "Head of Graduate Programs at the Scholars' Lab in the UVA Library"
 url: http://walshbr.github.com/walshbr
 baseurl:             ''
-paginate:            3
 
 # About/contact
 author:
@@ -24,7 +23,7 @@ version:             1.0.0
 
 plugins_dir: ./_plugins
 plugins: [jekyll-paginate]
-paginate: 3
+paginate: 1
 paginate_path: "page:num"
 category_dir: 'categories'
 
