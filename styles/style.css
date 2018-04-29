@@ -67,3 +67,7 @@ img {
     border-image-outset: initial;
     border-image-repeat: initial;
 }
+
+#blog-archives h2, .page h2 {
+  margin-top: 10px;
+}

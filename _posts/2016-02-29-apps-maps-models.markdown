@@ -3,7 +3,7 @@ layout: post
 title: "Apps, Maps, & Models: A New View"
 date: 2016-02-29 08:54
 comments: true
-categories: [conferences]
+categories: [conferences, dh now]
 ---
 
 *[Crossposted on the [Washington and Lee University Digital Humanities Blog](http://digitalhumanities.wlu.edu/blog/2016/02/29/1937/)]*

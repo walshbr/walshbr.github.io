@@ -1,7 +1,19 @@
 ---
 layout: default
 ---
+{% if page.category == 'dh now' %}
+<h1>Category: DH Now</h1>
+{% elsif page.category == 'dh+lib' %}
+<h1>Category: DH Now: dh+lib</h1>
+{% else %}
 <h1>Category: {{ page.category | capitalize }}</h1>
+{% endif %}
+{% if page.category == 'dh now' %}
+	{{ site.categories[page.category] | size }} of my blog posts have been featured on <a href="http://digitalhumanitiesnow.org/">DH Now</a>, "an experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web."
+{% endif %}
+{% if page.category == 'dh+lib' %}
+{{ site.categories[page.category] | size }} of my blog posts have been featured on <a href="http://acrl.ala.org/dh/">dh+lib Review</a>, a weekly roundup of recommended readings and resources at the intersection of digital humanities and libraries.
+{% endif %}
 {% for post in site.categories[page.category] %}
 	{% include archive_post.html %}
 {% endfor %}
