@@ -7,7 +7,7 @@ order: 2
 ---
 
 
-While the blogroll has miscellaneous scribblings, these are the more complete/robust projects that I have worked on. In addition to my work on projects at <a href="http://scholarslab.virginia.edu">Scholars' Lab</a> and <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/walshbr">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
+While the blogroll has miscellaneous scribblings, these are the more complete/robust projects that I have worked on. In addition to my work on projects at <a href="http://scholarslab.org">Scholars' Lab</a> and <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/walshbr">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
 
 <div class="divider"></div>
 <h2>Hearing Silent Woolf</h2>

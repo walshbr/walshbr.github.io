@@ -10,9 +10,9 @@ deploy_branch  = "gh-pages"
 
 task :test do
   sh "bundle exec jekyll build"
-  options = { :assume_extension => true,
-  :http_status_ignore => [0, 401]}
-  HTMLProofer.check_directory("./_site", options).run
+  # options = { :assume_extension => true,
+  # :http_status_ignore => [0, 401]}
+  HTMLProofer.check_directory("./_site").run
 end
 
 desc "Begin a new post in #{posts_dir}"
@@ -45,11 +45,12 @@ task :default do
   # statically generated files.
   sh("JEKYLL_ENV=production bundle exec jekyll build")
   options = { :assume_extension => true,
-    :http_status_ignore => [0, 401, 301, 302],
+    # :http_status_ignore => [301, 302],
     # :cache => { :timeframe => '2w' },
     :typhoeus => {
     :ssl_verifypeer => false,
-    :ssl_verifyhost => 0 }
+    :ssl_verifyhost => 0 },
+    :url_ignore => 'http://diss.herokuapp.com'
   }
   HTMLProofer.check_directory("./_site", options).run
   puts "Jekyll successfully built"
