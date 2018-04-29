@@ -46,7 +46,7 @@ task :default do
   sh("JEKYLL_ENV=production bundle exec jekyll build")
   options = { :assume_extension => true,
     :http_status_ignore => [0, 401, 301, 302],
-    :cache => { :timeframe => '2w' },
+    # :cache => { :timeframe => '2w' },
     :typhoeus => {
     :ssl_verifypeer => false,
     :ssl_verifyhost => 0 }
