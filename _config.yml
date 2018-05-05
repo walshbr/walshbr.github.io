@@ -8,8 +8,8 @@ permalink: /blog/:year/:month/:day/:title/
 title:               Brandon Walsh
 tagline:
 description:         "Head of Graduate Programs at the Scholars' Lab in the UVA Library"
-url: http://walshbr.github.com/walshbr
-baseurl:             'http://walshbr.com'
+url: http://walshbr.com
+baseurl:             ''
 
 # About/contact
 author:
