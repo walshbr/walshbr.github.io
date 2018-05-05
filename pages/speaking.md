@@ -6,7 +6,7 @@ permalink: /speaking
 order: 4
 ---
 
-I've been giving workshops and presentations on a variety of topics related to digital humanities and pedagogy for several years. Many of the materials for these events are available on my [blog]({{ site.baseurl }}/archive). In addition to the examples below, I regularly talk about digital humanities pedagogy, professional development for graduate students, curricular development, DH technical training (with a special focus on beginners), and digital project planning. Reach out to me at walsh@virginia.edu if you would like to discuss working with your institution for an event.
+I've been giving workshops and presentations on a variety of topics related to digital humanities and pedagogy for several years. Many of the materials for these events are available on my [blog]({{ site.baseurl }}/archie). In addition to the examples below, I regularly talk about digital humanities pedagogy, professional development for graduate students, curricular development, DH technical training (with a special focus on beginners), and digital project planning. Reach out to me at walsh@virginia.edu if you would like to discuss working with your institution for an event.
 
 Recent Invited Presentations and Workshops
 
