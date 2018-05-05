@@ -80,6 +80,29 @@ Selected Conferences and Presentations
 * "The Waste Land's Onomatopoetics," The Louisville Conference on Literature and Culture Since 1900, Louisville, KY, February 2012
 * "Curating Coltrane: Kurt Elling’s Vocalese 'Resolution,'" Southwest Texas Popular Culture and American Culture Association Joint Conference, San Antonio, TX, April 2011
 
+Selected Digital Projects and Related Experience
+
+* <a href="https://github.com/walshbr">GitHub Repository</a>
+* 2016, Lead Writer: <a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a>, remixable coursebook on introductory text analysis meant for beginner readers, co-authored with Sarah Horowitz, Washington and Lee University
+* 2015-2017, Lead Developer: <a href="http://huon-rails.herokuapp.com/">Huon d'Auvergne</a>, Ruby on Rails TEI edition and implementation of Versioning Machine, Washington and Lee University
+* 2015-2017, Developer: <a href="https://library.wlu.edu/scholar">Scholar</a>, Ruby on Rails implementation of BibApp for cataloging faculty publications, Washington and Lee University
+* 2016-2017, Lead Developer: <a href="http://shen-rails.herokuapp.com/">Shenandoah</a>, Ruby on Rails interface to JSON API for searching a literary journal’s index, Washington and Lee University
+* 2013-present, Lead Developer: <a href="http://prism.scholarslab.org/">Prism</a>, Ruby on Rails web application for crowdsourcing textual analysis, created with the Praxis team and the UVa Scholars’ Lab
+* 2015-2017, Lead Developer: <a href="http://walshbr.github.io/blog/2015/03/23/woolf-huskey/">Hearing Silent Woolf</a>, Python machine learning project on sound in modernist fiction, received graduate fellowship in digital humanities, UVa Scholars’ Lab
+* 2013-2015, Project Manager: <a href="http://www.nines.org/">Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)</a>, UVa
+* Summer 2014-present, Co-Instructor: Course on "<a href="https://humanitiesprogramming.github.io">Humanities Programming with Ruby on Rails</a>," <a href="http://mith.umd.edu/training/">Humanities Intensive Learning &amp; Teaching</a>, with Ethan Reed (formerly Wayne Graham)
+* Summer 2013, Developer: <a href="http://www.groundsforargument.org/">Little Red Schoolhouse</a>, Drupal site for teaching rhetoric and composition, UVa
+
+Technical Profile
+
+* Languages: Python, Ruby, JavaScript
+* Frameworks: Ruby on Rails, Flask
+* Large-scale text analysis: natural language processing, topic modeling, machine learning 
+* Frontend web design: HTML5, CSS (SCSS, SASS)
+* Content management systems: Drupal, WordPress, Omeka
+* Version control systems: Git
+* Markup systems: RDF, XML, TEI
+
 Teaching (Washington and Lee University)
 
 * DH 394/ENGL 394 Hacking the Book<br>
@@ -110,19 +133,6 @@ Teaching (University of Virginia as Graduate Student)
 * ENSP 5821 Culture of London: Past and Present<br>
     (Study Abroad Program Assistant, Summer 2013-2015)
 
-Selected Digital Projects and Related Experience
-
-* <a href="https://github.com/walshbr">GitHub Repository</a>
-* 2016, Lead Writer: <a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a>, remixable coursebook on introductory text analysis meant for beginner readers, co-authored with Sarah Horowitz, Washington and Lee University
-* 2015-2017, Lead Developer: <a href="http://huon-rails.herokuapp.com/">Huon d'Auvergne</a>, Ruby on Rails TEI edition and implementation of Versioning Machine, Washington and Lee University
-* 2015-2017, Developer: <a href="https://library.wlu.edu/scholar">Scholar</a>, Ruby on Rails implementation of BibApp for cataloging faculty publications, Washington and Lee University
-* 2016-2017, Lead Developer: <a href="http://shen-rails.herokuapp.com/">Shenandoah</a>, Ruby on Rails interface to JSON API for searching a literary journal’s index, Washington and Lee University
-* 2013-present, Lead Developer: <a href="http://prism.scholarslab.org/">Prism</a>, Ruby on Rails web application for crowdsourcing textual analysis, created with the Praxis team and the UVa Scholars’ Lab
-* 2015-2017, Lead Developer: <a href="http://walshbr.github.io/blog/2015/03/23/woolf-huskey/">Hearing Silent Woolf</a>, Python machine learning project on sound in modernist fiction, received graduate fellowship in digital humanities, UVa Scholars’ Lab
-* 2013-2015, Project Manager: <a href="http://www.nines.org/">Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)</a>, UVa
-* Summer 2014-present, Co-Instructor: Course on "<a href="https://humanitiesprogramming.github.io">Humanities Programming with Ruby on Rails</a>," <a href="http://mith.umd.edu/training/">Humanities Intensive Learning &amp; Teaching</a>, with Ethan Reed (formerly Wayne Graham)
-* Summer 2013, Developer: <a href="http://www.groundsforargument.org/">Little Red Schoolhouse</a>, Drupal site for teaching rhetoric and composition, UVa
-
 Professional Service and Affiliations
 
 * Programming Historian, Editorial Board 2017-present
@@ -144,13 +154,3 @@ Local Service (University of Virginia)
 * Graduate English Students Association: MA representative, 2010-11; Modern and Contemporary Literature Area Representative, 2012-2013; Secretary, 2012-13; President, 2013-14.
 * Institute for the Humanities and Global Cultures, Graduate Advisory Board, Spring 2012-present; chair 2013-14.
 * UVA Graduate Conference Committee: Chair, Budget subcommittee 2009-2011; Conference Co-Chair with Sophia Gu, 2011-12.
-
-Technical Profile
-
-* Languages: Python, Ruby, JavaScript
-* Frameworks: Ruby on Rails, Flask
-* Large-scale text analysis: natural language processing, topic modeling, machine learning 
-* Frontend web design: HTML5, CSS (SCSS, SASS)
-* Content management systems: Drupal, WordPress, Omeka
-* Version control systems: Git
-* Markup systems: RDF, XML, TEI

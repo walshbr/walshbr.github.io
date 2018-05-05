@@ -6,8 +6,24 @@ permalink: /projects
 order: 2
 ---
 
-
 While the blogroll has miscellaneous scribblings, these are the more complete/robust projects that I have worked on. In addition to my work on projects at <a href="http://scholarslab.org">Scholars' Lab</a> and <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/walshbr">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
+
+<div class="divider"></div>
+<h2>Introduction to Text Analysis: A Coursebook</h2>
+<img class="mid right" src="{{ root_url }}/assets/images/coursebook.png" alt="Introduction to text analysis: a coursebook">
+<a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a> is an open, remixable set of course materials. Co-authored with Professor Sarah Horowitz of Washington and Lee University, the book is designed to be modularized so as to facilitate easy excerpting. The book was written with a student audience in mind, and it is as much a pedagogical experiment in collaborative writing as it is a teaching resource in its own right.
+
+Posts:
+
+* "[Introduction to Text Analysis: A Coursebook](http://walshbr.github.io/blog/2016/10/24/text-analysis-coursebook/)"
+* "[Collaborative Writing to Build Digital Humanities Praxis](http://walshbr.com/blog/2017/08/04/collaborative-writing-to-build-digital-humanities-praxis/)"
+
+<div class="divider"></div>
+
+<h2>Humanities Programming</h2>
+<img class="mid right" src="{{ root_url }}/assets/images/humanities_programming.png" alt="Humanities Programming course splash page.">
+
+Each summer I run a course on "Humanities Programming" at <a href="https://dhtraining.org/">Humanities Intensive Learning and Training (HILT)</a>. Piloted by Wayne Graham and Jeremy Boggs, I took over and now lead the course with Ethan Reed. The course is meant to be an intensive introduction to programming for non-programmers that takes students through command line, git, HTML5/CSS, Ruby, and Rails. By the end, students will have tinkered on and deployed their own Ruby on Rails application. Materials can be found on our <a href="https://humanitiesprogramming.github.io">course site.</a>
 
 <div class="divider"></div>
 <h2>Hearing Silent Woolf</h2>
@@ -40,30 +56,11 @@ Posts:
 * "[Prism in the Classroom: Questions to Frame Discussion](http://walshbr.github.io/blog/2014/09/16/prism-pedagogy/)"
 * [Miscellaneous posts from the Praxis Program]({{ root_url }}/blog/2013/07/23/praxis/)
 
-
-<div class="divider"></div>
-
-<h2>Humanities Programming</h2>
-<img class="mid right" src="{{ root_url }}/assets/images/humanities_programming.png" alt="Humanities Programming course splash page.">
-
-Each summer I run a course on "Humanities Programming" at <a href="https://dhtraining.org/">Humanities Intensive Learning and Training (HILT)</a>. Piloted by Wayne Graham and Jeremy Boggs, I took over and now lead the course with Ethan Reed. The course is meant to be an intensive introduction to programming for non-programmers that takes students through command line, git, HTML5/CSS, Ruby, and Rails. By the end, students will have tinkered on and deployed their own Ruby on Rails application. Materials can be found on our <a href="https://humanitiesprogramming.github.io">course site.</a>
-
-
 <div class="divider"></div>
 <h2>NINES</h2>
 <img class="mid right" src="{{ root_url }}/assets/images/nines.png" alt="NINES splash page">
 
 From 2013 to 2015 I acted as Project Manager of the <a href="http://www.nines.org">Networked Infrastructure of Nineteenth-Century Electronic Scholarship (NINES)</a>. NINES peer reviews digital archives pertaining to the nineteenth-century and aggregated that content into a federated, searchable index. As Project Manager I facilitated this process by wrangling reviewers, cleaning metadata, and facilitating the indexing process.
-
-<div class="divider"></div>
-<h2>Introduction to Text Analysis: A Coursebook</h2>
-<img class="mid right" src="{{ root_url }}/assets/images/coursebook.png" alt="Introduction to text analysis: a coursebook">
-<a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a> is an open, remixable set of course materials. Co-authored with Professor Sarah Horowitz of Washington and Lee University, the book is designed to be modularized so as to facilitate easy excerpting. The book was written with a student audience in mind, and it is as much a pedagogical experiment in collaborative writing as it is a teaching resource in its own right.
-
-Posts:
-
-* "[Introduction to Text Analysis: A Coursebook](http://walshbr.github.io/blog/2016/10/24/text-analysis-coursebook/)"
-* "[Collaborative Writing to Build Digital Humanities Praxis](http://walshbr.com/blog/2017/08/04/collaborative-writing-to-build-digital-humanities-praxis/)"
 
 <div class="divider"></div>
 
