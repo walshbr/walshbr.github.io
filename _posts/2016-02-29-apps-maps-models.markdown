@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apps, Maps, & Models: A New View"
+title: "Apps, Maps, and Models: A New View"
 date: 2016-02-29 08:54
 comments: true
 categories: [conferences, dh now]
