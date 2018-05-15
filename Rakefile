@@ -15,6 +15,11 @@ task :test do
   HTMLProofer.check_directory("./_site").run
 end
 
+def get_stdin(message)
+  print message
+  STDIN.gets.chomp
+end
+
 desc "Begin a new post in #{posts_dir}"
 task :new_post, :title do |t, args|
   if args.title
