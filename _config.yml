@@ -22,7 +22,9 @@ version:             1.0.0
 
 
 plugins_dir: ./_plugins
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
 paginate: 1
 paginate_path: "page:num"
 category_dir: 'categories'

@@ -6,7 +6,7 @@ gem 'kramdown'
 gem 'html-proofer'
 gem 'jekyll'
 gem 'jekyll-paginate'
-
+gem 'jekyll-redirect-from'
 
 
 # We'll need rake to build our site in TravisCI

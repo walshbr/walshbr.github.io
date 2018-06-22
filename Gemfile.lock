@@ -45,6 +45,8 @@ GEM
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.13.0)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-watch (2.0.0)
@@ -91,6 +93,7 @@ DEPENDENCIES
   html-proofer
   jekyll
   jekyll-paginate
+  jekyll-redirect-from
   kramdown
   rake (~> 12)
 
