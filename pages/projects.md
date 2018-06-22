@@ -54,7 +54,7 @@ Publications:
 Posts:
 
 * "[Prism in the Classroom: Questions to Frame Discussion](http://walshbr.github.io/blog/2014/09/16/prism-pedagogy/)"
-* [Miscellaneous posts from the Praxis Program]({{ root_url }}/blog/2013/07/23/praxis/)
+* [Miscellaneous posts from the Praxis Program]({{ root_url }}/blog/praxis/)
 
 <div class="divider"></div>
 <h2>NINES</h2>
