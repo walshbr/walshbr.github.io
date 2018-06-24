@@ -11,7 +11,7 @@ While the blogroll has miscellaneous scribblings, these are the more complete/ro
 <div class="divider"></div>
 <h2>Introduction to Text Analysis: A Coursebook</h2>
 <img class="mid right" src="{{ root_url }}/assets/images/coursebook.png" alt="Introduction to text analysis: a coursebook">
-<a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a> is an open, remixable set of course materials. Co-authored with Professor Sarah Horowitz of Washington and Lee University, the book is designed to be modularized so as to facilitate easy excerpting. The book was written with a student audience in mind, and it is as much a pedagogical experiment in collaborative writing as it is a teaching resource in its own right.
+<a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a> is an open, remixable set of course materials. Co-authored with Professor Sarah Horowitz of Washington and Lee University, the book is designed to be modularized so as to facilitate easy excerpting. The book was written with a student audience in mind, and it is as much a pedagogical experiment in collaborative writing as it is a teaching resource in its own right. 
 
 Posts:
 
