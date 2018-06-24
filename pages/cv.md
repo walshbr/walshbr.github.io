@@ -35,7 +35,7 @@ Selected Awards
 
 Peer Review Publications
 
-* "<a href="http://walshbr.github.io/blog/2015/01/17/collation/">Collation and Writing Pedagogy</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/text-analysis/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
+* "<a href="{{ root_url }}blog/collation/">Collation and Writing Pedagogy</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/text-analysis/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
 * "Prism," under the "Poetry" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/poetry/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
 * "The Joycean Record: Listening Patterns and Sound Coteries," <em>James Joyce Quarterly</em>, vol. 53 no. 3-4, 2018
 * "<a href="https://programminghistorian.org/lessons/editing-audio-with-audacity">Editing Audio with Audacity</a>", Programming Historian (05 August 2016)
