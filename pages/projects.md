@@ -34,9 +34,9 @@ Python project that uses natural language processing and machine learning to per
 
 Posts:
 
-* "[Virginia Woolf, Natural Language Processing, and the Quotation Mark](https://walshbr.github.io/blog/2015/09/10/woolf-and-the-quotation-mark/)"
-* "[Hearing Silent Woolf](https://walshbr.github.io/blog/2015/03/23/woolf-huskey/)"
-* "[Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark](https://walshbr.github.io/blog/2016/05/17/reading-speech/)"
+* "[Virginia Woolf, Natural Language Processing, and the Quotation Mark]({{ root_url }}/blog/woolf-and-the-quotation-mark/)"
+* "[Hearing Silent Woolf]({{ root_url }}/blog/woolf-huskey/)"
+* "[Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark]({{ root_url }}/blog/reading-speech/)"
 
 
 <div class="divider"></div>
@@ -53,7 +53,7 @@ Publications:
 
 Posts:
 
-* "[Prism in the Classroom: Questions to Frame Discussion](http://walshbr.github.io/blog/2014/09/16/prism-pedagogy/)"
+* "[Prism in the Classroom: Questions to Frame Discussion]({{ root_url }}/blog/prism-pedagogy/)"
 * [Miscellaneous posts from the Praxis Program]({{ root_url }}/blog/praxis/)
 
 <div class="divider"></div>
