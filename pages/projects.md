@@ -15,8 +15,8 @@ While the blogroll has miscellaneous scribblings, these are the more complete/ro
 
 Posts:
 
-* "[Introduction to Text Analysis: A Coursebook](http://walshbr.github.io/blog/2016/10/24/text-analysis-coursebook/)"
-* "[Collaborative Writing to Build Digital Humanities Praxis](http://walshbr.com/blog/2017/08/04/collaborative-writing-to-build-digital-humanities-praxis/)"
+* "[Introduction to Text Analysis: A Coursebook]({{ root_url }}/blog/text-analysis-coursebook/)"
+* "[Collaborative Writing to Build Digital Humanities Praxis]({{ root_url }}/blog/collaborative-writing-to-build-digital-humanities-praxis/)"
 
 <div class="divider"></div>
 
