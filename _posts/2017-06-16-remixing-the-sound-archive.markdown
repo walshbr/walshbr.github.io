@@ -3,7 +3,7 @@ layout: post
 title: "Remixing the Sound Archive: Cut-up Poetry Recordings"
 date: 2017-06-16 13:47
 comments: true
-categories: [digital humanities]
+categories: ['digital humanities', 'talks']
 ---
 
 *[Recently I spoke at NEMLA 2017 with [Ken Sherwood](http://www.sherwoodweb.org/) and [Chris Mustazza](https://www.english.upenn.edu/people/chris-mustazza). The panel was on "Pedagogy and Poetry Audio: DH Approaches to Teaching Recorded Poetry/Archives," and my own contribution extended some [past experiments]({{ root_url }}/blog/deformance-talk/) with using deformance as a mode of analysis for audio recordings. The talk was given from notes, but the following is a rough recreation of what took place.]*
