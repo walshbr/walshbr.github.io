@@ -29,5 +29,9 @@ Speaking from notes
 
 People have quite strong opinions about each, but I've always felt that there is no one correct answer. In one session you might see someone looked down upon for reading, but then in the next session a speaker might try and go from notes, go way over time, and never get through more than the introduction. Both can be done well, and both can be done poorly. 
 
-My approach tries to split the differences. I should say at the outset that I am not necessarily advocating this for everyone. It feels a bit strange, but it's a workflow that I have come to like quite a lot. 
+My approach tries to split the differences. I should say at the outset that I am not necessarily advocating this for everyone. It feels a bit strange, but it's a workflow that I have come to like quite a lot. Here it is:
+
+1. I write the talk.
+2. I record myself giving the talk and make an MP3 of it.
+3. I listen to that MP3 a bunch while walking around the airport.
 
