@@ -34,10 +34,9 @@ Python project that uses natural language processing and machine learning to per
 
 Posts:
 
-* "[Virginia Woolf, Natural Language Processing, and the Quotation Mark]({{ root_url }}/blog/woolf-and-the-quotation-mark/)"
 * "[Hearing Silent Woolf]({{ root_url }}/blog/woolf-huskey/)"
+* "[Virginia Woolf, Natural Language Processing, and the Quotation Mark]({{ root_url }}/blog/woolf-and-the-quotation-mark/)"
 * "[Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark]({{ root_url }}/blog/reading-speech/)"
-
 
 <div class="divider"></div>
 <h2>Prism</h2>
