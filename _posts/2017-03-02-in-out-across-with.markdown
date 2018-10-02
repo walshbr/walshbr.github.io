@@ -3,7 +3,7 @@ layout: post
 title: "In, Out, Across, With: Collaborative Education and Digital Humanities (Job Talk for Scholars' Lab)"
 date: 2017-03-02 09:31
 comments: true
-categories: [talks, W&L, Scholars' Lab, alt-ac, collaboration, curriculum, digital humanities, dh+lib]
+categories: [talks, W&L, Scholars' Lab, alt-ac, collaboration, curriculum, digital humanities, dh+lib, pedagogy]
 ---
 
 *[Crossposted on the [WLUDH blog](https://digitalhumanities.wlu.edu/blog/2017/03/06/in-out-across-with-collaborative-education-and-digital-humanities-job-talk-for-scholars-lab/) and the [Scholars' Lab blog](http://scholarslab.org/digital-humanities/in-out-across-with-collaborative-education-and-digital-humanities-job-talk-for-head-of-graduate-programs/)]*

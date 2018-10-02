@@ -3,7 +3,7 @@ layout: post
 title: "Text Analysis Workshop: Four Ways to Read a Text"
 date: 2016-09-21 11:51
 comments: true
-categories: [text analysis, documentation, resources]
+categories: [text analysis, documentation, resources, pedagogy]
 ---
 
 *[Crossposted on the [WLUDH blog](http://digitalhumanities.wlu.edu/blog/2016/09/22/text-analysis-workshop-four-ways-to-read-a-text/).]*
