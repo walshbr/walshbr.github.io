@@ -35,6 +35,8 @@ Selected Awards
 
 Peer Review Publications
 
+* "Workshopping the Workshop: Moving Your Sessions Beyond Buttonology," Digital Library Pedagogy Cookbook (under review).
+* "Frustration is a Feature: Ugly Feelings and the Digital Humanities," *Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture* (forthcoming). 
 * "<a href="{{ root_url }}/blog/collation/">Collation and Writing Pedagogy</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/text-analysis/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
 * "Prism," under the "Poetry" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/poetry/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
 * "The Joycean Record: Listening Patterns and Sound Coteries," <em>James Joyce Quarterly</em>, vol. 53 no. 3-4, 2018
