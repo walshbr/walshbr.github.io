@@ -5,7 +5,8 @@ date: 2018-06-25 15:17
 categories: [digital humanities, talks]
 ---
 Part of my job involves helping students professionalize in digital humanities, which often means being there when students get accepted to their first digital humanities conference. Since most of my students come from the humanities, those conversations often go something like this:
-Student: "I got accepted to the big digital humanities conference!"
+
+> Student: "I got accepted to the big digital humanities conference!"
 Me: "That's so exciting! you should be very proud."
 **two months pass**
 Student: "Wait what should I be expecting at this conference? People read their talks right?"
@@ -32,15 +33,16 @@ So on the off-chance that this information is useful to someone out there I thou
 
 People have quite strong opinions about each, but I've always felt that there is no one correct answer. In one session you might see someone looked down upon for reading, but then in the next session a speaker might try and go from notes, go way over time, and never get through more than the introduction. Both can be done well, and both can be done poorly. 
 
-I don't write this to convince anyone that one form is better - I always feel like it depends on a lot of personal factors. How anxious does public speaking make you? What makes you most comfortable? My approach tries to split the differences. I should say at the outset that I am not necessarily advocating this for everyone. It feels a bit strange, but it's a workflow that I have come to like quite a lot. Here it is:
+I don't write this to convince anyone that one form is better - I always feel like it depends on a lot of personal factors. How anxious does public speaking make you? What makes you most comfortable? My approach tries to split the differences. I should say at the outset that I am not necessarily advocating this for everyone. It feels a bit strange, but it's a workflow that I have come to like quite a lot. It has its roots in a longstanding thing about my own learning habits that goes back to gradeschool - I've always found it easier to learn things by listening than by reading. When memorizing things for tests growing up I always had to translate them to flashcards, but that was really just so that I had a way to easily practice saying them aloud and getting them in my ear. The workflow I use to prepare for long-form public speaking (usually anything longer than 5-6 minutes) draws upon that same pattern:
 
 1. I write the talk.
 2. I record myself giving the talk and make an MP3 of it.
 3. I use [a great tool](ronimusic.com) used by musicians to divide up the talk into sections. 
-4. I listen to that MP3 a bunch while walking around the airport, doing chores, driving; etc.
+4. I listen to that MP3 a bunch while walking around the airport, doing chores, driving; etc. 
+5. Practicing a talk ususally entails trying to learn pieces of the talk.
 
 I use a great tool used by musicians to help facilitate this process. [The Amazing Slow Downer](ronimusic.com) allows you to do all sorts of useful things for working with audio, including slowing and speeding up a recording without changing the pitch to facilitate learning things by ear. You're probably not going to use most of its features if learning a talk, but it does have a pretty handy slicing and looping tool that can make it easier to divide a talk into segments and learn one piece at a time. 
 
+The result is that by the time I give a talk the thing has been rattling around in my head for days or weeks. I'm usually just as excited to get the content of my talk out of my head and move on as I am to actually discuss the material! I don't ever quite memorize the talks, but I do come close in a lot of cases. The good thing, though, is that I don't really need to memorize them. I still bring a written talk in front of me, but because I've already listened to the thing a bunch and tried to learn it I only need to look down every five or six sentences to job my memory. I've come to feel that the result is a good middle road for me. I walk away with a blog post ready to go, the timing is easier to plan for, I think it's more engaging than when I read straight up, and it calms my nerves to know that I've prepared enough that the talk has earwormed its way into my head. 
 
-The result is that by the time I give a talk the thing has been rattling around in my head for days or weeks. I'm usually just as excited to get the content of my talk out of my head and move on as I am to actually discuss the material! I don't ever quite memorize the talks, but I do come close in a lot of cases. The good thing, though, is that I don't really need to memorize them. After 
-
+As with all things, your mileage may vary. Hopefully this is interesting to at least one person out there who might want to try it out. 
