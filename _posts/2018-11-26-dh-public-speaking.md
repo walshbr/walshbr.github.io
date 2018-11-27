@@ -43,7 +43,7 @@ The workflow has its roots in my own learning habits that go back to grade schoo
 
 1. I write the talk.
 2. I record myself giving the talk and make an MP3 of it using [audacity](https://www.audacityteam.org/).
-3. I use [The Amazing Slow Downer](ronimusic.com), a great tool used by musicians, to divide up the talk into sections. 
+3. I use [The Amazing Slow Downer](https://www.ronimusic.com/), a great tool used by musicians, to divide up the talk into sections. 
 4. I listen to the pieces of that MP3 a bunch of times while walking around the airport, doing chores, driving, etc. 
 5. Practicing a talk ususally entails trying to learn pieces of the talk.
 
