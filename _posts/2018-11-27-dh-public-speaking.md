@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DH Public Speaking"
-date: 2018-06-25 15:17
+date: 2018-11-27 15:17
 categories: [digital humanities, talks]
 ---
 Part of my job involves helping students professionalize in digital humanities, which often means being there when students get accepted to their first digital humanities conference. Since most of my students come from the humanities, those conversations often go something like this:
