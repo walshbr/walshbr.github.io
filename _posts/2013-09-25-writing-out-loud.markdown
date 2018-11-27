@@ -28,5 +28,3 @@ We usually turn to the exercise when a student feels a particular sentence is no
 Obviously Writing Out Loud works better on micro-edits, revisions at the level of the sentence. The standard process of the exercise—write, collate, and discuss—would take far too long with anything longer than a few lines. The exercise can be particularly useful for those sentences that carry a lot of importance for entire arguments: thesis statements, topic sentences, the first sentences of the document, etc.
 
 I find that students often think of editing as an intense, sweeping process that involves wholesale transformation from the ground up. Modeling multiple, slightly different versions of the same sentence can allow for a more concrete discussion of the sweeping rhetorical changes that even the smallest edits can make.
-
-You can find a copy of the template <a href="https://docs.google.com/document/d/1Dk2GpCqvm6o3K-dbfUazekHbiSlqwJeIoE2OZ-OjL00/edit?usp=sharing">here</a>.
