@@ -90,8 +90,9 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
+  ffi (>= 1.9.24)
   html-proofer
-  jekyll
+  jekyll (>= 3.8.4)
   jekyll-paginate
   jekyll-redirect-from
   kramdown
