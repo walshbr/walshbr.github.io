@@ -35,7 +35,7 @@ To begin, it might be helpful to compare the two main approaches to giving DH ta
 **When speaking from notes…**
 
 - You are more likely to be engaging. It is easier for you to inject a sense of personality in your talk. Again, this is usually the big advantage of the approach to people.
-- It is more difficult to predict how long you will talk for. If you take out the rough rule of two minutes to a 12 point Times New Roman page it is more difficult to know exactly what you are in for. Will you get through everything? Will you run out of time?
+- It is more difficult to predict how long you will talk for. If you take out the rough rule of two minutes to a 12-point Times New Roman page it is more difficult to know exactly what you are in for. Will you get through everything? Will you run out of time?
 - Beyond pace, you might leave something out, or you might not say something in exactly the best way to express your ideas.
 - You will not necessarily have a written product ready to go at the end, so that makes more work for you if you want to share the talk. 
 
@@ -45,7 +45,7 @@ I think it is far more common in digital humanities to speak from notes. People 
 
 I do not write this to convince anyone that one form is better - I always feel like the conversation depends on a lot of personal factors. How anxious does public speaking make you? What makes you most comfortable? What social, personal, or medical circumstances might wholly rule out one approach for you? I more wanted to share my approach, which tries to split the differences. I should say at the outset that I am not necessarily advocating this for everyone. It feels a bit strange, but it is a workflow that I have come to like quite a lot. Hopefully it's useful for someone out there as well.
 
-The workflow has its roots in my own learning habits that go back to grade school - I have always found it easier to learn things by listening rather than by reading. When learning things for tests growing up I always needed to say them aloud - get them in my mouth and in my ear. And now I do it as a professional. If it was good enough for me in sixth grade it is good enough for me as an adult. The process I use to prepare for long-form public speaking (usually anything longer than 5-6 minutes) draws upon a similar process of making the work audible:
+The workflow I use to prepare has its roots in my own learning habits that go back to grade school - I have always found it easier to learn things by listening rather than by reading. When learning things for tests growing up I always needed to say them aloud - get them in my mouth and in my ear. And now I do it as a professional. If it was good enough for me in sixth grade it is good enough for me as an adult. The process I use to prepare for long-form public speaking (usually anything longer than 5-6 minutes) draws upon a similar process of making the work audible:
 
 1. I write the talk.
 2. I record myself giving the talk and make an MP3 of it using [audacity](https://www.audacityteam.org/).
