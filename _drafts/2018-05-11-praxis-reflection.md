@@ -38,4 +38,6 @@ Some things you can distill from this process that might be instructive for peop
 
 Empower the individual as much as the group identity.
 Group identity starts from interlocking subgroups.
+Mix thinking with doing.
+Articulate the pedagogy - get the buy in
 
