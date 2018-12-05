@@ -18,16 +18,24 @@ Some brief history of these early projects. The first Praxis cohort developed [P
 
 So, in one sense, the first four years of the Praxis program were heavily directed. Because of this, the students were saved the difficult task of making a wholesale contribution to a field they were just learning for the first time, and I think this guidance meant that the projects were able to go quite far. Each project ran on a two-year cycle, which meant that one cohort was tasked with the heavy lifting of developing a first pass at the digital project while the next would inherit the intellectual weight of conversations they hadn't participated in. The next two years were even more student-directed. The students still were given wide latitude over the kinds of skills they took away and the nature of the project that developed at the end, but certain productive constraints were used to guide the work of the group.
 
-Years five and six stepped back a bit more and did not explicitly give a project to the students. Rather than being given an explicit project, they were given an idea. The students were told to think about the concept of time and develop a project that would intervene in our understanding of it. Naturally, the slightly more free-form approach meant that the students had the leeway to take wildly different approaches. The fifth cohort developed [ClockWork](http://clockwork.scholarslab.org/), which used sonification to grapple with the monetary measurements of time. The sixth cohort took time as encouragement to think about social media as the best representation of the now, and these investigations led them to think about the social media ecologies of the Kardashian family.
+Years five and six stepped back a bit more and did not explicitly give a project to the students. Rather than being given an explicit project, they were given an idea. The students were told to think about the concept of time and develop a project that would intervene in our understanding of it. Naturally, the slightly more free-form approach meant that the students had the leeway to take wildly different approaches. The fifth cohort developed [ClockWork](http://clockwork.scholarslab.org/), which used sonification to grapple with the monetary measurements of time. The sixth cohort took time as encouragement to think about social media as the best representation of the now, and these investigations led them to think about the social media ecologies of the Kardashian family. In the seventh year, we stepped back even more, and the seventh cohort of students developed [UVA Reveal: Augmenting the University](http://reveal.scholarslab.org/), a project that used augmented reality to layer contextual information onto public spaces to challenge public narratives of contested spaces. 
 
-In this past year, the seventh cohort of students developed [UVA Reveal: Augmenting the University](http://reveal.scholarslab.org/), a project that used augmented reality to layer contextual information onto public spaces to challenge public narratives of contested spaces.
+In the Scholars' Lab, we're committed to putting the students in charge of their education. But it's a delicate balance to strike - how much freedom to design their own education do you give students? How much do you shape the thing for them? The answers depend on a number of things:
 
+Your inclination (know thyself)
+Your circumstances (what is even possible for you)
+Your resources
+Your content
+Your student
 
+The plan for this year as its going down
+This year we're taking a step back from the project per se - deliberately limiting the amount of time the students have to conceptualize the project.
+The specific things we're doing to try to help facilitate a group project.
+Code Lab as a way to force them to work together.
+empowering their individual research interests
 
-committed to putting the students in charge of their education.
+Some things you can distill from this process that might be instructive for people more generally - 
 
-reimagining of graduate education
-the reveal team
-strategies to develop a project
-stakes of it and risks of it
-past years
+Empower the individual as much as the group identity.
+Group identity starts from interlocking subgroups.
+
