@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-Cross posted on the <a href="http://www.scholarslab.org/praxis-program/looking-forward/">Scholars' Lab blog.</a>
+Cross posted on the <a href="http://scholarslab.org/blog/looking-forward">Scholars' Lab blog.</a>
 
 As we move into the second half of our tenure on the <a href="http://praxis.scholarslab.org/">Praxis squad</a>, we are feeling the pressure to start actually making something. To that end, the <a href="http://www.scholarslab.org/">SLab</a> crew asked us to make a list of our priorities for <a href="http://prism.scholarslab.org/">Prism</a>. Hopefully this will help us make a to do list in the coming weeks. The following was the list that seemed to come out of yesterday’s meeting, though it’s possible that other people could have gotten different impressions from the conversation.
 
