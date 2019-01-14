@@ -5,6 +5,8 @@ date: 2019-1-10 07:32
 categories: [digital humanities, pedagogy, Scholars' Lab]
 ---
 
+*Crossposted to the [Scholars' Lab blog](http://scholarslab.org/blog/what-is-praxis-working-on)*
+
 Well, that's a wrap. The fall semester is done, and 2019 is getting started. Actually, when I first started drafting this post the _previous_ spring semester had just finished wrapping as well. This post has been sitting in my drafts folder since spring of 2018, so I wanted to try to push this out before another semester flew by.
  
 At the end of the spring 2018 semester, the Praxis students presented reveal.scholarslab.org to an utterly packed house, which meant that the first full cycle of Scholars' Lab student programs under my watch had taken place. It feels like I just got here, but, as I like to mark milestones, it felt worth reflecting on a few lessons from the last year (and then some). In addition, I've found myself often describing a few basic theoretical and practical tensions at the heart of our fellowship programs to anyone who is interested in what we do, so it seems worth writing down my thoughts on them in a wider, more public forum. This post, then, will aim to do both of those things by offering a bit of a glimpse into the history of one of our programs and the thinking behind it. In particular, I'll talk about the line we try to walk between student-centered learning and project-centered learning. I'll be talking about what Praxis works on each year and how we go about picking that project. Because, frankly, the questions about our programs that I've gotten most often over the course of the last year are "what are they?" and "what are they working on?"
