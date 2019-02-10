@@ -8,8 +8,10 @@ order: 5
 
 Experience
 
+* Head of Student Programs, Scholars' Lab <br>
+  University of Virginia Library, January 2019-present
 * Head of Graduate Programs, Scholars' Lab <br>
-  University of Virginia Library, May 2017-present
+  University of Virginia Library, May 2017-January 2019
 * Mellon Digital Humanities Fellow, Visiting Assistant Professor of English <br>
   Washington and Lee University Library, November 2015-May 2017
 
@@ -20,8 +22,9 @@ Education
 * B.A. (with Distinction), University of Virginia, Charlottesville (2009)
 
 
-Selected Awards
+Selected Awards and Grants
 
+* $6000 Grant for AV/VR Documentation, with Arin Bennett and Will Rourke, Parents Fund UVA, 2019
 * Raven Fellowship to develop Python web application to analyze sound recordings of poetry, Raven Society, Raven Society, UVA, 2015
 * Yalden-Thomson Summer Grant to develop Python web application to analyze sound recordings of poetry, Society of Fellows, UVA, 2015
 * Graduate Fellowship in the Digital Humanities, Scholars' Lab, UVA, 2015-16
@@ -35,6 +38,7 @@ Selected Awards
 
 Peer Review Publications
 
+* "Diversity and Inclusion in Digital Scholarship and Pedagogy: The Case of the Programming Historian," *Insights*. Anna Maria Sichani, James Baker‎, Maria Jose Afanador-Llach, Brandon Walsh (solicited).
 * "Workshopping the Workshop: Moving Your Sessions Beyond Buttonology," Digital Library Pedagogy Cookbook (under review).
 * "Frustration is a Feature: Ugly Feelings and the Digital Humanities," *Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture* (forthcoming). 
 * "<a href="{{ root_url }}/blog/collation/">Collation and Writing Pedagogy</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/text-analysis/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
@@ -106,16 +110,21 @@ Technical Profile
 * Version control systems: Git
 * Markup systems: RDF, XML, TEI
 
+Teaching (University of Virginia)
+
+* ENGN 5559 Digital Literary Studies<br>
+(Co-Instructor with Alison Booth, one section; Spring 2019)
+
 Teaching (Washington and Lee University)
 
 * DH 394/ENGL 394 Hacking the Book<br>
-(Instructor, 1 section; Projected Spring 2016)
+(Instructor, 1 section; Planned but untaught Spring 2017)
 * WRIT 100 Writing in the Age of Digital Surveillance<br>
-(Instructor, 1 section; Projected Winter 2016)
+(Instructor, 1 section; Winter 2017)
 * HIST 211 Scandal, Crime, and Spectacle in the 19th Century<br>
 (Co-Instructor with Sarah Horowitz, 1 section; Fall 2016; course fulfills DH credit)
 * Undergraduate Digital Humanities Fellows Program<br>
-(Co-administrator with Mackenzie Brooks, 2 cohorts; Fall 2015-present)
+(Co-Administrator with Mackenzie Brooks, 2 cohorts; Fall 2015-present)
 
 Teaching (University of Virginia as Graduate Student)
 
@@ -138,6 +147,7 @@ Teaching (University of Virginia as Graduate Student)
 
 Professional Service and Affiliations
 
+* The Journal of Interactive Technology and Pedagogy, fall 2018- present
 * Programming Historian, Editorial Board 2017-present
 * Digital Humanities Conference, abstract reader, summer 2014 - present
 * <em>Conradiana</em>, reader
@@ -147,9 +157,9 @@ Professional Service and Affiliations
 
 Local Service (Washington and Lee)
 
-* Digital Humanities Faculty Committee, 2015-present
-* Digital Humanities Action Team, 2015-present
-* Writing Program Faculty Cohort, 2016-present
+* Digital Humanities Faculty Committee, 2015-2017
+* Digital Humanities Action Team, 2015-2017
+* Writing Program Faculty Cohort, 2016-2017
 
 Local Service (University of Virginia)
 

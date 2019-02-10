@@ -6,26 +6,31 @@ permalink: /pedagogy
 order: 3
 ---
 
-In addition to the specific courses below, I've written a number of posts on the blog about my approach to pedagogy:
+In addition to the specific courses below, I've written a number of posts here on the blog about my approach to pedagogy:
 
 {% for post in site.categories['pedagogy'] %}
 * <a href="{{ post.url }}">{{ post.title }}</a>{% endfor %}
 
 <div class="divider"></div>
 
+## University of Virginia as Library Staff
+
+* <a href="#ENGN5559">ENGN 5559: Digital Literary Studies</a><br>
+      (Co-Instructor with Alison Booth, one section; Spring 2019)
+
 ## Washington and Lee University
 
 * <a href="#ENGL394">ENGL 394: "Hacking the Book"</a><br>
-      (Instructor, Projected Spring 2016; course fulfills DH credit)
+      (Instructor, Planned but not taught Spring 2017; course fulfills DH credit)
 * <a href="#WRIT100">WRIT 100: "Writing in the Age of Digital Surveillance"</a><br>
-      (Instructor, Projected Winter 2016)
+      (Instructor, Winter 2017)
 * <a href="#HIST211">HIST 211: "Scandal, Crime, and Spectacle in the 19th Century"</a><br>
       (Co-Instructor with Sarah Horowitz, Fall 2016; course fulfills DH credit)
 * <a href="#mellonfellows">Undergraduate Digital Humanities Fellows Program</a><br>
       (Co-administrator with Mackenzie Brooks, 2 cohorts; Fall 2015-present)
 
 
-## University of Virginia
+## University of Virginia as Graduate Student
 
 * <a href="#ENWR1510Musical">ENWR 1510: "The Musical: Then and Now"</a> <br>(Instructor, Fall 2012, Spring 2013)
 * <a href="#IHGC3559">IHGC 3559: "American Youth and Film"</a> <br>(Co-Instructor with Elizabeth Fox, Spring 2014)
@@ -36,9 +41,24 @@ In addition to the specific courses below, I've written a number of posts on the
 * <a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> <br>(Teaching Assistant, Fall 2011)
 
 <div class="divider"></div>
+
+<h2><a name="ENGN5559"></a>ENGL 5559: "Digital Literary Studies"</h2>
+
+How do you measure a book? Can machines read? Do we read prose texts now the way people read them in 1919 or in 1819? We are swimming in textual data that could change our understanding of the written word - if you have the right tools and know how to access and work with it. What could you learn to do with all these different forms of textuality, with all this data? Can you find connections between your current interests in literature and the perspectives that technology opens up, or the goals of your career?  
+
+This course is meant to give you practice with a variety of methods and real-world scenarios to help you participate in digital projects, using both prepared materials and your own. The course fulfills an elective in the Graduate Certificate in Digital Humanities (DH). We want to introduce you to literary computational methods as part of digital humanities, no matter what previous familiarity you might have. You will find any of your previous studies of literature highly relevant and useful for participating in this course. No one needs to be or to become a programmer. You will begin with your own interests and skills and help us encounter, together, specific methods of digital reading or ways to analyze and visualize the data of texts, including topic modeling and XML markup.
+
+There is room in our plans for us to consider how our methods could be applied for selected writers or literary works or genres that you want to write about or work on, or that you have encountered in other courses or personal reading.  A focus on literary DH in this course doesn’t cover the entire spectrum of possibilities for digital research. We hope you will be interested to inquire further, and follow your paths with different tools and methods beyond this course.
+
+<a href="{{ root_url }}/assets/syllabi/digital-literary-studies.pdf">Draft Syllabus</a>
+
+<div class="divider"></div>
+
 <h2><a name="ENGL394"></a>ENGL 394: "Hacking the Book"</h2>
 
 This course considers literary experiment instigated by the Internet and exercised on both analogue and digital platforms. When we think of “hacking,” we frequently think of solitary computer programmers in dark rooms. But hacking also implies a culture of profane disruption that closely mirrors developments in literary experimentation over the last seventy years. In this course, we will explore how new media affects the potential for literary experiment in the form of the printed book and how digital explorations offer new ways of engaging with textuality. We will read literature of and about the Internet as well as older texts that serve as precursors for the literary experiments of today. Authors include John Barth, Jean Baudrillard, Jorge Luis Borges, William Gibson, Kenneth Goldsmith, Seth Grahame-Smith, Shelley Jackson, Tom McCarthy, Vladimir Nabokov, and Mark Sample. In this course, we will act as scholar practitioners, reading, writing, and thinking critically, but also experimenting with forms, media, and technology. We will become textual hackers ourselves, exploring literary experiment in a variety of hands-on forms. Assignments include two papers and four digital or analog “hacks”: a Twine hypertext story, a cut up literature experiment, a Time Mapper spatial project, and a Twitter bot.
+
+*Note: I left W&L before being able to teach this course.*
 
 <a href="{{ root_url }}/assets/syllabi/hacking-the-book-draft.pdf">Draft Syllabus</a>
 
@@ -58,7 +78,7 @@ This course examines the intersection between scandal, crime and spectacle in ni
 
 Through this course, students will be introduced to text analysis and data mining for the humanities.  This course assumes no prior knowledge of these skills, but asks: how can newly developed technologies that allow computers to “read” large quantities of text shed light on the past?  Students will work in groups throughout the course of the term to complete a digital history project that analyzes an element of the 19th century fascination with crime and scandal.
 
-<a href="https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/">Schedule and accompanying course textbook</a>
+<a href="http://walshbr.com/textanalysiscoursebook/">Schedule and accompanying course textbook</a>
 
 
 <div class="divider"></div>
