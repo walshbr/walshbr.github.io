@@ -5,7 +5,7 @@ date: 2018-06-15 09:26
 categories: ['digital humanities', 'talks', 'pedagogy', "Scholars' Lab", 'dh now']
 redirect_from: /praxis-and-scale
 ---
-*The following is a version of my talk for DH2018 that will be given as a part of [a roundtable on Digital Humanities Pedagogy and Praxis](https://dh2018.adho.org/en/digital-humanities-pedagogy-and-praxis-roundtable/). Participants on the panel responded to a [CFP](http://praxis-network.org/dh2018/) marking five years since we launched the [Praxis Network](http://praxis-network.org/).*
+*The following is a version of my talk for DH2018 that will be given as a part of a roundtable on Digital Humanities Pedagogy and Praxis. Participants on the panel responded to a [CFP](http://praxis-network.org/dh2018/) marking five years since we launched the [Praxis Network](http://praxis-network.org/).*
 
 ![title slide]({{ root_url }}/assets/images/praxis-and-scale/1.jpeg)
 
