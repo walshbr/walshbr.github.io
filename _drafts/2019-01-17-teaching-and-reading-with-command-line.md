@@ -15,7 +15,7 @@ My goals for the seventy-five minute session, then, were as follows:
 * Give practice with the command line
 * Use the command line to do something that connected with the discussion we had been having the previous day. 
 
-First, I shared several different images of graphical user interfaces. 
+The overriding concern for me was to communicate the technical skills they needed while not making it a "watch what I type" workshop. First, I shared several different images of graphical user interfaces. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/liewcf/14123978540" title="LENOVO Yoga Tablet 8"><img src="https://farm4.staticflickr.com/3710/14123978540_2e09c97bbd_k.jpg" width="2048" height="1365" alt="LENOVO Yoga Tablet 8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -30,17 +30,35 @@ We had an interesting conversation about accessibility, design, and assumed expe
 
 ![terminal window]({{ root_url }}/assets/images/terminal.jpg)
 
-Wanted them to note how the terminal offered fewer options.
+Again, I paused for discussion. I primarily wanted them to note that the lack of clearly visible options for the terminal meant that it assumed a particular level of audience for its users. For better or for worse, it assumes that you know what you're doing. I could have just told the students all this, of course, but I wanted them to arrive at these ideas themselves. So I mostly framed the activity with questions and helped to direct discussion. In some small way, I hoped the activity would show them that the close reading and analytical skills they developed in other English classes would still be applicable here, even though the objects of study might be different.
 
-Took them through a variety of commands with the terminal. Describe how that went
+With some sense of what the command line was, I took them through a variety of commands with the terminal. This component of the class felt the most like a typical introduction to the command line in that I offered a command, we executed it together, and then reflected on the results. The commands we covered mostly focused on navigating the file system and adding or deleting files:
 
-Then finally used the terminal to "read" an article that we assigned for class. Asked them at each step along the way to think about the kinds of reading enabled or inhibited by the commands.
+- cd
+- ls
+- pwd
+- touch
+- rm
+- mkdir
+- cp
+- mv
+- man 
 
-curl = copy url
+Nothing too fancy or tricky. I wanted the students to get the terminal under the fingers so that they'd be prepared to work with it for the rest of the course. 
 
-grab the text of this web page
+The last activity I did with the class used the terminal to "read" an article that the students read for session using a variety of different command line commands. At each step along the way to think about the kinds of reading enabled or inhibited by the commands.
 
+First I had the students use the curl command to copy down the text of a web page onto their computer. This web page happened to have the contents of an article that they read:
+
+```
 $ curl walshbr.com/materials/bode.txt 
+```
+
+The curl command spits the text of this page onto their screen, which lead to an interesting conversation about this as a type of reading. I asked the students to characterize the kind of reading it did or did not seem to enable. For one, they noted the lack of an ability to paginate through the text, which seemed to imply that the command was meant for readers that planned to take in the text all at once. As data. As in, curl might be meant to be used by machines thinking about a text as data to be used rather than a thing to be read in a more humanistic sense. 
+
+NOTE: need to figure out an example they can use - bode is gone now b/c TOS
+
+The next mode of reading used the same command but sent the results into a text file called 
 
 grab the text and send it to a file called bode.txt
 
