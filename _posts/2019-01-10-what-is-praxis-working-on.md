@@ -5,7 +5,7 @@ date: 2019-1-10 07:32
 categories: [digital humanities, pedagogy, Scholars' Lab]
 ---
 
-*Crossposted to the [Scholars' Lab blog](https://scholarslab.org/blog/workshop-on-reading-with-command-line)*
+*Crossposted to the [Scholars' Lab blog](http://scholarslab.org/blog/what-is-praxis-working-on)*
 
 Well, that's a wrap. The fall semester is done, and 2019 is getting started. Actually, when I first started drafting this post the _previous_ spring semester had just finished wrapping as well. This post has been sitting in my drafts folder since spring of 2018, so I wanted to try to push this out before another semester flew by.
  
