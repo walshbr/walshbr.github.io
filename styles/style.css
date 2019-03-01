@@ -66,6 +66,7 @@ img {
     border-image-width: initial;
     border-image-outset: initial;
     border-image-repeat: initial;
+    margin: 1em;
 }
 
 #blog-archives h2, .page h2 {
@@ -74,4 +75,8 @@ img {
 
 #post-content{
   padding-top: 16px;
+}
+
+.histo{
+  margin: 0;
 }
