@@ -11,7 +11,7 @@ categories: [text analysis, sound studies, Woolf, talks]
 When I talk to you, you make certain assumptions about me as a person based on what you're hearing. You decide whether or not I might be worth paying attention to, and you develop a sense of our social relations based around the sound of my voice. The voice conveys and generates assumptions about the body and about power: am I making myself heard? Am I registering as a speaking voice? Am I worth listening to?
 
 <a href="http://commons.wikimedia.org/wiki/File:Day_14_Occupy_Wall_Street_September_30_2011_Shankbone_2.JPG
-"><img src="{{ root_url }}/assets/images/occupy.jpg" width="60%" class="left" alt="Occupy Wall Street September 30 2011"></a>
+"><img src="{{ root_url }}/assets/images/occupy.jpg" width="60%" class="right" alt="Occupy Wall Street September 30 2011"></a>
 
 The human microphone, made famous by Occupy Wall Street, nicely encapsulates the social dimensions of sound that interest me: one person speaks, and the people around her repeat what she says more loudly, again and again, amplifying the human voice without technology. Sound literally moves through multiple bodies and structures the social relations between people, and the whole movement is an attempt to make a group of people heard by those who would rather not listen.
 

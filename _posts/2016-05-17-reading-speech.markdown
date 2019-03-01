@@ -48,7 +48,7 @@ The algorithms are each interpretative in the sense that they reflect my own ass
 
 For me, such revelations are the real reasons for pursuing digital study: attempting to describe complex humanities concepts computationally helps me to rethink basic assumptions about them that I had taken for granted. In the end, the pursuit of an algorithm to describe textual speech is nothing more or less than the pursuit of deeper and enriched theories of text and speech themselves.
 
-##Postscript
+## Postscript
 
 I managed to take note of the questions I got when I presented this work at HASTAC, so what follows are paraphrases of my memory of them as well as some brief remarks that roughly reflect what I said in the moment. There may have been one other that I cannot quite recall, but alas such is the fallibility of the human condition.
 
