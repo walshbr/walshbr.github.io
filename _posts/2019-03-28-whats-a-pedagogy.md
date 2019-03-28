@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What's a Pedagogy and How Do I Find Mine?"
+title: "What's a Pedagogy, and How Do I Find Mine?"
 date: 2019-03-28 05:26
 categories: ['pedagogy']
 ---
