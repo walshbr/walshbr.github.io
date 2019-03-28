@@ -30,7 +30,7 @@ Each summer I run a course on "Humanities Programming" at <a href="https://dhtra
 
 <img class="small right" src="{{ root_url }}/assets/images/woolf.jpg" alt="woolf face">
 
-Python project that uses natural language processing and machine learning to perform distant readings of Virginia Woolf's use of quotation marks. The study aims to chart Woolf's use of moments that imply speech even when no punctuation is present. The project won first prize for the digital humanities panel I was on at the <a href="http://gradcouncil.com/2015-sessions/">2015 Huskey Research Exhibition at UVA</a>, and it was the basis for a fellowship in digital humanities in UVA's <a href="http://www.scholarslab.org">Scholars' Lab</a>. The project was carried out with significant contributions from Eric Rochester, Head of Research and Development in the Lab, and our code can be found on our <a href="https://www.github.com/walshbr/woolf">GitHub repository</a>.
+Python project that uses natural language processing and machine learning to perform distant readings of Virginia Woolf's use of quotation marks. The study aims to chart Woolf's use of moments that imply speech even when no punctuation is present. The project won first prize for the digital humanities panel I was on at the <a href="http://gradcouncil.com/2015-sessions/">2015 Huskey Research Exhibition at UVA</a>, and it was the basis for a fellowship in digital humanities in UVA's <a href="http://scholarslab.org">Scholars' Lab</a>. The project was carried out with significant contributions from Eric Rochester, Head of Research and Development in the Lab, and our code can be found on our <a href="https://www.github.com/walshbr/woolf">GitHub repository</a>.
 
 Posts:
 
@@ -41,7 +41,7 @@ Posts:
 <div class="divider"></div>
 <h2>Prism</h2>
 <img class="mid right" src="{{ root_url }}/assets/images/digital-projects/prism.png" alt="prism visualize page">
-<a href="http://prism.scholarslab.org">Prism</a> is a browser-based Ruby on Rails application that facilitates text analysis among large groups of people. Built by the <a href="http://praxis.scholarslab.org">Praxis Program</a> at the <a href="http://www.scholarslab.org">Scholars' Lab</a>. I came on during the second year of development and have served lead developer since (though the tool is no longer in active development). The tool has gotten significant uptake by K-12 educators.
+<a href="http://prism.scholarslab.org">Prism</a> is a browser-based Ruby on Rails application that facilitates text analysis among large groups of people. Built by the <a href="http://praxis.scholarslab.org">Praxis Program</a> at the <a href="http://scholarslab.org">Scholars' Lab</a>. I came on during the second year of development and have served lead developer since (though the tool is no longer in active development). The tool has gotten significant uptake by K-12 educators.
 
 
 Publications:
