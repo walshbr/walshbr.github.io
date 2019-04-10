@@ -24,3 +24,5 @@ As I re-read that keynote, I began to wonder how we might take such a framing an
 It's about framing a creative approach to teaching wherein we focus more on process than the outcome (the content). 
 
 A few examples - pencil and paper exercises; speculative design workshops; 
+
+<img src="/assets/images/oblique/oblique.jpg" alt="Oblique Strategies card and deck" style="max-height:50%; margin-left: auto; margin-right:auto;">
