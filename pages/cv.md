@@ -62,6 +62,7 @@ Invited Presentations and Workshops
 
 *	Invited talk on graduate studies and digital humanities, Digital Integrative Liberal Arts Center, Georgia Tech, March 2018
 *	Invited talk, “Text Analysis Pedagogy for Non-Programmers,” University of Pennsylvania WordLab, November 2017
+* Invited roundatable, "Praxis Together: Building Digital Humanities Programs in the Library," with Alyssa Collins, Julia Haines, and Ammon Shepherd; SEFLIN Virtual Conference on "Digital Utopia: Libraries Building Communities of Learning," September 2017.
 * Invited coach and workshop leader, [Ohio 5 Student Newspaper Hackathon](https://hackoh5.ohio5.org/), College of Wooster, March 2017
 * Keynote, “Planning a DH Project When You Feel like an Imposter”, and invited workshop leader, “Introduction to Text Analysis with Twitter”, Undergraduate Network for Research in the Humanities Conference, Lexington, VA, January 2017
 * Invited talk, "Project Managing from the Outside In," opening remarks for Digital Scholarship Retreat, Universiy of Michigan, March 2015
