@@ -7,6 +7,8 @@ categories: ['pedagogy','digital humanities','digital pedagogy']
 
 <img src="/assets/images/oblique/oblique.jpg" alt="Oblique Strategies card and deck" style="max-height:50%; margin-left: auto; margin-right:auto;">
 
+*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/thirteen-oblique-strategies-for-digital-pedagogy/)*
+
 When I sat down to write this post I had no ideas. That's probably inevitable, given the year of blogging challenge that we're undertaking in the Scholars' Lab. The whole point is to write often and frequently, that there is value in a steady stream of thoughts rather than waiting for the perfect blog post, and that regular writing makes the whole thing easier. Still, all those good intentions didn't help me as I struggled to put text to blank page. As I often do in those situations I got out a deck of cards and started playing. 
 
 I've been obsessed with [_Oblique Strategies_](http://www.rtqe.net/ObliqueStrategies/) for years now. If you're not familiar, _Oblique Strategies_ is a deck of cards published by Brian Eno and Peter Schmidt that aims to offer short, pithy suggestions for getting around creative dilemmas. The idea behind them is that the serendipity of drawing a mysterious phrase from the deck will help disrupt any blocks you might have moving forward. I've got a stack of them that I keep on my desk, and it's a comfort to know that I've always got a wrench to throw in the gears at any given time. This morning as I flipped through the deck for inspiration these were the cards that came up first:

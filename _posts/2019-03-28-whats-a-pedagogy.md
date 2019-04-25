@@ -5,6 +5,8 @@ date: 2019-03-28 05:26
 categories: ['pedagogy']
 ---
 
+*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/whats-a-pedagogy-and-how-do-i-find-mine/)*
+
 As part of the Scholars' Lab's year of blogging, Amanda asked me to write a little about my pedagogy and things that have helped me find it. When someone asks me to do such a thing, I always think about this poll that Jesse Stommel put out on Twitter about pedagogical training in graduate programs:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Dear higher education teachers, a poll. Answer below, reply with stories, and pass along. <br><br>How much training in teaching or pedagogy was/is included in your graduate program?</p>&mdash; Jesse Stommel (@Jessifer) <a href="https://twitter.com/Jessifer/status/996355913756893184?ref_src=twsrc%5Etfw">May 15, 2018</a></blockquote>
