@@ -56,7 +56,7 @@ Other Publications
 * "<a href="http://jacket2.org/commentary/remixing-sound-archive-cut-poetry-recordings">Remixing the Sound Archive: Cut-up Poetry Recordings</a>," <em>Clipping</em>, series in <em>Jacket2</em>, January 5, 2018.
 * "<i>Prism</i> and Reading's Shape" solicited for edited collection <i><em>Pataphysics Then &amp; Now</em></i> (under review)
 * <em><a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a></em>, open access textbook self-published with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Sarah Horowitz</a>, Fall 2016
-* A number of my blog posts have been featured on [DH Now](http://walshbr.com/categories/dh-now/) and [dh+lib](http://walshbr.com/categories/dh-lib/)
+* A number of my blog posts have been featured on [DH Now](/categories/dh-now/) and [dh+lib](/categories/dh-lib/)
 
 Invited Presentations and Workshops
 
