@@ -17,6 +17,8 @@ In addition to the specific courses below, I've written a number of posts here o
 
 * <a href="#ENGN5559">ENGN 5559: Digital Literary Studies</a><br>
       (Co-Instructor with Alison Booth, one section; Spring 2019)
+* [Praxis Program](#praxis)<br>
+      (Lead Instructor in collaboration w/ Scholars Lab staff; annually from 2017-2018 to present)
 
 ## Washington and Lee University
 
@@ -39,6 +41,18 @@ In addition to the specific courses below, I've written a number of posts here o
 * <a href="#ENRN3210">ENRN 3210: "Shakespeare I"</a> <br>(Teaching Assistant, Fall 2013)
 * <a href="#ENWR3800">ENWR 3800: "Academic and Professional Writing"</a> <br>(Teaching Assistant, Spring 2012)
 * <a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> <br>(Teaching Assistant, Fall 2011)
+
+<div class="divider"></div>
+
+<h2><a name="praxis"></a>Praxis Program</h2>
+
+The Praxis Program is a project of the Scholars’ Lab at the University of Virginia Library. The program funds a team of six University of Virginia graduate students from a variety of disciplines to apprentice with us each academic year. Under the guidance of Scholars’ Lab faculty and staff, they design and create a full-fledged digital humanities project or software tool. 
+
+Recognizing that up-to-date methodological training is often absent or catch-as-catch-can for humanities graduate students, the Praxis Program was conceived as an opportunity to experiment with an action-oriented curriculum live and in public. We situate our program in a larger conversation about the changing demands of the humanities in a digital age.
+
+As the Head of Student Programs in the Scholars' Lab, I'm the primary shaper and administrator of the program each year. But the program is truly a collaborative effort that draws upon the expertise and teaching abilities of each person in the Lab. 
+
+More on the curriculum can be found on the [program website](https://praxis.scholarslab.org/). More information about the projects produced by each cohort can be on the [program archive](https://praxis.scholarslab.org/projects/). 
 
 <div class="divider"></div>
 
