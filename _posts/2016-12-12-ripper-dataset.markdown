@@ -5,7 +5,7 @@ date: 2016-12-12 09:51
 comments: true
 categories: [resources, W&L]
 ---
-*[Crossposted on the [WLULDH blog](http://digitalhumanities.wlu.edu/blog/2016/12/12/new-resource/).]*
+*[Crossposted on the [WLULDH blog](https://digitalhumanities.wlu.edu/blog/2016/12/12/ripper-dataset/).]*
 
 Update: since posting this, [Laura McGrath](http://laurabmcgrath.com/) reached out about finding an error in the CSV version of the data. The version linked to here should be cleaned up now. In addition, you will want to follow steps at the end of this post if using the CSV file in Excel. And thanks to [Mackenzie Brooks](https://digitalhumanities.wlu.edu/blog/author/mackenzie-brooks/) for her advice on working with CSV files in Excel.
 
