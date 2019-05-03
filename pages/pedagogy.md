@@ -6,7 +6,7 @@ permalink: /pedagogy
 order: 3
 ---
 
-In addition to the specific courses below, I've written a number of posts here on the blog about my approach to pedagogy:
+In addition to the specific courses and initiatives below, I've written a number of posts here on the blog about my approach to pedagogy:
 
 {% for post in site.categories['pedagogy'] %}
 * <a href="{{ post.url }}">{{ post.title }}</a>{% endfor %}
@@ -19,6 +19,8 @@ In addition to the specific courses below, I've written a number of posts here o
       (Co-Instructor with Alison Booth, one section; Spring 2019)
 * [Praxis Program](#praxis)<br>
       (Lead Instructor in collaboration w/ Scholars Lab staff; annually from 2017-2018 to present)
+* [Scholars' Lab Student Programs](#slabprograms)<br>
+      (In collaboration w/ Scholars' Lab staff; 2017 to present)
 
 ## Washington and Lee University
 
@@ -44,6 +46,18 @@ In addition to the specific courses below, I've written a number of posts here o
 
 <div class="divider"></div>
 
+<h2><a name="ENGN5559"></a>ENGL 5559: "Digital Literary Studies"</h2>
+
+How do you measure a book? Can machines read? Do we read prose texts now the way people read them in 1919 or in 1819? We are swimming in textual data that could change our understanding of the written word - if you have the right tools and know how to access and work with it. What could you learn to do with all these different forms of textuality, with all this data? Can you find connections between your current interests in literature and the perspectives that technology opens up, or the goals of your career?  
+
+This course is meant to give you practice with a variety of methods and real-world scenarios to help you participate in digital projects, using both prepared materials and your own. The course fulfills an elective in the Graduate Certificate in Digital Humanities (DH). We want to introduce you to literary computational methods as part of digital humanities, no matter what previous familiarity you might have. You will find any of your previous studies of literature highly relevant and useful for participating in this course. No one needs to be or to become a programmer. You will begin with your own interests and skills and help us encounter, together, specific methods of digital reading or ways to analyze and visualize the data of texts, including topic modeling and XML markup.
+
+There is room in our plans for us to consider how our methods could be applied for selected writers or literary works or genres that you want to write about or work on, or that you have encountered in other courses or personal reading.  A focus on literary DH in this course doesn’t cover the entire spectrum of possibilities for digital research. We hope you will be interested to inquire further, and follow your paths with different tools and methods beyond this course.
+
+<a href="{{ root_url }}/assets/syllabi/digital-literary-studies.pdf">Draft Syllabus</a>
+
+<div class="divider"></div>
+
 <h2><a name="praxis"></a>Praxis Program</h2>
 
 The Praxis Program is a project of the Scholars’ Lab at the University of Virginia Library. The program funds a team of six University of Virginia graduate students from a variety of disciplines to apprentice with us each academic year. Under the guidance of Scholars’ Lab faculty and staff, they design and create a full-fledged digital humanities project or software tool. 
@@ -56,15 +70,11 @@ More on the curriculum can be found on the [program website](https://praxis.scho
 
 <div class="divider"></div>
 
-<h2><a name="ENGN5559"></a>ENGL 5559: "Digital Literary Studies"</h2>
+<h2><a name="slabprograms"></a>Scholars' Lab Student Programs</h2>
 
-How do you measure a book? Can machines read? Do we read prose texts now the way people read them in 1919 or in 1819? We are swimming in textual data that could change our understanding of the written word - if you have the right tools and know how to access and work with it. What could you learn to do with all these different forms of textuality, with all this data? Can you find connections between your current interests in literature and the perspectives that technology opens up, or the goals of your career?  
+Praxis is the Scholars' Lab program I have the most explicit hand in, but we do an awful lot of other stuff!
 
-This course is meant to give you practice with a variety of methods and real-world scenarios to help you participate in digital projects, using both prepared materials and your own. The course fulfills an elective in the Graduate Certificate in Digital Humanities (DH). We want to introduce you to literary computational methods as part of digital humanities, no matter what previous familiarity you might have. You will find any of your previous studies of literature highly relevant and useful for participating in this course. No one needs to be or to become a programmer. You will begin with your own interests and skills and help us encounter, together, specific methods of digital reading or ways to analyze and visualize the data of texts, including topic modeling and XML markup.
-
-There is room in our plans for us to consider how our methods could be applied for selected writers or literary works or genres that you want to write about or work on, or that you have encountered in other courses or personal reading.  A focus on literary DH in this course doesn’t cover the entire spectrum of possibilities for digital research. We hope you will be interested to inquire further, and follow your paths with different tools and methods beyond this course.
-
-<a href="{{ root_url }}/assets/syllabi/digital-literary-studies.pdf">Draft Syllabus</a>
+As the Head of Student Programs, I advise generally on pedagogy, act as instructor and mentor for some of the programs, and think broadly about how all our programming fits together. I also do my best to advocate for the pedagogical work done by my colleagues and to create spaces in which they can do the teaching they want to do in the way they want to do it. Check out the [for students](https://scholarslab.lib.virginia.edu/for-students/) page on the Scholars' Lab website for further examples of the kinds of programs that our staff are involved in. To get a general sense of the pedagogical spirit that we bring to our students, read our [student programs charter](https://scholarslab.lib.virginia.edu/student-programs-charter/). 
 
 <div class="divider"></div>
 
