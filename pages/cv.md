@@ -56,12 +56,13 @@ Other Publications
 * "<a href="http://jacket2.org/commentary/remixing-sound-archive-cut-poetry-recordings">Remixing the Sound Archive: Cut-up Poetry Recordings</a>," <em>Clipping</em>, series in <em>Jacket2</em>, January 5, 2018.
 * "<i>Prism</i> and Reading's Shape" solicited for edited collection <i><em>Pataphysics Then &amp; Now</em></i> (under review)
 * <em><a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a></em>, open access textbook self-published with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Sarah Horowitz</a>, Fall 2016
-* A number of my blog posts have been featured on [DH Now](http://walshbr.com/categories/dh-now/) and [dh+lib](http://walshbr.com/categories/dh-lib/)
+* A number of my blog posts have been featured on [DH Now](/categories/dh-now/) and [dh+lib](/categories/dh-lib/)
 
 Invited Presentations and Workshops
 
 *	Invited talk on graduate studies and digital humanities, Digital Integrative Liberal Arts Center, Georgia Tech, March 2018
 *	Invited talk, “Text Analysis Pedagogy for Non-Programmers,” University of Pennsylvania WordLab, November 2017
+* Invited roundatable, "Praxis Together: Building Digital Humanities Programs in the Library," with Alyssa Collins, Julia Haines, and Ammon Shepherd; SEFLIN Virtual Conference on "Digital Utopia: Libraries Building Communities of Learning," September 2017.
 * Invited coach and workshop leader, [Ohio 5 Student Newspaper Hackathon](https://hackoh5.ohio5.org/), College of Wooster, March 2017
 * Keynote, “Planning a DH Project When You Feel like an Imposter”, and invited workshop leader, “Introduction to Text Analysis with Twitter”, Undergraduate Network for Research in the Humanities Conference, Lexington, VA, January 2017
 * Invited talk, "Project Managing from the Outside In," opening remarks for Digital Scholarship Retreat, Universiy of Michigan, March 2015
