@@ -54,7 +54,7 @@ This course is meant to give you practice with a variety of methods and real-wor
 
 There is room in our plans for us to consider how our methods could be applied for selected writers or literary works or genres that you want to write about or work on, or that you have encountered in other courses or personal reading.  A focus on literary DH in this course doesn’t cover the entire spectrum of possibilities for digital research. We hope you will be interested to inquire further, and follow your paths with different tools and methods beyond this course.
 
-<a href="{{ root_url }}/assets/syllabi/digital-literary-studies.pdf">Draft Syllabus</a>
+<a href="https://hcommons.org/deposits/item/hc:24183/">Syllabus</a>
 
 <div class="divider"></div>
 
