@@ -8,11 +8,9 @@ This year in Praxis we're taking a step back from the project per se - deliberat
 
 Code Lab as a way to force them to work together.
 Empowering their individual research interests
-Unit on pedagogy
 
 Some things you can distill from this process that might be instructive for people more generally - 
 
-Empower the individual as much as the group identity.
 Group identity starts from interlocking subgroups.
 Mix thinking with doing together.
 Articulate the pedagogy - get the buy in
