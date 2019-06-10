@@ -39,8 +39,8 @@ Selected Awards and Grants
 Peer Review Publications
 
 * Sichani, Anna-Maria, James Baker, Maria José Afanador Llach, and Brandon Walsh. 2019. “Diversity and Inclusion in Digital Scholarship and Pedagogy: The Case of the Programming Historian”. Insights 32 (1): 16. DOI: <a href="http://doi.org/10.1629/uksg.465">http://doi.org/10.1629/uksg.465</a>
-* "Workshopping the Workshop: Moving Your Sessions Beyond Buttonology," Digital Library Pedagogy Cookbook (under review).
-* "Frustration is a Feature: Ugly Feelings and the Digital Humanities," *Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture* (forthcoming). 
+* "Workshopping the Workshop: Moving Your Sessions Beyond Buttonology," Digital Library Pedagogy Cookbook (forthcoming).
+* "Frustration is a Feature: Ugly Feelings and the Digital Humanities," *Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture* (forthcoming).
 * "<a href="{{ root_url }}/blog/collation/">Collation and Writing Pedagogy</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/text-analysis/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
 * "Prism," under the "Poetry" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/poetry/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
 * "The Joycean Record: Listening Patterns and Sound Coteries," <em>James Joyce Quarterly</em>, vol. 53 no. 3-4, 2018
@@ -60,6 +60,8 @@ Other Publications
 
 Invited Presentations and Workshops
 
+* Invited talk at Emory Center for Digital Scholarship, September 2019
+* Invited workshop on teaching statements and digital humanities with Ashley Hosbach, at Maryland Institute for Technology in the Humanities, June 2019
 *	Invited talk on graduate studies and digital humanities, Digital Integrative Liberal Arts Center, Georgia Tech, March 2018
 *	Invited talk, “Text Analysis Pedagogy for Non-Programmers,” University of Pennsylvania WordLab, November 2017
 * Invited roundatable, "Praxis Together: Building Digital Humanities Programs in the Library," with Alyssa Collins, Julia Haines, and Ammon Shepherd; SEFLIN Virtual Conference on "Digital Utopia: Libraries Building Communities of Learning," September 2017.
