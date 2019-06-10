@@ -6,3 +6,4 @@ categories:
 ---
 changes to praxis this year - maybe particular re: the workshop model
 professional imposter syndromes
+share cover letter and a couple paragraphs on what you find compelling in hiring

@@ -71,6 +71,6 @@ For Joyce and Woolf, the machines fail as often as they succeed. Deformance is t
 <li>Bernstein, Charles, ed. <em>Close Listening: Poetry and the Performed Word</em>. Oxford University Press, USA, 1998. Print.</li>
 <li>Hughes, Langston, Leonard Feather, and Charles Mingus. <em>Weary Blues</em>. MGM, 1959. CD.</li>
 <li>Joyce, James. <em>Ulysses</em>. Vintage, 1990. Print.</li>
-<li>Pater, Walter. “<a href="http://www.victorianweb.org/authors/pater/renaissance/7.html">The School of Giorgione</a>.” <em>The Renaissance: Studies in Art and Poetry</em>. 1873. Web.</li>
+<li>Pater, Walter. “The School of Giorgione.” <em>The Renaissance: Studies in Art and Poetry</em>. 1873. Web.</li>
 <li>Woolf, Virginia. <em>Between the Acts</em>. New York: Harcourt Brace Jovanovich, 1969. Print.</li>
 </ul>

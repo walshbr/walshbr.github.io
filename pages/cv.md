@@ -95,7 +95,7 @@ Selected Digital Projects and Related Experience
 * 2016, Lead Writer: <a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a>, remixable coursebook on introductory text analysis meant for beginner readers, co-authored with Sarah Horowitz, Washington and Lee University
 * 2015-2017, Lead Developer: <a href="http://huon-rails.herokuapp.com/">Huon d'Auvergne</a>, Ruby on Rails TEI edition and implementation of Versioning Machine, Washington and Lee University
 * 2015-2017, Developer: <a href="https://library.wlu.edu/scholar">Scholar</a>, Ruby on Rails implementation of BibApp for cataloging faculty publications, Washington and Lee University
-* 2016-2017, Lead Developer: <a href="http://shen-rails.herokuapp.com/">Shenandoah</a>, Ruby on Rails interface to JSON API for searching a literary journal’s index, Washington and Lee University
+* 2016-2017, Lead Developer: Shenandoah, Ruby on Rails interface to JSON API for searching a literary journal’s index, Washington and Lee University
 * 2013-present, Lead Developer: <a href="http://prism.scholarslab.org/">Prism</a>, Ruby on Rails web application for crowdsourcing textual analysis, created with the Praxis team and the UVa Scholars’ Lab
 * 2015-2017, Lead Developer: <a href="{{ root_url }}/blog/woolf-huskey/">Hearing Silent Woolf</a>, Python machine learning project on sound in modernist fiction, received graduate fellowship in digital humanities, UVa Scholars’ Lab
 * 2013-2015, Project Manager: <a href="http://www.nines.org/">Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)</a>, UVa
