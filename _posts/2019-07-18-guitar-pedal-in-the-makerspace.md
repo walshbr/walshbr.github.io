@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making Noise in the Makerspace"
-date: 2019-07-15 14:54
+date: 2019-07-18 14:54
 categories: [digital humanities, "Scholars' Lab",]
 ---
 
