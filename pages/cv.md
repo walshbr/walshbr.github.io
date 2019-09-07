@@ -38,16 +38,14 @@ Selected Awards and Grants
 
 Peer Review Publications
 
-* Sichani, Anna-Maria, James Baker, Maria José Afanador Llach, and Brandon Walsh. 2019. “Diversity and Inclusion in Digital Scholarship and Pedagogy: The Case of the Programming Historian”. Insights 32 (1): 16. DOI: <a href="http://doi.org/10.1629/uksg.465">http://doi.org/10.1629/uksg.465</a>
-* "Workshopping the Workshop: Moving Your Sessions Beyond Buttonology," Digital Library Pedagogy Cookbook (forthcoming).
-* "Frustration is a Feature: Ugly Feelings and the Digital Humanities," *Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture* (forthcoming).
 * "<a href="{{ root_url }}/blog/collation/">Collation and Writing Pedagogy</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/text-analysis/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
 * "Prism," under the "Poetry" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/poetry/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
+* "Workshopping the Workshop: Moving Your Sessions Beyond Buttonology," Digital Library Pedagogy Cookbook (forthcoming).
+* "Frustration is a Feature: Ugly Feelings and the Digital Humanities," *Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture*, vol. 19 no 3, 2019
+* Sichani, Anna-Maria, James Baker, Maria José Afanador Llach, and Brandon Walsh. 2019. “Diversity and Inclusion in Digital Scholarship and Pedagogy: The Case of the Programming Historian”. Insights 32 (1): 16. DOI: <a href="http://doi.org/10.1629/uksg.465">http://doi.org/10.1629/uksg.465</a>
 * "The Joycean Record: Listening Patterns and Sound Coteries," <em>James Joyce Quarterly</em>, vol. 53 no. 3-4, 2018
 * "<a href="https://programminghistorian.org/lessons/editing-audio-with-audacity">Editing Audio with Audacity</a>", Programming Historian (05 August 2016)
-* "<a href="http://llc.oxfordjournals.org/content/29/3/379">Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking</a>,"
-Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs;
-<em>Literary and Linguistic Computing</em> 2014;
+* "<a href="http://llc.oxfordjournals.org/content/29/3/379">Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking</a>," Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; <em>Literary and Linguistic Computing</em> 2014;
 doi: 10.1093/llc/fqu030
 * “Broken Songs and Machine Noise in Joseph Conrad’s Early Fiction,” <em>Conradiana</em>, vol. 44, no. 2-3, pp. 211-226 (Fall/Winter 2012)
 
@@ -153,7 +151,7 @@ Professional Service and Affiliations
 * The Journal of Interactive Technology and Pedagogy, fall 2018- present
 * Programming Historian, Editorial Board 2017-present
 * Digital Humanities Conference, abstract reader, summer 2014 - present
-* <em>Conradiana</em>, reader
+* Reviewer for <em>Conradiana</em>; <em>Restoration: Studies in English Literary Culture, 1660-1700</em>; <em>Digital Humanities Quarterly</em>
 * International James Joyce Foundation, member 2012-present
 * Modernist Studies Association, member 2009-present
 * Modern Languages Association, member 2009-present
