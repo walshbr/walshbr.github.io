@@ -2,8 +2,11 @@
 layout: post
 title: "Five Verbs for Open Pedagogy"
 date: 2019-08-07 12:37
-categories:
+categories: [pedagogy]
 ---
+
+*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/five-verbs-for-open-pedagogy)*
+
 This week I'm at Digital Pedagogy Lab 2019, where I'm taking a course on Critical Open Pedagogy from Rajiv Jhangiani. For one of our prompts today, he asked us to respond to a post of his on [5 Rs for Open Pedagogy](http://thatpsychprof.com/5rs-for-open-pedagogy/). The goal was to get us to reflect a bit on the values that bring us to the open space as well as the kinds of values that we bring with us. I think the aim was to come up with a concise, listicle style, but I didn't quite follow that format. If I had to extract five verbs to describe what I write below about open pedagogy, they might be:
 
 * Care
