@@ -44,7 +44,7 @@ But there are also limitations here. For one, this type of engagement is a reall
 
 In addition, the assembling process is deliberate. You are asking students to put together clips bit by bit in accordance with a particular reading. And this is the real problem that I want to address - the medium here is unlikely to show you anything new. It is meant to illustrate a reading you already have. You want to produce an interpretation, so you illustrate it with sound. The theory comes first - the praxis second.
 
-So I want to ask: what are some other ways we can work with audio that might show us truly new things? And how can we get around the need to listen slowly? The [work by Tanya Clement and HiPSTAS](https://blogs.ischool.utexas.edu/hipstas/publications/) offer compelling examples for distant listening and audio machine learning as answers to these questions. I want to offer an approach based on creativity and play. By embracing chance-based composition techniques at scale, we can start to develop more useful classroom assignments for audio.
+So I want to ask: what are some other ways we can work with audio that might show us truly new things? And how can we get around the need to listen slowly? The [work by Tanya Clement and HiPSTAS](https://www.ischool.utexas.edu/tags/hipstas) offer compelling examples for distant listening and audio machine learning as answers to these questions. I want to offer an approach based on creativity and play. By embracing chance-based composition techniques at scale, we can start to develop more useful classroom assignments for audio.
 
 ![deformance quotation]({{ root_url }}/assets/images/nemla/slide08.jpg)
 
