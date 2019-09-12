@@ -148,13 +148,11 @@ Teaching (University of Virginia as Graduate Student)
 
 Professional Service and Affiliations
 
-* The Journal of Interactive Technology and Pedagogy, fall 2018- present
+* The Journal of Interactive Technology and Pedagogy, fall 2018-present
 * Programming Historian, Editorial Board 2017-present
-* Digital Humanities Conference, abstract reader, summer 2014 - present
+* Digital Humanities Conference, abstract reader, summer 2014-present
 * Reviewer for <em>Conradiana</em>; <em>Restoration: Studies in English Literary Culture, 1660-1700</em>; <em>Digital Humanities Quarterly</em>
-* International James Joyce Foundation, member 2012-present
-* Modernist Studies Association, member 2009-present
-* Modern Languages Association, member 2009-present
+* Communications chair for Chesapeake DH Consortium, 2019-present
 
 Local Service (Washington and Lee)
 
