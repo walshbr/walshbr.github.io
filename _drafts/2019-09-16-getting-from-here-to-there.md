@@ -5,7 +5,7 @@ date: 2019-09-16 11:31
 categories:
 ---
 
-TODO: finish out the mind mapping piece and then the timed writing
+TODO: finish out the mind mapping piece and then the timed writing. Metadata. Proof. Crosspost.
 
 A few weeks ago, I visited Emory University in conjunction with the launch of their new graduate fellowship for students aiming to incorporate digital projects in their dissertations. I'll be sharing materials from the two events I was asked to do there in case they're useful for others. I was asked to give an open talk on digital humanities pedagogy as well as a workshop on project development for graduate students. The text of what follows pertains to the workshop for students, where I was asked to give a broad overview of how to approach project planning and some activities for helping them to think through their own work for the year. I essentially tried to condense the greatest hits of the [Praxis Program](http://praxis.scholarslab.org/) into 90 minutes. I was asked to give a 30 minute talk and 60 minute workshop, but I'll get into how we shifted things around below. 
 
