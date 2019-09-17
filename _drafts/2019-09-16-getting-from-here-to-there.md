@@ -192,6 +192,17 @@ The relevant slide:
 
 ### Mind Mapping
 
+Mind mapping is an activity that asks people to free associate words related to a particular topic in in the service of opening up a free, non-judgmental space for brainstorming. The first challenge with mind mapping, I find, is that people don't necessarily know what it is. So several of the following slides focus on setting up the concept for participants. The definition and example mind map I offer here come from a book Ronda Grizzle shared with me called _[Designing Your Life](https://designingyour.life/the-book/)_ by Bill Burnett and Dave Evans. After offering a definition, I describe the general process, which involves a starting word, mapping out associations to that word, and then mapping out further secondary associations from there. Images help to explain this better, I think, so I offer a picture of an example mind map from _Designing Your Life_, where someone is trying to brainstorm a potential career from things that interest them. Next I suggest some reasons for mind mapping. By getting all of your ideas on the table, the process allows you to reflect more fully about which pieces are important to you. At the end of the mapping process, circling four or five of the words most important for you will help clarify which elements could be the basis for a good charter. The starting word in the center of the map is important, as it generates the other associations for you. So I planned on reiterating the questions that we discussed in the course of discussion to help the students get started and to help generate other associations.
+
+From there, the mind mapping activity involves
+
+Placing your starting word
+Mapping outwards for five minutes.
+Reflecting on the resultant map for five minutes and circling important concepts.
+Discussing with their neighbor for five minutes.
+
+I've done a version of this activity for helping people develop a sense of their DH pedagogy, and I've found that mind mapping is great for helping participants engage in deeper forms of self-reflection about their everyday practices.
+
 The relevant slides:
 
 ![Mind mapping as a concept](/assets/post-media/getting-from-here-to-there/35.png)
@@ -203,5 +214,7 @@ The relevant slides:
 ![The mind mapping prompt](/assets/post-media/getting-from-here-to-there/41.png)
 
 ### Timed Writing on Values
+
+Now that the students have seen some examples and discussed them, it's time for them to write. They'll be in a decent place to do so, hopefully, because the mind mapping activity already asked them to think about large topics that were meaningful to them. As writing about values can sometimes feel frightening, I drew in Sean Michael Morris's great rules for timed writing prompts here to help encourage writing. I chose eight minutes, but you could give a longer amount of time - anything would be useful. After writing, I could imagine having a productive conversation about the results. The students need not feel pressured to share their exact wording, but a general discussion of the process, the issues, and things that they gravitated towards would be useful.
 
 ![Timed writing on values](/assets/post-media/getting-from-here-to-there/41.png)
