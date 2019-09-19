@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting from Here to There"
-date: 2019-09-16 11:31
+date: 2019-09-19 11:31
 categories: ["digital humanities", "pedagogy", "talks", "Scholars' Lab"]
 ---
 
