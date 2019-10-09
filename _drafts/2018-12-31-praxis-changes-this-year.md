@@ -11,5 +11,4 @@ Some things you can distill from this process that might be instructive for peop
 
 Group identity starts from interlocking subgroups.
 Mix thinking with doing together.
-Articulate the pedagogy - get the buy in
 Collaboration with library faculty member.
