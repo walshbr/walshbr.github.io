@@ -5,7 +5,7 @@ date: 2019-10-09 10:03
 categories: [Scholars' Lab, alt-ac, collaboration, digital humanities, dh+lib, pedagogy]
 ---
 
-*Co-authored with [Amanda Visconti](http://amandavisconti.com/). Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/dh-cover-letters/)*
+*Co-authored with [Amanda Visconti](http://amandavisconti.com/). Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/dh-cover-letters/), [the Academic Job Market Support Network](https://academicjobmarketsupportnetwork.hcommons.org/2019/10/09/how-we-talk-and-write-about-dh-jobs/), and [Amanda's personal blog](https://literaturegeek.com/2019/10/10/digital-humanities-cover-letters-job-advice)*
 
 Early this summer, we (authors Brandon and Amanda!) planned a post about job search materials, but finishing up the draft got delayed by several weeks. In the intervening time, a small Twitter debate on the subject of academic job advice occurred, and we ended up holding off this post for a few months while discussing how to do it well.
 
