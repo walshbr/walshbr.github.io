@@ -14,3 +14,4 @@ Brandon Walsh is Head of Student Programs in the <a href="http://scholarslab.org
 Brandon Walsh  
 walsh@virginia.edu<br>
 @walshbr   
+<a itemprop="sameAs" content="https://orcid.org/0000-0002-2785-3519" href="https://orcid.org/0000-0002-2785-3519" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;">https://orcid.org/0000-0002-2785-3519</a>
