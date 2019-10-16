@@ -40,7 +40,8 @@ Peer Review Publications
 
 * "<a href="{{ root_url }}/blog/collation/">Collation and Writing Pedagogy</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/text-analysis/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
 * "Prism," under the "Poetry" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/poetry/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
-* "Workshopping the Workshop: Moving Your Sessions Beyond Buttonology," Digital Library Pedagogy Cookbook (forthcoming).
+* "The Three-Speed Problem in Digital Humanities Pedagogy", _Debates in Digital Humanities Pedagogy_ (under review).
+* LeBlanc, Z., & Walsh, B. (2019). Workshopping the Workshop: Moving Your Sessions Beyond Buttonology. In #DLFTeach Toolkit: Lesson Plans for Digital Library Instruction (1st ed.). https://doi.org/10.21428/65a6243c.41fb7b06.
 * "Frustration is a Feature: Ugly Feelings and the Digital Humanities," *Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture*, vol. 19 no 3, 2019
 * Sichani, Anna-Maria, James Baker, Maria José Afanador Llach, and Brandon Walsh. 2019. “Diversity and Inclusion in Digital Scholarship and Pedagogy: The Case of the Programming Historian”. Insights 32 (1): 16. DOI: <a href="http://doi.org/10.1629/uksg.465">http://doi.org/10.1629/uksg.465</a>
 * "The Joycean Record: Listening Patterns and Sound Coteries," <em>James Joyce Quarterly</em>, vol. 53 no. 3-4, 2018
@@ -58,11 +59,12 @@ Other Publications
 
 Invited Presentations and Workshops
 
-* Invited talk at Emory Center for Digital Scholarship, September 2019
+* Invited talk at Emory Center for Digital Scholarship on "Digital Pedagogy and Opportunities for Hope", September 2019
+* Invited workshop for students at Emory Center for Digital Scholarship on "[Getting from Here to There](http://walshbr.com/blog/getting-from-here-to-there/)" in DH project development, September 2019
 * Invited workshop on teaching statements and digital humanities with Ashley Hosbach, at Maryland Institute for Technology in the Humanities, June 2019
 *	Invited talk on graduate studies and digital humanities, Digital Integrative Liberal Arts Center, Georgia Tech, March 2018
 *	Invited talk, “Text Analysis Pedagogy for Non-Programmers,” University of Pennsylvania WordLab, November 2017
-* Invited roundatable, "Praxis Together: Building Digital Humanities Programs in the Library," with Alyssa Collins, Julia Haines, and Ammon Shepherd; SEFLIN Virtual Conference on "Digital Utopia: Libraries Building Communities of Learning," September 2017.
+* Invited roundtable, "Praxis Together: Building Digital Humanities Programs in the Library," with Alyssa Collins, Julia Haines, and Ammon Shepherd; SEFLIN Virtual Conference on "Digital Utopia: Libraries Building Communities of Learning," September 2017.
 * Invited coach and workshop leader, [Ohio 5 Student Newspaper Hackathon](https://hackoh5.ohio5.org/), College of Wooster, March 2017
 * Keynote, “Planning a DH Project When You Feel like an Imposter”, and invited workshop leader, “Introduction to Text Analysis with Twitter”, Undergraduate Network for Research in the Humanities Conference, Lexington, VA, January 2017
 * Invited talk, "Project Managing from the Outside In," opening remarks for Digital Scholarship Retreat, Universiy of Michigan, March 2015
