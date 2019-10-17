@@ -50,7 +50,7 @@ Given this logic of the desire path, for student programs to service your commun
 
 ![For students page of the slab site](/assets/post-media/dh-pedagogy-and-hope/8.png)
 
-We try to make our programs fit those many needs, and we try to offer a number of different ways in to do so. The phrase "for the students" that I mentioned earlier is also pretty close to a page on our website where I try to collect everything that a student might be interested in knowing about us. This is the "For Students" page of the Scholars' Lab website if you would like to check it out at [scholarslab.lib.virginia.edu/for-students](http://scholarslab.lib.virginia.edu/for-students). I will talk about a few of these pieces in detail first from a nuts and bolts standpoint and then a theoretical one, though I am happy to talk in more depth about any one of them.
+We try to make our programs fit those many needs, and we try to offer a number of different ways in to do so. The phrase "for the students" that I mentioned earlier is also pretty close to a page on our website where I try to collect everything that a student might be interested in knowing about us. This is the "For Students" page of the Scholars' Lab website if you would like to check it out at [http://scholarslab.lib.virginia.edu/for-students](http://scholarslab.lib.virginia.edu/for-students). I will talk about a few of these pieces in detail first from a nuts and bolts standpoint and then a theoretical one, though I am happy to talk in more depth about any one of them.
 
  ![Image of our makerspace](/assets/post-media/dh-pedagogy-and-hope/9.png)
 
@@ -96,7 +96,7 @@ Last year in conversation with [Jeremy Boggs](https://scholarslab.lib.virginia.e
 
 ![Image of student programs charter in particular](/assets/post-media/dh-pedagogy-and-hope/19.png)
 
-You can find the whole charter on our website at [scholarslab.org/student-programs-charter](http://scholarslab.org/student-programs-charter), and I'd encourage you to read it. It's a document that is not perfect, but it's one that I'm glad is out in the world. Here are a few excerpts from it that describe our approach to teaching.
+You can find the whole charter on our website at [http://scholarslab.org/student-programs-charter](http://scholarslab.org/student-programs-charter), and I'd encourage you to read it. It's a document that is not perfect, but it's one that I'm glad is out in the world. Here are a few excerpts from it that describe our approach to teaching.
 
 ![Excerpts from the student programs charter](/assets/post-media/dh-pedagogy-and-hope/20.png)
 
