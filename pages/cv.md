@@ -38,8 +38,8 @@ Selected Awards and Grants
 
 Peer Review Publications
 
-* "<a href="{{ root_url }}/blog/collation/">Collation and Writing Pedagogy</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/text-analysis/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
-* "Prism," under the "Poetry" keyword in <a href="https://digitalpedagogy.commons.mla.org/keywords/poetry/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
+* "<a href="{{ root_url }}/blog/collation/">Collation and Writing Pedagogy</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.mla.hcommons.org/keywords/text-analysis/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
+* "Prism," under the "Poetry" keyword in <a href="https://digitalpedagogy.mla.hcommons.org/keywords/poetry/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
 * "The Three-Speed Problem in Digital Humanities Pedagogy", _Debates in Digital Humanities Pedagogy_ (under review).
 * LeBlanc, Z., & Walsh, B. (2019). Workshopping the Workshop: Moving Your Sessions Beyond Buttonology. In #DLFTeach Toolkit: Lesson Plans for Digital Library Instruction (1st ed.). https://doi.org/10.21428/65a6243c.41fb7b06.
 * "Frustration is a Feature: Ugly Feelings and the Digital Humanities," *Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture*, vol. 19 no 3, 2019
