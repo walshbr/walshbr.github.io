@@ -38,23 +38,25 @@ Selected Awards and Grants
 
 Peer Review Publications
 
-* "<a href="{{ root_url }}/blog/collation/">Collation and Writing Pedagogy</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.mla.hcommons.org/keywords/text-analysis/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
-* "Prism," under the "Poetry" keyword in <a href="https://digitalpedagogy.mla.hcommons.org/keywords/poetry/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a> (forthcoming)
-* "The Three-Speed Problem in Digital Humanities Pedagogy", _Debates in Digital Humanities Pedagogy_ (under review).
+* "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (forthcoming).
+* "The Three-Speed Problem in Digital Humanities Pedagogy", _Debates in Digital Humanities Pedagogy_ (forthcoming).
+* "Running a Collaborative Research Website and Blog with Jekyll and GitHub," _The Programming Historian_ (forthcoming).
+* "<a href="https://digitalpedagogy.hcommons.org/keyword/Text-Analysis/#8220%3Cem%3Ejuxta-commons%3Cem%3E-revisioncollation-assignment8221">Juxta Commons Revision/Collation Assignment</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.hcommons.org/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a>, June 2020.
+* "<a href="https://digitalpedagogy.hcommons.org/keyword/Poetry#prism">Prism</a>," under the "Poetry" keyword in <a href="https://digitalpedagogy.hcommons.org/keyword/Poetry"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a>, June 2020.
 * LeBlanc, Z., & Walsh, B. (2019). Workshopping the Workshop: Moving Your Sessions Beyond Buttonology. In #DLFTeach Toolkit: Lesson Plans for Digital Library Instruction (1st ed.). https://doi.org/10.21428/65a6243c.41fb7b06.
-* "Frustration is a Feature: Ugly Feelings and the Digital Humanities," *Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture*, vol. 19 no 3, 2019
-* Sichani, Anna-Maria, James Baker, Maria José Afanador Llach, and Brandon Walsh. 2019. “Diversity and Inclusion in Digital Scholarship and Pedagogy: The Case of the Programming Historian”. Insights 32 (1): 16. DOI: <a href="http://doi.org/10.1629/uksg.465">http://doi.org/10.1629/uksg.465</a>
-* "The Joycean Record: Listening Patterns and Sound Coteries," <em>James Joyce Quarterly</em>, vol. 53 no. 3-4, 2018
-* "<a href="https://programminghistorian.org/lessons/editing-audio-with-audacity">Editing Audio with Audacity</a>", Programming Historian (05 August 2016)
-* "<a href="http://llc.oxfordjournals.org/content/29/3/379">Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking</a>," Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; <em>Literary and Linguistic Computing</em> 2014;
-doi: 10.1093/llc/fqu030
-* “Broken Songs and Machine Noise in Joseph Conrad’s Early Fiction,” <em>Conradiana</em>, vol. 44, no. 2-3, pp. 211-226 (Fall/Winter 2012)
+* "Frustration is a Feature: Ugly Feelings and the Digital Humanities," *Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture*, vol. 19 no 3, 2019.
+* Sichani, Anna-Maria, James Baker, Maria José Afanador Llach, and Brandon Walsh. 2019. “Diversity and Inclusion in Digital Scholarship and Pedagogy: The Case of the Programming Historian”. Insights 32 (1): 16. DOI: <a href="http://doi.org/10.1629/uksg.465">http://doi.org/10.1629/uksg.465</a>.
+* "The Joycean Record: Listening Patterns and Sound Coteries," <em>James Joyce Quarterly</em>, vol. 53 no. 3-4, 2018.
+* "<a href="https://programminghistorian.org/lessons/editing-audio-with-audacity">Editing Audio with Audacity</a>", The Programming Historian 5 (2016), <a href="https://doi.org/10.46430/phen0050">https://doi.org/10.46430/phen0050</a>. Also translated into Spanish as "Editar audio con Audacity", traducido por José Antonio Motilla, The Programming Historian en español 1 (2017), <a href="https://doi.org/10.46430/phes0007">https://doi.org/10.46430/phes0007</a>.
+* "<a href="http://llc.oxfordjournals.org/content/29/3/379">Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking</a>," Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; <em>Literary and Linguistic Computing</em> 2014; <a href="https://doi.org/10.1093/llc/fqu030">https://doi.org/10.1093/llc/fqu030</a>.
+* “Broken Songs and Machine Noise in Joseph Conrad’s Early Fiction,” <em>Conradiana</em>, vol. 44, no. 2-3, pp. 211-226 (Fall/Winter 2012).
 
 Other Publications
 
+* "<i>Prism</i> and Reading's Shape" solicited for edited collection <i><em>Pataphysics Then &amp; Now</em></i> (forthcoming).
+* "A Humanists Cookbook for Natural Language Processing in Python", with Rebecca Draughon (in progress).
 * "<a href="http://jacket2.org/commentary/remixing-sound-archive-cut-poetry-recordings">Remixing the Sound Archive: Cut-up Poetry Recordings</a>," <em>Clipping</em>, series in <em>Jacket2</em>, January 5, 2018.
-* "<i>Prism</i> and Reading's Shape" solicited for edited collection <i><em>Pataphysics Then &amp; Now</em></i> (under review)
-* <em><a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a></em>, open access textbook self-published with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Sarah Horowitz</a>, Fall 2016
+* <em><a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a></em>, open access textbook self-published with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Sarah Horowitz</a>, Fall 2016.
 * A number of my blog posts have been featured on [DH Now](/categories/dh-now/) ({{ site.categories['dh now'] | size }}) and [dh+lib](/categories/dh-lib/) ({{ site.categories['dh+lib'] | size }}).
 
 Invited Presentations and Workshops
