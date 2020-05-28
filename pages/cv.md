@@ -77,7 +77,7 @@ Invited Presentations and Workshops
 
 Selected Conferences and Presentations
 
-* "The Programming Historian and Editorial Process in Digital Publishing," MLA conference, 2021.
+* "The Programming Historian and Editorial Process in Digital Publishing," MLA conference, 2021
 * "Building Community and Generosity in the Context of Graduate Education," in a panel on "Working at the Intersection: Digital Humanities Pedagogy, Social Justice, and Librarianship," DH Conference, summer 2020 (canceled due COVID-19)
 * Forum on "The Open Lab: Digital Scholarship and the Question of Community," DH Conference, summer 2020 (canceled due to COVID-19)
 * "The Life of a (Scholars') Lab: on Community," ACH conference, summer 2019
@@ -156,11 +156,12 @@ Teaching (University of Virginia as Graduate Student)
 
 Professional Service and Affiliations
 
+* ACH Executive Council Member, spring 2020-present
 * The Journal of Interactive Technology and Pedagogy, fall 2018-present
 * Programming Historian, Editorial Board 2017-present
 * Digital Humanities Conference, abstract reader, summer 2014-present
 * Reviewer for <em>Conradiana</em>; <em>Restoration: Studies in English Literary Culture, 1660-1700</em>; <em>Digital Humanities Quarterly</em>
-* Communications chair for Chesapeake DH Consortium, 2019-present
+* Communications chair for Chesapeake DH Consortium, 2019-2020
 
 Local Service (Washington and Lee)
 
