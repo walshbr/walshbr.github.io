@@ -77,6 +77,10 @@ Invited Presentations and Workshops
 
 Selected Conferences and Presentations
 
+* "The Programming Historian and Editorial Process in Digital Publishing," MLA conference, 2021.
+* "Building Community and Generosity in the Context of Graduate Education," in a panel on "Working at the Intersection: Digital Humanities Pedagogy, Social Justice, and Librarianship," DH Conference, summer 2020 (canceled due COVID-19)
+* Forum on "The Open Lab: Digital Scholarship and the Question of Community," DH Conference, summer 2020 (canceled due to COVID-19)
+* "The Life of a (Scholars') Lab: on Community," ACH conference, summer 2019
 * "Frustration is a Feature," MLA conference, January 2018
 *	“Collaborative Writing to Build Digital Humanities Praxis,” DH conference, summer 2017
 * "Remixing the Sound Archive: Cut-Up Poetry Records," Northeast Modern Language Association, Baltimore, MD, March 2017
