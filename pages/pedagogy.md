@@ -6,12 +6,14 @@ permalink: /pedagogy
 order: 3
 ---
 
-In addition to the specific courses and initiatives below, I've written a number of posts here on the blog about my approach to pedagogy:
+In addition to the specific courses and initiatives below, I've written a number of posts [({{ site.categories['pedagogy'] | size }})](/categories/pedagogy/) here on the blog about my approach to pedagogy. Here are the most recent 10:
 
-{% for post in site.categories['pedagogy'] %}
+{% for post in site.categories['pedagogy'] limit:10 %}
 * <a href="{{ post.url }}">{{ post.title }}</a>{% endfor %}
 
 <div class="divider"></div>
+
+I have also taught a range of courses and programs, for credit or otherwise. Descriptions, syllabi, and curricula can be found below.
 
 ## University of Virginia as Library Staff
 
