@@ -38,8 +38,8 @@ Selected Awards and Grants
 
 Peer Review Publications
 
-* "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (forthcoming).
-* "The Three-Speed Problem in Digital Humanities Pedagogy", _Debates in Digital Humanities Pedagogy_ (forthcoming).
+* "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (under review).
+* "The Three-Speed Problem in Digital Humanities Pedagogy", _Debates in Digital Humanities Pedagogy_ (under review).
 * "Running a Collaborative Research Website and Blog with Jekyll and GitHub," _The Programming Historian_ (forthcoming).
 * "<a href="https://digitalpedagogy.hcommons.org/keyword/Text-Analysis/#8220%3Cem%3Ejuxta-commons%3Cem%3E-revisioncollation-assignment8221">Juxta Commons Revision/Collation Assignment</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.hcommons.org/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a>, June 2020.
 * "<a href="https://digitalpedagogy.hcommons.org/keyword/Poetry#prism">Prism</a>," under the "Poetry" keyword in <a href="https://digitalpedagogy.hcommons.org/keyword/Poetry"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a>, June 2020.
