@@ -53,6 +53,7 @@ Peer Review Publications
 
 Other Publications
 
+* Co-editor with Gregory Palermo and Kelly Hammond, Issue 18 of the Journal of Interactive Technology and Pedagogy with a special forum on data and computational pedagogy ([forthcoming](https://jitp.commons.gc.cuny.edu/call-for-submissions/)).
 * "<i>Prism</i> and Reading's Shape" solicited for edited collection <i><em>Pataphysics Then &amp; Now</em></i> (forthcoming).
 * "A Humanists Cookbook for Natural Language Processing in Python", with Rebecca Draughon (in progress).
 * "<a href="http://jacket2.org/commentary/remixing-sound-archive-cut-poetry-recordings">Remixing the Sound Archive: Cut-up Poetry Recordings</a>," <em>Clipping</em>, series in <em>Jacket2</em>, January 5, 2018.
@@ -157,7 +158,7 @@ Teaching (University of Virginia as Graduate Student)
 Professional Service and Affiliations
 
 * ACH Executive Council Member, spring 2020-present
-* The Journal of Interactive Technology and Pedagogy, fall 2018-present
+* The Journal of Interactive Technology and Pedagogy, Editorial Collective, fall 2018-present
 * Programming Historian, Editorial Board 2017-present
 * Digital Humanities Conference, abstract reader, summer 2014-present
 * Reviewer for <em>Conradiana</em>; <em>Restoration: Studies in English Literary Culture, 1660-1700</em>; <em>Digital Humanities Quarterly</em>
