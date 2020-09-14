@@ -5,7 +5,7 @@ date: 2020-09-14 08:24
 categories: ['pedagogy', 'projects', 'collaborations']
 ---
 
-*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/a-humanists-cookbook-for-natural-language-processing-in-python)*
+*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/a-humanists-cookbook-for-natural-language-processing-in-python) and co-authored with [Rebecca Draughon](https://scholarslab.lib.virginia.edu/people/rebecca-draughon/)*
 
 We're pleased to share the initial release of an open educational resource we worked on over the summer - _[A Humanist's Cookbook for Natural Language Processing in Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb)_.
 
