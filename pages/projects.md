@@ -33,6 +33,14 @@ Representative editorial work:
 * Co-editor with Gregory Palermo and Kelly Hammond, Issue 18 of the Journal of Interactive Technology and Pedagogy with a special forum on data and computational pedagogy ([forthcoming](https://jitp.commons.gc.cuny.edu/call-for-submissions/)).
 
 <div class="divider"></div>
+## A Humanist's Cookbook For Natural Language Processing In Python
+<a href="https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb">A Humanist's Cookbook for Natural Language Processing in Python</a> is a series of Jupyter Notebooks meant to contextualize common problems in Natural Language Processing for humanists with code blocks that can be copied to other situations. Co-authored with Rebecca Draughon, the project is geared towards intermediate students who have some experience but are struggling to take the next step in applying the methods to their own work.
+
+Posts:
+
+* "[A Humanist's Cookbook For Natural Language Processing In Python]({{ root_url }}/blog/a-humanists-cookbook-for-natural-language-processing-in-python/)"
+
+<div class="divider"></div>
 ## Introduction to Text Analysis: A Coursebook
 <img class="mid right" src="{{ root_url }}/assets/images/coursebook.png" alt="Introduction to text analysis: a coursebook">
 <a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a> is an open, remixable set of course materials. Co-authored with Professor Sarah Horowitz of Washington and Lee University, the book is designed to be modularized so as to facilitate easy excerpting. The book was written with a student audience in mind, and it is as much a pedagogical experiment in collaborative writing as it is a teaching resource in its own right. 
