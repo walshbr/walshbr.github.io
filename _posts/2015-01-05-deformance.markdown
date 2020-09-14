@@ -16,7 +16,7 @@ To reverse an audio file, begin by opening that clip in *Audacity* in the same w
 
 <img src="{{ root_url }}/assets/images/waveform.jpg" width="40%" class="right" alt="Waveform">
 
-What you see here is a [waveform](http://manual.audacityteam.org/o/man/audacity_waveform.html), a way of graphically representing the audio file in way that allows you to manipulate it. The y-axis of the waveform corresponds to volume – the taller the waveform, the louder the sound file’s contents are at that particular moment in time. This can be a quick and easy way to identify chunks of activity by looking for spikes in the volume.
+What you see here is a waveform, a way of graphically representing the audio file in way that allows you to manipulate it. The y-axis of the waveform corresponds to volume – the taller the waveform, the louder the sound file’s contents are at that particular moment in time. This can be a quick and easy way to identify chunks of activity by looking for spikes in the volume.
 
 <img src="{{ root_url }}/assets/images/axes.jpg" alt="Waveforms in Audacity">
 
