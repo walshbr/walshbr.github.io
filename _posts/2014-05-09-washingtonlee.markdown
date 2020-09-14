@@ -8,7 +8,7 @@ categories: [W&L, pedagogy, collaboration]
 
 <em>Crossposted on the <a href="http://scholarslab.org/uncategorized/washington-and-lee-trip/">Scholars' Lab blog</a>.</em>
 
-Last week <a href="http://scholarslab.org/people/sarah-storti/">Sarah</a> and I drove to Washington and Lee University as part of <a href="https://columns.wlu.edu/wl-announces-digital-humanities-partnership-with-uva/">a new collaboration</a> enabled by a grant from the Associated Colleges of the South. As part of the endeavor, Scholars' Lab fellows are guest teaching pieces of an Introduction to Digital Humanities course. Our task, in particular, was to co-teach for a day on the topics of project management and software development. While we each took part and taught in both conversations, Sarah took the lead on the former topic and I took the latter.
+Last week <a href="http://scholarslab.org/people/sarah-storti/">Sarah</a> and I drove to Washington and Lee University as part of <a href="https://web.archive.org/web/20180405222043/http://www.academiccommons.org/2014/07/24/launching-the-digital-humanities-movement-at-washington-and-lee-university-a-case-study/">a new collaboration</a> enabled by a grant from the Associated Colleges of the South. As part of the endeavor, Scholars' Lab fellows are guest teaching pieces of an Introduction to Digital Humanities course. Our task, in particular, was to co-teach for a day on the topics of project management and software development. While we each took part and taught in both conversations, Sarah took the lead on the former topic and I took the latter.
 
 I can't rave enough about the experience enough, so I've organized my thoughts into three sections below.
 
