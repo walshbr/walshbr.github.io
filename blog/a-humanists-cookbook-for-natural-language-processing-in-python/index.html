@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      A Humanist's Cookbook For Natural Language Processing In Python &middot; Brandon Walsh
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/styles/poole.css">
+  <link rel="stylesheet" href="/styles/syntax.css">
+  <link rel="stylesheet" href="/styles/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet" href="/styles/style.css"
+
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>Head of Student Programs at the Scholars' Lab in the UVA Library</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about">About</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/projects">Projects</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/pedagogy">Pedagogy</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/cv">CV</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/archive">Blog Archive</a>
+        
+      
+    
+  </nav>
+
+  <div class="sidebar-item">
+      Work by Brandon Walsh is <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">CC-BY</a>.
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Brandon Walsh</a>
+            <small></small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <div class="post">
+  <h1 class="post-title">A Humanist's Cookbook For Natural Language Processing In Python</h1>
+  <span class="post-date">14 Sep 2020</span>
+  <!-- Upgrading to a newer Jekyll appears to have broken the categories. Check this out later - 11/28/18 -->
+
+  <div id="post-content">
+  <p><em>Crossposted to the <a href="https://scholarslab.lib.virginia.edu/blog/a-humanists-cookbook-for-natural-language-processing-in-python">Scholars’ Lab blog</a> and co-authored with <a href="https://scholarslab.lib.virginia.edu/people/rebecca-draughon/">Rebecca Draughon</a></em></p>
+
+<p>We’re pleased to share the initial release of an open educational resource we worked on over the summer - <em><a href="https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb">A Humanist’s Cookbook for Natural Language Processing in Python</a></em>.</p>
+
+<p>The project began with the goal of keeping Brandon from reinventing the wheel when working on natural language processing projects. By collecting together common scripts and approaches for personal use, it served as a common reference point that would be easier to consult than searching back through older repositories on GitHub when presented with new iterations of old problems. Eventually and once Rebecca came onboard the project, we started documenting the methods with a more generalized audience in mind.</p>
+
+<p>The project is presented as a series of notebooks, a series of Python 3 recipes for common problems and issues associated with preparing data for text analysis and natural language processing. The target audience is students—intermediate programmers who have begun to learn their way around Python but who need a little help pulling the pieces together to get something done. The project has two main goals:</p>
+
+<ul>
+  <li>Present code blocks for common problems.</li>
+  <li>Contextualize those blocks with humanists in mind.</li>
+</ul>
+
+<p>The text, at this point at least, makes no real attempt at coverage. Nor is there a real sequence through which someone should be expected to work. It simply gather scripts relevant to our work as we came to them in a way that is presented for a more generalized audience. There are a number of ways to approach any NLP problem, and any tweak can have big ramifications for the results. Hopefully this text will help intermediate programmers get going and give them the knowledge to have a little better understanding of what they’re working with.</p>
+
+<p>The initial set of notebooks covers the following topics:</p>
+
+<h3 id="first-steps">First Steps</h3>
+
+<ul>
+  <li>Set up</li>
+  <li>Working with the file structure</li>
+</ul>
+
+<h3 id="getting-data">Getting Data</h3>
+<ul>
+  <li>Working with plain text files</li>
+  <li>Getting data from websites</li>
+  <li>Working with TEI</li>
+</ul>
+
+<h3 id="preparing-data">Preparing Data</h3>
+
+<ul>
+  <li>Stopwords</li>
+  <li>Dividing your text</li>
+  <li>Preparing a corpus pipeline</li>
+</ul>
+
+<p>We’ll periodically add news things as we get to them, and we already have plans for at least one future section that we couldn’t get to yet. Issues found with the text can be logged on the issue tracker for our <a href="https://github.com/walshbr/humanists-nlp-cookbook/issues/new">GitHub repository</a>.</p>
+
+  </div>
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/blog/reading-not-writing/">
+            Reading, Not Writing
+            <small>19 Oct 2020</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/teaching-with-big-ears/">
+            Teaching with Big Ears
+            <small>10 Aug 2020</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/your-budget-is-a-question-of-pedagogy-and-equity/">
+            Your Budget Is a Question of Pedagogy and Equity
+            <small>15 Apr 2020</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/year-of-book-blogging-digital-humanities-pedagogy-in-kind/">
+            Year Of Book Blogging: Digital Humanities Pedagogy in Kind
+            <small>28 Jan 2020</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/digital-humanities-job-talks-some-case-studies/">
+            Digital Humanities Job Talks: Some Case Studies
+            <small>16 Dec 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

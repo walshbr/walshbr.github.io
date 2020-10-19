@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: talks | Brandon Walsh]]></title>
+  <link href="http://walshbr.com/categories/talks/atom.xml" rel="self"/>
+  <link href="http://walshbr.com/"/>
+  <updated>2020-10-19T19:12:13+00:00</updated>
+  <id>http://walshbr.com/</id>
+  <author>
+    <name><![CDATA[{"name"=>"Brandon Walsh", "url"=>"https://twitter.com/mdo", "email"=>"walsh@virginia.edu"}]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Digital Humanities Job Talks: Some Case Studies]]></title>
+    <link href="http://walshbr.com/blog/digital-humanities-job-talks-some-case-studies/"/>
+    <updated>2019-12-16T11:15:00+00:00</updated>
+    <id>http://walshbr.com/blog/digital-humanities-job-talks:-some-case-studies</id>
+    <content type="html"><![CDATA[<p><em>Co-authored with <a href="http://amandavisconti.com/">Amanda Visconti</a>. Crossposted to the <a href="https://scholarslab.lib.virginia.edu/blog/digital-humanities-job-talks/">Scholars’ Lab blog</a> and <a href="http://literaturegeek.com/2019/12/16/digital-humanities-job-talks">Amanda’s personal blog</a>.</em></p>
+
+<p>To follow up on sharing and annotating <a href="https://scholarslab.lib.virginia.edu/blog/dh-cover-letters/">our past cover letters</a> for DHy academic jobs, in this post we share how we’ve thought through past job talk prompts and the experience of giving the resulting presentations. (To learn more about Brandon’s practical workflow to drafting and memorizing talks, check out his <a href="http://walshbr.com/blog/dh-public-speaking/">post on DH public speaking</a>! To learn about Amanda’s workflow, prod her to finally publish a now-too-long post about DH and public speaking anxiety before 2020 ends…)</p>
+
+<p>Before you dive in, though, you may wish to read our October 2019 blog post <a href="https://scholarslab.lib.virginia.edu/blog/dh-cover-letters/">“How We Talk and Write about DH Jobs”</a> if you haven’t already. Well intentioned academic job advice can be and often is harmful—so in that post’s “Slightly Better Job Advice, Take Two” section, we discuss how we’re trying to share what we know about job searches in a way that affirms any readers as valued peers and scholars, just as they are. We hope sharing our experiences here can be useful and not overly prescriptive. Our perspectives are shaped by our own particular contexts, and we trust that readers will know their own circumstances - and what will work for them - better than we do. With this in mind, we share the following in the hopes that resources and transparency about our own thinking on the process of preparing for job presentations can help others getting started.</p>
+
+<h2 id="brandon">Brandon:</h2>
+
+<p>I should note outright that my experience pertains to giving job talks for what might be called alternative academic positions in DH working in libraries. And, while I have seen a number of presentations by job candidates for a range of library positions, I have always wondered how my own background and experiences affect how I evaluate candidate presentations. For example, I do not have a library degree: I did my graduate work in literature before coming to work in libraries, and this different orientation undoubtedly shapes how I view job presentations and prepare for them. When applying for any position, it’s a good idea to talk with someone who is familiar with that discipline or field so that they can give you a sense of the generic expectations that your audience will bring to your presentation. I would not take any of my thoughts on job talks as prescriptive in the least. Your mileage will vary. But I remember my own experiences as a student felt largely as though I was trying to approach a job presentation without any context or sense of how to think about them. Hopefully seeing how I do so can help someone in the same position formulate their own approach.</p>
+
+<p>We’re often raised to think of writing and, by association, presentations, as having a clear and direct point. But, to me, the difficulty with alt-ac job talks is that they often seem to address a number of different issues at once. When I prepare one, I try to think of the presentation as working to convey a few things:</p>
+
+<ul>
+  <li>my response to a prompt</li>
+  <li>my experience</li>
+  <li>my understanding of the job</li>
+  <li>my vision for the position</li>
+</ul>
+
+<p>You can find the <a href="https://walshbr.com/blog/in-out-across-with/">job talk</a> for my current position as Head of Student Programs in the Scholars’ Lab on my website. As I discuss elements of that job talk below, readers might find that full text helpful for context.</p>
+
+<h3 id="prompts">Prompts</h3>
+
+<p>Many positions that ask you to give a presentation will also give you some kind of prompt for the job talk. To a greater or lesser degree depending on the audience, they will expect you to respond to it. For my position as Head of Student Programs in the Scholars’ Lab, I was given a prompt that broadly addressed education in digital humanities:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>What does a student (from undergraduate to doctoral levels) need to learn or experience in order to add “DH” to his or her skill set? Is that an end or a means of graduate education? Can short-term digital assignments in discipline-specific courses go beyond “teaching with technology”? Why not refer everyone to online tutorials? Are there risks for doctoral students or the untenured in undertaking digital projects? Drawing on your own experience, and offering examples or demonstrations of digital research projects, pedagogical approaches, or initiatives or organizations that you admire, make a case for a vision of collaborative education in advanced digital scholarship in the arts and humanities.
+</code></pre></div></div>
+<p>I had a lot of feelings about this prompt, as you can imagine. As Amanda mentions below, prompts are often abstract and vague because they are not written with any particular candidate in mind. By trying to offer something for everyone, they sometimes seem intentionally amorphous so that anyone can find a way to latch onto the material. But this means that a prompt can go anywhere, really, and trying to devise a response to it can feel very difficult. So my first point of advice is simply that the difficulty with the prompt is not you! It’s a strange genre, and recognizing this can hopefully help begin to mitigate feelings of imposter syndrome.</p>
+
+<p>In my case, I remember feeling pretty convinced that every question on my prompt could be its own talk. There was just so much to work with, so many topics to address! In the face of this issue, I explicitly framed my own talk as only responding to the first question listed - “What does a student (from undergraduate to doctoral levels) need to learn or experience in order to add “DH” to his or her skill set?” I thought responding to all pieces of the prompt was an impossible task, and I leaned into a talk that did more with less. For what it’s worth, I remember one person approaching me after the presentation and softly noting that I had not responded to all of the questions in the prompt (but they still appreciated the talk). Fair enough, but I did what made the most sense to me. Noting the parts of the prompt you will or won’t address can be a useful way of articulating the intentionality of your response for the audience, and it can also be useful for people in the audience who might not be as familiar with the text of the prompt. After all, in an open job talk you are likely to have some members of the search committee in attendance as well as those who might be more removed from the search process.</p>
+
+<p>Like Amanda describes, I framed my response to the prompt as a critique of it. In essence, I argued that framing DH education as about acquiring a set of skills would undercut the prospect for DH pedagogy to make real, transformative change in the lives of students and institutions. There were a few reasons I took such a perpendicular approach to the question. I had worked in the Scholars’ Lab as a student, so I had some sense of the philosophy of the institution at which I was interviewing. I knew at least a portion of the room would be open to the kind of critique I wanted to offer. For better or worse, I also wanted the talk to show the kind of hire I would be. In other words, I didn’t want to present myself as having one set of views at the interview stage only to be hired and reveal myself to have a set of opinions and beliefs that wouldn’t fit with the institution. If the search committee was looking for someone who really thought of DH education in terms of skills acquisition, I was not that person. They would not be happy with me in this position, and I would not be happy trying to act in it. Better, I thought, to get it all out there. Like Amanda says below, it’s worth noting that not all candidates have the comfort and privilege of being able to make a decision like this as part of the interview process. The approach worked for me, but it might not work for others in different situations. You best know your own circumstances. I do think it’s worth trying to use the hiring process to suss out in small ways the kind of environment in which you would be employed and whether you can be happy there, but you don’t necessarily need to use your job talk to do it.</p>
+
+<h3 id="experiences">Experiences</h3>
+
+<p>The audience for a job talk is going to show up to learn about you and your qualifications in relation to the job for which they’ve brought you in. This can be tricky, as in a public talk the audience will contain a diverse range of people. The search committee can be expected to have spent time with your CV and cover letter, but, while those documents are typically circulated in advance, you cannot assume that everyone at a public talk will have given the same attention to those documents. So, while you don’t want to wholly reiterate your background, you do need to share some of your qualifications. I think of this as an opportunity to contextualize some of your experiences in a richer way so that your work can play for the whole audience regardless of how familiar they are with your work.</p>
+
+<p>By richer context, I mean that a job talk is a good place to take the things listed on a CV, select two or three, and deploy them in service of a larger vision for the position (more on that below). What did you learn from working with X? How does Y connect to the kinds of work you will be doing at institution Z? I often find it useful to pick a few things from my background and ask “so what?” of them repeatedly until I feel that they stand on their own as a self-reflective moment in the talk. You can use an otherwise boring and rote listing of experiences to show an audience <strong>how</strong> you will work in a position by reflecting on the work you have already done. In the Scholars’ Lab talk, I talked about my work at <a href="https://digitalhumanities.wlu.edu/">WLUDH</a>, a coursebook I was co-writing with a faculty collaborator, and my experiences with curriculum design. But examples like these wouldn’t stand on their own - I thought of them as evidence in the larger argument I was making about how I think about DH teaching. Another way to think about all this: in an essay, you are likely to cite other authors or texts as you make your argument. In job talks I think of the evidence as potentially drawing from either your own experiences or other example projects/texts in DH. By weaving these together, your job talk can show both your personal qualifications and your sense of how your work connects to the broader field.</p>
+
+<h3 id="understanding">Understanding</h3>
+
+<p>To some degree, the audience will expect you to signal that you know what the job will entail. It’s always difficult to know exactly what the day to day life at a place will be like, and most of the time a candidate won’t actually make it to the job talk stage if their understanding of the position is in question. But conveying your understanding of the position can help nonetheless. I often tell students to think of it as a roleplaying challenge. You have imperfect knowledge of what the position will be like, but you have evidence from websites, projects, descriptions, and postings. Search committees are always trying to imagine each candidate into the position. Why not meet them halfway and start to imagine yourself into the position in your job talk? There are, of course, ways to do this poorly - I would not go into a talk saying “I will entirely transform everything in my first week. Only I have the solutions to your problems.” You will never have all the answers. Furthermore, positions always have pressures and needs that are difficult to perceive from the outside, and it can be useful to acknowledge that. I like to offer this formulation: “Given that I know you are working on X, I would take my experiences with Y to work towards Z with you all.” Syntactically it’s not actually a formula I would recommend, but as an exercise in thinking it can get you in the direction of good thinking about yourself in relation to a job. In that way, you’re making transparent the kind of thought process that you will bring to the position. And you’re helping the search committee by shaping the imaginative exercise of hiring for them.</p>
+
+<p>To do this well, you’ll need to do research on the position but also the institution. If the position has existed before, what kind of work did they previously do? What kind of projects did they take on? Does the job description appear to be different in some way from that previous body of work? The institution can also offer clues: libraries, small liberal arts colleges, and cultural heritage institutions (to name a few) each carry with them certain assumptions about the work that they do, and these categories can offer evidence for you as you start to determine what kind of work the place values. You might also look at projects undertaken, grants and new initiatives that might be in process, recent hires, and the like. Some institutions might even offer explicit statements of values that you can explore. The Scholars’ Lab, for example, has published a series of <a href="https://scholarslab.lib.virginia.edu/charter/">charters</a> describing how we think about our work. I had the benefit for my presentation of having worked with the Scholars’ Lab as a student. So I knew something of how they thought of themselves, and I similarly tried to frame my interest in working with DH students towards progressive, transformative reform in higher education. But I only knew the Scholars’ Lab from the student’s perspective - I had to make a lot of educated guesses about how they thought of their work and their students.</p>
+
+<p>One further thought: applying for jobs can be especially scary as a student. It’s all too easy to think, “I am a PhD student in literature! What do I know about institutional collaboration for DH education?” But you probably know more than you think! You’ve likely experienced a number of these issues from the student side, so you actually have valuable experiences with them. Many administrators are desperate to get student voices on a range of issues, and your direct experience can provide a useful perspective when combined with research about the other sorts of stakes, pressures, and questions that the position might engage with. It’s just a matter of imagining yourself from the other side.</p>
+
+<h3 id="vision">Vision</h3>
+
+<p>This point is not one that I’m sure is required by the generic conventions of general DH staff jobs. Lots of people leave it off. But it is an element that I often think about, and I know that, of the job presentations that I’ve attended, all of the ones I considered the best included some sense of a vision for the work they will do. I was trained that a piece - be it an essay or a talk - should have an argument to it. So it’s difficult for me to imagine preparing a job talk that doesn’t also offer an argument, a philosophy, a vision for the work. In the context of the Scholars’ Lab talk, I explicitly framed the position I was applying for as someone who thinks past and beyond the prompt I was given. This was my closing sentence:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Foremost, then, I see the Head of Graduate Programs as someone who takes the lists, documents, and curricula that I have discussed and connects them to the people that serve them and that they are meant to speak to. This person is one who builds relationships, who navigates the prepositions of my title.
+</code></pre></div></div>
+<p>I presented a vision of the position as one that fundamentally cared about the people and their development more than the skills associated with digital humanities. For me at least, it’s important that a talk say something, even in a genre as strange as a job presentation. “Vision” can be a big baggy term with little meaning to it. But you might approach it by asking a series of questions of yourself - why is this position important? what do I see as the fundamental role of this position? What are the top three verbs I would associate with this position? How can I frame this position as being vital to the mission of the institution? A job description answers the “what” of a position - what about the “why”? In trying to work in a sense of your philosophy for the work, you’re helping a search committee to further imagine what kind of a colleague you would be. I think it will also make for a more engaging job talk. And that job talk is also likely to be easier to write if you’re engaged with the topic of it!</p>
+
+<p>One last note on DH / alt-ac public speaking. In some disciplines it is common to read your talk. Job presentations often seem to be done from notes instead. I try to operate somewhere in the middle. For my longer presentations I write my talk, memorize as much as I can, and then give some version of it more or less off the cuff but with the talk in front of me for reference. The result is something that is bloggable, has a shape to it, is more engaging than reading from a paper, but more polished than a presentation fully off the cuff. I’ve written about this elsewhere if you want more detail about <a href="https://walshbr.com/blog/dh-public-speaking/">my process</a> for preparing for talks. It feels a bit idiosyncratic, but it could work for you as well.</p>
+
+<h2 id="amanda">Amanda:</h2>
+
+<p>My job talk thoughts are biased toward the roles I’ve given a candidate’s talk for—tenure-track faculty roles (interdisciplinary lab; library with digital humanities focus) and the SLab co-director role (library staff). You might also wish to check out talks from others who’ve applied to related DHy and library roles for more approaches—<a href="https://readywriting.org/faculty-development/faculty-development-for-the-21st-century-and-beyond/">Lee Skallerup Bessette</a>, <a href="http://celestesharpe.com/onward/">Celeste Tuong Vy Sharpe</a>, and <a href="https://chrisbourg.wordpress.com/2015/07/12/infrastructure-and-culture-a-job-talk/">Chris Bourg</a>—or visit the <a href="https://hcommons.org/groups/academic-job-market-support-network/documents/">Academic Job Market Support Network</a> on Humanities Commons, a forum created by Hannah Alpert-Abrams where folks have uploaded a variety of humanities-related job materials.</p>
+
+<h3 id="responding-to-job-talk-prompts-in-general">Responding to job talk prompts, in general</h3>
+
+<p>You’ll likely be given a prompt to reply to via your talk. In both of the talks shared below, I took a mild risk in explaining why I was responding a bit differently than probably expected to each prompt. I’ll talk about the privileges that allowed me to take these small risks below; if you do not have those privileges, you’ll probably want to respond more directly to prompts than I did, yet still with some changes from how you might answer the prompt if, for example, someone asked you the same thing during Q&amp;A or a panel interview. That is: a job talk prompt is intended to be something that each candidate should be able to answer, and is thus often fairly abstracted and open to interpretation. Sometimes, creating a question that will work for all candidates results in a franken-prompt containing multiple questions.</p>
+
+<p>This might just be a question of how you frame your response to yourself, but my recommendation is to not treat this as you would an essay question on a test: no one is scoring you for explicitly mentioning or responding to the letter of each question in a prompt. An explicit answer to all portions of a prompt can be fine, but it can also make for a poorly structured, hard to listen to talk. I’ve found it more useful to use the prompt as a prompt, rather than as a question—that is, a suggestion of topics your audience might want to know your thoughts on. (In combination with the HR-approved job ad, it might offer more specific clues to local contexts or challenges you could ask about…) I try to give a talk that shares both the philosophies guiding my professional practice and very specific examples from my past work as illustrations. What your audience may remember is whether your talk presented you as 1) someone up to the job’s tasks, and 2) someone who would be a good and healthy addition to the local community. I’m guessing most people won’t even notice, much less care, if your talk isn’t an explicit response to the prompt.</p>
+
+<p>Below, I’ll discuss how I worked through a response to the prompts for two of my past successful job talks, and then comment on the structure and contents of each talk.</p>
+
+<h3 id="scholars-lab-managing-director-talk">Scholars’ Lab Managing Director Talk</h3>
+<p>You can read the full text and slides of this talk <a href="https://scholarslab.lib.virginia.edu/blog/disrupt-the-humanities-managing-director-job-talk/">here</a>.</p>
+
+<p>The talk prompt was:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The digital has the potential to be a disruptive force in humanities scholarship, giving scholars the means to critique, reimagine, and transform ideas, theories, material artifacts, and even interpersonal relationships. Using examples from your own collaborations with faculty, graduate students, and staff, please discuss how this disruption can be successfully embodied in scholarly inquiry, as well as in the cultivation of people and organizations.
+</code></pre></div></div>
+
+<p>I was recruited to apply to this job while working in a comfortable role (tenure-track library faculty) with some stellar colleagues and local resources, so it was safe for me to take some risks in my interview. Because paying my rent did not depend on receiving a job offer, I was able to pay more attention to whether the role would be good for me, to be more open about my values and what I wanted in a workplace. So when something in the prompt made me uncomfortable, I decided I wanted to speak to that from the very start of my talk. This turned out well, but could have gone badly, had I failed to convince the audience of the worth of my perspective, or offended the folks who wrote the prompt (assumedly, these were the folks on my search committee and/or folks I’d be reporting through).</p>
+
+<p>The prompt wasn’t explicitly positioning “disruption” as a positive force, but that assumption felt at least implicit enough (disruption allowing reform, wanting that to be “successful”) that I was uncomfortable not speaking specifically to the problems with that. (Part of my reaction was from past experience giving a job talk at a “demo or die” pro-language-of-disruption institution, and my discomfort about how that place’s mixture of amazing colleagues but also very shiny resources temporarily pushed me more toward more disregard for the harms of disruption.) I’ve learned that most terms invoke both positive and negative possibilities:</p>
+
+<p>Valuing openness does harm to cultural practices intended for limited access (see e.g. <a href="https://localcontexts.org/tk-labels/">Traditional Knowledge labels’</a> approach to this issue)
+Speaking at a highly abstracted level about “diversity” or “social justice” can disadvantage acting on specific harms including racism and classism.
+In Data Feminism, Catherine D’Ignazio and Lauren Klein discuss a number of terms that connote “imagined objectivity” and alternative terms that better “strengthen real objectivity”, e.g. “ethics” =&gt; “justice”, “bias” =&gt; “oppression”, “fairness” =&gt; “equity” (I learned this from Neil Selwyn’s <a href="https://data-smart-schools.net/2019/02/03/data-feminism-introductory-thoughts/">review of their book</a>)</p>
+
+<p>I want to avoid the harm often done in the name of “disruption” treated as a context-less good. And I knew that Scholars’ Lab had a history of publicly valuing many of the same things I valued, e.g. from reading the <a href="https://scholarslab.lib.virginia.edu/charter/">staff charter</a>, and appreciating staff’s tweets and conference talks. So my approach wasn’t actually a huge risk, but enough had recently changed in terms of the lab and library’s staff and work that if those values had shifted unbeknownst to me, I would probably be able to choose not to work there without harm to my livelihood. And I was applying to co-direct the lab, so there was more space to safely share thinking that might be a change to the institution’s current values.</p>
+
+<p>This is all to say, the first sentence of my SLab job talk was: “My digital humanities is not disruptive.” I won’t repeat the rest of my talk, as the first few slides explain why I diverged from the prompt, how I thought about the positive potentials of DH. I did respond to the part of the prompt that indicated what the desired outcomes of (a positive definition of) disruption were to them, and in particular noted that people were mentioned multiple times (relationships, specifics examples of collaboration, organizations). After defining what my definition and goals for DH were against a negative read of “disruption”, I spoke to the prompt’s emphasis on people by structuring the rest of my talk around two examples of people-centric work (my <a href="https://infiniteulysses.com">Infinite Ulysses</a> participatory edition, and founding the <a href="https://tinyurl.com/DHSlack">Digital Humanities Slack</a>).</p>
+
+<p>Attending to the people behind scholarship was a way for me to give the audience a sense of how I might be as a colleague. In my talk, I cited people who impacted how I think and work, regardless of the format (book, article, tweet, panel discussion, lunch conversation, something someone pointedly didn’t say) and regardless of if that person identifies as a scholar. If they contributed to how you think, you should cite them.</p>
+
+<p>But I need to mention privilege again: Some people think less of you for having co-authors or other collaborators, as if that shows your effort was smaller rather than greater. If you aren’t read as male, some people may assume you didn’t do the coding or other technical work on your DH project. If you’re hurting for a job and/or already have other biases working against how people treat you, you might need to be more emphatic about your individual contributions to scholarship.</p>
+
+<p>In this job talk, I tried to speak to people who value or assume different things than me, e.g. folks who would appreciate an explicit discussion of how something functions as scholarship, rather than assuming that people recognize the work behind <a href="http://InfiniteUlysses.com">Infinite Ulysses</a> or the <a href="https://tinyurl.com/DHSlack">DH Slack</a> as scholarship. And given I’ve had some experiences that are likely to be construed as academic success, like my dissertation project being cited in The New York Times, I think it’s reasonable to make sure your interviewers know about that—even if you’re kind of uncomfortable with that being seen as a metric toward whether you should be hired. But I also spoke to things I was proud of that others might not value or see as relevant to scholarship, like receiving emails from a variety of non-faculty strangers happy about discovering my DH project. Interviewing necessitates anxiety, and it’s a privilege to be safe and comfortable sharing some pieces of yourself during a job visit—but I’ve found myself happiest after interviews, including an interview where I did not get offered the job, when I felt I brought and shared more of my full self during the process.</p>
+
+<p>(I was basically going to rewrite Brandon and my post about how to share our job-market knowledge without prescriptively reinforcing classist, sexist, etc. notions of individual value and what counts as scholarship, so instead I’ll just link to <a href="https://scholarslab.lib.virginia.edu/blog/dh-cover-letters/">that post</a> again—I learned a lot from the discussions we had before deciding to continue blogging our past job search experiences and advice, and we tried to capture those ideas about a more just and affirming way of supporting jobseekers in that post.)</p>
+
+<h3 id="purdue-tenure-track-faculty-dh-specialist-talk">Purdue Tenure-Track Faculty DH Specialist Talk</h3>
+
+<p>You can read the full text and slides of this talk <a href="http://literaturegeek.com/2016/02/28/DHjobtalk">here</a>.</p>
+
+<p>The talk prompt was:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Digital humanities and the research library: opportunities and challenges for academic libraries and librarians. Draw upon your experience and knowledge as well as citing research literature in library/archival/information science, and/or disciplinary literature relating to digital humanities. (Audience: Libraries staff and faculty)
+
+</code></pre></div></div>
+
+<p>As with my SLab job talk, I quibbled mildly with this prompt, and explained why at the start of the job talk:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>There are already many recent voices defining what the digital humanities (or DH) is, what a library does, and exactly how much DH and libraries overlap as academic fields. I didn’t want to rehash those debates, so I put together an online Zotero bibliography with bunch of pertinent readings, which you can access via [tinyurl.com/dhlibraries](https://tinyurl.com/dhlibraries). You’ll also be able to find any work I cite in this talk there…Pulling together over fifty works defining DH and libraries, and strategizing this combination, wasn’t difficult."
+</code></pre></div></div>
+
+<p>Instead, I wanted to focus on what DH might look like locally, given how I’d function if hired:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> It was harder to find case studies of the specific, day-to-day tactics of successful combinations of DH and libraries. So, in wanting to discuss the specific question of DH library service today, I’ll try to give some specific examples, spoken and on screen, of the types of events, workflows, and services I’m envisioning. I’d like to focus on what both the strategy and the tactics of a user-focused service ethic look like, when combined with 1) the digital humanities commitment to collaboration, and 2) recognizing scholarship in all areas of professional practice.
+</code></pre></div></div>
+
+<p>A small thing, but I like that I included an explicit reference to caring about timekeeping while outlining my talk (“I’ll be talking for around 15 minutes, after which we’ll have a lot of time for discussion”) to help the audience pace their attention.</p>
+
+<p>Now that I know that community, I think the audience would have appreciated more time spent on what DH is and what the arguments about DH and libraries are than I gave them. It’s hard to gauge that, or know who will be at your talk! I think I did okay by defining what DH would look like locally if I were hired, but sharing a few specific projects that show the breadth of what DH can be would have improved the talk. I’d recommend focusing on what DH is to you, and what you hope for DH to be (inspired by <a href="https://twitter.com/elikaortega/status/618097310505938944">Élika Ortega</a>).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Digital Humanities Pedagogy and Opportunities for Hope]]></title>
+    <link href="http://walshbr.com/blog/digital-humanities-pedagogy-and-opportunities-for-hope/"/>
+    <updated>2019-10-16T09:45:00+00:00</updated>
+    <id>http://walshbr.com/blog/digital-humanities-pedagogy-and-opportunities-for-hope</id>
+    <content type="html"><![CDATA[<p><em>Crossposted to the <a href="https://scholarslab.lib.virginia.edu/blog/digital-humanities-pedagogy-and-opportunities-for-hope">Scholars’ Lab blog</a></em></p>
+
+<p>In September, I visited Emory University in conjunction with the launch of their <a href="http://digitalscholarship.emory.edu/partner/learn/ddsp.html">new graduate fellowship</a> for students aiming to incorporate digital projects in their dissertations. This is the second of two posts sharing materials from the events I took part in while there. I was asked to give <a href="http://walshbr.com/blog/getting-from-here-to-there/">a workshop on project development for graduate students</a> as well as an open talk on digital humanities pedagogy. The text of what follows pertains to the open talk I gave, where I was asked to give a broad overview of how the Scholars’ Lab works with students. I write a talk for situations like these, but I try to avoid straight-up reading the text (<a href="http://walshbr.com/blog/dh-public-speaking/">more info on how I approach public speaking in DH available here</a>). So what you will see below is more like a roadmap of the general gist of what we talked about. I did not consult the text too much in the moment. The only other relevant piece of framing that you will need is that I added the phrase “he works for the students” to the end of the bio I gave Sarah McKee (Senior Associate Director for Publishing at the Bill and Carol Fox Center for Humanistic Inquiry) to read when she introduced me. Talk begins below!</p>
+
+<hr />
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/1.png" alt="Title slide" /></p>
+
+<p>Hello! I’m Brandon Walsh. I am the Head of Student Programs at the Scholars’ Lab, a community lab for experimental scholarship in all fields, particularly informed by digital humanities, spatial technologies, and cultural heritage. You will hear a lot more about what we mean by that in the talk to come, one that I have titled “Digital Humanities Pedagogy and Opportunities for Hope.” Thank you so much for having me and for coming today to hear me talk. I am truly grateful for the opportunity to speak with you.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/2.png" alt="zotero collection, links, and acknowledments" /></p>
+
+<p>I wanted to first start out by offering a couple links and thanks. If you need access to the slides or the transcript of this talk (or you’re interested in what I shared with your students in <a href="http://walshbr.com/blog/getting-from-here-to-there/">the workshop</a> earlier today), you can find those resources at <a href="http://bit.ly/Emory-Talks">this top link</a>. I have also made a <a href="http://bit.ly/DHPedagogyAndHope">Zotero collection</a> here with all the resources I mention in the talk in case you want to take a look at them later on. And finally, most importantly, I wanted to take a moment to express gratitude to everyone whose work has brought me here today. I’m very grateful to all my colleagues in the Scholars’ Lab whose work you will hear about in a moment, especially Amanda Visconti, Ronda Grizzle, Jeremy Boggs, Laura Miller, and Shane Lin. And I would also like to express my thanks to Sarah McKee, Lisa Flowers, Anandi Silva Knuppel, and all the ECDS students for making this trip possible and invigorating.</p>
+
+<p>Sarah asked me to give a high-level overview of the Scholars’ Lab and how we work with students. I will do that today, but my standard disclaimer about the Scholars’ Lab is that we are a complex entity with many different folks doing many kinds of jobs. And you will get a different path through our work depending on who you ask. I am the Head of Student Programs, so given my work and interests you might come away from this talk thinking, “they only work with students.” This is not true! We have an R&amp;D team and spatial technologies staff that work with the entire university, students, faculty, and library staff alike on a variety of different projects related to digital scholarship, digital preservation, and digital project development. So what you will hear about today is about my own particular corner of the lab. One of my colleagues might have a different, overlapping story. My story is about our students, though I am happy to help flesh the full picture out for you if you would like during discussion.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/4.png" alt="Overview of what is to come, text to follow" /></p>
+
+<p>At the risk of tipping my hand too early, I wanted to offer an overview of what is to come. I’ll move back and forth between example and theory, but the main takeaways, if I had to offer them are these. First, DH pedagogy does not just take place in the classroom, and it’s not just about DH. Second, digital humanities pedagogy is pedagogy. Third, DH pedagogy at every level should consider, intersect with, and reconstruct desire paths through the academy. I’ll talk more about all of these ideas in a moment. I’m not going to be offering any practical thoughts on how to carry out DH pedagogy, though I’m happy to do so in the discussion afterwards. This is more a talk about the animating philosophy for DH and pedagogy as we try to practice it in the lab, about the idea that teaching can offer spaces for hope in the university.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/5.png" alt="Chad Sansing bio page" /></p>
+
+<p>When Sarah invited me here today, as is usually the case for things like this, she asked me to send her a bio. I always dread this part of giving talks. When I was a student, I always felt like I hadn’t done enough, and I hated hearing people read my short list back to me. Now that I have been working in the field for a bit longer, I still find it embarrassing for different reasons. So I decided to take a cue from Chad Sansing of the Mozilla Foundation and do something with this moment of discomfort. In his <a href="https://medium.com/@chadsansing">bio on Medium</a> he mentions, a bit tongue in cheek, “I teach for the users.”</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/6.png" alt="Tron movie poster" /></p>
+
+<p>I don’t want to spend my entire time here reiterating the plot of the 1982 movie Tron, but, in my reading at least, Sansing’s bio is a riff on a line from that movie: “<a href="https://www.youtube.com/watch?v=8kcgosLwPDE">he fights for the users</a>.” The line describes the titular character of the movie, a security program who fights other fascist computer programs on behalf of the users who have been locked out of the computing world. It’s a lot. But I like Sansing’s adoption of it here, and I wanted to try it out for myself. I like the way that his bio ties up his identity into a kind of mission statement. “Who am I” becomes “why am I here?” He is here to teach, and he’s here to teach the users how to take back control of the web.</p>
+
+<p>The bio I gave Sarah ended with the phrase “he works for the students.” That phrase is a mission statement and also the subject of this talk, which will deal with how we work in the Scholars’ Lab to have care and consideration towards our student collaborators suffuse everything we do. I’ll talk against the ideas that teaching only takes place in the classroom and that administrative work has nothing to do with teaching.  I’ll start with what we do in the lab “for the students” and why. Second, I’ll contextualize this briefly as happening against the backdrop of a larger crisis in higher education. Third, I’ll offer thoughts about how we can shape a DH pedagogy that responds to such emergencies.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/7.png" alt="Image of a desire path - a paved path to the left with barriers on it to prevent speeding cyclists. To right, a trodden path made by pedestrians and cyclists avoiding the barriers and paved section entirely." /></p>
+
+<p>To begin. In the Scholars’ Lab, we try to start by approaching the whole student. We try to think about how our decisions affect lives and need to be informed by lives. Because administrative choices matter in big ways for people. When an application date gets set, who is eligible for a fellowship, or what kinds of work we allow as permissible in a particular context - choices like these affect the journeys our students are on.</p>
+
+<p>So I would like to start by talking about paths. This image by an English Councillor circulated on the <a href="https://digitalpedagogylab.com">Digital Pedagogy Lab</a> hashtag last month, and it illustrates a phenomenon called a “desire path” or a “desire line” – I would wager we have all seen them before. Desire lines are the paths made, over time, by people stepping on the same, unplanned path. They typically represent the organic actions of pedestrians as opposed to what was planned by the city designer. In this case, based on the Twitter conversation, the path you’re looking at appears to have been made over time by cyclists in response to the constructions you see on the left, obstacles deliberately put in place to discourage cyclists speeding along on this paved path. It is not difficult to imagine the accessibility issues caused by this same construction choice.</p>
+
+<p>I’m taken with this image as a metaphor for the life of a graduate student in academia (caveat here that most of my comments will be about graduate students given who I tend to work with, but I think they are relevant for students generally as well). The image certainly resonates with me, coming as I do to work in the library without a library professional degree but instead with a PhD in English. In short, our students might get into this space for one reason, and we might imagine paths through it on their behalf. But everyone finds their own way through their own education and often through different means and to different ends than we anticipate. I certainly got pulled sideways at a certain point and wound up in a place I could not have envisioned at the beginning of my time at UVA.</p>
+
+<p>I often wonder in related ways about my own activities in the administration of the Scholars’ Lab and in higher education more generally. In my role, I’m often making or offering small choices that are likely to affect the course of someone’s journey through their time as a student. These individual, local interventions in a person’s path - how do they fit into the larger journey for them? Am I helping people to form their own desire paths? Or am I the one throwing up barriers? How can I take those barriers down or help pave a new path to help the route be a little easier? Who am I to be making such decisions for other people? How can I take the responsibility of these choices as seriously as possible?</p>
+
+<p>Given this logic of the desire path, for student programs to service your community in a perfect world you will be offering a diverse slate of opportunities. Because your student population does not just have broad and diverse disciplinary research questions – they also come from a range of different backgrounds and life situations. An MA student, at UVA at least, has a different course load and does not typically teach. This puts them in a fundamentally different category financially, with different pressures and needs, from a PhD student. And what works for one will not work for the other. That is to say, any conversation about DH pedagogy, for me, starts and ends with a discussion of the lived circumstances of the students. Our student activities in the lab are foremost informed by a consideration for the diverse contexts and backgrounds that our students represent.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/8.png" alt="For students page of the slab site" /></p>
+
+<p>We try to make our programs fit those many needs, and we try to offer a number of different ways in to do so. The phrase “for the students” that I mentioned earlier is also pretty close to a page on our website where I try to collect everything that a student might be interested in knowing about us. This is the “For Students” page of the Scholars’ Lab website if you would like to check it out at <a href="http://scholarslab.lib.virginia.edu/for-students">http://scholarslab.lib.virginia.edu/for-students</a>. I will talk about a few of these pieces in detail first from a nuts and bolts standpoint and then a theoretical one, though I am happy to talk in more depth about any one of them.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/9.png" alt="Image of our makerspace" /></p>
+
+<p>We regularly offer two hourly wage positions for students in the lab. The first is that we employ hourly students in our makerspace as technologists assisting community members with 3D printing jobs, experimental electronics, or sewing and wearable electronics. No experience is necessary for a student to take on the role, and we typically train people up on the job. There are a number of makerspaces on campus, but ours is distinct for being committed to teaching folks how to do the printing themselves. So you don’t drop off a file and pick up a print - you learn how the technologies work. And our makerspace primarily caters to humanities students, though we do get a fair amount of traffic from science students who tend to find our space less crowded than the ones provided by the Engineering School.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/10.png" alt="Mapping of Anne Whitney abroad" /></p>
+
+<p>Second, our GIS specialists <a href="https://scholarslab.lib.virginia.edu/people/drew-macqueen/">Drew McQueen</a> and <a href="https://scholarslab.lib.virginia.edu/people/chris-gist/">Chris Gist</a> service needs related to spatial technologies for the entire University, and they regularly employ a GIS student collaborator to assist them in doing so. This student and these projects can come from across the university – not just the humanities. And they also frequently collaborate with local and regional governmental organizations on a variety of different geospatial projects. Our students are there at each step along the way as collaborators.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/11.png" alt="Will Rourk's Twitter account on scanning" /></p>
+
+<p>We also engage students in an internship for course credit through the architecture school, where our 3D Data and Content Specialist, <a href="https://scholarslab.lib.virginia.edu/people/will-rourk/">Will Rourk</a>, collaborates with them on the scanning of artifacts and spaces that are significant for cultural heritage purposes. They often carry out site visits in the region, and Will also collaborates with local museums on scanning objects of importance to them.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/12.png" alt="3D model that resulted from scanning" /></p>
+
+<p>Will then engages those same students in the production of 3D data based on these objects. Through the process, our student interns get a deep introduction to all different parts of a 3D data pipeline, and the work that they all do together is truly impressive. The previous tweet and this 3D model all relate to the McCormick observatory on UVA’s campus.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/13.png" alt="Summary of the two year-long fellowship programs in the Scholars' Lab" /></p>
+
+<p>Beyond these opportunities, we also offer two yearlong fellowship programs that offer deeper dives into digital humanities. These are the programs that I most directly supervise. Our higher-level DH fellowship is for advanced PhD students at the dissertation stage who want to work on a project related to their research. They teach some, but they are largely doing a deep dive into developing a professional portfolio that will serve them on the job market. And our <a href="http://praxis.scholarslab.org">Praxis Program</a> is something of an introduction to digital humanities by way of project-based pedagogy. The six students in this fellowship each year form a cohort and work collaboratively on a self-designed project over the course of two semesters. The students drive the program: the fall feels more like a seminar or workshop with us at the front of the room, but the spring is owned by them. We flick them in a direction, but they take the project and develop it in a way that feels authentically theirs both in spirit, scope, and shape.</p>
+
+<p>So that’s a piece of what we do in the lab, and you might have noticed just how much we do for students. I am well aware that the Scholars’ Lab is in a privileged position as far as resources go, both for centers for digital research and even within our own library. Over 2/3 of our budget goes directly to students, and we work directly with about 50 students each year. That’s a <em>lot</em>. As anyone who works with budgets knows, our own budget is the result of longstanding and ongoing campaigns for more resources. I am grateful for allies in the library who recognize the value of supporting students and especially to those who fought for years before I was involved to get those numbers to where they are. These numbers are not settled, and we have to work to keep them every year. But I bring these points up to ask - what can an institution without this level of support do? What can an individual without the support of an institution do? What are small actions we can take in our pedagogy - particularly our DH pedagogy - to help the desire paths our students are trying to make for themselves, even when we’re limited by resource scarcity?</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/15.png" alt="&quot;I don't teach - quote from a colleague&quot;" /></p>
+
+<p>For me, one way of approaching these questions is to think more deeply about what we mean when we think of pedagogy. I remember one conversation I had about teaching, when a colleague offhandedly said, “Oh well I don’t teach.” And a nearby colleague agreed as well. I remember doing a double take. These were people who, to my mind, were constantly engaged in the work of teaching.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/16.png" alt="&quot;I don't teach - you who teach all the time.&quot;" /></p>
+
+<p>Even besides the workshops they regularly give, these were people who mentored students, helped with their projects, and pair programmed beside them to help them learn. Furthermore, they’re fantastic teachers. The general culture in the Scholars’ Lab is one in which we constantly engage in peer mentoring. Digital Humanities is hard - there are so many fields. No one knows all of it, and we try to offer a spirit of generous assistance to each other every day as we find our way through this field. How, then, did I have an entirely different view of these colleagues than they did of their own work?</p>
+
+<p>I think my colleagues were equating teaching with teaching classes as instructors of record. And, to be fair, sometimes I’m asked whether I am teaching or not in the upcoming semester, and I don’t quite know how to respond either. While I sometimes teach semester-long courses, my primary work is not in such traditional modes of instruction. While it’s not really the question they’re asking, my gut response is usually to think, “when am I not teaching?”</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/17.png" alt="Pedagogy as habitus" /></p>
+
+<p>This is to say that pedagogy is not something that only happens in the classroom. I especially like the way that Sean Michael Morris describes this notion in <a href="https://www.insidehighered.com/digital-learning/article/2018/10/10/digital-learning-experts-reflect-evolving-field-new-book">an interview</a> with Jesse Stommel. They’re two prominent scholar-practitioners of critical digital pedagogy, and they’re the chief instigators behind Digital Pedagogy Lab. In an interview about their new collection An <a href="https://urgencyofteachers.com/">Urgency of Teachers</a>, Morris describes pedagogy as not something we just enact in the classroom. Instead, it’s a system of beliefs that we carry with us. A way of orienting ourselves in the world. Or at least it should be. If we think about teaching and pedagogy as things that only take place when we’re in front of a classroom or with our names in an LMS, then I would argue that we’re not thinking of teaching in the fullest possible sense. The spaces for teaching are vast, and our students many. To be “for the students,” we need to think of education as a way of life. As something that runs deeper than sharing material with students. This about how we view them and their work. We’re always teaching, whether or not we’re in front of students for a whole semester.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/18.png" alt="Image of charters" /></p>
+
+<p>It’s one thing to believe having values like these are important. But in the Lab we also believe it’s important to share them, and now we’re getting into the philosophy behind what we do. We believe it is important to write our work philosophies down and to explicitly say them in public. In the Scholars’ Lab, we believe in explicit statements of values called charters, documents that spell out your beliefs, goals, and ambitions. We have had our cohorts of Praxis students put charters together describing their shared ambitions and values each year for the last nine years. <a href="http://praxis.scholarslab.org/charter/charter-2011-2012/">Here</a> you have one of the Praxis charters from one of the early cohorts. They cite free and generous credit, transparency, and an awareness of each other’s diverse backgrounds and disciplinary interests as important markers for them. The hope is that by encouraging our students to examine their shared group identity we will draw out a richer sense of themselves and each other.</p>
+
+<p>Last year in conversation with <a href="https://scholarslab.lib.virginia.edu/people/jeremy-boggs/">Jeremy Boggs</a> we realized that, even though we have our students write a charter every year, we hadn’t actually done one of our own, as a staff, for our student programs. We possessed a general charter for the lab, but we thought our student programs needed to explicitly share their own pedagogical philosophy and promises. It was time to make things clear and explicit. So we wrote one together. For the students.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/19.png" alt="Image of student programs charter in particular" /></p>
+
+<p>You can find the whole charter on our website at <a href="http://scholarslab.org/student-programs-charter">http://scholarslab.org/student-programs-charter</a>, and I’d encourage you to read it. It’s a document that is not perfect, but it’s one that I’m glad is out in the world. Here are a few excerpts from it that describe our approach to teaching.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/20.png" alt="Excerpts from the student programs charter" /></p>
+
+<p>We’re here, and we care. We trust in students. We teach the whole person. We’re committed to advancing pedagogical practices that are equitable, just, and ethical. It’s important that our students know where we stand, and one of the first things I have our students do is read this document along with the more <a href="https://scholarslab.lib.virginia.edu/charter/">general charter for the Scholars’ Lab</a>. Our pedagogies, the ways we think about our work with students, should be shared with them. In the Lab we believe they should be part of the conversation.</p>
+
+<p>Lest you think this is an artifact of the quotes I chose to emphasize, the charter doesn’t actually talk an awful lot about technology. It does occasionally, but only in oblique ways. We want our students to own their projects as well as their domains. We want them to fail in public in a way that pushes their comfort zone but not their safety. We all feel like imposters - many of us everyday. Some of you probably feel like imposters right now. I know I do. These points imply a certain interdisciplinary approach to technology, even though they are not specific to digital humanities.</p>
+
+<p>And it’s also not lost on me that I’ve spent most of this talk on digital humanities pedagogy not talking all that much about <em>digital humanities</em> pedagogy. And that’s part of the point.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/21.png" alt="DH pedagogy is pedagogy" /></p>
+
+<p>Digital humanities pedagogy is pedagogy. I’ll say that again. Digital humanities pedagogy is pedagogy. Similarly, to go back to Digital Pedagogy Lab, I’ve heard Sean Michael Morris say that the “digital” part of DPL is just an excuse to get people in the room to talk about pedagogy. The definition of digital humanities I usually give to students is one I draw from <a href="https://isearch.asu.edu/profile/3146756">Elizabeth Grumbach</a>: DH is asking humanities questions <em>of</em> technology and asking humanities questions <em>with</em> technology. DH pedagogy is certainly teaching that engages with those topics, materials, and methods, but leaving it there is akin to saying that you only teach if you’re an instructor of record.</p>
+
+<p>Because I feel a tad guilty staying wholly theoretical I want to pause for a moment to say that there are great resources for digital humanities pedagogy from a practical perspective: I highly recommend <a href="https://www.bloomsbury.com/uk/using-digital-humanities-in-the-classroom-9781350029750/">Using Digital Humanities in the Classroom</a>, co-authored by Claire Battershill and Shawna Ross, and <a href="https://digitalpedagogy.mla.hcommons.org/">Digital Pedagogy in the Humanities</a>, edited by Rebecca Frost Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers. These resources are exemplary for those seeking practical advice and examples on how to teach digital humanities.</p>
+
+<p>But what I mean by “DH pedagogy is pedagogy” is that, for us in the Scholars’ Lab, a digital humanities pedagogy is one that thinks deeply and critically about the teaching itself and the interpersonal, societal, and institutional changes it purports to make. It’s not just about the classroom. That is to say, we certainly teach DH methods, tools, and thinking, but we’re more directly trying to think about how and why we do this work and what larger implications it might have. Digital humanities might be an especially good opportunity to make these sorts of interventions, and that brings me to the quote that the title of this talk is riffing on.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/22.png" alt="Henry Giroux quoting Freire, text to follow." /></p>
+
+<p>“Opportunities for Hope” is a play on Henry Giroux quoting the work of Paulo Freire. In full it reads: “Hope demanded an anchoring in transformative practices, and one of the tasks of the progressive educator was to ‘unveil opportunities for hope, no matter what the obstacles may be.’” For Freire, education in its best shape was always about social reform, and he called for new forms of teaching that empowered students and upended traditional modes of instruction like the banking model for education that assumes students are empty vessels who need to have the knowledge of the instructor given to them only to regurgitate it back. And it’s this same spirit of transformation that we bring to the students who work with us in the Scholars’ Lab. How can our pedagogical practices as digital humanists open up space for new ideas for students, but more importantly, for imagining new lives? How can we unveil opportunities for hope, no matter the difficulties? Beyond simply giving them tools and methods, how can we go further and make the teaching we do be a political intervention?</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/23.png" alt="But it's all on fire" /></p>
+
+<p>More specifically, how do we unveil opportunities for hope in a climate like the one in which we all live, where it often feels higher education is on fire? Tenure track positions are vanishing, adjunctification is on the rise, and an enormous number of students and staff are in precarious positions. A so-called “free speech” crisis threatens actual free expression and freethinking in our classrooms. I could go on and on. I spoke about the privileged position the Scholars’ Lab is in, in terms of funding. But, no matter how much funding we’re able to direct to students, it’s never enough. There are always more students applying for fellowships than we have spots to give. Since I’ve been teaching, students have spoken with me about homelessness, food insecurity, precarious finances, uncertain job futures, mental health crises, chronic health conditions, and more. And I know the student populations I’ve worked with are not unique in higher education. How do we find hope for ourselves and for our students in the face of these situations? And what can pedagogy do here? I’ll offer three provisional responses to this question. In the face of a crisis in higher education, we should think of the work we do as creating spaces of shelter and intervention, as empowering student voices, and as changing culture more broadly.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/24.png" alt="Feminist lab symposium" /></p>
+
+<p>My first response is that we can think of the teaching work that we do in digital humanities spaces as work that seeks to shelter and also to intervene. “<a href="https://whatisafeministlab.online/">What is a feminist lab?</a>” was a symposium that took place at University of Colorado Boulder earlier this year. I got permission from <a href="https://jwernimont.com/">Jacqueline Wernimont</a> to cite her remarks, quoted here: “A lab can be a technology to survive the institutions we work in while we seek to transform them.” Our students in the Scholars’ Lab frequently refer to it as an oasis in the larger academy, by which I take them to mean that we value their futures, their concerns, and anxieties in ways that are not as well supported elsewhere. As they develop charters and have conversations about the values they want to develop and promote during their time with us, I often encourage them to think of it as an opportunity to shape the sort of kind, generous, and transformative space they want to see in the academy.</p>
+
+<p>That is to say, we also engage students in a wide variety of support that is not particular to wage employment or research. Some of these are programmatic. We offer mock interviews if students wind up applying for library or digital humanities related jobs. We read materials. We circulate job postings relevant to this kind of work. But more generally we have frank conversations with students about our lives and theirs and try to make space for them in ways that might otherwise be difficult in other parts of the university. Our fellowships don’t carry grades, we allow deferment of our fellowships, and we generally try to make lives a little easier. For us, this is the work of pedagogy, and the fact that we are operating in a library-based digital humanities space helps facilitate this. Your own mileage may vary, as your circumstances are likely to be different. Given your own limitations, how can you use your position as teachers to inject more kindness into the academy?</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/25.png" alt="UCLA Student Collaborators Bill of Rights" /></p>
+
+<p>Second – we can respond by asking, “where are the students?”</p>
+
+<p>It’s important that we keep student interests and needs in mind. They are an important audience for our work, but sometimes they can disappear from the conversation when we discuss long-term strategy. So simply asking how students fit in is a place to start, and even small actions like making sure the word “student” appears on mission statements can be important interventions. But we can go further.  Student voices need to be included in discussions about their own education. Digital humanities pedagogy is often quite amenable to this, as project-based pedagogy of the sort that is common in DH can often invite students to have an active role in shaping their experiences. The <a href="https://humtech.ucla.edu/news/a-student-collaborators-bill-of-rights/">UCLA Student Collaborator Bill of Rights</a> has other good advice for how to engage student voices and to make sure that you’re doing so in an ethical way. It’s a touchstone for us in the Lab.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/26.png" alt="ILIADS splash page" /></p>
+
+<p>The Small Liberal Arts Community (as exemplified by <a href="http://iliads.org">ILiADS</a>) offers fantastic models for how you can engage students as true partners in research projects and disrupt the labor distinctions that all too often exist in our work. I’d encourage you to explore the ILiADS site for examples of projects that might offer models as you think through how to work with students. For my money, the SLAC community is offering some of the most exciting digital pedagogy work. This kind of flattened distinction between student and teacher, as much as possible, is something we try to aim for in the Scholars’ Lab. It’s expressed in a concise way, I think, in this Instagram story by Nicholas Payton, a prominent jazz trumpet player and composer.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/27.png" alt="Quote by Nicholas Payton, text to follow" /></p>
+
+<p>In a recent “ask me anything” session on Instagram, Payton was asked, “Who are the best trumpet teachers alive right now?” He responded, “There are no great teachers, only great students who give tools to other students.” That is the world I want to live in. A world in which the Scholars’ Lab students see themselves as experts, and in which their staff and faculty see themselves as equal partners in the pursuit of knowledge.</p>
+
+<p>We’re all students at the end of the day.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/28.png" alt="Praxis program splash page" /></p>
+
+<p>This can sometimes feel difficult to square with digital humanities, though, where often we quite literally have things we need to share with students that they are encountering for the first time. One thing we try to do in the Lab, beyond adapting our curriculum to the needs of the students, is talk to our students about the work of teaching and learning in which we are all engaged. We talk to them about why we are doing what we are doing, what difficulties we’re having, and what thoughts they might have for making a better experience.</p>
+
+<p>For example, I mentioned the Praxis Program, our yearlong fellowship where our students go from soup-to-nuts with digital humanities, from knowing little to launching their own collaborative digital project by the end. For years, the interdisciplinary makeup of the team has been a recipe for real interpersonal conflict. Usually in March. Every year, right when the rubber hits the road and they’re trying to launch their project. Finally this past year we decided to talk to the team about it.</p>
+
+<p>During the second session of Praxis this year, Amanda Visconti and I ran a discussion for our new cohort of Praxis students on good collaboration and community. And we laid this pedagogical problem out – we talked about issues we had in the program in the past not as interpersonal issues between specific people but as expressions of larger difficulties in collaborative work. We discussed what seemed to help and what did not. What’s more, we also talked about what good collaboration looked like for each other and how the students could make sure they treated each other with respect and kindness first. The students took the conversation very seriously. Last year was the best year yet as far as collaboration is concerned, and Amanda and I just ran the conversation for a new cohort last week. In short, there’s no need to treat pedagogy like something that has to be hidden from your students. Particularly in DH, as it asks so much of students professionally, interpersonally, and emotionally, we need to involve student voices in the development of good teaching practices. They deserve it, and everyone’s experience will be enriched.</p>
+
+<p>Third, and I think it’s apparent from this talk, we have to think about the work that we do, even at the level of the individual assignment, as engaged in a larger project of shifting the culture of the university. When I spoke to the graduate students earlier today, we ended our workshop by talking about values. The workshop was called “getting from here to there” with a digital project, but the point was that there is always going to be another project. Another semester. Another student. It’s more important to think about why you’re doing this work: what are the animating philosophies behind what you’re doing? I’ve tried to give you a glimpse today of the “why” for the Scholars’ Lab.</p>
+
+<p>I encouraged the students earlier to think about their work as opportunities to open up small spaces for more generous, kind, and productive spaces in the academy, to imagine the future they want to see into the world. In the Lab we see our work as part of a larger attempt to shift the culture of the university, both in terms of what graduate training in the humanities can look like but also in terms of what kinds of conversations are acceptable.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/30.png" alt="PHD Plus Splash Page" /></p>
+
+<p>At UVA, we’re plugged into a larger network of like-minded programs working to train graduate students for a broad range of lives and future careers. This program, called <a href="https://phdplus.virginia.edu/index">PHD+</a>, has been instrumental for us in helping to see that the work we’re doing as being part of a larger movement to rethink what graduate education can look like. Thinkers like <a href="https://katinarogers.com">Katina Rogers</a> and <a href="https://www.cathydavidson.com/">Cathy Davidson</a>, both at CUNY, and <a href="https://www.seanmichaelmorris.com/">Sean Michael Morris</a> and <a href="https://www.jessestommel.com/">Jesse Stommel</a>, co-founders of the <a href="https://www.digitalpedagogylab.com/">Digital Pedagogy Lab</a>, have been instrumental for me in seeing the work of the classroom as intimately connected to the work outside it. And, to go back to my point about student voices, we talk about these issues explicitly with our students. We have a session on diverse career options for them, on labor precarity and employment in digital humanities. We’re not solely interested in getting them jobs; we want to make sure that they can find their ways to happy futures no matter the outcome.</p>
+
+<p><img src="/assets/post-media/dh-pedagogy-and-hope/31.png" alt="Desire path image again." /></p>
+
+<p>So to bring it back to an earlier image and earlier questions - when working on DH pedagogy decisions I’d encourage you to think about this image. I know I will. How are our decisions helping people navigate their own desire paths through the university? Throwing up new barriers for them? Paving new roads? How can we make even small assignments part of larger culture shifts? How might digital humanities pedagogy, in libraries and out of them, make space for these conversations?</p>
+
+<p>That’s my talk. Thanks for listening. I’m happy to talk more about Tron, the Scholars’ Lab, nuts and bolts of digital humanities pedagogy, other opportunities for hope, and anything else you’d like.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting from Here to There]]></title>
+    <link href="http://walshbr.com/blog/getting-from-here-to-there/"/>
+    <updated>2019-09-19T11:31:00+00:00</updated>
+    <id>http://walshbr.com/blog/getting-from-here-to-there</id>
+    <content type="html"><![CDATA[<p><em>Crossposted to the <a href="https://scholarslab.lib.virginia.edu/blog/getting-from-here-to-there/">Scholars’ Lab blog</a></em></p>
+
+<p>A few weeks ago, I visited Emory University in conjunction with the launch of their <a href="http://digitalscholarship.emory.edu/partner/learn/ddsp.html">new graduate fellowship</a> for students aiming to incorporate digital projects in their dissertations. This is the first of two posts sharing materials from the two events I took part in while there. I was asked to give a workshop on project development for graduate students as well as an open talk on digital humanities pedagogy. The text of what follows pertains to the workshop for students, where I was asked to give a broad overview of how to approach project planning and some activities for helping them think through their work for the year. I essentially tried to condense the greatest hits of the <a href="http://praxis.scholarslab.org/">Praxis Program</a> into 90 minutes. I was asked to give a 30 minute talk and 60 minute workshop, but I’ll get into how we shifted things around below.</p>
+
+<p>First, a few caveats. For one, I write a talk for situations like these, but I try to avoid straight-up reading the text (<a href="http://walshbr.com/blog/dh-public-speaking/">more info on how I approach public speaking in DH available here</a>). So what you’ll see below is more like a roadmap of the general gist of what we talked about. I don’t remember consulting the text too much in the moment, and I know for a fact that the last few paragraphs were dramatically different in person. Second, and related - since this was meant to be a workshop and not a lecture I planned on a fair amount of discussion with the really thoughtful and engaged students.</p>
+
+<p>All of this is to say that I planned on deviating from my plan, and I tried to represent that below. In the text that follows you’ll find the actual running text of a talk and workshop plan along with notes to you, the reader, marked with [sidebar: brackets] describing how I modified things in the moment to adapt to the group and the conversation as it unfolded. You’ll get a mix of both the script for the presentation and some notes on how I managed things as it diverted from expectations. It might get a little confusing, but I imagine it could be interesting to see how things got restructured and shifted around in the moment.</p>
+
+<p>Planning for a span of time as long as 90 minutes is difficult, so I deliberately planned far more than I could cover in the allotted time just in case. I went into it knowing I’d need to be flexible. If I had to offer any suggestions for workshops in general it would be this - plan more than you need but do not try to rush to make it through your material. Let the conversation and the discussion shape the pace of your teaching, not a need to cover a particular amount of content. I always find it more helpful to do more with less. In this case, it meant that I was watching the clock from the beginning and looking for milestones along the way where, if needed, I could wrap things up.</p>
+
+<p>[Sidebar: we’re in talk land now. What follows is the rough script of the talk and discussion that Anandi Silva Knuppel, Sarah McKee, and I fielded together.]</p>
+
+<h2 id="getting-from-here-to-there">Getting from Here to There</h2>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/1.png" alt="Title slide" /></p>
+
+<p>Hey friends! How is it going? I’m Brandon Walsh, the Head of Student Programs in the Scholars’ Lab in the UVA Library. The Scholars’ Lab is a center for experimental scholarship informed by digital humanities, spatial technologies, and cultural heritage thinking. For the purposes of our conversation today, my work with students is probably most relevant. I facilitate a number of different fellowship programs and student opportunities in the lab, where I’m in charge of everything from mundane administrative tasks to more abstract things like constructing our pedagogical mission. And I collaborate with a range of people in the Lab and the Library to carry out different kinds of teaching for our community. I work with students from a range of disciplines, which means I have a fair amount of experience helping people plan, scope, and execute projects. I’ve titled this workshop “Getting from Here to There.”</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/2.png" alt="Slide of my cat" /></p>
+
+<p>[First sidebar: Anandi Silva Knuppel was the one who invited me to speak at Emory, and she gave a general orientation to their fellowship program before I started my piece. She included several photos of her children and family in the talk, and I quickly realized that the tone of my section would feel like a weird shift from hers. So, while she was presenting, I threw in a bunch of photos of the cat my partner and I recently adopted. This is Pepper, and he makes numerous appearances in what follows.]</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/3.png" alt="Thanks slide" /></p>
+
+<p>Before we get started, I wanted to offer some resources and gratitude. If you need the text or slides of this talk for any reason, you can find them at the <a href="http://bit.ly/Emory-Talks">first link</a> here. The <a href="https://www.zotero.org/bmw9t/items/collectionKey/UVA6I35D">second link</a> will take you to a Zotero collection for this talk, so you don’t necessarily need to rapidly write down the links to things as we’re going. I’ve collected them for you. I wanted to credit my colleagues at the Scholars’ Lab, whose work I’ll discuss in what follows. Amanda Visconti, Ronda Grizzle, Jeremy Boggs, Laura Miller, and Shane Lin especially show up in the following slides. And, finally, I wanted to thank Sarah McKee, Lisa Flowers, Anandi Silva Knuppel, and everyone at ECDS and the Fox Center for the Humanities for the invitation to talk here. I’m truly flattered and grateful.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/4.png" alt="Plan for proceeding" /></p>
+
+<p>In terms of what we’ll cover today, I’m planning on taking you through a series of questions related to DH project planning roughly organized around questions pertaining to the how, what, who, and why of digital projects. This is my roadmap through the topic, and I’m happy to just lecture at you. But it’d be great to have questions and discussion as relevant and necessary. So please do interrupt. The conversation will be better for your contributions and better for your ideas. Ultimately this is about making it useful for you. So tell me what you need, and I’m happy to go where you want. I won’t necessarily have all the answers, but I’m happy to talk together.</p>
+
+<p>[Sidebar: I had planned on running some icebreakers to get to know the students and their work, but Sarah and Anandi actually did this during their opening orientation for the program. So the slide I had planned on getting to know each other became wholly irrelevant. Instead, I realized that I should share a little bit about my own background as it pertained to the topic at hand. So during Anandi’s orientation I inserted a couple slides about the Lab and myself.]</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/5.png" alt="Who am I?" /></p>
+
+<p>So I’ve learned a little about you, but <a href="http://youtube.com/watch?v=izuD30Cp5Ao">who am I</a>? I work in digital humanities now, but I didn’t actually start doing anything with DH until I was a graduate student myself. I didn’t even know of it as a term until I became interested in the fellowships that my friends were doing in the Scholars’ Lab. It took a few years of finding my feet, but the digital project I worked on for my dissertation had to with <a href="http://walshbr.com/blog/woolf-huskey/">Virginia Woolf and machine learning</a>, and it was a project that taught me a lot about myself, my work, and what I wanted out of life. So believe me when I say that you are all far more advanced than I was at the same point in my career. You’re doing great! And you are well prepared for the projects you’re working on.</p>
+
+<p>[Sidebar: During Anandi’s orientation, one of the fellows asked a question about how their own program at Emory compared to the larger landscape of digital humanities graduate programs. Was it unique? How did it compare to other fellowships? So I called another audible and inserted the following slide about the Scholars’ Lab programs so that the students could get context for how things might be structured differently. It’s different aesthetically because, well, it’s from a different talk! I copied and pasted it in quickly from the talk I’d be giving at Emory later that evening.]</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/6.png" alt="Scholar's Lab Programs" /></p>
+
+<p>Based on your question about other graduate programs in DH, I thought it might be worth pausing for just a moment to share what our students do with us in the Scholars’ Lab. At the Lab, we have two year-long fellowship programs. The Praxis Program is something of a soup to nuts introduction to digital humanities for students early in their graduate career. These students typically come in without much experience in digital technologies, but the goal for us over the course of a year is to get them in a position for them to launch their own collaborative digital project. The second fellowship listed here is our year-long Graduate Fellowship in Digital Humanities, a program for people with more experience and who are working to tie DH to their dissertation projects in some way. These students work with a point of contact on our R&amp;D team for the year to develop their project, and students in both programs give public presentations by the end of the year. If you’re interested in learning more, I’m happy to talk at greater length about our individual programs. <a href="http://praxis-network.org/">The Praxis Network</a> might also be a useful resource - it’s a website that archives snapshots of several like-minded programs at one point in time, so on that project you get glimpses at several different approaches to graduate education.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/7.png" alt="Man standing in hallway" /></p>
+
+<p>Let’s get started. I titled this talk “Getting from here to there” because, to me, that’s the most difficult thing about planning any project. And this is particularly true for a student digital humanities project. I like this image because the alt text for it, the text meant to describe its contents for accessibility purposes, is “man standing in hallway.” It showed up when I did a search on Unsplash for “future.” I don’t know about you, but I have a hard time seeing a person in that photo. And when you’re starting out with any kind of digital project that’s part of the challenge. How do you get from point A to point B? How do you get your project from here to there? And how do you place yourself within it?</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/8.png" alt="Baby on steps" /></p>
+
+<p>Now I’m just trying to show you snazzy images, but starting a digital project often puts me in this position. I feel like I’m learning to walk for the first time, and each step seems insurmountable. Each step brings new anxieties, and I’d like to know more about yours. I learned a little about your work, but I’d like to know a little more about your questions. What is the single biggest question you have right now about getting started? What is your single biggest anxiety about the year to come?</p>
+
+<p>[Sidebar: I had budgeted a little time to have the students discuss concerns, but we wound up talking for longer than I anticipated (it turns out I really wanted to help them work through things). At this point, because we had started the workshop a tad late after lunch, I was already becoming aware that we were going to run out of time. We were only about 15 minutes into the 90-minute session, but I had already changed my sense of the timeline for the talk. The questions the students asked were very good. So good, that it seemed as though they were plants. They talked broadly about concerns that they might not have meaningful contributions to make to the field more broadly at this stage in their work, anxieties about finding their way into the DH community, questions about professionalization, and more. Sarah and I fielded them together. The questions worked well as a transition, because I correctly anticipated that some of them would feel like imposters.]</p>
+
+<p>Those are all excellent questions. And part of the message I want you to take away today is that questions like that are all normal. <em>It is normal not to know the answers</em>. Behind all of your questions I heard implied another, particular anxiety.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/9.png" alt="Pepper studying" /></p>
+
+<p>[Sidebar: insert joke about Pepper looking stressed while working.]</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/10.png" alt="Imposter syndrome" /></p>
+
+<p>Behind your concerns, really at their core, I heard questions about imposterdom. When am I going to be exposed for the fraud that I am? I have no idea what I’m doing – when am I going to be found out? I am here to tell you today that almost everyone feels this way. And if you don’t – you’re a Dunning-Kruger, as this chart explains. This feeling – imposter syndrome – is something we live with all through our lives. I’m feeling it right now! And I think it shows that you’re a good, thoughtful, reflective, well-meaning person. <a href="https://www.gamasutra.com/blogs/TanyaXShort/20140716/220938/Overcoming_Impostors_Syndrome.php">This article</a> by Tanya X. Short has some excellent strategies for working through your feelings of imposterdom. I recommend it. But I also recommend you take a deep breath, close your eyes, and recognize that you belong here. You can do this project, and you have a community of people here to help you. I’m also happy to help in any way I can if you want to reach out after this event. But more practically, there are some helpful resources and methods I can share with you for how you can get started. Because one way you can address imposter syndrome is by doing what you always do as academics. Do research. Prepare. Use the resources available to you. The process for digital work does have key differences that I can help you think through. But it is not so wholly alien and different as it might seem at first glance. I have a series of questions that I usually talk through with newcomers to digital projects as they’re thinking for the first time about this kind of work, and I’ll be giving you a version of that conversation today.</p>
+
+<p>Reminder: interrupt me at any time. To begin.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/11.png" alt="How will you go about your work?" /></p>
+
+<p>How will you go about your work? On a day-to-day basis, what is the process by which you will carry out your work? You might be getting to the point where you have good,  personal project management styles that work for you as you’re writing your dissertation. If you don’t, now is a good time to develop them. But it can always be helpful to hear about other strategies. Know thyself in the first instance – find what works for you and stick to it. But don’t be afraid to try out something new.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/12.png" alt="Trello Dashboard" /></p>
+
+<p>Who here has heard of Trello? We don’t explicitly use this tool in the Scholars’ Lab as a whole staff, but we use it on the technical board for one of the journals I’m involved with – the Journal of Interactive Technology and Pedagogy. It’s pretty simple - the idea is that each task gets a card associated with it that you can comment on and move around. Nothing too earth shattering here, but these task management systems become increasingly important as your projects grow in complexity and as you begin to work with collaborators. They’re especially good for humanities projects, in particular, because we’re not used to thinking in terms like this. How do you take a complicated humanities problem and break it into smaller, completable steps? Doing this with technical work can help keep you from burning out and help you feel that you’re moving forward. It can make the whole process of getting from here to there feel doable. You’ll likely be bad at it at first and have trouble with task managing. That’s OK! It’s a skill you can develop like anything else.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/13.png" alt="Agile Project Development" /></p>
+
+<p>If you’ve ever talked to anyone else about the way that they work, you’ve probably realized that everyone takes on projects in different ways. Even writing. When I was writing my dissertation, I would use the “add comment” feature in Microsoft Word to leave myself tasks on the document itself. Any page would have hundreds of comments that I would sort through when I sat down to write and was looking for where to begin for the day. I would be shocked if anyone else used this weird, idiosyncratic system of mine.</p>
+
+<p>Digital work is no different - we all have different ways of going about it. But it’s helpful to get everyone working from the same book if not exactly on the same page. In a corporate context, it can save time, money, and energy if your team has a shared philosophy towards your workflow and project management. This can be true of humanities and DH work as well. In the Scholars’ Lab, we use an approach to project management called Agile Development. The basics of it are before you in this diagram. The general idea is that you work in two-week sprints (at least in the way that I implement it with our students). At the end of each sprint you reflect on where you’re at, what you need help with, and what you need for next steps. A scrum is a term taken from rugby, and it is a set of tools and methodologies for conducting these of check-ins, whether they happen daily or at the end of your sprints. In our staff scrums, for example, we go around the room and ask for two-minute updates (max) describing what you are currently working on, what is next for you, and what you are not working on. But for your purposes here today, you can just think of it as a two-week sprint followed by a meeting to touch base. And then you repeat. We do this with our fellows, who have biweekly scrums with their R&amp;D points of contact.</p>
+
+<p>That explains the center of the diagram. The left side of it refers, I believe, to the idea that you should break your larger project down into smaller tasks that you can accomplish in two-week sprints. That way you have a good sense of progress. In a student project situation, this might be as simple as “I’m going to work through this chapter from this programming book and come to you with the progress I’ve made and the questions I have.” And if a task can’t be accomplished in two weeks it’s probably actually several smaller tasks lumped into one. Break your tasks down until you find something you can do in that window of time. One last thing here – notice the emphasis on circular shapes and the word “potentially.” One of the core concepts of agile development is the idea that iteration is good. It actually saves you time, energy, and, in the corporate world, money to produce something early that might be half baked and get feedback on it. This allows you to learn from your mistakes and iterate on your materials. It requires a certain amount of humility to work like this, and it’s radically different from what we’re used to in academia. Produce something for other eyes? <em>Before it’s perfect?</em> Perish the thought.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/14.png" alt="Cult of Done Manifesto" /></p>
+
+<p>But truly – I’m here to tell you that perfectionism, while often encouraged in academia, can be a significant barrier to getting things done (and hint – also a cause of imposter syndrome). The <a href="https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13">Cult of Done Manifesto</a> is a document I adore that gets at this point. “Accept that everything is a draft,” it reads. Your project is a draft. You’re a draft! It helps to think about ourselves as works in progress. The Cult of Done Manifesto isn’t a text that necessarily comes from the agile community per se, but they have overlapping concerns. Iteration is a part of our practice. It’s how we learn.</p>
+
+<p>It’s worth considering that not everyone is equally able to iterate or develop in public – women, people of color, and other marginalized communities have different experiences of the world and of digital life. And the internet, the public audience for much digital work, is toxic. But it’s worth at least thinking about how you can push yourself to rethink the practices with which you’re comfortable in spaces that allow you to do so. I’m not really talking about a binary, where, on the one hand, things are kept fully private until they are absolutely perfect and, on the other, you’re publishing every piece of half-finished work for all to see. Find what makes sense to you. Consider how you can take small steps that work for you in the direction of being more comfortable with your work in progress as something worth sharing.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/15.png" alt="Principles of Agile Development" /></p>
+
+<p>One last note on agile. The agile community released a <a href="https://agilemanifesto.org">series of principles</a> that are worth pausing over. I’ll read them. Individuals and interactions over processes and tools. Working software over comprehensive documentation. Customer collaboration over contract negotiation. Responding to change over following a plan. Keep in mind that these come from the software world. Let’s take a moment to think about them. What do you notice about them? How might these apply to your own work as a humanities student? As a DH student? What are they missing?</p>
+
+<p>[Sidebar: At this point I paused for discussion and questions. My goal was to get the students to think about questions of communication, self-reflection, and iteration as they might pertain to their own work. The students had great thoughts and questions about how to apply agile thinking to digital projects and dissertations. One that stuck out to me - how could you apply these sorts of ideas to a project where you were, really, the sole person working on the project? I suggested in response that, first, you could project manage yourself in the same way you would a team and that, second, projects were almost always the product of many hands, even if they might appear to be the work of a solo individual. Think deeply about the help you might be overlooking and how you can better structure those relationships.]</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/16.png" alt="Four principles for project planning" /></p>
+
+<p>Lists of principles like this are often helpful, so here is my own spin on the conversation. If I had to offer four principles for DH project planning, I might offer these. Give yourself permission to keep it small. Work iteratively. Credit generously. Connect it to you. There could be many others, and I might give you a different list depending on the day of the week. But they’re a start. We’ll talk more about what some of these points mean shortly.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/17.png" alt="What will you do?" /></p>
+
+<p>Everything we’ve talked about so far could be filed under the question of how you’ll do your work. But, at this early stage, you’re probably also thinking about - obsessing about - the what. What exactly do I want to do with this project? One project management tip: this can be a dangerous question. For humanities students and faculty, it’s all too common to want your idea to go deeper, further, more complex. You’re trained to deconstruct and push ideas. This is great when writing a book or teaching a class. But in a digital project each of these potential ideas represents time and energy on your part. Digital projects aren’t developed at the speed of an idea or the speed of writing. They take time to implement. And each new idea takes more time.</p>
+
+<p>Instead, I want to suggest you think about a related question as enlivening.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/18.png" alt="What don't you want to do?" /></p>
+
+<p>Instead of asking, “what do I want to do?” you might ask, “what don’t I want to do?” It’s a powerful question. But it is very, very hard to ask it of yourself. And it’s a question whose value only becomes clear with experience. You learn the value of it the hard way. Put another way - check out this image.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/19.png" alt="Feature creep" /></p>
+
+<p>Feature creep refers to a tendency for projects to creep along, growing in size, way beyond their original intention. And at a certain point, like this tool here, a project becomes unwieldy and useless. You can’t even pick it up without stabbing yourself. We’ve all worked with tools or interfaces like this – so many options that you can’t do anything at all. When you continue to layer more and more ideas, more and more features, onto a project, things can quickly spin out of control.</p>
+
+<p>This is an especially difficult problem for students of digital humanities because they’re often coming to these questions for the first time. So you don’t know if an idea is a reasonable one or totally impossible. Spoiler alert - this a problem even among professionals. We’re all dealing with this all the time. So I wanted to give you a few ways to think about scoping out features.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/20.png" alt="Pepper reaction shot to feature creep. " /></p>
+
+<p>[Sidebar: I believe I made a joke here about Pepper’s reaction to feature creep.]</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/21.png" alt="Two pi rule pt 1" /></p>
+
+<p>I wanted to share two quotes from a conversation we had about project scoping during my time as a student in the Scholars’ Lab. Apologies if I don’t get the exact wording right - this was a decade ago after all. Here is Wayne Graham, former Head of R&amp;D in the Scholars’ Lab, discussing how he plans out work on a project. He takes any estimate his staff gives him and multiplies by pi, because things always take longer than anticipated, even for professionals.</p>
+
+<p>Now, here is a quote from Bethany Nowviskie, former Head of the Scholars’ Lab and Wayne’s boss.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/22.png" alt="Two pi rule pt 2" /></p>
+
+<p>“I take whatever estimate Wayne gives me and double it.” It was a conversation that really stuck with me. Multiply any estimate for how long a project or task will take by two pi. That’s a lot longer than expected!</p>
+
+<p>How, then, can you decide what’s worth doing? In the face of these kinds of difficulties, it’s helpful to have some sort of a system in place for determining the value of what you’re thinking about doing. This is especially helpful in humanities work, where sometimes the features we’re talking about directly build upon our own ideas about things we care about. It can all feel very personal. It can be helpful to try to make things objective. Here’s one way to do so.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/23.png" alt="Scoping checklist" /></p>
+
+<p>Here’s a checklist for you as you go about your work. Is this feature hard? And is it important? These questions are difficult to answer when starting out, so it can be good to ask for help as you think through them. But it’s also a skill that you can develop with experience. So take the time to try to break your large project into as many components as possible.</p>
+
+<p>Let’s practice together. Take the idea of a digital archive. That’s a big thing. But you could poke at a lot of pieces of it. Say…you were going to make an archive of American protest. What are some decisions you would have to make about it? What would some features be?</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/24.png" alt="Design an archive" /></p>
+
+<p>[Sidebar: had we more time, at this point I would have paused to actually run the speculative exercise for designing a digital archive, something I’ve done in courses before. I was watching the clock, though, and felt I needed to just give a few conceptual takeaways before moving on. I asked the students to consider a range of different questions that would impact the features and scale of such an archive. Will the archive be private or public? Will it index everything about the topic from all countries in all years? Maybe just one year? Maybe just one country? All types of media? Maybe just text? Will people be able to add to it? If they can add to it, will you have to moderate their contributions? The answers to all of these questions will affect the scale of a project and the time it will take to implement.]</p>
+
+<p>You quickly begin to see that there are many different ways you can slice up a big idea. And any one of these decisions could potentially blow your project up and make it unwieldy. Start small, and, remember – a project that is all things for all people is probably nothing for no one.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/25.png" alt="Design an archive" /></p>
+
+<p>That checklist I gave you before is actually a pretty common one, and this visualization probably seems like common sense. But I still think it’s powerful to see laid out like this. Take a moment to look at it. [Sidebar: pause for a moment] Where do you think you want to live? [Sidebar: the answer is top left] Where do you want to avoid? [Sidebar: the answer is bottom right.] And of course you will probably spend most of your time in the top right. Not too difficult to tell that because this visualization gives you helpful names for each category.</p>
+
+<p>This sort of task-oriented thinking isn’t something we’re used to doing. But it’s helpful to think about your work this way. Even something as abstract as writing can benefit from this! In my own situation – I’m a full-time, 12-month, 40-hour staff person, but I still try to write, publish, and (as you can see) give talks. Trying to finish writing projects when you have the regular standing commitments of a job is difficult. I only have so many hours in the workweek. Methods like these help me to figure out how long I have to write, what I can accomplish, and what I can’t.</p>
+
+<p>[Sidebar: I want to give huge credit to Ronda Grizzle here for everything she does for the Lab related to project management. Everything I know about it I learned from her. Anandi also had wonderful thoughts on project management during this portion of the workshop, and she shared them with the students.]</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/26.png" alt="Quote from Antoine de Saint-Exupery" /></p>
+
+<p>One last quote on this that I want to leave you with. “Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.” Saying no is a super power. Truly. I’ve said in the Scholars’ Lab before that the best projects – the best features – are the ones you don’t implement. Because saying no to something in the short-term means that, in the long-term, you can say yes to something you really want to do.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/27.png" alt="What support do you have?" /></p>
+
+<p>[Sidebar: I set aside time here, again, for any questions or discussion that might come up.]</p>
+
+<p>The next question is a big one for students. What kind of support do you have? It’s one thing to talk about the difficulties of project development in theory, but it’s another to come up against the actual realities of project development. You all have lives. You have programs you’re trying to do. This is hard. But the good news is that you’re not alone.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/28.png" alt="Pepper being supported by my arm" /></p>
+
+<p>[Sidebar: Pepper being supported, cats, etc. etc. It was also about this time that Sarah and I agreed we would not get to the follow-up activities I had planned. Instead, the new plan was to finish out the talk portion, discuss with the students, and describe the kinds of activities we would have done with more time so that they could follow up with them on their own later. This revised plan meant that I didn’t feel the need to rush through the material - I could instead allow the students space for discussion as they wished.]</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/29.png" alt="MLA Committee on Information Technology" /></p>
+
+<p>For one, I wanted to point you a <a href="https://infotech.mla.hcommons.org/2018/digital-humanities-dissertation-starter-kit/">blog post put out by the MLA Committee on Information Technology</a> on how to begin thinking about putting together a digital dissertation. There are a number of good resources linked here that I would encourage you to check out. Guidelines for evaluating digital work. Models of work that has already been done. Any difficulties you might face from the standpoints of project development, of getting buy-in from your committee, or of dealing with the university have probably been faced by others before you. It is highly unlikely you are the first ones to have these issues. So look for evidence, help, support, and resources from the larger community. I’m happy to help you find things as well. Feel free to reach out.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/30.png" alt="Collaborators Bill of Rights" /></p>
+
+<p>I’m also certain there are people locally – students, staff, librarians, and faculty – who are in your corner. Sarah has already told me about some of them, and you already mentioned others in your introductions. Accept their help - you don’t have to do this alone. But be careful you don’t take exploit their goodwill.</p>
+
+<p>Instead, I would encourage you to think of this work as an opportunity to start to develop a space more like what you would want the academy to be. This is an image of the <a href="https://archive.mith.umd.edu/offthetracks/recommendations/index.html">Collaborators Bill of Rights</a>. Digital work takes many hands. Consider that labor. Share generously. Credit liberally. Make sure that everyone all the way down is acknowledged in your project, in as many places as you can. Consider how you can make these people your true collaborators if they are up for it – ask them how they want to be cited. If their voice and work are important to you and your project, ask them if they want to co-present or co-author with you. These things might seem weird, trained as we are in the humanities to think of authorship as something done by sole individuals, but that doesn’t have to be the norm. And I can assure you that these conversations mean the world to people in libraries.</p>
+
+<p>This conversation is not just about projects. It’s about people. And you can use this space to begin to help shape a more expansive, generous, and humane way of doing digital work. In the Scholars’ Lab, for example, we push for real collaborations. We do work with – not for – as much as we can. So begin to think about how your project, in some small way, can begin to flatten the hierarchies at work in the academy. If you were interested in a related document about rights you should expect of collaborations as a student, I’d also point you to the <a href="https://humtech.ucla.edu/news/a-student-collaborators-bill-of-rights/">Student Collaborators Bill of Rights</a> from UCLA.</p>
+
+<p>[Sidebar: I paused again for questions.]</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/31.png" alt="Praxis charters" /></p>
+
+<p>One tool we use in the Scholars’ Lab to help structure relationships in positive, ethical ways is called a charter. The charter is the last concept that I wanted to introduce to you all. It’s a pretty simple idea – a charter is a document that reflects your shared values and principles. What you expect of each other, how you’re going to work together. What you hope to get out of the thing. Think of it like a personal and collective mission statement.</p>
+
+<p>A charter is something that a group can return to later when questions come up. Articulating values like this can be really useful because when the rubber hits the road you can ask of any new feature, project, or idea - does this connect with the things I care about? Is it advancing our mission, or at least our mission as we want to see it? In front of you is the <a href="http://praxis.scholarslab.org/charter/charter-2011-2012/">charter for our first Praxis cohort</a>. We’ve had students on this collaborative fellowship put a charter together every year, and we have several for the lab as well – <a href="https://scholarslab.lib.virginia.edu/charter/">one for the lab in general</a> and another for how we approach <a href="https://scholarslab.lib.virginia.edu/student-programs-charter/">student programs</a>.</p>
+
+<p>The reason I end with the charter is that it connects to what I might offer as a last principle for project planning.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/32.png" alt="Five principles for project planning - last line has to be filled in by you. " /></p>
+
+<p>A project is only as good as it connects to you. But you have to decide what that connection looks like.</p>
+
+<p>We encourage our students to think about charters as an opportunity to articulate their project goals and <em>also</em> their goals for their own portion of the project. Their goals for themselves. What do they hope to gain? How do they hope to grow? What do they acknowledge as their own limitations? A project should, in some way, help you in your life. It’s going to get you to a place you want to be, be that professionally, spiritually, intellectually, or ethically. I thought of my dissertation as a story that I wanted to sit with and a story I wanted to tell for a few years. This is similar to how my colleague Jeremy Boggs describes digital archives and digital projects more generally. To him, projects tell stories. Put another way, how is your project going to help you tell yours? Or more specifically – what kind of person do you want to be? How can the telling of your project’s story help you to bring that person into reality? One answer might be as simple as “this content is important to me.” Another could be “I want to become closely connected with the librarians I work with and learn about their lives.” It could mean that you’re aware of the climate of the academic job market, and you’re using this as an opportunity to develop skills and expertise that can help you in a wide variety of careers.</p>
+
+<p>A project is more than just the stuff - the disciplinary material - in it. It’s a statement about how you view your work and the world and how you think each should be. That’s why there’s a blank line at the end here. You have to decide what that last line is for yourself.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/33.png" alt="Quote by Paulo Freire" /></p>
+
+<p>To tip my own hand a little bit, I wanted to speak just for a moment about how I see my pedagogical work and the project underlying it. I had this quote by Paulo Freire in mind as I was writing this talk. “As beings programmed for learning and who need tomorrow as fish need water, men and women become robbed beings if they are denied their conditions of participants in the production of tomorrow.” Sean Michael Morris shared this quote with us at <a href="https://www.digitalpedagogylab.com/">Digital Pedagogy Lab</a> a few weeks ago, and it’s been on my mind ever since.  There is a lot there, but Freire is getting at a few things. For Freire, education should always be a radical act of revolution. Students should always be thoroughly engaged in the process of shaping their own learning experiences, and it is the job of the progressive educator to help them overturn traditional modes of education and allow them to act as teachers themselves. The quote is about what does or does not help students produce their own tomorrows, but it’s also about producing the tomorrows of education and society.</p>
+
+<p>I try to approach all the projects I work on – and really the students are the projects – with a sense of this animating philosophy in mind. I always want to ask, “how is what I’m doing here empowering students to reshape the structures that are holding them back?” There can and should be a reason for everything that I do, and I’m constantly thinking about what that reason is.</p>
+
+<p>That’s where I’m coming from. That’s how I fill in that empty line. And I want you to think about that why question for yourselves. It’s not just a why for the content. But also about the why behind all the steps of project planning. How can your work help engineer the tomorrow you want to see?</p>
+
+<p>So I want to end today by helping each of you engage in some soul searching. With the time we have remaining, we’re going to run a series of exercises and discussions about the kinds of goals and assumptions you’re bringing to this. And we’ll talk things out – I’m happy to spend more time addressing specific questions as well. We can go anywhere you want. Let’s get started.</p>
+
+<p>[Sidebar: as I mentioned above, we didn’t actually have time to run the workshop proper, and we instead used the remaining moments for more discussion. I shared the slides with the folks who invited me, because they thought they might make for useful follow-up activities throughout the year. So even though we didn’t get to them, I thought I’d share the materials below with a few quick notes on what I had in mind. I’ll quit with the brackets, as the talk proper has ended. What follows is all just framing for the extra material I had prepared.]</p>
+
+<h2 id="workshop-activities-to-get-you-there">Workshop Activities to Get You There</h2>
+
+<p>The preceding talk and discussion aimed to get the students thinking about their projects from a number of different angles - practical, logistical, collaborative, and theoretical. But I ended with values because, to me, they’re the most important. They can also be the most difficult to think about. It takes practice to learn how to articulate your values and goals in relation to a project, a measure of self-reflection that we aren’t necessarily taught how to do in graduate school. The following activities are meant to build on each other and guide participants towards a firmer sense of themselves in relation to their projects.</p>
+
+<p>I also want to explicitly note the importance of the work of two people to the shape of these activities. <a href="https://scholarslab.lib.virginia.edu/people/ronda-grizzle/">Ronda Grizzle</a> is the expert in the Lab on project management, charters, and life design, and I adapted the mind mapping activity, in particular, from work she has had us do internally. Secondly, I attended <a href="http://www.digitalpedagogylab.com/">Digital Pedagogy Lab</a> over the summer, and <a href="https://www.seanmichaelmorris.com/">Sean Michael Morris</a>’s breakout session on writing about teaching was instrumental in changing how I thought about in-class writing activities. I learned the four rules for writing from him in that session.</p>
+
+<p>There are three activities I had planned. Given the title of the talk, I suppose I might call them “three activities to get you there”:</p>
+
+<ol>
+  <li>Charter discussion</li>
+  <li>Mind mapping</li>
+  <li>Timed writing on values</li>
+</ol>
+
+<p>I’ll contextualize each activity briefly and share the slides that I had prepped. Hopefully that will give a sense of how I’d run them if others are interested.</p>
+
+<h3 id="charter-discussion">Charter Discussion</h3>
+
+<p>Charters can be somewhat difficult to wrap your head around without models. So I planned to begin by offering the students some examples drawn from past years of the Praxis program. I shared the link for <a href="http://praxis.scholarslab.org/charter">praxis.scholarslab.org/charter</a> with the students, and from there I planned on doing a pretty typical think-pair-share activity. None of the charters are especially long, and it’s not necessary to read through one in its entirety to get the flavor of the piece. I anticipated having each student pick a charter to spend five minutes reading and thinking about. After the initial thinking time, they would spend five minutes discussing with their neighbor before we came back for a general discussion for ten minutes or so. The goal was to give the students models and to show them the kinds of categories that might go into such a document. Hopefully from there they would start thinking about personal, professional, and technical values they might have alongside their goals for the year.</p>
+
+<p>The relevant slide:</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/34.png" alt="Charter discussion slide" /></p>
+
+<h3 id="mind-mapping">Mind Mapping</h3>
+
+<p>After looking at charters from other groups, the students are ready to start thinking more deeply about their own views on things. For that, I turn to mind mapping.</p>
+
+<p>Mind mapping is an activity that asks people to free associate words related to a particular topic in in the service of opening up a free, non-judgmental space for brainstorming. The first challenge with mind mapping, I find, is that people don’t necessarily know what it is. So several of the following slides focus on setting up the concept for participants.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/35.png" alt="Mind mapping as a concept" />
+<img src="/assets/post-media/getting-from-here-to-there/36.png" alt="What mind mapping looks like in practice" /></p>
+
+<p>The definition and example mind map I offer here come from a book Ronda Grizzle shared with me called <em><a href="https://designingyour.life/the-book/">Designing Your Life</a></em> by Bill Burnett and Dave Evans. After offering a definition, I describe the general process, which involves a starting word, mapping out associations to that word, and then mapping out further secondary associations from there.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/37.png" alt="Example of a mind map" /></p>
+
+<p>Images help to explain this better, I think, so I offer a picture of an example mind map from <em>Designing Your Life</em>, where someone is trying to brainstorm a potential career from things that interest them.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/38.png" alt="Why mind map your project" /></p>
+
+<p>Next I suggest some reasons for mind mapping. By getting all of your ideas on the table, the process allows you to reflect more fully about which pieces are important to you. At the end of the mapping process, circling four or five of the words most important for you will help clarify which elements could be the basis for a good charter.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/39.png" alt="How to generate the core words of your project" /></p>
+
+<p>The starting word in the center of the map is important, as it generates the other associations for you. So I planned on reiterating the questions that we discussed in the course of discussion to help the students get started and to help generate other associations.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/41.png" alt="The mind mapping prompt" /></p>
+
+<p>From there, the mind mapping activity involves the following:</p>
+
+<ul>
+  <li>Placing your starting word.</li>
+  <li>Mapping outwards for five minutes.</li>
+  <li>Reflecting on the resultant map for five minutes and circling important concepts.</li>
+  <li>Discussing with their neighbor for five minutes.</li>
+</ul>
+
+<p>I’ve done a version of this activity for helping people develop a sense of their DH pedagogy, and I’ve found that mind mapping is great for helping participants engage in deeper forms of self-reflection about their everyday practices.</p>
+
+<h3 id="timed-writing-on-values">Timed Writing on Values</h3>
+
+<p>Now that the students have seen some examples and discussed them, it’s time for them to write. They’ll be in a decent place to do so, hopefully, because the mind mapping activity already asked them to think about large topics that were meaningful to them. As writing about values can sometimes feel frightening, I drew in Sean Michael Morris’s great rules for timed writing prompts here to help encourage the participants. I chose eight minutes, but you could give a longer amount of time - anything would be useful. After writing, I could imagine having a productive conversation about the results. The students need not feel pressured to share their exact wording, but a general discussion of the process, the issues, and things that they gravitated towards would be useful.</p>
+
+<p><img src="/assets/post-media/getting-from-here-to-there/42.png" alt="Timed writing on values" /></p>
+
+<p>That’s it for the workshop and accompanying materials! Happy to talk with anyone who might be interested in working with them. The trip to Emory was very invigorating and provocative, and I was endlessly impressed, especially, by the students at ECDS. They’re a great crew. Keep an eye out for them - they’re already doing important work, and you’ll be hearing from them soon.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Life of a (Scholars') Lab: on Community]]></title>
+    <link href="http://walshbr.com/blog/ach-2019/"/>
+    <updated>2019-07-24T18:06:00+00:00</updated>
+    <id>http://walshbr.com/blog/ach-2019</id>
+    <content type="html"><![CDATA[<p><em>Crossposted to the <a href="https://scholarslab.lib.virginia.edu/blog/the-life-of-a-scholars-lab-on-community/">Scholars’ Lab blog</a></em></p>
+
+<p>I was on a roundtable at <a href="http://ach2019.ach.org">ACH 2019</a> on The Life of a Lab, described on our slides as discussing “Cross-sectional issues of administration, funding, identity, and disciplinarity in DH labs.” The rough text of my talk follows along with my slides.</p>
+
+<p><img src="/assets/post-media/ach-2019/1.jpg" alt="Slide deck title - The Life of a (Scholars') Lab" /></p>
+
+<p>I’m Brandon Walsh, the Head of Student Programs in the <a href="https://scholarslab.lib.virginia.edu">Scholars’ Lab</a>, a center for experimental scholarship in the University of Virginia Library, where our work is informed by digital humanities, spatial technologies, and cultural heritage. We are a part of and report through the library, and all but one of our employees are currently on hard salary lines. There’s much more to be said about nitty gritty things, and I’m happy to speak further in conversation with others about the Lab’s positioning and infrastructure. For now, I’ll just offer thoughts on this conversation from my own corner of our work, which is primarily student-driven and pedagogically inflected. The points I’ll raise aren’t ones we have the answers to necessarily, but they’re the work that we’re trying to think through.</p>
+
+<p><img src="/assets/post-media/ach-2019/2.jpg" alt="Slide - photo of Scholars' Lab public space. Large room with chairs, tables, and computers." /></p>
+
+<p>I want to begin by situating my ideas in our space. This is a fisheye view of our public area (photo credit to <a href="https://www.acceptable.photography/">Shane Lin</a>), where students, faculty, and staff can collaborate on projects or get access to certain software packages (particularly GIS). It’s one of a few spaces we have, and we share it with the library and the public. Our makerspace is nestled in the back there, and any given day we have a number of people working there, some formally affiliated with us, some not. In the Lab we often say we prioritize building up people over projects. This positioning - this space that people move in and out of - both reflects and informs our philosophy in the Scholars’ Lab, which I’ve broken down here into a short list of points. Think of them as things I’d be likely to print out and pin to my wall as reminders/precautions/aspirations. Because of my own role, my remarks will largely deal with students.</p>
+
+<p><img src="/assets/post-media/ach-2019/3.jpg" alt="Slide - Point 1: A lab's community changes over time" /></p>
+
+<p>Point 1: A lab’s community changes over time.</p>
+
+<p>The life of a lab is one that waxes and wanes, that has lifecycles like any living thing. The Scholars’ Lab has a <a href="https://scholarslab.lib.virginia.edu/charter/">charter</a> that expresses our values, but half of the people who wrote that document (one that is still very important to us) don’t work in the lab anymore (we’ll hopefully be renewing and rewriting soon). In the context of student work, one thing we think a lot about is how the community we give most of our resources to is necessarily going to leave (former Director Bethany Nowviskie has great reflections on this in her post “<a href="http://nowviskie.org/2012/too-small-to-fail/">Too Small to Fail</a>”). That’s not a problem per se. But it does lead to a difficult ebb and flow of outreach. It’s difficult to establish an identity on such shaky territory, and, yet, we’re nevertheless regularly called upon to do so. Life is about change.</p>
+
+<p><img src="/assets/post-media/ach-2019/4.jpg" alt="Slide - Point 2. Community definitions include -- and exclude." /></p>
+
+<p>Point 2: Community definitions include – and exclude.</p>
+
+<p>We recently had something of a reckoning with our own identity as a digital humanities center - I think our reputation is largely as a DH center, but only about a third of our staff identified as DH. We’re still trying to reckon with this, but you caught a glimpse of it in how I defined what we do at the beginning of the talk. These definitional issues draw boundaries for people, and administrative choices can more explicitly delimit your community in exclusionary ways. From the student side of things, we work extensively with graduate students, but less so with undergraduates. MA students have a more difficult time finding their way into our named programs, and humanities-minded students in the sciences, architecture school, and others have bureaucratic difficulties to working with us. They still can, but the occasions are different. Much of my energy these days is spent trying to be more inclusive and inviting, both in abstract ways but also by dealing with red tape that throws up real barriers for people.</p>
+
+<p><img src="/assets/post-media/ach-2019/5.jpg" alt="Slide - Point 3. A diverse community requires varied types of support." /></p>
+
+<p>Point 3: A diverse community requires varied types of support.</p>
+
+<p>Those different groups I mentioned? They all have different circumstances. MA students and PhD students, for example, all have different lived realities, positions in the university, goals, and needs. We’re constantly thinking about what meaningful units of support are – course credits, wages, stipends to offset teaching requirements. But there are also other things that are meaningful – help with professional development, emotional support, showing up for their dissertation defenses, etc. All of these things matter, but they matter in different ways to different people (and they cost different things to us as staff). This cuts across different areas of work as well. You can’t think about just one public or just one student body or just one monolithic Faculty with a capital F. It’s important to work across all these categories.</p>
+
+<p><img src="/assets/post-media/ach-2019/6.jpg" alt="Slide - Point 4 - Community members will leave." /></p>
+
+<p>Point 4: Community members will leave.</p>
+
+<p>A variation of point one. We do a disservice to our students and our community members if we are not thinking about what comes next for them. For our staff, it means encouraging professional development and recognizing that if they leave to go on to better things that means we’ve done our job well. For colleagues in precarious positions it means trying to advocate for the best possible circumstances for them we can, working against toxic systems that place them in such positions, and elevating their work and voices. For students in the Scholars’ Lab, this means engaging with a program called <a href="https://phdplus.virginia.edu/">PHD+</a> that tries to prepare students for diverse career outcomes after graduating. It means having frank conversations with them about precarious labor in academia and in DH.</p>
+
+<p><img src="/assets/post-media/ach-2019/7.jpg" alt="Slide - Point 5: We can always be better." /></p>
+
+<p>Point 5: We can always be better.</p>
+
+<p>How can we be better? That’s the animating question that has been hovering behind all my comments so far and that drives my thinking on our student programs. For me, this means consistently re-reading and re-consulting the <a href="https://docs.google.com/document/d/1bKpiqX9LPGJsKJsLopFW5vvEgwS3koXZJQU3nv-iuWw/edit">Postdoctoral Bill of Rights</a> and the <a href="https://humtech.ucla.edu/news/a-student-collaborators-bill-of-rights/">UCLA Student Collaborator Bill of Rights</a> as touchstones for what we do. And groups like <a href="https://aadhum.umd.edu/">AADHum</a> and <a href="http://www.dhwogem.org/">DH-WoGeM</a> are doing so much to elevate important conversations that we try (and will keep trying) to bring into our work in the lab. There are systemic forces structuring the way we interact with our community - and the way you interact with yours. Pushing back against them should be part of the long-term plans for a lab’s work. Even if things seem to be going well in a general sense, someone in your community is struggling.</p>
+
+<p>Because talking about the life <em>of</em> a lab is really secondary to talking about the life -the lives - <em>in</em> a lab. We have a responsibility to do right by those people whom we teach, employ, collaborate with. This means approaching issues of infrastructure and administration with a sense of the lived impact these decisions have. We can always be better - there is always work to be done. That’s the work that we’re engaged in right now in the Lab.</p>
+
+<p>I’m happy to talk more. For now I’ll yield to the rest of the group.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[(DH) Public Speaking]]></title>
+    <link href="http://walshbr.com/blog/dh-public-speaking/"/>
+    <updated>2018-11-26T15:17:00+00:00</updated>
+    <id>http://walshbr.com/blog/dh-public-speaking</id>
+    <content type="html"><![CDATA[<p>This is a post that I had partially drafted on my laptop for a while, and I want to be better about getting things out in the world rather than sitting on them.</p>
+
+<p>Part of my job involves helping students professionalize, as digital humanists and otherwise, which often means being there when students get accepted to their first digital humanities conference. Since most of my students come from the humanities, those conversations often go something like this:</p>
+
+<blockquote>
+  <p>Student: “I got accepted to the big digital humanities conference!” <br />
+Me: “That’s exciting! You should be proud of yourself.”<br />
+<strong>two months pass</strong> <br />
+Student: “Wait what should I be expecting at this conference? People read their talks right?”<br />
+Me: “Well…it’s complicated…”</p>
+</blockquote>
+
+<p>The answer, of course, is that it depends. In my experience, DH presentations seem to cover the full spectrum of approaches to public speaking and vary pretty widely depending on the conference. A DH talk at a discipline-specific conference is likely to be different than a DH talk at a mostly DH event. Some people dutifully read a talk they have written ahead of time. I would say most speakers get by with talking from notes, giving a presentation that is more or less extemporaneous. Some seem to speak fully off the cuff with little preparation and pull it off with style (not something I could do). Personal styles vary a lot, and giving a keynote is somewhat different than giving a roundtable response or a short paper presentation. Arguments about which approach is the best can be <em>fierce</em>.</p>
+
+<p>The topic reminds me of a conversation I had with an undergraduate mentor back when I was just coming into graduate school and was accepted to my first conference. I had no real experience with academia at all - no friends or family who had worked on graduate degrees that were not pre-professional, and no humanities grads in my network. So I did not know what an abstract was, what a talk was, or how the two related with each other. After all, these behaviors and institutions all have to be learned sometime and somehow.</p>
+
+<p>So on the off chance that this information is useful to someone out there I thought I would make a few notes about the way I go about preparing for talks, particularly because the way I do so is probably not immediately legible based on the end product. The way I do things feels somewhat idiosyncratic, which hopefully makes it all the more worth sharing. I finally decided it was worth doing so after walking around the Chicago airport prepping for my DH 2018 talk.</p>
+
+<h2 id="reading-a-talk--giving-a-talk-from-notes">Reading a Talk / Giving a Talk from Notes</h2>
+
+<p>To begin, it might be helpful to compare the two main approaches to giving DH talks that I outlined above. I think they probably hold true for most forms of public speaking, though one genre of talk might be less socially accepted depending on your context and your audience.</p>
+
+<p><strong>When reading a written paper…</strong></p>
+
+<ul>
+  <li>You are more likely to stick to the time limit. It is easier to plan when you know each page is roughly two minutes.</li>
+  <li>You already have something written up that can easily be repurposed or shared online. It is harder to get back in the conference headspace and write a thing up with every passing moment after a conference.</li>
+  <li>You will probably find the experience easier on the nerves, as all you have to do is keep reading and talking. Before you know it, the bulk of the talk will be done.</li>
+  <li>You can seem quite dull unless you take steps to perform your reading very well. This point is probably the main objection to reading a talk. After all, it is hard to stay engaged when someone is just reading aloud for 15 to 20 minutes (let alone an hour). This is not universally true - some people are quite adept at performing their reading of a presentation. And some (non-DH contexts in particular) virtually expect you to be reading your talk.</li>
+  <li>But, then again, you will actually say everything you mean to say in the order you mean to say it. That is worth a lot!</li>
+</ul>
+
+<p><strong>When speaking from notes…</strong></p>
+
+<ul>
+  <li>You are more likely to be engaging. It is easier for you to inject a sense of personality in your talk. Again, this is usually the big advantage of the approach to people.</li>
+  <li>It is more difficult to predict how long you will talk for. If you take out the rough rule of two minutes to a 12-point Times New Roman page it is more difficult to know exactly what you are in for. Will you get through everything? Will you run out of time?</li>
+  <li>Beyond pace, you might leave something out, or you might not say something in exactly the best way to express your ideas.</li>
+  <li>You will not necessarily have a written product ready to go at the end, so that makes more work for you if you want to share the talk.</li>
+</ul>
+
+<p>I think it is far more common in digital humanities to speak from notes. People have quite strong opinions about the delivery of talks, but I have always felt that there is no one correct answer. In one context you might see someone looked down upon for reading, but in that same venue a speaker might try and go from notes, go way over time, and never get through more than the introduction. Both can be done well, and both can be done poorly.</p>
+
+<h2 id="write-and-then-listen">Write and then Listen</h2>
+
+<p>I do not write this to convince anyone that one form is better - I always feel like the conversation depends on a lot of personal factors. How anxious does public speaking make you? What makes you most comfortable? What social, personal, or medical circumstances might wholly rule out one approach for you? I more wanted to share my approach, which tries to split the differences. I should say at the outset that I am not necessarily advocating this for everyone. It feels a bit strange, but it is a workflow that I have come to like quite a lot. Hopefully it’s useful for someone out there as well.</p>
+
+<p>The workflow I use to prepare has its roots in my own learning habits that go back to grade school - I have always found it easier to learn things by listening rather than by reading. When learning things for tests growing up I always needed to say them aloud - get them in my mouth and in my ear. And now I do it as a professional. If it was good enough for me in sixth grade it is good enough for me as an adult. The process I use to prepare for long-form public speaking (usually anything longer than 5-6 minutes) draws upon a similar process of making the work audible:</p>
+
+<ol>
+  <li>I write the talk.</li>
+  <li>I record myself giving the talk and make an MP3 of it using <a href="https://www.audacityteam.org/">audacity</a>.</li>
+  <li>I use <a href="https://www.ronimusic.com/">The Amazing Slow Downer</a>, a great tool used by musicians, to divide up the talk into sections.</li>
+  <li>I listen to the segments of that MP3 a bunch of times while walking around the airport, doing chores, driving, etc.</li>
+  <li>Practicing a talk usually entails trying to learn pieces of the talk.</li>
+  <li>When giving the talk I have the written version for reference if needed, but I usually don’t need to look at it much.</li>
+</ol>
+
+<p>The Amazing Slow Downer allows you to do all sorts of useful things with audio to facilitate learning things by ear. You are probably not going to use most of its features if learning a talk, but it does have a pretty handy slicing and looping tool that can make it easier to divide a talk into segments and learn one piece at a time. If you are trying to learn music you can also slow things down without changing the pitch so as to pick things apart one note at a time.</p>
+
+<p>Writing a talk is one thing. Learning and delivering it are another. The process for me is pretty similar to learning a song by listening to it on repeat. By the time I give the talk the thing has been rattling around in my head for days or weeks. I am usually just as excited to get the content out of my head and move on with my life as I am to actually discuss the material. I do not ever quite memorize the talks, but I do come close in a lot of cases. The good thing, though, is that I do not really need to memorize them. I can always bring the written talk with me anyway, and I usually do. Because I have already listened to the piece a lot and tried to learn it I only need to look down every five or six sentences to jog my memory. Each listen to the talk ahead of time is one fewer times I will have to look down at the sheet in the moment.</p>
+
+<p>The result is a good middle road for me where I feel like I get the best of both worlds. I walk away with a blog post ready to go, and the timing is easier to plan for. I think I am much more engaging this way than when I read straight up, and it calms my nerves to know that I have prepared enough that the talk has earwormed its way into my head. If I get <em>really</em> panicked I can always just look down and grab the next set of sentences.</p>
+
+<p>As with all things, your mileage may vary. But if this post does nothing other than spread the word about The Amazing Slow Downer I will consider it a success. It is a really nifty tool, especially when paired with Audacity.</p>
+]]></content>
+  </entry>
+  
+</feed>
