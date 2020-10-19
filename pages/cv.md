@@ -48,7 +48,7 @@ Peer Review Publications
 * Sichani, Anna-Maria, James Baker, Maria José Afanador Llach, and Brandon Walsh. 2019. “Diversity and Inclusion in Digital Scholarship and Pedagogy: The Case of the Programming Historian”. Insights 32 (1): 16. DOI: <a href="http://doi.org/10.1629/uksg.465">http://doi.org/10.1629/uksg.465</a>.
 * "The Joycean Record: Listening Patterns and Sound Coteries," <em>James Joyce Quarterly</em>, vol. 53 no. 3-4, 2018.
 * "<a href="https://programminghistorian.org/lessons/editing-audio-with-audacity">Editing Audio with Audacity</a>", The Programming Historian 5 (2016), <a href="https://doi.org/10.46430/phen0050">https://doi.org/10.46430/phen0050</a>. Also translated into Spanish as "Editar audio con Audacity", traducido por José Antonio Motilla, The Programming Historian en español 1 (2017), <a href="https://doi.org/10.46430/phes0007">https://doi.org/10.46430/phes0007</a>.
-* "<a href="http://llc.oxfordjournals.org/content/29/3/379">Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking</a>," Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; <em>Literary and Linguistic Computing</em> 2014; <a href="https://doi.org/10.1093/llc/fqu030">https://doi.org/10.1093/llc/fqu030</a>.
+* "<a href="https://doi.org/10.1093/llc/fqu030">Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking</a>," Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; <em>Literary and Linguistic Computing</em> 2014; <a href="https://doi.org/10.1093/llc/fqu030">https://doi.org/10.1093/llc/fqu030</a>.
 * “Broken Songs and Machine Noise in Joseph Conrad’s Early Fiction,” <em>Conradiana</em>, vol. 44, no. 2-3, pp. 211-226 (Fall/Winter 2012).
 
 Other Publications

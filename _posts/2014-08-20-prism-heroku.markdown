@@ -12,6 +12,6 @@ This past year the Scholars' Lab has implemented many performance upgrades and b
 
 It was already possible to implement private user communities by marking uploaded prism games as "unlisted" and then distributing the links to your group of participants. The Heroku deploy function makes this process a bit easier by allowing to users to host all of their games in one place. The process also sets you up well to tinker with the Prism codebase using a live app, as Heroku provides instructions for cloning the app to your desktop.
 
-All of this on the heels of another exciting announcement: the Praxis Program has a short article on Prism appearing in the [Digital Humanities 2013 special conference issue of Literary and Linguistic Computing](http://llc.oxfordjournals.org/content/early/2014/07/08/llc.fqu030.full?keytype=ref&ijkey=4zaX5fIvQwiLhIJ). In the piece, we summarize Prism's and interventions into conversations on crowdsourcing with special reference to its user interface.
+All of this on the heels of another exciting announcement: the Praxis Program has a short article on Prism appearing in the [Digital Humanities 2013 special conference issue of Literary and Linguistic Computing](https://doi.org/10.1093/llc/fqu030). In the piece, we summarize Prism's and interventions into conversations on crowdsourcing with special reference to its user interface.
 
 It's a good day to e-highlight!
