@@ -55,7 +55,7 @@ If I have one point today point it is this - there are limits to the number of d
 
 References and Further Reading
 
-* A Student Collaborators' Bill of Rights. University of California Los Angeles Center for Digital Humanities. [http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/](http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/)
+* A Student Collaborators' Bill of Rights. University of California Los Angeles Center for Digital Humanities. [https://humtech.ucla.edu/news/a-student-collaborators-bill-of-rights/](https://humtech.ucla.edu/news/a-student-collaborators-bill-of-rights/)
 * #FutureEd. Humanities, Arts, Science, and Technology Alliance and Collaboratory. [https://www.hastac.org/initiatives/futureed](https://www.hastac.org/initiatives/futureed)
 * Davidson, C. (2017). The New Education: How to Revolutionize the University to Prepare Students for a World In Flux. New York, NY: Basic Books.
 * Freire, P. (1970). Pedagogy of the Oppressed. New York, NY: Bloomsbury Academic.
