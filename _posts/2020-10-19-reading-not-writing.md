@@ -2,7 +2,7 @@
 layout: post
 title: "Reading, Not Writing"
 date: 2020-10-19 13:43
-categories: ['reading']
+categories: ['reading', 'pedagogy']
 ---
 
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/reading-not-writing)*

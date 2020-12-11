@@ -61,6 +61,7 @@ Other Publications
 
 Invited Presentations and Workshops
 
+* Invited talk with Bucknell DH students, Bucknell University, July 2020.
 * Invited talk at Emory Center for Digital Scholarship on "Digital Pedagogy and Opportunities for Hope", September 2019
 * Invited workshop for students at Emory Center for Digital Scholarship on "[Getting from Here to There](http://walshbr.com/blog/getting-from-here-to-there/)" in DH project development, September 2019
 * Invited workshop on teaching statements and digital humanities with Ashley Hosbach, at Maryland Institute for Technology in the Humanities, June 2019
@@ -112,17 +113,21 @@ Selected Digital Projects and Related Experience
 Technical Profile
 
 * Languages: Python, Ruby, JavaScript
-* Frameworks: Ruby on Rails, Flask
+* Frameworks: Ruby on Rails, Jekyll
 * Large-scale text analysis: natural language processing, topic modeling, machine learning 
-* Frontend web design: HTML5, CSS (SCSS, SASS)
+* Frontend web design: HTML5, CSS3
 * Content management systems: Drupal, WordPress, Omeka
 * Version control systems: Git
 * Markup systems: RDF, XML, TEI
 
 Teaching (University of Virginia)
 
-* ENGN 5559 Digital Literary Studies<br>
-(Co-Instructor with Alison Booth, one section; Spring 2019)
+* ENGN 5559: Digital Literary Studies<br>
+      (Co-Instructor with Alison Booth, one section; Spring 2019)
+* Praxis Program<br>
+      (Lead Instructor in collaboration w/ Scholars Lab staff; annually from 2017-2018 to present)
+* Scholars' Lab Student Programs<br>
+      (In collaboration w/ Scholars' Lab staff; 2017 to present)
 
 Teaching (Washington and Lee University)
 
@@ -156,7 +161,7 @@ Teaching (University of Virginia as Graduate Student)
 
 Professional Service and Affiliations
 
-* ACH Executive Council Member, spring 2020-present
+* Association for the Computers and the Humanities Executive Council Member, spring 2020-present
 * The Journal of Interactive Technology and Pedagogy, Editorial Collective, fall 2018-present
 * Programming Historian, Editorial Board 2017-present
 * Digital Humanities Conference, abstract reader, summer 2014-present

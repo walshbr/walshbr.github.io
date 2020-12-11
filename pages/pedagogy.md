@@ -5,7 +5,7 @@ permalink: /pedagogy
 order: 3
 ---
 
-In addition to the specific courses and initiatives below, I've written a number of posts [({{ site.categories['pedagogy'] | size }})](/categories/pedagogy/) here on the blog about my approach to pedagogy. Here are the most recent 10:
+In addition to the specific courses and initiatives below, I've written a number of posts ([{{ site.categories['pedagogy'] | size }}](/categories/pedagogy/)) here on the blog on pedagogy. Here are the most recent 10:
 
 {% for post in site.categories['pedagogy'] limit:10 %}
 * <a href="{{ post.url }}">{{ post.title }}</a>{% endfor %}
