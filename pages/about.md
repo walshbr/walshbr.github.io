@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-footer: true
 permalink: /about
 order: 1
 ---

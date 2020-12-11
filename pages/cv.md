@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "CV"
-footer: false
 permalink: /cv
 order: 5
 ---

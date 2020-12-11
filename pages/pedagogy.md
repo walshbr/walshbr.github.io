@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Pedagogy
-footer: false
 permalink: /pedagogy
 order: 3
 ---

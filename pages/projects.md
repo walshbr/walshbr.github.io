@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Projects"
-footer: false
 permalink: /projects
 order: 2
 ---

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Speaking"
-footer: true
 permalink: /speaking
 order: 4
 ---
