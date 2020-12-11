@@ -40,7 +40,7 @@ Peer Review Publications
 
 * "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (under review).
 * "The Three-Speed Problem in Digital Humanities Pedagogy", _Debates in Digital Humanities Pedagogy_ (under review).
-* "Running a Collaborative Research Website and Blog with Jekyll and GitHub," _The Programming Historian_ (forthcoming).
+* Amanda Visconti, Brandon Walsh, and Scholars' Lab Community, "Running a Collaborative Research Website and Blog with Jekyll and GitHub," The Programming Historian 9 (2020), [https://doi.org/10.46430/phen0090](https://doi.org/10.46430/phen0090).
 * "<a href="https://digitalpedagogy.hcommons.org/keyword/Text-Analysis/#8220%3Cem%3Ejuxta-commons%3Cem%3E-revisioncollation-assignment8221">Juxta Commons Revision/Collation Assignment</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.hcommons.org/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a>, June 2020.
 * "<a href="https://digitalpedagogy.hcommons.org/keyword/Poetry#prism">Prism</a>," under the "Poetry" keyword in <a href="https://digitalpedagogy.hcommons.org/keyword/Poetry"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a>, June 2020.
 * LeBlanc, Z., & Walsh, B. (2019). Workshopping the Workshop: Moving Your Sessions Beyond Buttonology. In #DLFTeach Toolkit: Lesson Plans for Digital Library Instruction (1st ed.). https://doi.org/10.21428/65a6243c.41fb7b06.
@@ -53,7 +53,7 @@ Peer Review Publications
 
 Other Publications
 
-* Co-editor with Gregory Palermo and Kelly Hammond, Issue 18 of the Journal of Interactive Technology and Pedagogy with a special forum on data and computational pedagogy ([forthcoming](https://jitp.commons.gc.cuny.edu/call-for-submissions/)).
+* Co-editor with Kelly Hammond and Gregory Palermo, [Issue 18 of the Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/) with a Forum on Data and Computational Pedagogy, Fall 2020.
 * "<i>Prism</i> and Reading's Shape" solicited for edited collection <i><em>Pataphysics Then &amp; Now</em></i> (forthcoming).
 * "A Humanists Cookbook for Natural Language Processing in Python", with Rebecca Draughon (in progress).
 * "<a href="http://jacket2.org/commentary/remixing-sound-archive-cut-poetry-recordings">Remixing the Sound Archive: Cut-up Poetry Recordings</a>," <em>Clipping</em>, series in <em>Jacket2</em>, January 5, 2018.

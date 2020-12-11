@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Teaching Hard Literature Teacher Survey
-footer: true
+footer: false
 permalink: /teaching-hard-literature
 ---
 The following is the survey the [Center for Liberal Arts](https://cla.virginia.edu/) sent to K-12 teachers nationwide during the summer of 2019.  
