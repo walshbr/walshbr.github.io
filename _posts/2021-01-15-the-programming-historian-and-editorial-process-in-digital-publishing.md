@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "The Programming Historian and Editorial Process in Digital Publishing"
-date: 2021-01-14 10:52
+date: 2021-01-15 10:52
 categories: ['digital humanities', 'projects', 'collaborations', 'digital publishing']
 ---
 
-*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/the-life-of-a-scholars-lab-on-community/)*
+*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/the-programming-historian-and-editorial-process-in-digital-publishing)*
 
 At MLA 2021, I was part of a panel  on "Perspectives on Digital Humanities Publishing" along with Jojo Karlin and Matthew K. Gold; Radhika Gajjala; and Gabriela Baeza Ventura and Carolina Villarroel. The rough text of my talk follows along with my slides. As always, I tend to use the text as an outline and then expand or contract sections in the moment. More information on that strategy for public speaking can be found [here](http://walshbr.com/blog/dh-public-speaking/).
 
