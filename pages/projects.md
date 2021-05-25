@@ -33,7 +33,7 @@ Representative editorial work:
 
 <div class="divider"></div>
 ## A Humanist's Cookbook For Natural Language Processing In Python
-<a href="https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb">A Humanist's Cookbook for Natural Language Processing in Python</a> is a series of Jupyter Notebooks meant to contextualize common problems in Natural Language Processing for humanists with code blocks that can be copied to other situations. Co-authored with Rebecca Draughon, the project is geared towards intermediate students who have some experience but are struggling to take the next step in applying the methods to their own work.
+<a href="https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb">A Humanist's Cookbook for Natural Language Processing in Python</a> is a series of Jupyter Notebooks meant to contextualize common problems in Natural Language Processing for humanists with code blocks that can be copied to other situations. Co-authored with Rebecca Bultman, the project is geared towards intermediate students who have some experience but are struggling to take the next step in applying the methods to their own work.
 
 Posts:
 
