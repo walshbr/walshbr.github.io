@@ -52,6 +52,7 @@ Peer Review Publications
 
 Other Publications
 
+* Walsh, B. (2021). Review: Visualizing Objects, Places, and Spaces. *Reviews in Digital Humanities, II*(5). [https://doi.org/10.21428/3e88f64f.bf2d3fa7](https://doi.org/10.21428/3e88f64f.bf2d3fa7).
 * Co-editor with Kelly Hammond and Gregory Palermo, [Issue 18 of the Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/) with a Forum on Data and Computational Pedagogy, Fall 2020.
 * "<i>Prism</i> and Reading's Shape" solicited for edited collection <i><em>Pataphysics Then &amp; Now</em></i> (forthcoming).
 * "[A Humanists Cookbook for Natural Language Processing in Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb)", with Rebecca Bultman, Fall 2020.
