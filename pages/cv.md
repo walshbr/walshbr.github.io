@@ -63,7 +63,7 @@ Other Publications
 Invited Presentations and Workshops
 
 * Invited talk with Bucknell DH students, Bucknell University, July 2020.
-* Invited talk at Emory Center for Digital Scholarship on "Digital Pedagogy and Opportunities for Hope", September 2019
+* Invited talk at Emory Center for Digital Scholarship on "[Digital Pedagogy and Opportunities for Hope](http://walshbr.com/blog/digital-humanities-pedagogy-and-opportunities-for-hope/)", September 2019
 * Invited workshop for students at Emory Center for Digital Scholarship on "[Getting from Here to There](http://walshbr.com/blog/getting-from-here-to-there/)" in DH project development, September 2019
 * Invited workshop on teaching statements and digital humanities with Ashley Hosbach, at Maryland Institute for Technology in the Humanities, June 2019
 *	Invited talk on graduate studies and digital humanities, Digital Integrative Liberal Arts Center, Georgia Tech, March 2018
@@ -79,19 +79,19 @@ Invited Presentations and Workshops
 
 Selected Conferences and Presentations
 
-* "The Programming Historian and Editorial Process in Digital Publishing," MLA conference, 2021
-* "Building Community and Generosity in the Context of Graduate Education," in a panel on "Working at the Intersection: Digital Humanities Pedagogy, Social Justice, and Librarianship," DH Conference, summer 2020 (canceled due COVID-19)
+* "[Building Community and Generosity in the Context of Graduate Education]({{ root_url }}/blog/building-community-and-generosity-in-the-context-of-graduate-education/)," in a panel on "Working at the Intersection: Digital Humanities Pedagogy, Social Justice, and Librarianship," ACH 2021 Conference, summer 2021 
+* "[The Programming Historian and Editorial Process in Digital Publishing]({{ root_url }}/blog/the-programming-historian-and-editorial-process-in-digital-publishing/)," MLA conference, 2021
 * Forum on "The Open Lab: Digital Scholarship and the Question of Community," DH Conference, summer 2020 (canceled due to COVID-19)
-* "The Life of a (Scholars') Lab: on Community," ACH conference, summer 2019
-* "Frustration is a Feature," MLA conference, January 2018
-*	“Collaborative Writing to Build Digital Humanities Praxis,” DH conference, summer 2017
-* "Remixing the Sound Archive: Cut-Up Poetry Records," Northeast Modern Language Association, Baltimore, MD, March 2017
+* "[The Life of a (Scholars') Lab: on Community]({{ root_url }}/blog/ach-2019/)," ACH conference, summer 2019
+* "[Frustration is a Feature]({{ root_url }}/blog/frustration/)," MLA conference, January 2018
+*	“[Collaborative Writing to Build Digital Humanities Praxis]({{ root_url }}/blog/collaborative-writing-to-build-digital-humanities-praxis/),” DH conference, summer 2017
+* "[Remixing the Sound Archive: Cut-Up Poetry Records]({{ root_url }}/blog/remixing-the-sound-archive)," Northeast Modern Language Association, Baltimore, MD, March 2017
 * "Planning to Share: Open Educational Resources for Small Liberal Arts Colleges," workshop co-leader with Mackenzie Brooks, Digital Library Federation Small Liberal Arts College Pre-conference, Milwaukee, WI, November 2016
 * "Student Writing as Digital Humanities Method," with Mackenzie Brooks, Bucknell Digital Scholarship Conference, Bucknell University, Lewisburg, PA, October 2016
-* "Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark", HASTAC, Phoeniz, AZ, May 2016
+* "[Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark]({{ root_url }}/blog/reading-speech/)", HASTAC, Phoeniz, AZ, May 2016
 * "The Sound of Modernism Today: Distant Reading Audiobook Culture", American Comparative Literature Association, Boston, MA, March 2016
-* "The Devil in the Recording: Deformative Listening and Poetry," MLA, Vancouver, British Columbia, January 2015
-* "Collation and Writing Pedagogy with Juxta Commons and Google Docs," MLA, Vancouver, British Columbia, January 2015
+* "[The Devil in the Recording: Deformative Listening and Poetry]({{ root_url }}/blog/deformance-talk/)," MLA, Vancouver, British Columbia, January 2015
+* "[Collation and Writing Pedagogy with Juxta Commons and Google Docs]({{ root_url }}/blog/collation/)," MLA, Vancouver, British Columbia, January 2015
 * "Joyce, LibriVox, and the Recording Coterie," "Mass versus Coterie: The Audiobook" panel, MLA, Chicago, IL, January 2014
 * "Ulysses: 'Noise in the Street,' Sound of the Self," XIII International James Joyce Symposium, Dublin, Ireland, June 2012
 * "The Waste Land's Onomatopoetics," The Louisville Conference on Literature and Culture Since 1900, Louisville, KY, February 2012
@@ -104,7 +104,7 @@ Selected Digital Projects and Related Experience
 * 2015-2017, Lead Developer: <a href="http://huon-rails.herokuapp.com/">Huon d'Auvergne</a>, Ruby on Rails TEI edition and implementation of Versioning Machine, Washington and Lee University
 * 2015-2017, Developer: <a href="https://library.wlu.edu/scholar">Scholar</a>, Ruby on Rails implementation of BibApp for cataloging faculty publications, Washington and Lee University
 * 2016-2017, Lead Developer: Shenandoah, Ruby on Rails interface to JSON API for searching a literary journal’s index, Washington and Lee University
-* 2013-present, Lead Developer: <a href="http://prism.scholarslab.org/">Prism</a>, Ruby on Rails web application for crowdsourcing textual analysis, created with the Praxis team and the UVa Scholars’ Lab
+* 2013-present, Developer: <a href="http://prism.scholarslab.org/">Prism</a>, Ruby on Rails web application for crowdsourcing textual analysis, created with the Praxis team and the UVa Scholars’ Lab
 * 2015-2017, Lead Developer: <a href="{{ root_url }}/blog/woolf-huskey/">Hearing Silent Woolf</a>, Python machine learning project on sound in modernist fiction, received graduate fellowship in digital humanities, UVa Scholars’ Lab
 * 2013-2015, Project Manager: <a href="http://www.nines.org/">Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)</a>, UVa
 * Summer 2017-present, Co-Instructor: Course on "<a href="https://humanitiesprogramming.github.io">Help! I'm a Humanist! - Humanities Programming with Python</a>," <a href="http://dhtraining.org/hilt/">Humanities Intensive Learning &amp; Teaching</a>, with Ethan Reed
