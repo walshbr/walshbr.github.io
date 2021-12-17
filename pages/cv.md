@@ -37,6 +37,7 @@ Selected Awards and Grants
 
 Peer Review Publications
 
+* "The Life of a Lab," with Aaron Brenner, Sarah Connell, Jennifer Grayburn, Matthew Hannah, and Brad Rittenhouse, in _Digital Humanities and Laboratories: Perspectives on Knowledge, Infrastructure and Culture_, (under review).
 * "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (under review).
 * "The Three-Speed Problem in Digital Humanities Pedagogy", _Debates in Digital Humanities Pedagogy_ (under review).
 * Amanda Visconti, Brandon Walsh, and Scholars' Lab Community, "Running a Collaborative Research Website and Blog with Jekyll and GitHub," The Programming Historian 9 (2020), [https://doi.org/10.46430/phen0090](https://doi.org/10.46430/phen0090).
@@ -62,6 +63,7 @@ Other Publications
 
 Invited Presentations and Workshops
 
+* Invited participant, panel on "Digital Humanities Laboratories: Communities of/in Practice", 2021 meeting of the Australasian Association for Digital Humanities
 * Invited talk with Bucknell DH students, Bucknell University, July 2020.
 * Invited talk at Emory Center for Digital Scholarship on "[Digital Pedagogy and Opportunities for Hope](http://walshbr.com/blog/digital-humanities-pedagogy-and-opportunities-for-hope/)", September 2019
 * Invited workshop for students at Emory Center for Digital Scholarship on "[Getting from Here to There](http://walshbr.com/blog/getting-from-here-to-there/)" in DH project development, September 2019
@@ -80,6 +82,7 @@ Invited Presentations and Workshops
 Selected Conferences and Presentations
 
 * "[Building Community and Generosity in the Context of Graduate Education]({{ root_url }}/blog/building-community-and-generosity-in-the-context-of-graduate-education/)," in a panel on "Working at the Intersection: Digital Humanities Pedagogy, Social Justice, and Librarianship," ACH 2021 Conference, summer 2021 
+* "The Programming Historian: A Global Case Study in Multilingual Open Access and DH Tutelage/Instruction"; with Daniel Alves, Jennifer Isasi, Sarah Melton, Sofia Papastamkou, Jessica Parr, Riva Quiroga, Nabeel Siddiqui, Brandon Walsh; 2021 Meeting of the Global Digital Humanities Symposium
 * "[The Programming Historian and Editorial Process in Digital Publishing]({{ root_url }}/blog/the-programming-historian-and-editorial-process-in-digital-publishing/)," MLA conference, 2021
 * Forum on "The Open Lab: Digital Scholarship and the Question of Community," DH Conference, summer 2020 (canceled due to COVID-19)
 * "[The Life of a (Scholars') Lab: on Community]({{ root_url }}/blog/ach-2019/)," ACH conference, summer 2019
@@ -115,7 +118,7 @@ Technical Profile
 
 * Languages: Python, Ruby, JavaScript
 * Frameworks: Ruby on Rails, Jekyll
-* Large-scale text analysis: natural language processing, topic modeling, machine learning 
+* Large-scale text analysis: natural language processing, topic modeling, machine learning
 * Frontend web design: HTML5, CSS3
 * Content management systems: Drupal, WordPress, Omeka
 * Version control systems: Git
