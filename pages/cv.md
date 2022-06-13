@@ -39,7 +39,7 @@ Peer Review Publications
 
 * "The Life of a Lab," with Aaron Brenner, Sarah Connell, Jennifer Grayburn, Matthew Hannah, and Brad Rittenhouse, in _Digital Humanities and Laboratories: Perspectives on Knowledge, Infrastructure and Culture_, (under review).
 * "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (under review).
-* "The Three-Speed Problem in Digital Humanities Pedagogy", in _What We Teach DH: Digital Humanities in the Classroom_, part of the _Debates in Digital Humanities Series_ (Forthcoming).
+* "The Three-Speed Problem in Digital Humanities Pedagogy", in _What We Teach When We Teach DH: Digital Humanities in the Classroom_, part of the _Debates in Digital Humanities Series_ (Forthcoming).
 * "<i>Prism</i> and Reading's Shape," in <i><em>Pataphysics Then &amp; Now</em></i>, part of the _Reconfiguring Modernism_ series (2022).
 * Amanda Visconti, Brandon Walsh, and Scholars' Lab Community, "Running a Collaborative Research Website and Blog with Jekyll and GitHub," The Programming Historian 9 (2020), [https://doi.org/10.46430/phen0090](https://doi.org/10.46430/phen0090).
 * "<a href="https://digitalpedagogy.hcommons.org/keyword/Text-Analysis/#8220%3Cem%3Ejuxta-commons%3Cem%3E-revisioncollation-assignment8221">Juxta Commons Revision/Collation Assignment</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.hcommons.org/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a>, June 2020.
