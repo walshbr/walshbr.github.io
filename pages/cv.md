@@ -39,7 +39,8 @@ Peer Review Publications
 
 * "The Life of a Lab," with Aaron Brenner, Sarah Connell, Jennifer Grayburn, Matthew Hannah, and Brad Rittenhouse, in _Digital Humanities and Laboratories: Perspectives on Knowledge, Infrastructure and Culture_, (under review).
 * "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (under review).
-* "The Three-Speed Problem in Digital Humanities Pedagogy", _Debates in Digital Humanities Pedagogy_ (under review).
+* "The Three-Speed Problem in Digital Humanities Pedagogy", in _What We Teach DH: Digital Humanities in the Classroom_, part of the _Debates in Digital Humanities Series_ (Forthcoming).
+* "<i>Prism</i> and Reading's Shape," in <i><em>Pataphysics Then &amp; Now</em></i>, part of the _Reconfiguring Modernism_ series (2022).
 * Amanda Visconti, Brandon Walsh, and Scholars' Lab Community, "Running a Collaborative Research Website and Blog with Jekyll and GitHub," The Programming Historian 9 (2020), [https://doi.org/10.46430/phen0090](https://doi.org/10.46430/phen0090).
 * "<a href="https://digitalpedagogy.hcommons.org/keyword/Text-Analysis/#8220%3Cem%3Ejuxta-commons%3Cem%3E-revisioncollation-assignment8221">Juxta Commons Revision/Collation Assignment</a>", under the "Text Analysis" keyword in <a href="https://digitalpedagogy.hcommons.org/"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a>, June 2020.
 * "<a href="https://digitalpedagogy.hcommons.org/keyword/Poetry#prism">Prism</a>," under the "Poetry" keyword in <a href="https://digitalpedagogy.hcommons.org/keyword/Poetry"><em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em></a>, June 2020.
@@ -55,7 +56,6 @@ Other Publications
 
 * Walsh, B. (2021). Review: Visualizing Objects, Places, and Spaces. *Reviews in Digital Humanities, II*(5). [https://doi.org/10.21428/3e88f64f.bf2d3fa7](https://doi.org/10.21428/3e88f64f.bf2d3fa7).
 * Co-editor with Kelly Hammond and Gregory Palermo, [Issue 18 of the Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/) with a Forum on Data and Computational Pedagogy, Fall 2020.
-* "<i>Prism</i> and Reading's Shape" solicited for edited collection <i><em>Pataphysics Then &amp; Now</em></i> (forthcoming).
 * "[A Humanists Cookbook for Natural Language Processing in Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb)", with Rebecca Bultman, Fall 2020.
 * "<a href="http://jacket2.org/commentary/remixing-sound-archive-cut-poetry-recordings">Remixing the Sound Archive: Cut-up Poetry Recordings</a>," <em>Clipping</em>, series in <em>Jacket2</em>, January 5, 2018.
 * <em><a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a></em>, open access textbook self-published with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Sarah Horowitz</a>, Fall 2016.
@@ -121,7 +121,7 @@ Technical Profile
 * Large-scale text analysis: natural language processing, topic modeling, machine learning
 * Frontend web design: HTML5, CSS3
 * Content management systems: Drupal, WordPress, Omeka
-* Version control systems: Git
+* Version control systems: Git, GitHub
 * Markup systems: RDF, XML, TEI
 
 Teaching (University of Virginia)
@@ -129,7 +129,7 @@ Teaching (University of Virginia)
 * ENGN 5559: Digital Literary Studies<br>
       (Co-Instructor with Alison Booth, one section; Spring 2019)
 * Praxis Program<br>
-      (Lead Instructor in collaboration w/ Scholars Lab staff; annually from 2017-2018 to present)
+      (Lead Instructor in collaboration w/ Scholars Lab staff; annually from 2017 to present)
 * Scholars' Lab Student Programs<br>
       (In collaboration w/ Scholars' Lab staff; 2017 to present)
 
@@ -165,9 +165,10 @@ Teaching (University of Virginia as Graduate Student)
 
 Professional Service and Affiliations
 
-* Association for the Computers and the Humanities Executive Council Member, spring 2020-present
+* Delegate Assembly representative, MLA Libraries and Research Forum, Winter 2022-present
+* Association for the Computers and the Humanities Executive Council Member, spring 2020-2022
 * The Journal of Interactive Technology and Pedagogy, Editorial Collective, fall 2018-present
-* Programming Historian, Editorial Board 2017-present
+* Programming Historian, Editorial Board 2017-2021
 * Digital Humanities Conference, abstract reader, summer 2014-present
 * Reviewer for <em>Conradiana</em>; <em>Restoration: Studies in English Literary Culture, 1660-1700</em>; <em>Digital Humanities Quarterly</em>
 * Communications chair for Chesapeake DH Consortium, 2019-2020
