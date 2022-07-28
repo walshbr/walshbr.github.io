@@ -61,6 +61,13 @@ Other Publications
 * <em><a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a></em>, open access textbook self-published with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Sarah Horowitz</a>, Fall 2016.
 * A number of my blog posts have been featured on [DH Now](/categories/dh-now/) ({{ site.categories['dh now'] | size }}) and [dh+lib](/categories/dh-lib/) ({{ site.categories['dh+lib'] | size }}).
 
+Public Writing
+
+* "[Subnautica and the glitchy terrors of the deep](https://graysonmorley.substack.com/p/subnautica-and-the-glitchy-terrors)," *Backlog*, July 28, 2022.
+* "[Don't Starve Together and friendship via chaos](https://graysonmorley.substack.com/p/dont-starve-together-and-friendship)," *Backlog*, with Grayson Morley, June 30, 2022.
+* "[SimsTok and the horrors of domesticity](https://graysonmorley.substack.com/p/simstok-and-the-horrors-of-domesticity)," *Backlog*, February 3, 2022.
+* "[Sekiro: Shadows Die Twice and confronting yourself](https://graysonmorley.substack.com/p/sekiro-shadows-die-twice-and-confronting)," *Backlog*, December 29, 2022.
+
 Invited Presentations and Workshops
 
 * Invited participant, panel on "Digital Humanities Laboratories: Communities of/in Practice", 2021 meeting of the Australasian Association for Digital Humanities
