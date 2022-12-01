@@ -63,10 +63,12 @@ Other Publications
 
 Public Writing
 
+* "[Backlog Draft about Triangle Strategy](https://graysonmorley.substack.com/p/backlog-draft-about-triangle-strategy?utm_source=profile&utm_medium=reader2)," *Backlog,* November 3, 2022.
+* "[Returnal and the unbroken loop](https://graysonmorley.substack.com/p/returnal-and-the-unbroken-loop)," *Backlog*, September 29, 2022.
 * "[Subnautica and the glitchy terrors of the deep](https://graysonmorley.substack.com/p/subnautica-and-the-glitchy-terrors)," *Backlog*, July 28, 2022.
 * "[Don't Starve Together and friendship via chaos](https://graysonmorley.substack.com/p/dont-starve-together-and-friendship)," *Backlog*, with Grayson Morley, June 30, 2022.
 * "[SimsTok and the horrors of domesticity](https://graysonmorley.substack.com/p/simstok-and-the-horrors-of-domesticity)," *Backlog*, February 3, 2022.
-* "[Sekiro: Shadows Die Twice and confronting yourself](https://graysonmorley.substack.com/p/sekiro-shadows-die-twice-and-confronting)," *Backlog*, December 29, 2022.
+* "[Sekiro: Shadows Die Twice and confronting yourself](https://graysonmorley.substack.com/p/sekiro-shadows-die-twice-and-confronting)," *Backlog*, December 29, 2021.
 
 Invited Presentations and Workshops
 
