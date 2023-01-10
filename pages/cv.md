@@ -23,6 +23,7 @@ Education
 
 Selected Awards and Grants
 
+* Mentor, Digital Ethnic Futures Consortium's Teaching and Capacity Building Fellowship program, 2022
 * $6000 Grant for AV/VR Documentation, with Arin Bennett and Will Rourke, Parents Fund UVA, 2019
 * Raven Fellowship to develop Python web application to analyze sound recordings of poetry, Raven Society, Raven Society, UVA, 2015
 * Yalden-Thomson Summer Grant to develop Python web application to analyze sound recordings of poetry, Society of Fellows, UVA, 2015
@@ -72,6 +73,8 @@ Public Writing
 
 Invited Presentations and Workshops
 
+* Invited course visit on digital pedagogy, Zoe LeBlanc's Introduction to Digital Humanities course, UIUC School of Information, Fall 2022
+* Invited course visit, Kristen  Mapes' course on Digital Humanities Pedagogy, MSU; Spring 2022, Spring 2023
 * Invited participant, panel on "Digital Humanities Laboratories: Communities of/in Practice", 2021 meeting of the Australasian Association for Digital Humanities
 * Invited talk with Bucknell DH students, Bucknell University, July 2020.
 * Invited talk at Emory Center for Digital Scholarship on "[Digital Pedagogy and Opportunities for Hope](http://walshbr.com/blog/digital-humanities-pedagogy-and-opportunities-for-hope/)", September 2019
