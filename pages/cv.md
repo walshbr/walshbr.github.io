@@ -74,7 +74,7 @@ Public Writing
 Invited Presentations and Workshops
 
 * Invited talk with Amanda Visconti, University of Chicago Library's Library Futures Speaker Series, Spring 2023
-* Invited talk, "Beyond Projecting: Planning DH Course Projects that Work for You," Digital Ethnic Futures Consortium, Spring 2023
+* Invited talk, "[Beyond Projecting: Planning DH Course Projects that Work for You," Digital Ethnic Futures Consortium](https://www.youtube.com/watch?v=p1bw1ATttX8), Spring 2023
 * Invited course visit on digital pedagogy, Zoe LeBlanc's Introduction to Digital Humanities course, UIUC School of Information, Fall 2022
 * Invited course visit, Kristen  Mapes' course on Digital Humanities Pedagogy, MSU; Spring 2022, Spring 2023
 * Invited participant, panel on "Digital Humanities Laboratories: Communities of/in Practice", 2021 meeting of the Australasian Association for Digital Humanities
