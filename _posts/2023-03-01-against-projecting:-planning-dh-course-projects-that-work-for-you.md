@@ -4,8 +4,7 @@ title: "Against Projecting: Planning DH Course Projects that Work for You"
 date: 2023-03-01 09:53
 categories: ['pedagogy','talks','digital humanities','collaboration']
 ---
-
-*Crossposted to the [Scholars' Lab blog](http://walshbr.com/blog/building-community-and-generosity-in-the-context-of-graduate-education). Co-authored with Amanda Visconti.*
+*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/against-projecting-planning-dh-course-projects-that-work-for-you).*
 
 I was recently asked to give a workshop for the [Digital Ethnic Futures Consortium](http://digitalethnicfutures.org/uncategorized/https-dartmouth-zoom-us-meeting-register-tjmof-2hrjsqh9zdq1sp0w4dyfxwufwfwvlv/) on how to manage the logistics for semester-long course projects. The result was something I came to call "Against Projecting: Planning DH Course Projects the Work for You." The goal of it was to take that question and really get to the underlying pre-issues that, if ignored, can make things in the classroom much more difficult. That is to say - before we even get to the how of digital course projects we need to think through why we want to include them, what resources we have to support the work, and what shape they will take. 
 

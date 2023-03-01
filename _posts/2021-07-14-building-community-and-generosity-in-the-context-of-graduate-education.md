@@ -4,7 +4,7 @@ title: "Building Community And Generosity In The Context Of Graduate Education"
 date: 2021-07-14 10:06
 categories: ['pedagogy',"Scholars' Lab",'talks','digital humanities','collaboration']
 ---
-*Crossposted to the [Scholars' Lab blog](http://walshbr.com/blog/building-community-and-generosity-in-the-context-of-graduate-education). Co-authored with Amanda Visconti.*
+*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/building-community-and-generosity-in-the-context-of-graduate-education). Co-authored with Amanda Visconti.*
 
 We'd like to specifically acknowledge Ronda Grizzle as a key contributor to this work. Even though she was not co-author of this particular talk for ACH 2021, her work is central to this material, foundational to it, and in many ways hers. 
 
