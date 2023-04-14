@@ -5,7 +5,7 @@ date: 2023-04-14 11:53
 categories: ['pedagogy','talks','digital humanities','collaboration',"Scholars' Lab"]
 ---
 
-*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/lessons-from-the-lab-designing-community-forward-spaces).*
+*Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/lessons-from-the-lab-designing-community-forward-spaces) and to [Amanda's blog](http://literaturegeek.com/2023/04/14/lessons-from-the-lab-designing-community-forward-spaces).*
 
 
 SLab's [Amanda Visconti](https://scholarslab.lib.virginia.edu/people/amanda-visconti/) and [Brandon Walsh](https://scholarslab.lib.virginia.edu/people/brandon-walsh/) recently gave an invited talk for the University of Chicago's Library Futures series. What follows is a lightly edited version of that talk; the context was a largely librarian audience, and UChicago's Center for Digital Scholarship moving into a new phase.  
