@@ -5,7 +5,7 @@ date: 2023-05-10 08:18
 categories: 
 ---
 
-Building on the "What is Praxis Working on?" Post
+Building on the "What is Praxis Working on?" post to contextualize some changes to the program this past year. 
 
 Limitations of project-based approach to DH to reach group of students from many disciplines
 
@@ -16,6 +16,8 @@ Connect to Buttonology - methods might change, but underlying core pieces of DH 
 Expansive definition of DH method beyond the methods used for research
 
 Focus is on a portfolio not projects. Really has always been the focus but that was hard to see when one piece of the portfolio took up 50% of the year. 
+
+Project-based pedagogy not pedagogy-based projects.
 
 In practical terms - 
 - moving away from a digital project as such in the spring. 
