@@ -5,7 +5,7 @@ date: 2023-05-12
 categories: [Scholars' Lab, alt-ac, curriculum, digital humanities, pedagogy]
 crosspost:
   - title: Scholars' Lab blog
-    url: https://scholarslab.lib.virginia.edu/blog/breadth-and-depth-in-dh-profesional-development
+    url: https://scholarslab.lib.virginia.edu/blog/breadth-and-depth-in-dh-professional-development/
 ---
 
 I’m going to try to re-enter blogging by intentionally writing short pieces more regularly. Bear with me as I try to find a voice in this new, shorter format. I’ll be breaking things that might otherwise be longer pieces into small nuggets that cover a single topic and then linking them together. 
