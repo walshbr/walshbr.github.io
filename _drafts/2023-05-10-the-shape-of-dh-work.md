@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "The Shape of DH Work to Come"
+title: "The Shape of DH Work"
 date: 2023-05-10 08:18
-categories: 
+categories: ['pedagogy',"Scholars' Lab",'praxis','digital humanities','collaboration']
+crosspost:
+  - title: Scholars' Lab blog
+    url: https://scholarslab.lib.virginia.edu/blog/praxis-and-the-shape-of-DH-work/
 ---
 
 Several years ago I wrote a blog post entitled "[What is Praxis Working on?](https://walshbr.com/blog/what-is-praxis-working-on/)" The TL; DR of that post was that I regularly have people approach me (students included!) to ask what the current cohort of [Praxis](https://praxis.scholarslab.org)–our project-based introduction to digital humanities–is currently doing. Typically, that question is a shorthand for asking after the [big, branded final project](https://praxis.scholarslab.org/projects/) for the program. In that post, I argued that such questions miss the point: the digital projects our students take on have always been a means to an end to give the students space to practice, but the real projects are the students themselves. And we're really working on being better for them. 
