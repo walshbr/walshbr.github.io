@@ -6,7 +6,10 @@ categories:
 ---
 
 **Next up**
-* breadth vs depth in DH jobs as a way to think about DH professional development - that would be one to start with
+* week of May 22nd - Finding a Way In - proofing needed
+* week of May 29th maybe - Shape of DH Work - proofing needed
+
+Now writing
 
 **Management**
 * Ellington's approach to composition
@@ -15,7 +18,6 @@ categories:
 * count to 7
 * rules and constraints as an approach to teaching dh workshops
 * DH Course ideas - iterative approach to titles as a way to develop course ideas. maybe also share the things you've been working on for alison
-* Digital Pedagogy in the Humanities as a tool for opening conversations for someone interested in DH
 
 **Sound studies**
 * How we do multitrack recording in the Hard Modes
@@ -27,11 +29,12 @@ categories:
 **Technical**
 
 **Misc**
+* Something related to Pepper
 * my own personal life narrative and career path a la speaking in code
 * professional imposter syndrome - where did it start?
 * Scaffolded approach to digital humanities professional development - For interested students, a good exercise as you plan out your own professional development journey would be to look at positions out there at institutions you follow. How would you plot these positions on a breadth/depth axis?
 
-How would you scaffold your own professional development
+* How would you scaffold your own professional development
 * DH grant applications as an act of imagination
 * Finalize the posts about applying for our fellowships
 * Teaching to learn - DH workshops as an exercise in 
