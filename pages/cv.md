@@ -73,10 +73,11 @@ Public Writing
 
 Invited Presentations and Workshops
 
-* Invited talk with Amanda Visconti, University of Chicago Library's Library Futures Speaker Series, Spring 2023
+* Invited talk, "Lessons from the Lab: Designing Community-Forward Spaces", University of Chicago Library's Library Futures Speaker Series, with Amanda Visconti, Spring 2023
 * Invited talk, "[Beyond Projecting: Planning DH Course Projects that Work for You," Digital Ethnic Futures Consortium](https://www.youtube.com/watch?v=p1bw1ATttX8), Spring 2023
 * Invited course visit on digital pedagogy, Zoe LeBlanc's Introduction to Digital Humanities course, UIUC School of Information, Fall 2022
 * Invited course visit, Kristen  Mapes' course on Digital Humanities Pedagogy, MSU; Spring 2022, Spring 2023
+* Invited talk, "[The Hard Modes: Jazz, Video Games, and the Pandemic](https://www.twitch.tv/videos/1572467735)," Animal Crossing: New Digital Humanities; with Gregory Weaver, August 25, 2022.
 * Invited participant, panel on "Digital Humanities Laboratories: Communities of/in Practice", 2021 meeting of the Australasian Association for Digital Humanities
 * Invited talk with Bucknell DH students, Bucknell University, July 2020.
 * Invited talk at Emory Center for Digital Scholarship on "[Digital Pedagogy and Opportunities for Hope](http://walshbr.com/blog/digital-humanities-pedagogy-and-opportunities-for-hope/)", September 2019
