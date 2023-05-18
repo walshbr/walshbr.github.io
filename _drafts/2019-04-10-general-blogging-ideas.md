@@ -8,6 +8,7 @@ categories:
 **Next up**
 * week of May 22nd - Finding a Way In - proofing needed
 * week of May 29th maybe - Shape of DH Work - proofing needed
+* week of June 6th - Questions to Ask - proofing needed
 
 Now writing
 
@@ -29,6 +30,7 @@ Now writing
 **Technical**
 
 **Misc**
+* walking and writing
 * Something related to Pepper
 * my own personal life narrative and career path a la speaking in code
 * professional imposter syndrome - where did it start?
