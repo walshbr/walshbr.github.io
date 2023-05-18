@@ -34,7 +34,6 @@ Now writing
 * professional imposter syndrome - where did it start?
 * Scaffolded approach to digital humanities professional development - For interested students, a good exercise as you plan out your own professional development journey would be to look at positions out there at institutions you follow. How would you plot these positions on a breadth/depth axis?
 
-* How would you scaffold your own professional development
 * DH grant applications as an act of imagination
 * Finalize the posts about applying for our fellowships
 * Teaching to learn - DH workshops as an exercise in 
