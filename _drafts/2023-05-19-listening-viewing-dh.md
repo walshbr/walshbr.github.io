@@ -10,5 +10,5 @@ As is the case with universal design
 
 https://yvonneseale.org/blog/2016/10/23/how-to-embed-a-zotero-bibliography-in-a-web-page/
 
-<script src="http://bibbase.org/show?bib=https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F1308245%2Fcollections%2FGYNETXY7%2Fitems%3Fkey%3Dugllva0qJZGF14zBthiBVLaV%26format%3Dbibtex%26limit%3D100&msg=embed&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F1308245%2Fcollections%2FGYNETXY7%2Fitems%3Fkey%3Dugllva0qJZGF14zBthiBVLaV%26format%3Dbibtex%26limit%3D100&msg=embed&jsonp=1"></script>
 
