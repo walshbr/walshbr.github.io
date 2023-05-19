@@ -26,6 +26,7 @@ Now writing
 
 **Meta**
 * How to develop a blog post
+* A directory of videos and podcast resources to listen to 
 
 **Technical**
 
