@@ -85,3 +85,15 @@ img {
 .histo{
   margin: 0;
 }
+
+.bibbase_icon, .bibbase.bibbase_page.link, .bibbase.bibtex.link, .bibbase_abstract_link.bibbase.link{
+	display: none;
+}
+
+div#bibbase > div:first-of-type{
+ display: none;
+} 
+
+span.bibbase_icon_text{
+  font-size:20px;
+}

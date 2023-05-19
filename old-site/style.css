@@ -1,5 +1,6 @@
 body {
  font-family:georgia; color:black; background: #F2F2F2; width:700px; margin: 20px auto; text-align: justify;
+ background-color: red;
 }
 
 h4{
@@ -20,7 +21,10 @@ a {color: #0000FF}
 	float:left;
 }
 
-#menu
-{
+#menu{
 	float:left;
+}
+
+span.bibbase_paper_content image {
+	display: none !important;
 }
