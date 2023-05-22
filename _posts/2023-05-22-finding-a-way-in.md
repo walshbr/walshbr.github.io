@@ -36,4 +36,4 @@ This exercise will help you map your own research interests onto various areas w
 
 Even though the resource in question is pedagogical in focus, I find the activity works well for students regardless of their interest in teaching. The exercise works especially well for folks at a stage of general curiosity but who have yet to find a specific project or interest. For students in this position, it can help them find a way to navigate the vast unknown by finding a constellation of materials close to their interests to get started. For those who already have more of an idea of their interests within DH the activity can facilitate a literature review. The exercise does not aim to be a comprehensive survey of the field. Instead, it starts from the premise that the only way to begin is by beginning–new students often just need guideposts to get started.
 
-[^1]: In the Scholars' Lab we have a [XKCD comic](https://xkcd.com/1053/) based around this premise taped to our wall.
+[^1]: In the Scholars' Lab we have an [XKCD comic](https://xkcd.com/1053/) based around this premise taped to our wall.
