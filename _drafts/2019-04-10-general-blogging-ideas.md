@@ -6,9 +6,9 @@ categories:
 ---
 
 **Next up**
-* week of May 22nd - Finding a Way In - proofing needed
-* week of May 29th maybe - Shape of DH Work - proofing needed
-* week of June 6th - Questions to Ask - proofing needed
+* week of June 6th -Shape of DH Work - proofing needed
+* week of June 13th - Counting to Seven
+* week of June 20th - listening viewing dh
 
 Now writing
 
@@ -16,7 +16,6 @@ Now writing
 * Ellington's approach to composition
 
 **Teaching or Curriculum development**
-* count to 7
 * rules and constraints as an approach to teaching dh workshops
 * DH Course ideas - iterative approach to titles as a way to develop course ideas. maybe also share the things you've been working on for alison
 
@@ -26,7 +25,6 @@ Now writing
 
 **Meta**
 * How to develop a blog post
-* A directory of videos and podcast resources to listen to 
 
 **Technical**
 
@@ -35,15 +33,10 @@ Now writing
 * Something related to Pepper
 * my own personal life narrative and career path a la speaking in code
 * professional imposter syndrome - where did it start?
-* Scaffolded approach to digital humanities professional development - For interested students, a good exercise as you plan out your own professional development journey would be to look at positions out there at institutions you follow. How would you plot these positions on a breadth/depth axis?
 
-* DH grant applications as an act of imagination
-* Finalize the posts about applying for our fellowships
-* Teaching to learn - DH workshops as an exercise in 
+* Teaching to learn - DH workshops as an exercise in - going to be covered by the Praxis JITP article
 
 **From the Year of Book Blogging**
-
-Note that some of these topics below are elsewhere above or things that you've already done!
 
 1. Where does DH teaching happen?
     2. Where does infrastructural change happen?
@@ -61,8 +54,8 @@ Note that some of these topics below are elsewhere above or things that you've a
     2. How can pedagogy be enacted beyond the classroom? How can we take teacherly actions as administrators?
     3. How can those teacherly administrative actions address issues of precarity among the student population?
 4. Profession
-    3. Professional Imposters
-    4. Small changes / big changes
+    1. Professional Imposters
+    2. Small changes / big changes
 5. Conclusion – on inclusivity
     1. How do we invite students into the profession and into higher education in a way that makes their voices heard and valued?
     2. How can we ensure students are valued in online spaces? Or welcomed in spaces of open peer review?
