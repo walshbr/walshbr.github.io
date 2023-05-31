@@ -6,9 +6,10 @@ categories:
 ---
 
 **Next up**
-* week of June 6th -Shape of DH Work - proofing needed
+* week of June 6th - Shape of DH Work - proofing needed
 * week of June 13th - Counting to Seven
 * week of June 20th - listening viewing dh
+* week of June 27th - workflow for remote music recording
 
 Now writing
 
