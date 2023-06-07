@@ -8,8 +8,7 @@ categories:
 **Next up**
 * week of June 6th - Shape of DH Work - proofing needed
 * week of June 13th - Counting to Seven
-* week of June 20th - listening viewing dh
-* week of June 27th - workflow for remote music recording
+* week of June 20th - workflow for remote music recording
 
 Now writing
 
@@ -21,7 +20,6 @@ Now writing
 * DH Course ideas - iterative approach to titles as a way to develop course ideas. maybe also share the things you've been working on for alison
 
 **Sound studies**
-* How we do multitrack recording in the Hard Modes
 * How to work with sound fonts
 
 **Meta**
@@ -30,6 +28,7 @@ Now writing
 **Technical**
 
 **Misc**
+* Backlog
 * walking and writing
 * Something related to Pepper
 * my own personal life narrative and career path a la speaking in code
@@ -51,7 +50,7 @@ Now writing
     3. Expanding on the UCLA Student Collaborators' Bill of Rights
     4. Precarious labor and the labor of teaching
 3. Infrastructure
-    1. As it impacts pedagogy and student life and teaching in particular; how do the small decisions we make at the level of administration reflect out pedagogies?
+    1. As it impacts pedagogy and student life and teaching in particular; how do the small decisions we make at the level of administration reflect our pedagogies?
     2. How can pedagogy be enacted beyond the classroom? How can we take teacherly actions as administrators?
     3. How can those teacherly administrative actions address issues of precarity among the student population?
 4. Profession
