@@ -6,9 +6,10 @@ categories:
 ---
 
 **Next up**
-* week of June 6th - Shape of DH Work - proofing needed
-* week of June 13th - Counting to Seven
-* week of June 20th - workflow for remote music recording
+* week of June 12th - Counting to Seven - ready to publish
+* week of June 19th - Origin Story - one last read needed; proofing complete 
+* week of June 26th - Shape of DH Work - proofing needed
+* week of July 3rd - workflow for remote music recording - ready to publish
 
 Now writing
 
@@ -28,6 +29,7 @@ Now writing
 **Technical**
 
 **Misc**
+* pencil and paper vs AP exam pencil and paper
 * Backlog
 * walking and writing
 * Something related to Pepper

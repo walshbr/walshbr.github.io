@@ -38,7 +38,10 @@ task :new_post, :title do |t, args|
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
-    post.puts "categories: "
+    post.puts "categories: ['digital humanities']"
+    post.puts "crosspost:
+  - title: the Scholars' Lab blog
+    url: https://scholarslab.lib.virginia.edu/blog/FULL-SLUG-HERE"
     post.puts "---"
   end
 end
