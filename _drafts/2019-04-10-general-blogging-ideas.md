@@ -6,15 +6,14 @@ categories:
 ---
 
 **Next up**
-* week of June 12th - Counting to Seven - ready to publish
-* week of June 19th - Origin Story - one last read needed; proofing complete 
-* week of June 26th - Shape of DH Work - proofing needed
-* week of July 3rd - workflow for remote music recording - ready to publish
+* week of June 19th - Origin Story - Ready to publish. Last skim morning of.
+* week of June 26th - Shape of DH Work - Ready to publish. Last skim morning of.
+* week of July 3rd - workflow for remote music recording - ready to publish - last skim morning of
+* week of July 10th - Ellington Effect
 
 Now writing
 
 **Management**
-* Ellington's approach to composition
 
 **Teaching or Curriculum development**
 * rules and constraints as an approach to teaching dh workshops
