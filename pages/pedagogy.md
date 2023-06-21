@@ -5,7 +5,7 @@ permalink: /pedagogy
 order: 3
 ---
 
-In addition to the specific courses and initiatives below, I've written a number of posts ([{{ site.categories['pedagogy'] | size }}](/categories/pedagogy/)) here on the blog on pedagogy. Here are the most recent 10:
+In addition to the specific courses and initiatives below, I've written a number of posts ([{{ site.categories['pedagogy'] | size }}](/tag/pedagogy/)) here on the blog on pedagogy. Here are the most recent 10:
 
 {% for post in site.categories['pedagogy'] limit:10 %}
 * <a href="{{ post.url }}">{{ post.title }}</a>{% endfor %}
@@ -19,7 +19,7 @@ I have also taught a range of courses and programs, for credit or otherwise. Des
 * <a href="#ENGN5559">ENGN 5559: Digital Literary Studies</a><br>
       (Co-Instructor with Alison Booth, one section; Spring 2019)
 * [Praxis Program](#praxis)<br>
-      (Lead Instructor in collaboration w/ Scholars Lab staff; annually from 2017-2018 to present)
+      (Lead Instructor in collaboration w/ Scholars' Lab staff; annually from 2017-2018 to present)
 * [Scholars' Lab Student Programs](#slabprograms)<br>
       (In collaboration w/ Scholars' Lab staff; 2017 to present)
 

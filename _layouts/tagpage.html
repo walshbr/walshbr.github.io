@@ -3,8 +3,15 @@ layout: default
 ---
 <div class="post">
 <h1>Tag: {{ page.tag }}</h1>
+<p>{% if page.tag == 'dh now' %}
+	{{ site.categories[page.tag] | size }} of my blog posts have been featured on <a href="http://digitalhumanitiesnow.org/">DH Now</a>, "an experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web."
+{% endif %}
+{% if page.tag == 'dh+lib' %}
+{{ site.categories[page.tag] | size }} of my blog posts have been featured on <a href="https://twitter.com/DHandLib/">dh+lib Review</a>, a weekly roundup of recommended readings and resources at the intersection of digital humanities and libraries.
+{% endif %}</p>
+
 <ul>
-{% for post in site.tags[page.tag] %}
+{% for post in site.categories[page.tag] %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
     {{ post.description }}
   </li>
