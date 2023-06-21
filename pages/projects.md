@@ -23,13 +23,13 @@ While the blogroll has miscellaneous scribblings, these are the more complete/ro
 <div class="divider"></div>
 ## Editorial Work
 
-I very much enjoy editorial work, which nicely combines my interests in digital humanities and writing pedagogy. I've served on the editorial board of [The Programming Historian](http://programminghistorian.org/) since 2017, where I have edited pieces on audiovisual transformation, publishing with Jupyter notebooks, network analysis, text similarity, web APIs, and data cleaning, among others. In addition, I have served on the Editorial Collective of [The Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/) since 2018, where I also co-edited [Issue 18](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/) with a Forum on Data and Computational Pedagogy with Kelly Hammond and Gregory Palermo. I serve on the technical committees of both journals, which involves a range of responsibilities including coordinating work on GitHub, troubleshooting technical errors, and overseeing content migration.  
+I very much enjoy editorial work, which nicely combines my interests in digital humanities and writing pedagogy. I served on the editorial board of [The Programming Historian](http://programminghistorian.org/) for a number of years, where I edited pieces on audiovisual transformation, publishing with Jupyter notebooks, network analysis, text similarity, web APIs, and data cleaning, among others. In addition, I have served on the Editorial Collective of [The Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/) since 2018. I tend to pitch in on technical issues for the journals I work on, which involves a range of responsibilities including coordinating work on GitHub, troubleshooting technical errors, and overseeing content migration.  
 
 Representative editorial work:
 * Quinn Dombrowski, Tassie Gniady, and David Kloster, "Introduction to Jupyter Notebooks," The Programming Historian 8 (2019), [https://doi.org/10.46430/phen0087](https://doi.org/10.46430/phen0087).
 * John R. Ladd, Jessica Otis, Christopher N. Warren, and Scott Weingart, "Exploring and Analyzing Network Data with Python," The Programming Historian 6 (2017), [https://doi.org/10.46430/phen0064](https://doi.org/10.46430/phen0064).
 * John R. Ladd, "Understanding and Using Common Similarity Measures for Text Analysis," The Programming Historian 9 (2020), [https://doi.org/10.46430/phen0089](https://doi.org/10.46430/phen0089).
-* Co-editor with Gregory Palermo and Kelly Hammond, Issue 18 of the Journal of Interactive Technology and Pedagogy with a special forum on data and computational pedagogy ([forthcoming](https://jitp.commons.gc.cuny.edu/call-for-submissions/)).
+* Co-editor with Gregory Palermo and Kelly Hammond, Issue 18 of the Journal of Interactive Technology and Pedagogy with a special forum on data and computational pedagogy [https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/).
 
 <div class="divider"></div>
 ## A Humanist's Cookbook For Natural Language Processing In Python

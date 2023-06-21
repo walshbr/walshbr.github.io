@@ -11,7 +11,7 @@ crosspost:
 * academy encourages taking up space and talking. how might silence be a mode of action?
 rather than a fully thought out piece, maybe just aim to iterate through different tactics and lineages of silences?
 
-* jazz - listening with big ears
+* jazz - listening with big ears,
 * the tactics from the Amanda post - https://walshbr.com/blog/building-community-and-generosity-in-the-context-of-graduate-education/ 
 * making space - Counting to seven
 * art of asking questions

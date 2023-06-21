@@ -6,7 +6,6 @@ categories:
 ---
 
 **Next up**
-* week of June 19th - Origin Story - Ready to publish. Last skim morning of.
 * week of June 26th - Shape of DH Work - Ready to publish. Last skim morning of.
 * week of July 3rd - workflow for remote music recording - ready to publish - last skim morning of
 * week of July 10th - DH and the Ellington Effect - ready to publish - last skim morning of
