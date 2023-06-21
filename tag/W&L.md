@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: pedagogy"
-tag: pedagogy
+title: "Tag: W&L"
+tag: W&L
 robots: noindex
 ---

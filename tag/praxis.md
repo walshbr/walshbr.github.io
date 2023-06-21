@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: pedagogy"
-tag: pedagogy
+title: "Tag: 'praxis'"
+tag: 'praxis'
 robots: noindex
 ---

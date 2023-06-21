@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: pedagogy"
-tag: pedagogy
+title: "Tag: alt-ac"
+tag: alt-ac
 robots: noindex
 ---
