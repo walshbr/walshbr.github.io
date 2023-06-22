@@ -60,7 +60,7 @@ Other Publications
 * "[A Humanists Cookbook for Natural Language Processing in Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb)", with Rebecca Bultman, Fall 2020.
 * "<a href="http://jacket2.org/commentary/remixing-sound-archive-cut-poetry-recordings">Remixing the Sound Archive: Cut-up Poetry Recordings</a>," <em>Clipping</em>, series in <em>Jacket2</em>, January 5, 2018.
 * <em><a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a></em>, open access textbook self-published with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Sarah Horowitz</a>, Fall 2016.
-* A number of my blog posts have been featured on [DH Now](/tag/dh_now/) ({{ site.categories['dh now'] | size }}) and [dh+lib](/tag/dh+lib/) ({{ site.categories['dh+lib'] | size }}).
+* A number of my blog posts have been featured on [DH Now](/tag/dh-now/) ({{ site.tags['dh-now'] | size }}) and [dh+lib](/tag/dh-lib/) ({{ site.tags['dh-lib'] | size }}).
 
 Public Writing
 
