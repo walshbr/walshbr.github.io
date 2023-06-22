@@ -2,7 +2,7 @@
 layout: post
 title: "where does dh teaching happen"
 date: 2023-06-15 10:46
-tags: ['digital humanities']
+tags: [digital-humanities]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/where-does-dh-teaching-happen

@@ -9,6 +9,7 @@ In addition to the chronological feed below, the following tag cloud might make 
 
 {% include archive.html %}
 
+## Chronological Feed
 <div id="blog-archives">
 {% assign reverse_posts = site.posts | reversed %}
 {% for post in reverse_posts %}

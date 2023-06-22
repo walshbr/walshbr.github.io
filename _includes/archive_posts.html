@@ -4,11 +4,10 @@
 <h3>
     {{ post.date | date: "<span class='month'>%b</span> <span class='day'>%d</span>"}} | <a href="{{ root_url }}{{ post.url }}">{{post.title}}</a>
 </h3>
-{% comment %}
-{% if post.categories[0] %}
-  {% assign categories = post.categories | category_links %} 
-  {{ category_links:post.categories }}
-  <span class="categories">Posted in {{ categories }}</span>.
-{% endif %}
-{% endcomment %}
+<span>Posted in:
+  {% for tag in post.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+</span>
 <div class="divider"/>

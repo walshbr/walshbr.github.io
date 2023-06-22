@@ -2,7 +2,7 @@
 layout: post
 title: "The Shape of DH Work"
 date: 2023-05-10 08:18
-tags: ['pedagogy',"Scholars' Lab",'praxis','digital humanities','collaboration']
+tags: [pedagogy,scholars-lab,praxis,digital-humanities,collaboration]
 crosspost:
   - title: Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/the-shape-of-dh-work/

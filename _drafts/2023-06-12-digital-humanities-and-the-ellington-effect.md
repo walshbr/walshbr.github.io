@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Humanities and the Ellington Effect"
 date: 2023-06-12 13:31
-tags: ['digital humanities']
+tags: [digital-humanities]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/digital-humanities-and-the-ellington-effect

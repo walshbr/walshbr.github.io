@@ -2,7 +2,8 @@
 layout: post
 title: "Jekyll Tag Clouds"
 date: 2023-06-22 11:19
-tags: ['digital humanities']
+tags: [digital-publishing,documentation,tips]
+#asdfadf
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/jekyll-tag-clouds

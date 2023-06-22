@@ -2,7 +2,7 @@
 layout: post
 title: "Pedagogies of Listening"
 date: 2023-06-15 10:20
-tags: ['digital humanities']
+tags: [digital-humanities]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/pedagogies-of-listening
