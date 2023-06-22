@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Humanities Pedagogy and Opportunities for Hope"
 date: 2019-10-16 09:45
-categories: ["digital humanities", "pedagogy", "talks", "Scholars' Lab"]
+tags: [digital-humanities, pedagogy, talks, scholars-lab]
 ---
 
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/digital-humanities-pedagogy-and-opportunities-for-hope)*

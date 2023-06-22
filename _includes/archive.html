@@ -1,0 +1,14 @@
+{% capture temptags %}
+  {% for tag in site.tags %}
+    {{ tag[1].size | plus: 10 }}#{{ tag[0] }}#{{ tag[1].size }}
+  {% endfor %}
+{% endcapture %}
+
+{% assign sortedtemptags = temptags | split:' ' %}
+{%- for temptag in sortedtemptags -%}
+  {% assign tagitems = temptag | split: '#' %}
+  {%- capture tagsize -%}{{ tagitems[0] }} {%- endcapture -%}
+  {%- capture tagname -%}{{ tagitems[1] }}{%- endcapture -%}
+  <a href="/tag/{{ tagname }}"><code class="highligher-rouge" style="font-size:{{ tagsize }}px;"><nobr>{{ tagname }}</nobr></code></a>
+{% endfor %}
+

@@ -3,7 +3,7 @@ layout: post
 title: "Collaborative Writing to Build Digital Humanities Praxis"
 date: 2017-08-04 14:40
 comments: true
-categories: [W&L,digital humanities,talks,pedagogy,dh now]
+tags: [w&l,digital-humanities,talks,pedagogy,dh-now]
 ---
 
 *[The following is the rough text of my short paper given at the 2017 Digital Humanities conference in Montréal.]*

@@ -3,7 +3,7 @@ layout: post
 title: "Virginia Woolf, Natural Language Processing, and the Quotation Mark"
 date: 2015-09-10 11:21
 comments: true
-categories: [Woolf, text analysis, sound studies]
+tags: [woolf, text-analysis, sound-studies]
 ---
 
 *Crossposted on the [Scholars' Lab blog](http://scholarslab.org/?p=12117/)*

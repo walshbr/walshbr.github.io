@@ -2,7 +2,7 @@
 layout: post
 title: "Teaching with Big Ears"
 date: 2020-08-10 16:36
-categories: ['book-blogging',"pedagogy","digital humanities", 'crisis']
+tags: [book-blogging,pedagogy,digital-humanities,crisis]
 ---
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/teaching-with-big-ears)*
 

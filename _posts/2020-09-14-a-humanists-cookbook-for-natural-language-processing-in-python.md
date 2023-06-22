@@ -2,7 +2,7 @@
 layout: post
 title: "A Humanist's Cookbook For Natural Language Processing In Python"
 date: 2020-09-14 08:24
-categories: ['pedagogy', 'projects', 'collaboration']
+tags: [pedagogy, projects, collaboration]
 ---
 
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/a-humanists-cookbook-for-natural-language-processing-in-python) and co-authored with [Rebecca Bultman](https://scholarslab.lib.virginia.edu/people/rebecca-bultman/)*

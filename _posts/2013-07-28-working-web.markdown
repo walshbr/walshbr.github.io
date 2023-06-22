@@ -3,7 +3,7 @@ layout: post
 title: "SelfControl for Working on the Web"
 date: 2013-07-28 20:53
 comments: true
-categories: [tools]
+tags: [tools]
 ---
 
 The web enables virtually all of my work as a graduate student, but it can all too easily become a powerful distraction. Sometimes it helps to have a few practical aids in the war against procrastination. Of the several tools that I’ve tried - <a href="https://addons.mozilla.org/en-us/firefox/addon/foxfilter/">Fox Filter</a>, <a href="https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en">StayFocused</a>, and <a href="http://macfreedom.com/">Freedom</a> - <a href="http://selfcontrolapp.com/">SelfControl</a> remains my favorite. SelfControl provides relentless self-regulating freedom from procrastination. Best of all, it is free.

@@ -2,7 +2,7 @@
 layout: post
 title: "Open Access Dissertation"
 date: 2021-10-28 11:18
-categories: [digital humanities, projects]
+tags: [digital-humanities, projects]
 ---
 It took some time to sort out the author rights and for the embargo to run out, but I'm happy to share that my 2015 dissertation is freely available through UVA's LibraETD repository. The abstract and link to materials are both pasted below. DH folks might be especially interested in two components from it. The Virginia Woolf chapter incorporates text analysis and machine learning components (further discussions of that material can be found here on the [blog](https://walshbr.com/archive)). And the chapter on James Joyce features a fairly lengthy discussion of [https://librivox.org/](https://librivox.org/) and the kinds of sound recording communities made possible online. A much revised version of this same chapter was published in _James Joyce Quarterly_ with this citation:
 

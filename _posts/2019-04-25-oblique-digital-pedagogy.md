@@ -2,7 +2,7 @@
 layout: post
 title: "Thirteen Oblique Strategies for Digital Pedagogy"
 date: 2019-04-25 09:03
-categories: ['pedagogy','digital humanities',pedagogy,'dh now']
+tags: [pedagogy,digital-humanities,pedagogy,dh-now]
 ---
 
 <img src="/assets/images/oblique/oblique.jpg" alt="Oblique Strategies card and deck" style="max-height:50%; margin-left: auto; margin-right:auto;">

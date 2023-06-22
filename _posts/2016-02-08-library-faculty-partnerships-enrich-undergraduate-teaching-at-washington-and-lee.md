@@ -2,7 +2,7 @@
 layout: post
 title: "Library-Faculty Partnerships Enrich Undergraduate Teaching at Washington and Lee"
 date: 2016-02-08 13:08
-categories: [digital humanities, W&L, collaboration, dh+lib]
+tags: [digital-humanities, w&l, collaboration, dh-lib]
 ---
 *Crossposted to the [DLF Contribute series](https://www.diglib.org/library-faculty-partnerships-enrich-undergraduate-teaching-at-washington-and-lee/). Cowritten with [Mackenzie Brooks](https://library.wlu.edu/about/library-directory/mackenzie-brooks), Digital Humanities Librarian at Washington and Lee University.*
 

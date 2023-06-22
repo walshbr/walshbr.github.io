@@ -2,7 +2,7 @@
 layout: post
 title: "DH Cover Letters"
 date: 2019-10-09 10:03
-categories: [Scholars' Lab, alt-ac, collaboration, digital humanities, pedagogy, 'dh now']
+tags: [scholars-lab, alt-ac, collaboration, digital-humanities, pedagogy, dh-now]
 ---
 
 *Co-authored with [Amanda Visconti](http://amandavisconti.com/). Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/dh-cover-letters/), [the Academic Job Market Support Network](https://academicjobmarketsupportnetwork.hcommons.org/2019/10/09/how-we-talk-and-write-about-dh-jobs/), and [Amanda's personal blog](https://literaturegeek.com/2019/10/10/digital-humanities-cover-letters-job-advice)*

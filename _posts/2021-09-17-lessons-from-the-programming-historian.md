@@ -2,7 +2,7 @@
 layout: post
 title: "Lessons from The Programming Historian"
 date: 2021-09-17 08:09
-categories: [digital humanities, projects, collaboration, digital publishing]
+tags: [digital-humanities, projects, collaboration, digital-publishing]
 ---
 
 I had a debrief with Zoe and Sarah, unwatched the main repository, and have gone about finalizing the last little things. So it’s official–I’ve left *The Programming Historian* after four and half years with the project. On the one hand, that is a shockingly small amount of time–it feels like I just got there! Where does the time go? On the other, that’s a substantial portion of my professional career. I joined the project as an editor just as I was leaving my postdoc at W&L, and some of my earliest memories of working in the Scholars’ Lab were of trying to find a good space to take an international Skype call for the journal. I’ve learned tons with the project, and a big part of me is sad to be leaving. But after 4.5 years it was time for me to move on to other things and make space for the other folks in the project to continue shaping it in new and exciting directions.

@@ -2,7 +2,7 @@
 layout: post
 title: "(DH) Public Speaking"
 date: 2018-11-26 15:17
-categories: [digital humanities, talks]
+tags: [digital-humanities, talks]
 ---
 This is a post that I had partially drafted on my laptop for a while, and I want to be better about getting things out in the world rather than sitting on them.
 

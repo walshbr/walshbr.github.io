@@ -3,7 +3,7 @@ layout: post
 title: "Hearing Silent Woolf"
 date: 2015-03-23 16:37
 comments: true
-categories: [text analysis, sound studies, Woolf, talks]
+tags: [text-analysis, sound-studies, woolf, talks]
 ---
 
 *[This week I presented at the [2015 Huskey Research Exhibition](http://gradcouncil.com/2015-sessions/) at UVA. The talk was delivered from very schematic notes, but below is a rough recreation of what I discussed. The talk I gave is a crash course in a new project I've started working on with the generous help of the [Scholars' Lab](http://scholarslab.org) that thinks about sound in Virginia Woolf's career using computational methods. [Eric Rochester](http://www.ericrochester.com/), especially, has been endlessly giving of his time and expertise, helping me think through and prototype work on this material. The talk wound up receiving first prize for the digital humanities panel of which I was a part. The project is still very much inchoate, and I'd welcome thoughts on it.]*

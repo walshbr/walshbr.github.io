@@ -3,7 +3,7 @@ layout: post
 title: "Design Refresh"
 date: 2013-07-08 00:39
 comments: true
-categories:
+tags:
 ---
 At long last, I am ready to unveil the project that I have been working on over the summer - a design refresh for site. The main drive behind this aesthetic: I noticed the sheer abundance of information that the basic octopress theme gives you. This setup leads to a lot of duplicate information that ultimately makes things feel cluttered. I tried to keep things very minimal in this design, eliminating as much overlapping information and noise as possible.
 

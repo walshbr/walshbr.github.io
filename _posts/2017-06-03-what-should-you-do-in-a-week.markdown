@@ -3,7 +3,7 @@ layout: post
 title: "What Should You Do in a Week?"
 date: 2017-06-03 20:17
 comments: true
-categories: [digital humanities,pedagogy]
+tags: [digital-humanities, pedagogy]
 ---
 
 *[Crossposted to the [Scholars' Lab blog](http://scholarslab.org/digital-humanities/what-should-you-do-in-a-week/).]*

@@ -3,7 +3,7 @@ layout: post
 title: "MLA 2015 Abstracts"
 date: 2014-03-21 09:23
 comments: true
-categories: [conferences, talks]
+tags: [conferences, talks]
 ---
 
 It's abstract time for next year's big conference season. My two abstracts for MLA 2015 in Vancouver are below. This year I skewed digital humanities in a huge way: one paper would discuss digital collation and pedagogy, while the other would talk about listening practices and sound manipulation.

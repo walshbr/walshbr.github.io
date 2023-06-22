@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Humanities Job Talks: Some Case Studies"
 date: 2019-12-16 11:15
-categories: ["digital humanities","alt-ac","collaboration","talks","pedagogy"]
+tags: [digital-humanities,alt-ac,collaboration,talks,pedagogy]
 ---
 
 *Co-authored with [Amanda Visconti](http://amandavisconti.com/). Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/digital-humanities-job-talks/) and [Amanda's personal blog](http://literaturegeek.com/2019/12/16/digital-humanities-job-talks).*

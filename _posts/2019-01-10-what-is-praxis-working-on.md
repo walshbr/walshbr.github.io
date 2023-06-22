@@ -2,7 +2,7 @@
 layout: post
 title: "What is Praxis Working On?"
 date: 2019-1-10 07:32
-categories: [digital humanities, pedagogy, Scholars' Lab]
+tags: [digital-humanities, pedagogy, scholars-lab]
 ---
 
 *Crossposted to the [Scholars' Lab blog](http://scholarslab.org/blog/what-is-praxis-working-on)*

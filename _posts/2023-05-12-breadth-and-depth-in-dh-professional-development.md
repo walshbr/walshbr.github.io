@@ -2,7 +2,7 @@
 layout: post
 title: "Breadth and Depth in DH Professional Development"
 date: 2023-05-12
-categories: [Scholars' Lab, alt-ac, curriculum, digital humanities, pedagogy]
+tags: [scholars-lab, alt-ac, curriculum, digital-humanities, pedagogy]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/breadth-and-depth-in-dh-professional-development/

@@ -3,7 +3,7 @@ layout: post
 title: "Frustration is a Feature"
 date: 2018-01-03 09:44
 comments: true
-categories: [digital humanities,talks,pedagogy]
+tags: [digital-humanities,talks,pedagogy]
 ---
 *The following talk was given at MLA18 as a part of Panel 203: Anxious Pedagogies - Negotiating Precarity and Insecurity in the Classroom. Technically I suppose the title should be "Anxiety Is a Feature," but the alliteration was too tempting.*
 

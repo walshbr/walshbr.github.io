@@ -2,7 +2,7 @@
 layout: post
 title: "Counting to Seven"
 date: 2023-06-12
-categories: ['pedagogy', 'digital humanities']
+tags: [pedagogy,digital-humanities]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/counting-to-seven

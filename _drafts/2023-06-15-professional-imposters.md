@@ -2,7 +2,7 @@
 layout: post
 title: "Professional Imposters"
 date: 2023-06-15 10:30
-categories: ['digital humanities']
+tags: ['digital humanities']
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/professional-imposters

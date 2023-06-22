@@ -3,7 +3,7 @@ layout: post
 title: "On Co-Teaching and Digital Humanities"
 date: 2017-03-22 12:53
 comments: true
-categories: [pedagogy, digital humanities, W&L, collaboration, dh now]
+tags: [pedagogy, digital-humanities, w&l, collaboration, dh-now]
 ---
 
 *[Crossposted on the [WLUDH blog](http://digitalhumanities.wlu.edu/blog/2017/03/23/on-co-teaching-and-digital-humanities/).]*

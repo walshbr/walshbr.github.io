@@ -3,7 +3,7 @@ layout: post
 title: "The Devil in the Recording"
 date: 2015-01-12 10:29
 comments: true
-categories: [talks, conferences, sound studies]
+tags: [talks, conferences, sound-studies]
 ---
 
 [The following is an only slightly modified version of the talk I gave at the [ACH](http://ach.org/)'s panel on "Digital Deformance and Scholarly Forms" at the 2015 MLA conference. For more details on how to reverse audio recordings, see my [previous post on the subject]({{ root_url }}/blog/deformance/).]

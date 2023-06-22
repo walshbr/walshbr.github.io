@@ -2,7 +2,7 @@
 layout: post
 title: "Five Verbs for Open Pedagogy"
 date: 2019-08-07 12:37
-categories: [pedagogy]
+tags: [pedagogy]
 ---
 
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/five-verbs-for-open-pedagogy)*

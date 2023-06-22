@@ -2,7 +2,7 @@
 layout: post
 title: "Making Noise in the Makerspace"
 date: 2019-07-18 14:54
-categories: [digital humanities, "Scholars' Lab",]
+tags: [digital-humanities,scholars-lab]
 ---
 
 *Crossposted to the [scholarslab blog](https://scholarslab.lib.virginia.edu/blog/making-noise-in-the-makerspace)*

@@ -2,7 +2,7 @@
 layout: post
 title: "What's a Pedagogy, and How Do I Find Mine?"
 date: 2019-03-28 05:26
-categories: ['pedagogy']
+tags: [pedagogy]
 ---
 
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/whats-a-pedagogy-and-how-do-i-find-mine/)*

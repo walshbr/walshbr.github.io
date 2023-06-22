@@ -2,7 +2,7 @@
 layout: post
 title: "Getting from Here to There"
 date: 2019-09-19 11:31
-categories: ["digital humanities", "pedagogy", "talks", "Scholars' Lab"]
+tags: [digital-humanities,pedagogy, talks, scholars-lab]
 ---
 
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/getting-from-here-to-there/)*

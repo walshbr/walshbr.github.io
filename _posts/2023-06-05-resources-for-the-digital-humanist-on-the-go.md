@@ -2,7 +2,7 @@
 layout: post
 title: "Resources for the Digital Humanist on the Go"
 date: 2023-06-05
-categories: ['audio','digital humanities']
+tags: [audio,digital-humanities]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/resources-for-the-digital-humanist-on-the-go

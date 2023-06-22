@@ -3,7 +3,7 @@ layout: post
 title: "Embedding COinS Metadata on a Page Using the Zotero API"
 date: 2016-02-15 09:33
 comments: true
-categories: [W&L, documentation]
+tags: [w&l, documentation]
 ---
 
 *[Crossposted on the [Washington and Lee University Digital Humanities Blog](http://digitalhumanities.wlu.edu/blog/2016/02/15/embedding-coins-data-on-a-page-using-the-zotero-api/)]*

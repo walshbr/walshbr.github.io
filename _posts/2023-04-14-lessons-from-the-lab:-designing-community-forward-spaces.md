@@ -2,7 +2,7 @@
 layout: post
 title: "Lessons From The Lab: Designing Community-Forward Spaces"
 date: 2023-04-14 11:53
-categories: ['pedagogy','talks','digital humanities','collaboration',"Scholars' Lab"]
+tags: [pedagogy,talks,digital-humanities,collaboration,scholars-lab]
 ---
 
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/lessons-from-the-lab-designing-community-forward-spaces) and to [Amanda's blog](http://literaturegeek.com/2023/04/14/lessons-from-the-lab-designing-community-forward-spaces).*

@@ -2,7 +2,7 @@
 layout: post
 title: "Against Projecting: Planning DH Course Projects that Work for You"
 date: 2023-03-01 09:53
-categories: ['pedagogy','talks','digital humanities','collaboration']
+tags: [pedagogy,talks,digital-humanities,collaboration]
 ---
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/against-projecting-planning-dh-course-projects-that-work-for-you).*
 

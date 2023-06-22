@@ -2,7 +2,7 @@
 layout: post
 title: "Questions to Ask When Applying"
 date: 2023-05-30
-categories: ['pedagogy',"Scholars' Lab",'praxis','digital humanities']
+tags: [pedagogy,scholars-lab,praxis,digital-humanities]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/questions-to-ask-when-applying/

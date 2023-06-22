@@ -3,7 +3,7 @@ layout: post
 title: "Collation and Writing Pedagogy"
 date: 2015-01-17 09:41
 comments: true
-categories: [pedagogy, talks, conferences]
+tags: [pedagogy, talks, conferences]
 ---
 
 [The following is the talk that I gave at the 2015 MLA Conference on a panel on "Pedagogy and Digital Editions." The Google Docs section is a slight reworking and recontextualization of a [previous post]({{ root_url }}/blog/writing-out-loud/) on the subject. I'm especially grateful to [Sarah Storti](https://twitter.com/damozel_) and [Andrew Stauffer](https://twitter.com/andrew_stauffer) for their suggestions and comments on how to use Juxta Commons to teach writing. A version of this piece was selected for publication in *Digital Pedagogy in the Humanities* under their "[Text Analysis](https://digitalpedagogy.hcommons.org/keyword/Text-Analysis/#8220%3Cem%3Ejuxta-commons%3Cem%3E-revisioncollation-assignment8221)" keyword.]

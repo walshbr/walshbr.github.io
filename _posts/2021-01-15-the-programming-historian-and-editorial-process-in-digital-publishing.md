@@ -2,7 +2,7 @@
 layout: post
 title: "The Programming Historian and Editorial Process in Digital Publishing"
 date: 2021-01-15 10:52
-categories: ['digital humanities', 'projects', 'collaboration', 'digital publishing']
+tags: [digital-humanities, projects, collaboration, digital-publishing]
 ---
 
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/the-programming-historian-and-editorial-process-in-digital-publishing)*

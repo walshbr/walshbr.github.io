@@ -2,7 +2,7 @@
 layout: post
 title: "Building Community And Generosity In The Context Of Graduate Education"
 date: 2021-07-14 10:06
-categories: ['pedagogy',"Scholars' Lab",'talks','digital humanities','collaboration']
+tags: [pedagogy,scholars-lab,talks,digital-humanities,collaboration]
 ---
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/building-community-and-generosity-in-the-context-of-graduate-education). Co-authored with Amanda Visconti.*
 

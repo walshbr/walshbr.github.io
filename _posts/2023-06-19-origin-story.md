@@ -2,7 +2,7 @@
 layout: post
 title: "Origin Story"
 date: 2023-06-19
-categories: ["Scholars' Lab", 'alt-ac', 'pedagogy']
+tags: [scholars-lab, alt-ac, pedagogy]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/origin-story

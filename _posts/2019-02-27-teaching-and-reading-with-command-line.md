@@ -2,7 +2,7 @@
 layout: post
 title: "Workshop on Reading with Command Line"
 date: 2019-02-27 08:14
-categories: [digital humanities', 'pedagogy', 'dh now']
+tags: [digital-humanities,pedagogy,dh-now]
 ---
 
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.org/blog/workshop-on-reading-with-command-line)*

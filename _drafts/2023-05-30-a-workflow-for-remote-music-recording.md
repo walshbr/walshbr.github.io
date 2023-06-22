@@ -2,7 +2,7 @@
 layout: post
 title: "A Workflow for Remote Music Recording"
 date: 2023-05-30 13:21
-categories: ['collaboration','audio']
+tags: ['collaboration','audio']
 crosspost:
   - title: Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/a-workflow-for-remote-music-recording/

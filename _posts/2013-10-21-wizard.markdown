@@ -3,7 +3,7 @@ layout: post
 title: "The Paper Outline Challenge"
 date: 2013-10-21 10:19
 comments: true
-categories: [pedagogy]
+tags: [pedagogy]
 ---
 
 **Update in 2023: This post originally used the four houses from *Harry Potter* as a theme for the exercise. In the past decade since writing this post J.K. Rowling's public comments have become [increasingly transphobic](https://www.glamour.com/story/a-complete-breakdown-of-the-jk-rowling-transgender-comments-controversy). I am not sure that anyone would find their way to *Harry Potter* through this old post, but I also don't want to support her dangerous political stances. I have therefore lightly reskinned the exercise below such that it does not require the association with Rowling. I would also encourage any readers to donate to [Trans Lifeline](https://translifeline.org/).**

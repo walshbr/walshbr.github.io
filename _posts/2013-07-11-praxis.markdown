@@ -3,7 +3,7 @@ layout: post
 title: "Praxis Posts"
 date: 2013-07-23 21:19
 comments: true
-categories: [documentation]
+tags: [documentation]
 ---
 All last year I was a <a href="http://praxis.scholarslab.org/">Praxis Fellow</a> in the <a href="http://scholarslab.org/">Scholars' Lab</a>, where they gave us a "soup to nuts" crash course in all things digital humanities. As a part of the program, the fellows were asked to reflect periodically on their experiences on the Scholars' Lab blog.
 

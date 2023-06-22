@@ -3,7 +3,7 @@ layout: post
 title: "Search Bar"
 date: 2013-07-10 19:41
 comments: true
-categories:
+tags:
 ---
 After some tweaking, I managed to get the search bar to play nicely. I unrounded the corners and lightened the borders to match the framing lines elsewhere in the navigation bar. Here is the CSS for it. You'll want to give it an id selector of your own, a la #searchform.
 

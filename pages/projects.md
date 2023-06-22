@@ -17,8 +17,14 @@ Posts:
 * 
 {% endcomment %}
 
-While the blogroll has miscellaneous scribblings, these are the more complete/robust projects that I have worked on. In addition to my work on projects at <a href="http://scholarslab.org">Scholars' Lab</a> and <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/walshbr">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
+Find more information about my various projects below. In addition to my work on projects at <a href="http://scholarslab.org">Scholars' Lab</a> and <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/walshbr">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
 
+<div class="divider"></div>
+## Blogging
+
+I've blogged for a number of years as a way to share tacit knowledge about the academy, digital pedagogy, and digital humanities. In addition to the chronological [blog feed](/archive), you might find the following tag cloud useful for exploring past posts by category (adapted from instructions shared by [Long Qian](https://longqian.me/2017/02/09/github-jekyll-tag/)). 
+
+{% include archive.html %}
 
 <div class="divider"></div>
 ## Editorial Work

@@ -2,7 +2,7 @@
 layout: post
 title: "Finding a Way In"
 date: 2023-05-22
-categories: ['pedagogy',"Scholars' Lab",'praxis','digital humanities','collaboration']
+tags: [pedagogy,scholars-lab,praxis,digital-humanities,collaboration]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/finding-a-way-in/

@@ -2,7 +2,7 @@
 layout: post
 title: "DH Pedagogy Roadshow"
 date: 2019-06-27 12:36
-categories: [pedagogy, digital humanities, "Scholars' Lab", W&L]
+tags: [pedagogy, digital-humanities, scholars-lab, w&l]
 ---
 
 *Crossposted to the [scholarslab blog](https://scholarslab.lib.virginia.edu/blog/dh-pedagogy-roadshow) and the [WLUDH blog](https://digitalhumanities.wlu.edu/blog/2019/06/27/dh-pedagogy-roadshow/)*

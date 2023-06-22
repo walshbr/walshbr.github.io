@@ -3,7 +3,7 @@ layout: post
 title: "Prism News - Heroku and LLC"
 date: 2014-08-20 09:32
 comments: true
-categories: 
+tags: 
 ---
 
 Crossposted on the [Scholars' Lab blog](http://scholarslab.org/announcements/prism-news-heroku-and-llc/)

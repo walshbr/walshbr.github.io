@@ -2,7 +2,7 @@
 layout: post
 title: "A Praxis-Oriented Introduction to Digital Pedagogy"
 date: 2019-05-30 14:04
-categories: ['pedagogy','digital humanities',digital pedagogy, "Scholars' Lab"]
+tags: [pedagogy,digital-humanities,digital-pedagogy,scholars-lab]
 ---
 
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/a-praxis-oriented-introduction-to-digital-pedagogy/)*
