@@ -6,10 +6,10 @@ tags:
 ---
 
 **Next up**
-* week of June 26th - Shape of DH Work - Ready to publish. Last skim morning of.
-* week of July 3rd - workflow for remote music recording - ready to publish - last skim morning of
+* week of June 26th - jekyll tag clouds. Ready to publish
+* week of July 3rd - Shape of DH Work - Ready to publish. Last skim morning of.
 * week of July 10th - DH and the Ellington Effect - ready to publish - last skim morning of
-* week of July 17th - jekyll tag clouds.
+* week of July 17th - workflow for remote music recording - ready to publish - last skim morning of
 
 **Now writing**
 Pedagogies of listening
