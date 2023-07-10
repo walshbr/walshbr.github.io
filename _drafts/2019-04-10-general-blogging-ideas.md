@@ -6,21 +6,20 @@ tags:
 ---
 
 **Next up**
-* week of July 3rd - Shape of DH Work - Ready to publish. Last skim morning of.
 * week of July 10th - DH and the Ellington Effect - ready to publish - last skim morning of
 * week of July 17th - workflow for remote music recording - ready to publish - last skim morning of
-* week of July 24th - 
+* week of July 24th - cowriting with Ronda on meetings?
 * week of July 31st - 
 * week of August 7th - 
 * week of August 14th - 
-* week of August 21st - retrospective
+* week of August 21st - retrospective - drafted. needs semi-substantial proofing
 
 **Now writing**
 Pedagogies of listening
 Professional Imposters
 Where does DH teaching happen?
 Where does infrastructural change happen?
-Backlog on Royal Match
+Backlog on Royal Match - keep an eye on hard drive submissions
 
 **Unfiled ideas**
 DH and Labor organizing - possibly too big a topic
@@ -34,6 +33,9 @@ DH and Labor organizing - possibly too big a topic
 
 **Meta**
 * How to develop a blog post
+
+**Backlog**
+The great gap in your gaming history
 
 **Technical**
 
