@@ -20,6 +20,22 @@ title: Home
       {% endfor %}
     </span>  
     <div id="post-content">
+      {% if post.crosspost %}
+  <div class="post_crosspost">
+      {% if post.crosspost.size == 1 %}
+      Crossposted to <a href="{{ post.crosspost[0].url }}">{{ post.crosspost[0].title }}</a>.
+      {% else %}
+    {% capture crosspostings %}
+    {% for target in post.crosspost %}
+    <a href="{{ target.url }}">{{ target.title }}</a>,
+    {% endfor %}
+    {% endcapture %}
+    {% assign crosspostarray = crosspostings | strip | split: "," %}
+    Crossposted to {{ crosspostarray | array_to_sentence_string }}.
+    {% endif %}
+    <br><br>
+  </div>
+  {% endif %}
     {{ post.content }}
     </div>
   </div>
