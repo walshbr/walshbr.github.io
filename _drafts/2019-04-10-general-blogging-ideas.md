@@ -6,7 +6,6 @@ tags:
 ---
 
 **Next up**
-* week of July 10th - DH and the Ellington Effect - ready to publish - last skim morning of
 * week of July 17th - workflow for remote music recording - ready to publish - last skim morning of
 * week of July 24th - cowriting with Ronda on meetings?
 * week of July 31st - 
@@ -40,6 +39,7 @@ The great gap in your gaming history
 **Technical**
 
 **Misc**
+* post on threads
 * pencil and paper vs AP exam pencil and paper
 * walking and writing
 * Something related to Pepper
@@ -67,3 +67,8 @@ The great gap in your gaming history
     1. How do we invite students into the profession and into higher education in a way that makes their voices heard and valued?
     2. How can we ensure students are valued in online spaces? Or welcomed in spaces of open peer review?
     3. Where to go from here?
+
+General Brainstorming
+- writing crosstraining as a means of promoting backlog? The gist is that it's 
+
+Reflections on the backlog process by means of 

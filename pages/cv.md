@@ -64,6 +64,7 @@ Other Publications
 
 Public Writing
 
+* "[Backchat: Boyfriend Dungeon](https://www.backlogmag.com/p/backchat-boyfriend-dungeon#details)", *Backlog*, with Alyssa Collins and Grayson Morley, June 22, 2023.
 * "[Backchat: Dredge](https://www.backlogmag.com/p/backchat-dredge#details)," *Backlog*, with Alyssa Collins and Grayson Morley, April 22, 2023.
 * "[Nobody Saves the World and exuberant middle schoolers](https://www.backlogmag.com/p/nobody-saves-the-world-and-exuberant)," *Backlog*, with Grayson Morley, March 16, 2023.
 * "[Skyrim and a life ignoring destiny](https://www.backlogmag.com/p/skyrim-and-a-life-ignoring-destiny)," *Backlog*, February 16, 2023.
