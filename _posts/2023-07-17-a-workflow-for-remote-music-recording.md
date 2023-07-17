@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Workflow for Remote Music Recording"
-date: 2023-05-30 13:21
+date: 2023-07-17
 tags: [collaboration,audio]
 crosspost:
   - title: Scholars' Lab blog
@@ -20,7 +20,7 @@ Working on those tracks taught me a lot about home recording, music production, 
 
 2. Create sheet music for the score and parts. 
 
-    The next step involves taking your arrangement from abstract idea and making it into concrete parts for your players to follow. The music notation software I use for this is [Finale](https://www.finalemusic.com/). Another option is [Sibelius](https://www.avid.com/sibelius). These programs are *deep*. After years I feel I am only beginning to scratch the surface of how to use them.[^2] Finale lets you easily manage all parts of the sheet music process like quickly transposing to different keys, extracting a score to individual parts, hearing a synthesized version of what things will sound like. At the end of this step in the workflow, your goal is to have a score and, most importantly, individual parts for all your musicians. You'll have sheet music to pass out but also, more importantly, have the beginnings of your a template arrangement.
+    The next step involves taking your arrangement from abstract idea and making it into concrete parts for your players to follow. The music notation software I use for this is [Finale](https://www.finalemusic.com/). Another option is [Sibelius](https://www.avid.com/sibelius). These programs are *deep*. After years I feel I am only beginning to scratch the surface of how to use them.[^2] Finale lets you easily manage all parts of the sheet music process like quickly transposing to different keys, extracting a score to individual parts, hearing a synthesized version of what things will sound like, and more. At the end of this step in the workflow, your goal is to have a score and, most importantly, individual parts for all your musicians. You'll have sheet music to pass out, but you'll more importantly have the beginnings of a template arrangement.
 
     Resource: 
     * I like the [tutorials](https://usermanuals.finalemusic.com/FinaleMac/Content/Finale/Finale_Tutorials.htm) shared on Finale's own website for getting started with the software.
@@ -40,7 +40,7 @@ Working on those tracks taught me a lot about home recording, music production, 
     * individual tracks for each MIDI instrument
     * a metronome track for the tempo
     
-    You might have other specific things you'll want to add, like a four measure count-in. Things are always a little wonky at this stage, so you will want to check the arrangement pretty closely by listening back to it. At first, every instrument will default to a piano track (this makes drum parts sound especially chaotic). So you will need to assign an appropriate instrument sound to each track to make the piece play back as expected. You also should check each instrument individually. I have found that bass parts, for example, sometimes transfer over an octave or two below where they actually should be and come out quite muddy until you adjust the register. 
+    You might have other specific things you'll want to add, like a four-measure count-in. Things are always a little wonky at this stage, so you will want to check the arrangement pretty closely by listening back to it. At first, every instrument will default to a piano track (this makes drum parts sound especially chaotic). So you will need to assign an appropriate instrument sound to each track to make the piece play back as expected. You also should check each instrument individually. I have found that bass parts, for example, sometimes transfer over an octave or two below where they actually should be and come out quite muddy until you adjust the register. 
 
     Resources:
     * [Working with software instruments in Logic](https://support.apple.com/guide/logicpro/software-instrument-tracks-lgcpa5b8c023/mac)
@@ -64,11 +64,11 @@ Working on those tracks taught me a lot about home recording, music production, 
 
 ## Pt. 2: Recording
 
-All of the above is just setup done by the person leading a particular arrangement. At this point, you should have a blueprint for your arrangement and a series of individual tracks for each instrument. The next step involves each collaborator recording their own part, layering these live recordings together to make a final project.
+All of the above is just setup done by the person leading a particular arrangement. At this point, you should have a blueprint for your arrangement and a series of individual tracks for each instrument. The next phase involves each collaborator recording their own part, layering these live recordings together to make a final project.
 
 1. Get the project
 
-    Each person should have access to your shared folder with the arrangement materials. Each collaborator imports the project tracks into their own DAW so that they have the same template to work from. Because we will start mixing live audio recordings with the individual MIDI isntruments, the process of importing them will be slightly different. See the resources below for more information. At the end of this step they should have individual tracks for each instrument as well as a metronome track.
+    Each person should have access to your shared folder with the arrangement materials. Each collaborator imports the project tracks into their own DAW so that they have the same template to work from. Because we will start mixing live audio recordings with the individual MIDI instruments, the process of importing them will be slightly different. See the resources below for more information. At the end of this step, they should have individual tracks for each instrument as well as a metronome track.
 
     Resources:
     * [Importing audio tracks in Logic](https://support.apple.com/guide/logicpro/add-and-delete-audio-files-lgcp1bb0ad7d/mac#:~:text=In%20Logic%20Pro%2C%20select%20an,Audio%20button%20in%20the%20toolbar.)
@@ -89,7 +89,7 @@ All of the above is just setup done by the person leading a particular arrangeme
 
 ## Next steps
 
-After everyone has recorded you're on your way! At this point, you might send the materials off to be engineered and mixed for consistency (or do so yourself). After all, everyone recorded their parts seperately so there is likely to be some massaging needed to make a track that sounds consistent across the board. You might also be interested in cutting togeter a video to share online based on the work you did. This can be an intense process in its own way, but you have most of the raw materials you need for it. I'll share some resources below for getting started in that direction. Working on these projects was a long, at times tedious process, but I'm very happy for the experience.
+After everyone has recorded, you're on your way! At this point, you might send the materials off to be engineered and mixed for consistency (or do so yourself). After all, everyone recorded their parts separately so there is likely to be some massaging needed to make a track that sounds consistent across the board. You might also be interested in cutting together a video to share online based on the work you did. This can be an intense process in its own way, but you have most of the raw materials you need for it. I'll share some resources below for getting started in that direction. Working on these projects was a long, at times tedious process, but I'm very happy for the experience.
 
 Resources:
 
@@ -101,6 +101,6 @@ Resources:
 
 [^1]: There can be broad variation in how the arranging process looks. You might plan things entirely on a piano. Or you might skip that step and compose entirely in a program meant for sheet music before sending to a different piece of software to prepare the recording process. Or you could arrange entirely in a Digital Audio Workstation and skip the initial process of making sheet music. For our purposes we used two different programs–one for sheet music and one for mixing–and had to export work between them. 
 
-[^2]: If you've never used music notation software before, you can gather their importance from a situation that happened to me in college. I had written parts for an entire band with pencil by hand. After I finished I realized I had made some significant mistakes and had to rewrite whole sections again by hand. Too many eraser marks make things quite hard to read and take forever to clean up.
+[^2]: If you've never used music notation software before, you can gather their importance from a situation that happened to me in college. I had written parts for an entire band with pencil by hand. After I finished, I realized I had made some significant mistakes and had to rewrite whole sections again by hand. Too many eraser marks make things quite hard to read and take forever to clean up.
 
 [^3]: In Logic at least, your project will likely ask if you want to [import tempo information](https://logicpro.skydocu.com/en/make-global-changes-to-a-project/work-with-tempo/use-tempo-information-from-audio-files/#:~:text=In%20some%20situations%2C%20you%20may,file%20in%20the%20Tracks%20area.) and ask you to select a [frame rate](https://support.apple.com/guide/logicpro/general-project-settings-lgcp7c04a41a/mac#:~:text=Logic%20Pro%20for%20Mac%20automatically%20interprets%20frame%20rates%20of%20%E2%80%9Capproximately,are%20used%20as%20a%20standard.) for the project. These are both dependent on the particular project you are planning to do.
