@@ -1,20 +1,24 @@
 ---
 layout: post
-title: "A Meeting Toolkit"
-date: 2023-07-07
+title: "A Meeting Toolkit for New Facilitators"
+date: 2023-07-31
 tags: [digital-humanities,tips,documentation]
 crosspost:
   - title: the Scholars' Lab blog
-    url: https://scholarslab.lib.virginia.edu/blog/a-meeting-toolkit
+    url: https://scholarslab.lib.virginia.edu/blog/a-meeting-toolkit-for-new-facilitators
+---
+
+This post was co-authored with [Ronda Grizzle](https://scholarslab.lib.virginia.edu/people/ronda-grizzle/), Project Management & Training Specialist in the Scholars' Lab.
+
 ---
 
 Balancing the messy, complex work of humanities research with the logistics of managing collaboration can be quite challenging. There are a range of resources out there[^1] for the high-level aspects of project design, but we rarely provide students with training in how to manage the micro-level interactions that make up collaboration. So you're a humanities student working with a group. You decide you have to call a meeting. Where do you start?
 
-This post aims to provide some quick tips to students, in particular, for making meetings a productive experience for everyone involved. We won't go into too much detail about any one of these topics. We'll instead give a high-level overview of some concepts and approaches that you can implement. Think of it as a toolkit. As the saying goes, everything will look like a nail if the only thing you have is a hammer. We're aiming to show you the other things in the box. 
+This post aims to provide some quick tips to students, in particular, for making meetings a productive experience for everyone involved. We won't go into too much detail about any one of these topics. We'll instead give a high-level overview of some concepts and approaches that you can implement. As the saying goes, everything will look like a nail if the only thing you have is a hammer. We'll give a brief overview of the other things in your toolkit. 
 
 ## Agendas
 
-Any meeting will work better if you have a clear goal in mind, and carefully plotting out the structure of a session will help everyone feel that their time is being respected. Set an agenda for your meeting, and circulate it to the group ahead of time. Doing so lets your team know what they need to do to prepare for your work together. This process might feel overly formal depending on the size of the group, but you will quickly find that after a couple iterations it will feel less unusual and more like just the standard way of conducting business. One common trap students fall into, though, is over budgeting the agenda. Don't overthink them by scheduling down to the minute, and be wary of trying to pack in too many topics. Group conversations around humanities topics take on a life of their own and need space to grow if necessary. Experience will help you learn which topics are likely to take up more time. 
+Any meeting will work better if you have a clear goal in mind, and carefully plotting out the structure of a session will help everyone feel that their time is being respected. Set an agenda for your meeting and circulate it to the group ahead of time. Doing so lets your team know what they need to do to prepare for your work together. This process might feel overly formal depending on the size of the group, but you will quickly find that after a couple iterations it will feel less unusual and more like just the standard way of conducting business. One common trap students fall into, though, is over budgeting the agenda. Don't overthink them by scheduling down to the minute, and be wary of trying to pack in too many topics. Group conversations around humanities topics take on a life of their own and need space to grow if necessary. Experience will help you learn which topics are likely to take up more time. 
 
 ## Gathering
 
@@ -36,15 +40,15 @@ If a particular topic seems particularly sticky and as though it needs more conv
 
 ## Saying no is a super power
 
-We got into this work because we care deeply about the topic. Saying no in that context is **hard**. Once we have an idea for a project it can be difficult to accept that it's not doable. If someone has a suggestion for the group it can be hard to help them realize their idea might not work. We are trained to make ideas complex and interesting, and this often leaves projects with fuzzy boundaries. Consider this, though: you always have a finite amount of time and an infinite world of possibilities before you. You cannot do everything. Saying no is required– it lets you say yes to the things you really care about. Some questions that might help:
+We got into this work because we cared deeply about the topic. Saying no in that context is **hard**. Once we have an idea for a project it can be difficult to accept that it's not doable. If someone has a suggestion for the group it can be hard to help them realize their idea might not work. We are trained to make ideas complex and interesting, and this often leaves projects with fuzzy boundaries. Consider this, though: you always have a finite amount of time and an infinite world of possibilities before you. You cannot do everything. Saying no is required– it lets you say yes to the things you really care about. Some questions that might help:
 
 * What do we care about the most?
-* What is a stretch goal that we put in the parking lot of future ideas?
+* What is a stretch goal that we can put in the parking lot of future ideas?
 * Are there any ideas that we like but don't have the resources to act on?
 
 ## Lazy consensus
 
-In the academy, many of us are introverts (**Brandon and Ronda wave**). Unless you are holding consistent votes on topics, it can sometimes be difficult to tell when decisions are made. If no one speaks up about an idea what are you supposed to make of it? Lazy consensus is a tactical approach to running meetings that empowers you in the face of these silences. [Bethany Nowviskie](https://nowviskie.org/2012/lazy-consensus/) describes the term in this way: "when a decision needs to be made, someone steps up with a proposal about how to proceed, and the whole group gets a certain amount of time to speak up against it. People in favor might, lazily, give it a +1. […] And there’s no obligation even to do that much — because (here’s the important thing) the default answer is always yes." This simple formulation–respond by X deadline if you have objections to this proposal–empowers a facilitator to move things along. The practice does rely on regular check-in's with collaborators to make sure they have space to raise objections. But the approach can also shift a group's default momentum forward by turning tacit uncertainty into tacit agreement.
+In the academy, many of us are introverts (**Brandon and Ronda wave**). Unless you are holding consistent votes on topics, it can sometimes be difficult to tell when decisions are made. If no one speaks up about an idea what are you supposed to make of it? Lazy consensus is a tactical approach to running meetings that empowers you in the face of these silences. [Bethany Nowviskie](https://nowviskie.org/2012/lazy-consensus/) describes the term in this way: "when a decision needs to be made, someone steps up with a proposal about how to proceed, and the whole group gets a certain amount of time to speak up against it. People in favor might, lazily, give it a +1. […] And there’s no obligation even to do that much — because (here’s the important thing) the default answer is always yes." This simple formulation–respond by X deadline if you have objections to this proposal–empowers a facilitator to move things along. The practice does rely on regular check-ins with collaborators to make sure they have space to raise objections. But the approach can also shift a group's default momentum forward by turning tacit uncertainty into tacit agreement.
 
 ## Task management
 
