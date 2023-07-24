@@ -6,9 +6,8 @@ tags:
 ---
 
 **Next up**
-* week of July 17th - workflow for remote music recording - ready to publish - last skim morning of
-* week of July 24th - cowriting with Ronda on meetings?
-* week of July 31st - 
+* week of July 24th - DH is teaching - ready to publish
+* week of July 31st - cowriting with Ronda on meetings? outlined but needs to be written
 * week of August 7th - 
 * week of August 14th - 
 * week of August 21st - retrospective - drafted. needs semi-substantial proofing
