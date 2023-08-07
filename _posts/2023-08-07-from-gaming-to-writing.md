@@ -3,6 +3,9 @@ layout: post
 title: "From Gaming to Writing"
 date: 2023-08-07
 tags: [video-games]
+crosspost:
+  - title: the Scholars' Lab blog
+    url: https://scholarslab.lib.virginia.edu/blog/from-gaming-to-writing
 ---
 
 Michael Levenson, my dissertation director, always had great ice breakers. I most remember one that opened a graduate class on Henry James and Joseph Conrad: "What do you read for?" Separate from research questions per se, this was an invitation to think about what made a passage pop to us, what was at the core of our interest in particular topics. I remember saying that I often found myself writing about problems, puzzles at the core of passages that didn't make sense. A friend noted how he was drawn to conflict and politics. Another cited interpersonal relations as the thing that drew them in. I marveled at how rarely I thought about the foundational interests in my research areas. What is it that makes one put down the book and pick up the pen?
