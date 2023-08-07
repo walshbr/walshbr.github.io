@@ -6,10 +6,9 @@ tags:
 ---
 
 **Next up**
-* week of July 31st - cowriting with Ronda on meetings. One last proof needed
-* week of August 7th - backlog retrospective
-* week of August 14th - 
-* week of August 21st - retrospective - drafted. needs semi-substantial proofing
+* week of August 7th - backlog retrospective ready to go.
+* week of August 14th - intial sprint reflections - drafted. needs semi-substantial proofing. Another option would be to do another short post to fill out one of the sections that is a little anemic.
+* week of August 21st - publish the mixtape-y thing 
 
 **Now writing**
 Pedagogies of listening
