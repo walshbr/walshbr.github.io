@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blogging Summer"
+title: "Blogging Summer 2023 in Review"
 date: 2023-08-21
 tags: [digital-humanities,writing-projects,documentation,tips,pedagogy,resources]
 crosspost:
