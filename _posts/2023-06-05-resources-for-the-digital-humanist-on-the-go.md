@@ -16,3 +16,8 @@ What follows is my running list of recordings. There's no real distinction made 
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F1308245%2Fcollections%2FGYNETXY7%2Fitems%3Fkey%3Dugllva0qJZGF14zBthiBVLaV%26format%3Dbibtex%26limit%3D100&msg=embed&jsonp=1&hidemenu=true&theme=dividers&groupby=&authorFirst=true&sort=author_short&urlLabel=Link to Recording(s)"></script>
 
+## DH-relevant Audiobooks
+
+These are longer texts that exist out there as audiobooks. Worth noting, though, that they may or may not be freely available. I found them either through a subscription service (like Audible) or rental from a library. 
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F1308245%2Fcollections%2F4UC5FNDK%2Fitems%3Fkey%3DHt4fm57C7FbNbOaINowL9vg4%26format%3Dbibtex%26limit%3D100&msg=embed&jsonp=1&hidemenu=true&theme=dividers&groupby=&authorFirst=true&sort=author_short&urlLabel=Link to Recording(s)"></script>
