@@ -2,26 +2,10 @@ require 'html-proofer'
 require 'front_matter_parser'
 
 posts_dir       = "_drafts"    # directory for blog files
+blog_image_dir = 'assets/post-media'
 slab_dir        = "/Users/bmw9t/projects/scholarslab.org/collections/_posts"
 slab_image_dir  = "/Users/bmw9t/projects/scholarslab.org/assets/post-media"
-new_post_ext    = "md"  # default new post file extension when using the
-deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
-public_dir      = "public"    # compiled site directory
-source_dir      = "_site"
-deploy_default  = "push"
-deploy_branch  = "gh-pages"
-
-task :test do
-  sh "bundle exec jekyll build"
-  # options = { :assume_extension => true,
-  # :http_status_ignore => [0, 401]}
-  HTMLProofer.check_directory("./_site").run
-end
-
-def get_stdin(message)
-  print message
-  STDIN.gets.chomp
-end
+new_post_ext    = "md"  # default new post file extension
 
 desc "Begin a new post in #{posts_dir}"
 task :new_post, :title do |t, args|
@@ -50,30 +34,10 @@ task :new_post, :title do |t, args|
   end
 end
 
-task :default do
-  puts "Running CI tasks..."
-  # Runs the jekyll build command for production
-  # TravisCI will now have a site directory with our
-  # statically generated files.
-  sh("JEKYLL_ENV=production bundle exec jekyll build")
-  options = { :assume_extension => true,
-    # :http_status_ignore => [301, 302],
-    :cache => { :timeframe => '2w' },
-    :typhoeus => {
-    :ssl_verifypeer => false,
-    :ssl_verifyhost => 0 },
-    :url_ignore => ['http://diss.herokuapp.com']
-  }
-  HTMLProofer.check_directory("./_site", options).run
-  puts "Jekyll successfully built"
-end
-
 desc "Makes a crossposted file in the slab folder"
 task :crosspost, [:file_name, :images] do |t, args|
   if args.file_name
     file_name = args.file_name
-  else
-    title = get_stdin("Enter the filename for your post to crosspost: ")
   end
   puts file_name
   old_file = "_posts/#{file_name}"
@@ -83,6 +47,9 @@ task :crosspost, [:file_name, :images] do |t, args|
   parsed = FrontMatterParser::Parser.parse_file(old_file, loader: FrontMatterParser::Loader::Yaml.new(allowlist_classes: [Date]))
 
   title_slug = parsed.front_matter['title'].downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
+  if File.exists?(new_file)
+    File.delete(new_file)
+  end
   File.open(new_file, 'w'){|f|
 f.puts("---
 author: brandon-walsh
@@ -96,10 +63,19 @@ tags:
 - Digital humanities
 crosspost:
   - title: Brandon' blog
-  - url: https://walshbr.com/blog/#{title_slug}
+    url: https://walshbr.com/blog/#{title_slug}
 ---
 #{parsed.content}
 ")
 }
     puts "Crossposted file created at #{new_file}"
+  post_image_folder = blog_image_dir + '/' + title_slug
+  crosspost_image_folder = slab_image_dir  + '/' + title_slug
+if args.images
+  if File.exists?(crosspost_image_folder)
+    FileUtils.rm_rf(crosspost_image_folder)
+    Dir.mkdir(crosspost_image_folder) 
+  end
+  FileUtils.cp_r(post_image_folder + '/.', crosspost_image_folder)
+end
 end
