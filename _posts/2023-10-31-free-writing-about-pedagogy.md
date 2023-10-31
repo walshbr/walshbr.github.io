@@ -16,7 +16,7 @@ The context for the two assignments is that [all DH involves teaching at some le
 
 ## Free Writing About Pedagogy
 
-The spirit of this activity is heavily inspired by a workshop that [Sean Michael Morris](https://www.seanmichaelmorris.com/) ran at Digital Pedagogy Lab on writing about teaching. All the good here comes from Sean - I merely adapted it for my own particular context. The gist is that the activity gives students a topic, a set amount of time to free write on it, and some rules to guide the process. The rules are mostly about self-criticism:
+The spirit of this activity is heavily inspired by a workshop that [Sean Michael Morris](https://www.seanmichaelmorris.com/) ran at Digital Pedagogy Lab on writing about teaching. All the good here comes from Sean - I merely adapted it for my own particular context. The gist is that the activity gives students a topic, a set amount of time to free write on it, and some rules to guide the process. The rules Sean gave for that writing process are mostly about self-criticism:
 
 * Don't judge what you write.
 * Feel free to use first person.
@@ -47,10 +47,10 @@ What sorts of anxieties do you have about teaching and learning? What fears do y
 
 ![Free write 4 about anxieties](/assets/post-media/free-writing-about-pedagogy/5.png)
 
-And that's it! The activity is very flexible–add topics or take them away. Add time or subtract depending on the amount of time you have. Run the activities for yourself or others. If this approach to writing feels completely anathema to the way you work, you might find yourself pushed in new directions. If this all feels familiar, maybe the slides will help give you more material for what you're already doing. I'm really grateful to Sean for the workshop that got me going in this direction. His workshop on writing about teaching really taught me a lot about both.
-
 I usually close the workshop with another photo of Pepper. Now, having written, he is happily asleep and at peace. He's moved past the box.
 
 ![A closing picture of my cat again, just because I can](/assets/post-media/free-writing-about-pedagogy/6.png)
+
+And that's it! The activity is very flexible–add topics or take them away. Add time or subtract depending on the amount of time you have. Run the activities for yourself or others. If this approach to writing feels completely anathema to the way you work, you might find yourself pushed in new directions. If this all feels familiar, maybe the slides will help give you more material for what you're already doing. I'm really grateful to Sean for the workshop that got me going in this direction. His workshop on writing about teaching really taught me a lot about both.
 
 [^1]: Ashley's workshop also incorporates free writing as well! She does a great job linking formal and informal ways of writing about teaching.
