@@ -2,7 +2,7 @@
 layout: post
 title: "Free Writing About Pedagogy"
 date: 2023-10-31
-tags: [digital-humanities]
+tags: [digital-humanities,pedagogy,praxis]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/free-writing-about-pedagogy
