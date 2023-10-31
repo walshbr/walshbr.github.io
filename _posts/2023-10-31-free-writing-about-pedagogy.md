@@ -29,7 +29,7 @@ I start the workshop with a slide of my cat on a piece of paper just because I c
 
 ![my cat Pepper just because](/assets/post-media/free-writing-about-pedagogy/1.png)
 
-Moving on to the first free writing exercise. At this point in the curriculum, our students have done a mind mapping exercise that encourages them to free associate different linked concepts related to teaching and learning. I haven't written up that actvity just yet (I will!), but you can find the [slide deck on the Praxis site](https://praxis.scholarslab.org/assets/mind-mapping-your-pedagogy.pptx) if you wanted to run it on your own. To get started with our free writing:
+Moving on to the first free writing exercise. At this point in the curriculum, our students have done a mind mapping exercise that encourages them to free associate different linked concepts related to teaching and learning. I haven't written up that activity just yet (I will!), but you can find the [slide deck on the Praxis site](https://praxis.scholarslab.org/assets/mind-mapping-your-pedagogy.pptx) if you wanted to run it on your own. To get started with our free writing:
 
 What are the most important values that you bring to teaching? To digital pedagogy? Write for eight minutes on this. 
 
