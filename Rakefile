@@ -1,18 +1,20 @@
-require 'html-proofer'
 require 'front_matter_parser'
+require 'Date'
 
-posts_dir       = "_drafts"    # directory for blog files
-blog_image_dir = 'assets/post-media'
-slab_dir        = "/Users/bmw9t/projects/scholarslab.org/collections/_posts"
-slab_image_dir  = "/Users/bmw9t/projects/scholarslab.org/assets/post-media"
+blog_url        = "https://walshbr.com/blog" # URL for your blog
+blog_title      = "Brandon's blog"           # Title for your blog
+crosspost_url   = "https://scholarslab.lib.virginia.edu/blog/" # URL for crossposted blog
+crosspost_title = "the Scholars' Lab blog" # title for crossposted blog
+posts_dir       = "_drafts"    # directory to create blog files in
+blog_image_dir = 'assets/post-media' # directory for blog image files
+slab_dir        = "/Users/bmw9t/projects/scholarslab.org/collections/_posts" # crossposted directory to create a new blog post in
+slab_image_dir  = "/Users/bmw9t/projects/scholarslab.org/assets/post-media" # crossposted directory for image files
 new_post_ext    = "md"  # default new post file extension
 
 desc "Begin a new post in #{posts_dir}"
 task :new_post, :title do |t, args|
   if args.title
     title = args.title
-  else
-    title = get_stdin("Enter a title for your post: ")
   end
   clean_title = title.downcase.gsub(/\s/,'-')
   title_slug =clean_title.downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
@@ -28,8 +30,8 @@ task :new_post, :title do |t, args|
     post.puts "date: #{Time.now.strftime('%Y-%m-%d')}"
     post.puts "tags: [digital-humanities]"
     post.puts "crosspost:
-  - title: the Scholars' Lab blog
-    url: https://scholarslab.lib.virginia.edu/blog/#{title_slug}"
+  - title: #{crosspost_title}
+    url: #{crosspost_url}#{title_slug}"
     post.puts "---"
   end
 end
@@ -62,8 +64,8 @@ categories:
 tags:
 - Digital humanities
 crosspost:
-  - title: Brandon' blog
-    url: https://walshbr.com/blog/#{title_slug}
+  - title: #{blog_title}
+    url: #{blog_url}/#{title_slug}
 ---
 #{parsed.content}
 ")
