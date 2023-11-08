@@ -52,7 +52,7 @@ end
 
 A lot of the core code here was adapted from [Octopress](http://octopress.org/), a blogging framework I haven't used per se in several years. There are some useful rake tasks that have persisted as my blog changed though. There's a lot of Ruby above, but the upshot is that, when I go to blog, I give a command in this form from the terminal:
 
-$ rake new_post["Flashy title here"]
+```$ rake new_post["Flashy title here"]```
 
 The rake task will create a new post in my _drafts folder with 2023-10-23-flashy-title-here.md that looks like this:
 
@@ -71,7 +71,7 @@ crosspost:
 
 I'll then fill in the content of the post below the triple dashes. After years of manually crossposting things, I decided to make another rake task that would mirror this one, a terminal command that I could run from my blog folder like so:
 
-$ rake crosspost['2023-10-23-flashy-title-here.md','True']
+```$ rake crosspost['2023-10-23-flashy-title-here.md','True']```
 
 This command would copy my completed post file to the other project folder for the Scholars' Lab site, spin up the necessary metadata, and copy over any images that are necessary for the post. 
 
