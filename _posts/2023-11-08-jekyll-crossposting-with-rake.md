@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Jekyll Crossposting with Rake"
-date: 2023-10-23
-tags: [digital-humanities]
+date: 2023-11-08
+tags: [digital-humanities, documentation]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/jekyll-crossposting-with-rake
@@ -19,6 +19,8 @@ If you've spent any time at all reading on my blog you've probably noticed that 
 I use a rake task to automate the building of the initial post, which saves a little time by generating everything for my post templates. 
 
 That command looks like this: 
+
+{% raw %}
 
 ```
 desc "Begin a new post in #{posts_dir}"
@@ -46,6 +48,7 @@ task :new_post, :title do |t, args|
   end
 end
 ```
+{% endraw %}
 
 A lot of the core code here was adapted from [Octopress](http://octopress.org/), a blogging framework I haven't used per se in several years. There are some useful rake tasks that have persisted as my blog changed though. There's a lot of Ruby above, but the upshot is that, when I go to blog, I give a command in this form from the terminal:
 
@@ -73,6 +76,7 @@ $ rake crosspost['2023-10-23-flashy-title-here.md','True']
 This command would copy my completed post file to the other project folder for the Scholars' Lab site, spin up the necessary metadata, and copy over any images that are necessary for the post. 
 
 Here's what that rake command looks like:
+{% raw %}
 
 ```
 desc "Makes a crossposted file in the slab folder"
@@ -121,6 +125,7 @@ if args.images
 end
 end
 ```
+{% endraw %}
 
 This lets me pass the name of the post file and whether or not it contains images to a new crosspost rake task, which will then handle everything else for me. Now my workflow is _much_ more streamlined. If you're interested in setting this for on your crossposting needs, you can follow these steps.
 
@@ -131,13 +136,15 @@ Assumptions:
   * Each of these blogging folders has a regularized system for image handling, where you store the images for your post in project-folder/assets/sluggified-name-of-post
   * I've included at the top of the Rakefile a series of variables that you can update for the particulars of your file structure
 * Each blog post has the crossposting code as a part of _layouts/post.html 
-* You will then update the Rakefile for your own metadta.
+* You will update the Rakefile to account for your own metadata, as well as any differences between metadata in the two blogs.
 
 To implement on your own, then, do the following:
 
 1. Create a Rakefile in the root of your main jekyll blog folder.
-2. Paste into the [contents of this Rakefile](https://raw.githubusercontent.com/walshbr/walshbr.github.io/source/Rakefile)
-3. In each Jekyll blog folder, add the following code to your post layout to actually use the crossposting metadata. Both folders have this in their _layouts/post.html file before ```{{ content }}```:
+2. Paste into it the [contents of this Rakefile](https://raw.githubusercontent.com/walshbr/walshbr.github.io/source/Rakefile)
+3. You'll need to install one gem - front_matter_parser - by running this command from your main blogging folder: ```gem install front_matter_parser```
+4. In each Jekyll blog folder, add the following code to your post layout to actually use the crossposting metadata. Both folders have this in their _layouts/post.html file:
+{% raw %}
 
 ```
 {% if page.crosspost %}
@@ -157,18 +164,14 @@ To implement on your own, then, do the following:
 </div>
 {% endif %}
 ```
-
-4. You'll need to install one gem - front_matter_parser - into your main blogging folder:
-```
-gem install front_matter_parser
-```
+{% endraw %}
 
 Now you should be able to do something like the following as your workflow.
 
 1. Make my new post
-  * rake new_post["Title of Blog post"]
+  * ```rake new_post["Title of Blog post"]```
 2. Draft and finalize post
 3. Crosspost it by passing a filename and True if there are images to crosspost.
-  * rake crosspost["year-month-day-sluggified-title.md","True"]
+  * ```rake crosspost["year-month-day-sluggified-title.md","True"]```
 
 Hope that helps! I tried to abstract things so that this could be usable by others with slightly different setups than mine, but let me know if you try to use it and run into problems.
