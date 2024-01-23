@@ -15,7 +15,6 @@ Pedagogies of listening
 Professional Imposters
 Where does DH teaching happen?
 Where does infrastructural change happen?
-Backlog on Royal Match - keep an eye on hard drive submissions
 
 **Unfiled ideas**
 DH and Labor organizing - possibly too big a topic

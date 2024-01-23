@@ -39,7 +39,7 @@ Selected Awards and Grants
 Peer Review Publications
 
 * "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (Forthcoming).
-* "The Three-Speed Problem in Digital Humanities Pedagogy", in _What We Teach When We Teach DH: Digital Humanities in the Classroom_, part of the _Debates in Digital Humanities Series_ (Forthcoming).
+* "The Three-Speed Problem in Digital Humanities Pedagogy", in _What We Teach When We Teach DH: Digital Humanities in the Classroom_, part of the _Debates in Digital Humanities Series_ (2023).
 * "The Life of a Digital Humanities Lab," with Aaron Brenner, Sarah Connell, Jennifer Grayburn, Matthew Hannah, and Brad Rittenhouse, in [_Digital Humanities and Laboratories: Perspectives on Knowledge, Infrastructure and Culture_](https://www.routledge.com/Digital-Humanities-and-Laboratories-Perspectives-on-Knowledge-Infrastructure/Pawlicka-Deger-Thomson/p/book/9781032027630) (2023).
 * "<i>Prism</i> and Reading's Shape," in <i><em>Pataphysics Then &amp; Now</em></i>, part of the _Reconfiguring Modernism_ series (2022).
 * Amanda Visconti, Brandon Walsh, and Scholars' Lab Community, "Running a Collaborative Research Website and Blog with Jekyll and GitHub," The Programming Historian 9 (2020), [https://doi.org/10.46430/phen0090](https://doi.org/10.46430/phen0090).
@@ -64,6 +64,8 @@ Other Publications
 
 Public Writing
 
+* "[Royal Match and the slow decay](https://www.backlogmag.com/royal-match-and-the-slow-decay/)," *Backlog*, October 26, 2023.
+* "[Backchat: Her Story](https://www.backlogmag.com/backchat-her-story/)," *Backlog*, with Alyssa Collins and Grayson Morley, October 19, 2023.
 * "[Backchat: Boyfriend Dungeon](https://www.backlogmag.com/p/backchat-boyfriend-dungeon#details)", *Backlog*, with Alyssa Collins and Grayson Morley, June 22, 2023.
 * "[Backchat: Dredge](https://www.backlogmag.com/p/backchat-dredge#details)," *Backlog*, with Alyssa Collins and Grayson Morley, April 22, 2023.
 * "[Nobody Saves the World and exuberant middle schoolers](https://www.backlogmag.com/p/nobody-saves-the-world-and-exuberant)," *Backlog*, with Grayson Morley, March 16, 2023.
