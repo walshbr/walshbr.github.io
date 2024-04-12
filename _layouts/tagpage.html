@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-<h1>Tag: {{ page.tag }}</h1>
+<h1>Tag: {{ page.tag | replace: '-', " " }}</h1>
 <p>{% if page.tag == 'dh-now' %}
 	{{ site.tags[page.tag] | size }} of my blog posts have been featured on <a href="http://digitalhumanitiesnow.org/">DH Now</a>, "an experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web."
 {% endif %}

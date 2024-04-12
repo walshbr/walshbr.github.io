@@ -1,11 +1,13 @@
 require 'front_matter_parser'
 require 'Date'
+require 'fileutils'
 
 blog_url        = "https://walshbr.com/blog" # URL for your blog
 blog_title      = "Brandon's blog"           # Title for your blog
 crosspost_url   = "https://scholarslab.lib.virginia.edu/blog/" # URL for crossposted blog
 crosspost_title = "the Scholars' Lab blog" # title for crossposted blog
 posts_dir       = "_drafts"    # directory to create blog files in
+reading_notes_dir = "_reading-notes"
 blog_image_dir = 'assets/post-media' # directory for blog image files
 slab_dir        = "/Users/bmw9t/projects/scholarslab.org/collections/_posts" # crossposted directory to create a new blog post in
 slab_image_dir  = "/Users/bmw9t/projects/scholarslab.org/assets/post-media" # crossposted directory for image files
@@ -32,6 +34,33 @@ task :new_post, :title do |t, args|
     post.puts "crosspost:
   - title: #{crosspost_title}
     url: #{crosspost_url}#{title_slug}"
+    post.puts "---"
+  end
+end
+
+desc "Begin a new reading note in #{reading_notes_dir}"
+task :new_note, :title, :project_title do |t, args|
+  if args.title
+    title = args.title
+  end
+  if args.project_title
+    project_title = args.project_title
+  end
+  clean_title = title.downcase.gsub(/\s/,'-')
+  title_slug =clean_title.downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
+  project_slug =project_title.downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
+  unless Dir.exist?("#{reading_notes_dir}/#{project_slug}")
+    FileUtils.mkdir("#{reading_notes_dir}/#{project_slug}")
+  end
+  filename = "#{reading_notes_dir}/#{project_slug}/#{Time.now.strftime('%Y-%m-%d')}-#{clean_title}.#{new_post_ext}"
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+  puts "Creating new post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "date: #{Time.now.strftime('%Y-%m-%d')}"
     post.puts "---"
   end
 end
