@@ -79,6 +79,7 @@ Public Writing
 
 Invited Presentations and Workshops
 
+* Invited by Brooke Schmolke to discuss teaching and pedagogy with the student managers of Macalester's Digital Resources Center. 
 * Invited talk, "Lessons from the Lab: Designing Community-Forward Spaces", University of Chicago Library's Library Futures Speaker Series, with Amanda Visconti, Spring 2023
 * Invited talk, "[Beyond Projecting: Planning DH Course Projects that Work for You," Digital Ethnic Futures Consortium](https://www.youtube.com/watch?v=p1bw1ATttX8), Spring 2023
 * Invited course visit on digital pedagogy, Zoe LeBlanc's Introduction to Digital Humanities course, UIUC School of Information, Fall 2022
