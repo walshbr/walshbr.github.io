@@ -35,10 +35,10 @@ Selected Awards and Grants
 * Praxis Program Fellowship, Scholars' Lab, UVA, 2012-2013
 * Summer Graduate Research and Travel Grant, UVA, annually, 2010-present
 
-
 Peer Review Publications
 
 * "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (Forthcoming).
+* "A Way In: Digital Pedagogy Training with Low-tech, Speculative Workshops," with Malcolm Cammeron, Caroline Carter, Winnie E. Pérez Martínez, and Samantha Stephens, *Journal of Interactive Technology and Pedagogy*  24, [https://cuny.manifoldapp.org/read/a-way-in-digital-pedagogy-training-with-speculative-low-tech-workshops/section/d26fab6f-c473-489a-9516-a6e6f0c747a7](https://cuny.manifoldapp.org/read/a-way-in-digital-pedagogy-training-with-speculative-low-tech-workshops/section/d26fab6f-c473-489a-9516-a6e6f0c747a7).
 * "The Three-Speed Problem in Digital Humanities Pedagogy", in _What We Teach When We Teach DH: Digital Humanities in the Classroom_, part of the _Debates in Digital Humanities Series_ (2023).
 * "The Life of a Digital Humanities Lab," with Aaron Brenner, Sarah Connell, Jennifer Grayburn, Matthew Hannah, and Brad Rittenhouse, in [_Digital Humanities and Laboratories: Perspectives on Knowledge, Infrastructure and Culture_](https://www.routledge.com/Digital-Humanities-and-Laboratories-Perspectives-on-Knowledge-Infrastructure/Pawlicka-Deger-Thomson/p/book/9781032027630) (2023).
 * "<i>Prism</i> and Reading's Shape," in <i><em>Pataphysics Then &amp; Now</em></i>, part of the _Reconfiguring Modernism_ series (2022).
@@ -54,7 +54,7 @@ Peer Review Publications
 * “Broken Songs and Machine Noise in Joseph Conrad’s Early Fiction,” <em>Conradiana</em>, vol. 44, no. 2-3, pp. 211-226 (Fall/Winter 2012).
 
 Other Publications
-
+*   Walsh, B. (2022). Review: Baltimore Traces. Reviews in Digital Humanities, III(1). https://doi.org/10.21428/3e88f64f.0e463a51.
 * Walsh, B. (2021). Review: Visualizing Objects, Places, and Spaces. *Reviews in Digital Humanities, II*(5). [https://doi.org/10.21428/3e88f64f.bf2d3fa7](https://doi.org/10.21428/3e88f64f.bf2d3fa7).
 * Co-editor with Kelly Hammond and Gregory Palermo, [Issue 18 of the Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/) with a Forum on Data and Computational Pedagogy, Fall 2020.
 * "[A Humanists Cookbook for Natural Language Processing in Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb)", with Rebecca Bultman, Fall 2020.
@@ -64,6 +64,7 @@ Other Publications
 
 Public Writing
 
+* "[Midnights Suns and my midnight son](https://www.backlogmag.com/midnight-suns-and-my-midnight-son/)," *Backlog*, June 18, 2024.
 * "[Royal Match and the slow decay](https://www.backlogmag.com/royal-match-and-the-slow-decay/)," *Backlog*, October 26, 2023.
 * "[Backchat: Her Story](https://www.backlogmag.com/backchat-her-story/)," *Backlog*, with Alyssa Collins and Grayson Morley, October 19, 2023.
 * "[Backchat: Boyfriend Dungeon](https://www.backlogmag.com/p/backchat-boyfriend-dungeon#details)", *Backlog*, with Alyssa Collins and Grayson Morley, June 22, 2023.
@@ -103,13 +104,16 @@ Invited Presentations and Workshops
 
 Selected Conferences and Presentations
 
+* "In SoliDHarity: Forming, Practicing, and Defending our Values", workshop with Anne Cong-Huyen, Pamella R. Lach, Crystal Luo, Kate Ozment, Caitlin Pollock, and Amanda Visconti, ACH 2024 Conference, summer 2024
+* "#citepedagogy to Pedagogy-driven Publishing", ACH 2024 Conference, summer 2024
+* "DH Pedagogy and Labor" roundtable with Laura Braunstein, Gabriel Hankins, Zoe LeBlanc, Crystal Luo, Paige Morgan, and John Russell, ACH 2022 Conference, summer 2022 
 * "[Building Community and Generosity in the Context of Graduate Education]({{ root_url }}/blog/building-community-and-generosity-in-the-context-of-graduate-education/)," in a panel on "Working at the Intersection: Digital Humanities Pedagogy, Social Justice, and Librarianship," ACH 2021 Conference, summer 2021 
 * "The Programming Historian: A Global Case Study in Multilingual Open Access and DH Tutelage/Instruction"; with Daniel Alves, Jennifer Isasi, Sarah Melton, Sofia Papastamkou, Jessica Parr, Riva Quiroga, Nabeel Siddiqui, Brandon Walsh; 2021 Meeting of the Global Digital Humanities Symposium
 * "[The Programming Historian and Editorial Process in Digital Publishing]({{ root_url }}/blog/the-programming-historian-and-editorial-process-in-digital-publishing/)," MLA conference, 2021
 * Forum on "The Open Lab: Digital Scholarship and the Question of Community," DH Conference, summer 2020 (canceled due to COVID-19)
 * "[The Life of a (Scholars') Lab: on Community]({{ root_url }}/blog/ach-2019/)," ACH conference, summer 2019
 * "[Frustration is a Feature]({{ root_url }}/blog/frustration/)," MLA conference, January 2018
-*	“[Collaborative Writing to Build Digital Humanities Praxis]({{ root_url }}/blog/collaborative-writing-to-build-digital-humanities-praxis/),” DH conference, summer 2017
+* “[Collaborative Writing to Build Digital Humanities Praxis]({{ root_url }}/blog/collaborative-writing-to-build-digital-humanities-praxis/),” DH conference, summer 2017
 * "[Remixing the Sound Archive: Cut-Up Poetry Records]({{ root_url }}/blog/remixing-the-sound-archive)," Northeast Modern Language Association, Baltimore, MD, March 2017
 * "Planning to Share: Open Educational Resources for Small Liberal Arts Colleges," workshop co-leader with Mackenzie Brooks, Digital Library Federation Small Liberal Arts College Pre-conference, Milwaukee, WI, November 2016
 * "Student Writing as Digital Humanities Method," with Mackenzie Brooks, Bucknell Digital Scholarship Conference, Bucknell University, Lewisburg, PA, October 2016
