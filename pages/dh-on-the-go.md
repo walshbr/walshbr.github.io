@@ -23,6 +23,4 @@ I also particularly want to shout out Merisa Martinez who shared a [list of thei
 
 ## DH Recordings
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F5625243%2Fitems%3Fkey%3Dugllva0qJZGF14zBthiBVLaV%26format%3Dbibtex%26&msg=embed&jsonp=1&theme=dividers&groupby=keywords&authorFirst=true&sort=author_short"></script>
-
-something is going on with the calls here - it's getting hung up and stopping. not sure if it is the bibtex or what. next steps to troubleshoot i think might involve changing which zotero collection you are pointing to and then maybe adjusting the zotero metadata to see if it's a single item causing problems
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-group%2Fbmw9t%2F5625243&jsonp=1&msg=embed&theme=dividers&groupby=keywords&authorFirst=true&sort=author_short&noTitleLinks=true&urlLabel=Link"></script>

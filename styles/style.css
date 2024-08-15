@@ -103,13 +103,15 @@ ul.nav.nav-pills{
 div#bibbase > div:first-of-type{
   display: none;
  } 
+
+span.bibbase_paper_title{
+  text-decoration: none !important;
+}
+
+span.bibbase_icon_text{
+  font-size: 20px !important;
+}
 /* 
-
-
-
-
-
-
 span.bibbase_icon_text{
   font-size:20px;
 }
