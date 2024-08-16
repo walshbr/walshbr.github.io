@@ -130,6 +130,10 @@ font-weight: normal !important;
 .bibbase_group_body .bibbase_paper{
   display: list-item;
 }
+
+div.bibbase_group{
+  width:100%;
+}
 /* 
 span.bibbase_icon_text{
   font-size:20px;

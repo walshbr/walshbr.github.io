@@ -32,7 +32,7 @@ In terms of relevance and inclusion: I am trying to avoid the perfect being the 
 
 ## Tech Specs
 
-The resources are collected in a public and open [Zotero](zotero.org) collection, which is a fantastic citation management system. I'm using a service called [BibBase](https://bibbase.org/) to embed the group's Zotero collection on this page, so this post should be updated in the future as that collection updates. I would recommend [this guide](https://yvonneseale.org/blog/2016/10/23/how-to-embed-a-zotero-bibliography-in-a-web-page/) by Yvonne Seale if you want to embed a Zotero bibliography in this same way on a page of your own. I've modified the CSS a bit to fit the flavor of the surrounding website, but for the most part it's working out of the box. 
+The resources are collected in a public and open [Zotero](https://zotero.org/) collection, which is a fantastic citation management system. I'm using a service called [BibBase](https://bibbase.org/) to embed the group's Zotero collection on this page, so this post should be updated in the future as that collection updates. I would recommend [this guide](https://yvonneseale.org/blog/2016/10/23/how-to-embed-a-zotero-bibliography-in-a-web-page/) by Yvonne Seale if you want to embed a Zotero bibliography in this same way on a page of your own. I've modified the CSS a bit to fit the flavor of the surrounding website, but for the most part it's working out of the box. 
 
 ## Credits 
 
