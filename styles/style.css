@@ -110,6 +110,25 @@ span.bibbase_paper_title{
 
 span.bibbase_icon_text{
   font-size: 20px !important;
+  display: none;
+}
+
+#bibbase_body .bibbase_paper_title{
+  font-weight: normal !important;
+}
+
+#bibbase_body a{
+color: #268bd2 !important;
+text-decoration: none !important;
+font-weight: normal !important;
+}
+
+.bibbase_paper span.dontprint{
+  display: none;
+}
+
+.bibbase_group_body .bibbase_paper{
+  display: list-item;
 }
 /* 
 span.bibbase_icon_text{
