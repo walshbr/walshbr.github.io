@@ -4,7 +4,7 @@ title: "DH on the Go"
 permalink: /dh-on-the-go
 ---
 
-_DH on the Go_ aggregates audio and video recordings of material of interest to a DH audience. Below you will find a running list of citations and accompanying links based on contributions to the accompanying [Zotero group](https://www.zotero.org/groups/5625243/digital_humanities_on_the_go). If you're looking for something to keep you company on a long commute—we got you. If you're looking for something to put on your headphones while doing chores—we're here for you too. If you want to promote your own video or audio recordings—promote away. If you're searching for a way to make your local DH event live on beyond a couple social media posts sharing—please do share. 
+_DH on the Go_ aggregates audio and video recordings of material of interest to a digital humanities audience. Below you will find a running list of citations and accompanying links based on contributions to the accompanying [Zotero group](https://www.zotero.org/groups/5625243/digital_humanities_on_the_go). If you're looking for something to keep you company on a long commute—we got you. If you're looking for something to put on your headphones while doing chores—we're here for you too. If you want to promote your own video or audio recordings—promote away. If you're searching for a way to make your local DH event live on beyond a couple social media posts sharing—please do share. 
 
 Let's go.
 

@@ -21,7 +21,7 @@ Find more information about my various projects below. In addition to my work on
 
 <div class="divider"></div>
 ## DH on the Go
-<a href="https://walshbr.com/dh-on-the-go">DH on the GO</a>  aggregates audio and video recordings of material of interest to a DH audience. You'll find a running list of citations and accompanying links based on contributions to the accompanying Zotero group. If you’re looking for something to keep you company on a long commute—we got you. If you’re looking for something to put on your headphones while doing chores—we’re here for you too. If you want to promote your own video or audio recordings—promote away. If you’re searching for a way to make your local DH event live on beyond a couple social media posts sharing—please do share. The zotero group is publicly open so anyone can contribute. 
+<a href="https://walshbr.com/dh-on-the-go">DH on the Go</a>  aggregates audio and video recordings of material of interest to a digital humanities audience. You'll find a running list of citations and accompanying links based on contributions to the accompanying Zotero group. If you’re looking for something to keep you company on a long commute—we got you. If you’re looking for something to put on your headphones while doing chores—we’re here for you too. If you want to promote your own video or audio recordings—promote away. If you’re searching for a way to make your local DH event live on beyond a couple social media posts sharing—please do share. The zotero group is publicly open so anyone can contribute. 
 
 <div class="divider"></div>
 ## Blogging
