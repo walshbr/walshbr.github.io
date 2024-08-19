@@ -20,6 +20,10 @@ Posts:
 Find more information about my various projects below. In addition to my work on projects at <a href="http://scholarslab.org">Scholars' Lab</a> and <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/walshbr">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
 
 <div class="divider"></div>
+## DH on the Go
+<a href="https://walshbr.com/dh-on-the-go">DH on the GO</a>  aggregates audio and video recordings of material of interest to a DH audience. You'll find a running list of citations and accompanying links based on contributions to the accompanying Zotero group. If you’re looking for something to keep you company on a long commute—we got you. If you’re looking for something to put on your headphones while doing chores—we’re here for you too. If you want to promote your own video or audio recordings—promote away. If you’re searching for a way to make your local DH event live on beyond a couple social media posts sharing—please do share. The zotero group is publicly open so anyone can contribute. 
+
+<div class="divider"></div>
 ## Blogging
 
 I've blogged for a number of years as a way to share tacit knowledge about the academy, digital pedagogy, and digital humanities. In addition to the chronological [blog feed](/archive), you might find the following tag cloud useful for exploring past posts by category (adapted from instructions shared by [Long Qian](https://longqian.me/2017/02/09/github-jekyll-tag/)). 
