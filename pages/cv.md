@@ -64,6 +64,7 @@ Other Publications
 
 Public Writing
 
+* "[The Banished Vault and what remains](https://www.backlogmag.com/the-banished-vault-and-what-remains/)," *Backlog*, September 10, 2024.
 * "[Midnights Suns and my midnight son](https://www.backlogmag.com/midnight-suns-and-my-midnight-son/)," *Backlog*, June 18, 2024.
 * "[Royal Match and the slow decay](https://www.backlogmag.com/royal-match-and-the-slow-decay/)," *Backlog*, October 26, 2023.
 * "[Backchat: Her Story](https://www.backlogmag.com/backchat-her-story/)," *Backlog*, with Alyssa Collins and Grayson Morley, October 19, 2023.
