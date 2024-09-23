@@ -137,7 +137,7 @@ Selected Digital Projects and Related Experience
 * 2013-present, Developer: <a href="http://prism.scholarslab.org/">Prism</a>, Ruby on Rails web application for crowdsourcing textual analysis, created with the Praxis team and the UVa Scholars’ Lab
 * 2015-2017, Lead Developer: <a href="{{ root_url }}/blog/woolf-huskey/">Hearing Silent Woolf</a>, Python machine learning project on sound in modernist fiction, received graduate fellowship in digital humanities, UVa Scholars’ Lab
 * 2013-2015, Project Manager: <a href="http://www.nines.org/">Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)</a>, UVa
-* Summer 2017-present, Co-Instructor: Course on "<a href="https://humanitiesprogramming.github.io">Help! I'm a Humanist! - Humanities Programming with Python</a>," <a href="http://dhtraining.org/hilt/">Humanities Intensive Learning &amp; Teaching</a>, with Ethan Reed
+* Summer 2017-2018, Co-Instructor: Course on "<a href="https://humanitiesprogramming.github.io">Help! I'm a Humanist! - Humanities Programming with Python</a>," <a href="http://dhtraining.org/hilt/">Humanities Intensive Learning &amp; Teaching</a>, with Ethan Reed
 * Summer 2014-2016, Co-Instructor: Course on "<a href="https://humanitiesprogramming.github.io">Humanities Programming with Ruby on Rails</a>," <a href="http://dhtraining.org/hilt/">Humanities Intensive Learning &amp; Teaching</a>, with Ethan Reed (formerly Wayne Graham)
 * Summer 2013, Developer: <a href="http://www.groundsforargument.org/">Little Red Schoolhouse</a>, Drupal site for teaching rhetoric and composition, UVa
 

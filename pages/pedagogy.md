@@ -45,6 +45,11 @@ I have also taught a range of courses and programs, for credit or otherwise. Des
 * <a href="#ENWR3800">ENWR 3800: "Academic and Professional Writing"</a> <br>(Teaching Assistant, Spring 2012)
 * <a href="#ENGL3830">ENGL 3830: "History of Literature in English III"</a> <br>(Teaching Assistant, Fall 2011)
 
+## Other
+* <a href="#HILT-Python">"Help! I'm a Humanist! Humanities Programming with Python""</a> <br>(Co-Instructor with Ethan Reed, Summer 2017-2018)
+* <a href="#HILT-Rails">"Humanities Programming with Ruby on Rails"</a> <br>(Co-Instructor with Wayne Graham, Summer 2013-2016)
+
+
 <div class="divider"></div>
 
 <h2><a name="ENGN5559"></a>ENGL 5559: "Digital Literary Studies"</h2>
@@ -184,3 +189,19 @@ Sylvia Plath, *Ariel*
 Derek Walcott, *Collected Poems, 1948-1984*  
 Arundhati Roy, *The God of Small Things*  
 Lydia Davis, *Varieties of Disturbance*
+
+<div class="divider"></div>
+<h2><a name="HILT-Python"></a>"Help! I'm a Humanist! Humanities Programming with Python"</h2>
+
+This weeklong course introduces participants to humanities programming through the use of Python for data acquisition, cleaning, and analysis. The course assumes no prior technical knowledge and will focus on accomplishing basic research tasks. Students should walk away feeling equipped to tackle a variety of typical problems that arise for digital humanists.
+
+We will discuss programming and debugging concepts through the design, implementation, and presentation of small text analysis projects. Primary technologies and topics covered in this course will include the command line, Git, GitHub, and Python; working with data sources such as API’s, CSV files, and data scraped from the web; and basic text analysis. Over the course of the week, we will work with data from DPLA and Project Gutenberg. If the words above mean nothing to you, don’t panic—this course is for you.
+
+Course materials can be found on our [website](https://humanitiesprogramming.github.io/).
+
+<div class="divider"></div>
+<h2><a name="HILT-Rails"></a>"Humanities Programming with Ruby on Rails"</h2>
+
+This weeklong course focuses on introducing participants to humanities programming through the creation and use of the Ruby on Rails web application framework. This course will introduce programming and design concepts, project management and planning, workflow, as well as the design, implementation, and deployment of a web-based application. Technologies covered in this course will include git, HTML, CSS, JavaScript, Ruby, Rails, and relational (and non-relational) data stores. Over the course of the week, we will work through the practical implementation of a developing and deploying a small-scale web application.
+
+Course materials can be found archived on the [course website](https://humanitiesprogramming.github.io/syllabus/).
