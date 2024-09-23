@@ -2,7 +2,7 @@
 layout: post
 title: "book post one"
 date: 2024-09-19
-tags: [digital-humanities]
+tags: [digital-humanities,writing,book-blogging,pedagogy,scholars-lab]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/book-post-one
