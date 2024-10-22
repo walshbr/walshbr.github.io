@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Co-teaching Is"
-date: 2024-09-27
+date: 2024-10-27
 tags: [digital-humanities,pedagogy,collaboration]
 crosspost:
   - title: the Scholars' Lab blog
