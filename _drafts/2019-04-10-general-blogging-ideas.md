@@ -68,3 +68,5 @@ General Brainstorming
 - writing crosstraining as a means of promoting backlog? The gist is that it's 
 
 Reflections on the backlog process by means of 
+
+post on collaborative writing and how to do it

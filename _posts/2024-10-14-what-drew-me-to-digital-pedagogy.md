@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Drew Me to Digital Pedagogy"
-date: 2024-10-13
+date: 2024-10-14
 tags: [digital-humanities,collaboration,pedagogy]
 crosspost:
   - title: the Scholars' Lab blog
