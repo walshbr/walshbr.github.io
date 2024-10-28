@@ -37,6 +37,7 @@ Selected Awards and Grants
 
 Peer Review Publications
 
+* "The Pedagogy of Digital Humanities Budgets", *Journal of Interactive Technology and Pedagogy* (Forthcoming).
 * "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (Forthcoming).
 * "A Way In: Digital Pedagogy Training with Low-tech, Speculative Workshops," with Malcolm Cammeron, Caroline Carter, Winnie E. Pérez Martínez, and Samantha Stephens, *Journal of Interactive Technology and Pedagogy*  24, [https://cuny.manifoldapp.org/read/a-way-in-digital-pedagogy-training-with-speculative-low-tech-workshops/section/d26fab6f-c473-489a-9516-a6e6f0c747a7](https://cuny.manifoldapp.org/read/a-way-in-digital-pedagogy-training-with-speculative-low-tech-workshops/section/d26fab6f-c473-489a-9516-a6e6f0c747a7).
 * "The Three-Speed Problem in Digital Humanities Pedagogy", in _What We Teach When We Teach DH: Digital Humanities in the Classroom_, part of the _Debates in Digital Humanities Series_ (2023).
@@ -106,6 +107,7 @@ Invited Presentations and Workshops
 Selected Conferences and Presentations
 
 * "In SoliDHarity: Forming, Practicing, and Defending our Values", workshop with Anne Cong-Huyen, Pamella R. Lach, Crystal Luo, Kate Ozment, Caitlin Pollock, and Amanda Visconti, ACH 2024 Conference, summer 2024
+* "Digital Pedagogy on Paper: An Assignment Redesign Workshop" with Mackenzie Brooks, DLF Virtual Forum, fall 2024
 * "#citepedagogy to Pedagogy-driven Publishing", ACH 2024 Conference, summer 2024
 * "DH Pedagogy and Labor" roundtable with Laura Braunstein, Gabriel Hankins, Zoe LeBlanc, Crystal Luo, Paige Morgan, and John Russell, ACH 2022 Conference, summer 2022 
 * "[Building Community and Generosity in the Context of Graduate Education]({{ root_url }}/blog/building-community-and-generosity-in-the-context-of-graduate-education/)," in a panel on "Working at the Intersection: Digital Humanities Pedagogy, Social Justice, and Librarianship," ACH 2021 Conference, summer 2021 
