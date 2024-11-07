@@ -2,7 +2,7 @@
 layout: post
 title: "Speculative Digital Pedagogies"
 date: 2024-11-07
-tags: [digital-humanities]
+tags: [digital-humanities,pedagogy,talks]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/speculative-digital-pedagogies
