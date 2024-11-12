@@ -6,6 +6,7 @@
 /* TODO: print ready font? */
 /* TODO: normalize URL colors */
 /* TODO: font size */
+/* TODO: make it so I can print this without printing it (copy it into ms word) */
     .print-only{
         display: block;
     }
