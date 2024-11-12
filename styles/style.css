@@ -154,3 +154,8 @@ span.bibbase_icon_text{
 ul.dropdown-menu li.groupby.downloads, ul.dropdown-menu li.groupby.type, ul.dropdown-menu li.groupby.year{
   display: none;
 }
+
+.print-only{
+  display:none;
+}
+

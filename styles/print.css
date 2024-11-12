@@ -1,0 +1,19 @@
+@media print {
+  header, nav, h1.page-title, #web-title{
+    display: none;
+  }
+/* TODO: better contact info at top */
+/* TODO: print ready font? */
+/* TODO: normalize URL colors */
+/* TODO: font size */
+    .print-only{
+        display: block;
+    }
+    html, #print-title{
+        font-family: Georgia, 'Times New Roman', Times, serif; 
+    }
+    a{
+        text-decoration: underline;
+        color: blue;
+    }
+}

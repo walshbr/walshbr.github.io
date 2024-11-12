@@ -20,6 +20,9 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/styles/lanyon.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
   <link rel="stylesheet" href="{{ site.baseurl }}/styles/style.css">
+{% if page.title == "CV" %}
+<link rel="stylesheet" href="{{ site.baseurl }}/styles/print.css">
+{% endif %}
 
 {% if site.tags != "" %}
   {% include collecttags.html %}
