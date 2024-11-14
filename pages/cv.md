@@ -5,7 +5,7 @@ permalink: /cv
 order: 5
 ---
 
-Experience
+## Experience
 
 * Head of Student Programs, Scholars' Lab <br>
   University of Virginia Library, January 2019-present
@@ -14,14 +14,14 @@ Experience
 * Mellon Digital Humanities Fellow, Visiting Assistant Professor of English <br>
   Washington and Lee University Library, November 2015-May 2017
 
-Education
+## Education
 
 * Ph.D. in English, University of Virginia, Charlottesville (November 2015)<br>
 * M.A. in English, University of Virginia, Charlottesville (2011)
 * B.A. (with Distinction), University of Virginia, Charlottesville (2009)
 
 
-Selected Awards and Grants
+## Selected Awards and Grants
 
 * Mentor, Digital Ethnic Futures Consortium's Teaching and Capacity Building Fellowship program, 2022
 * $6000 Grant for AV/VR Documentation, with Arin Bennett and Will Rourke, Parents Fund UVA, 2019
@@ -35,7 +35,7 @@ Selected Awards and Grants
 * Praxis Program Fellowship, Scholars' Lab, UVA, 2012-2013
 * Summer Graduate Research and Travel Grant, UVA, annually, 2010-present
 
-Peer Review Publications
+## Peer Review Publications
 
 * "The Futures of Digital Humanities Pedagogy in a Time of Crisis", _The Digital Futures of Graduate Study in the Humanities_ (Forthcoming).
 * "A Way In: Digital Pedagogy Training with Low-tech, Speculative Workshops," with Malcolm Cammeron, Caroline Carter, Winnie E. Pérez Martínez, and Samantha Stephens, *Journal of Interactive Technology and Pedagogy*  24, [https://cuny.manifoldapp.org/read/a-way-in-digital-pedagogy-training-with-speculative-low-tech-workshops/section/d26fab6f-c473-489a-9516-a6e6f0c747a7](https://cuny.manifoldapp.org/read/a-way-in-digital-pedagogy-training-with-speculative-low-tech-workshops/section/d26fab6f-c473-489a-9516-a6e6f0c747a7).
@@ -53,7 +53,7 @@ Peer Review Publications
 * "<a href="https://doi.org/10.1093/llc/fqu030">Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking</a>," Brandon Walsh; Claire Maiers; Gwen Nally; Jeremy Boggs; <em>Literary and Linguistic Computing</em> 2014; <a href="https://doi.org/10.1093/llc/fqu030">https://doi.org/10.1093/llc/fqu030</a>.
 * “Broken Songs and Machine Noise in Joseph Conrad’s Early Fiction,” <em>Conradiana</em>, vol. 44, no. 2-3, pp. 211-226 (Fall/Winter 2012).
 
-Other Publications
+## Other Publications
 *   Walsh, B. (2022). Review: Baltimore Traces. Reviews in Digital Humanities, III(1). https://doi.org/10.21428/3e88f64f.0e463a51.
 * Walsh, B. (2021). Review: Visualizing Objects, Places, and Spaces. *Reviews in Digital Humanities, II*(5). [https://doi.org/10.21428/3e88f64f.bf2d3fa7](https://doi.org/10.21428/3e88f64f.bf2d3fa7).
 * Co-editor with Kelly Hammond and Gregory Palermo, [Issue 18 of the Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/) with a Forum on Data and Computational Pedagogy, Fall 2020.
@@ -62,7 +62,7 @@ Other Publications
 * <em><a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a></em>, open access textbook self-published with <a href="https://www.wlu.edu/directory/profile?ID=x2047">Sarah Horowitz</a>, Fall 2016.
 * A number of my blog posts have been featured on [DH Now](/tag/dh-now/) ({{ site.tags['dh-now'] | size }}) and [dh+lib](/tag/dh-lib/) ({{ site.tags['dh-lib'] | size }}).
 
-Public Writing
+## Public Writing
 
 * "[The Banished Vault and what remains](https://www.backlogmag.com/the-banished-vault-and-what-remains/)," *Backlog*, September 10, 2024.
 * "[Midnights Suns and my midnight son](https://www.backlogmag.com/midnight-suns-and-my-midnight-son/)," *Backlog*, June 18, 2024.
@@ -79,7 +79,7 @@ Public Writing
 * "[SimsTok and the horrors of domesticity](https://www.backlogmag.com/p/simstok-and-the-horrors-of-domesticity)," *Backlog*, February 3, 2022.
 * "[Sekiro: Shadows Die Twice and confronting yourself](https://www.backlogmag.com/p/sekiro-shadows-die-twice-and-confronting)," *Backlog*, December 29, 2021.
 
-Invited Presentations and Workshops
+## Invited Presentations and Workshops
 
 * Invited by Brooke Schmolke to discuss teaching and pedagogy with the student managers of Macalester's Digital Resources Center. 
 * Invited talk, "Lessons from the Lab: Designing Community-Forward Spaces", University of Chicago Library's Library Futures Speaker Series, with Amanda Visconti, Spring 2023
@@ -103,7 +103,7 @@ Invited Presentations and Workshops
 * Invited talk, "Praxis, or the Life Unknown," Coalition for Networked Information workshop on "Digital Scholarship Centers: Trends and Good Practice," St. Louis, MO, April 2014
 * Guest lecture on the role of the Project Manager, Mark Kamrath's ENG6806 course on "Digital Editing and Databases," University of Central Florida, November 2013
 
-Selected Conferences and Presentations
+## Selected Conferences and Presentations
 
 * "In SoliDHarity: Forming, Practicing, and Defending our Values", workshop with Anne Cong-Huyen, Pamella R. Lach, Crystal Luo, Kate Ozment, Caitlin Pollock, and Amanda Visconti, ACH 2024 Conference, summer 2024
 * "#citepedagogy to Pedagogy-driven Publishing", ACH 2024 Conference, summer 2024
@@ -127,7 +127,7 @@ Selected Conferences and Presentations
 * "The Waste Land's Onomatopoetics," The Louisville Conference on Literature and Culture Since 1900, Louisville, KY, February 2012
 * "Curating Coltrane: Kurt Elling’s Vocalese 'Resolution,'" Southwest Texas Popular Culture and American Culture Association Joint Conference, San Antonio, TX, April 2011
 
-Selected Digital Projects and Related Experience
+## Selected Digital Projects and Related Experience
 
 * <a href="https://github.com/walshbr">GitHub Repository</a>
 * 2016, Lead Writer: <a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a>, remixable coursebook on introductory text analysis meant for beginner readers, co-authored with Sarah Horowitz, Washington and Lee University
@@ -141,7 +141,7 @@ Selected Digital Projects and Related Experience
 * Summer 2014-2016, Co-Instructor: Course on "<a href="https://humanitiesprogramming.github.io">Humanities Programming with Ruby on Rails</a>," <a href="http://dhtraining.org/hilt/">Humanities Intensive Learning &amp; Teaching</a>, with Ethan Reed (formerly Wayne Graham)
 * Summer 2013, Developer: <a href="http://www.groundsforargument.org/">Little Red Schoolhouse</a>, Drupal site for teaching rhetoric and composition, UVa
 
-Technical Profile
+## Technical Profile
 
 * Languages: Python, Ruby, JavaScript
 * Frameworks: Ruby on Rails, Jekyll
@@ -151,7 +151,7 @@ Technical Profile
 * Version control systems: Git, GitHub
 * Markup systems: RDF, XML, TEI
 
-Teaching (University of Virginia)
+## Teaching (University of Virginia)
 
 * ENGN 5559: Digital Literary Studies<br>
       (Co-Instructor with Alison Booth, one section; Spring 2019)
@@ -160,7 +160,7 @@ Teaching (University of Virginia)
 * Scholars' Lab Student Programs<br>
       (In collaboration w/ Scholars' Lab staff; 2017 to present)
 
-Teaching (Washington and Lee University)
+## Teaching (Washington and Lee University)
 
 * DH 394/ENGL 394 Hacking the Book<br>
 (Instructor, 1 section; Planned but untaught Spring 2017)
@@ -171,7 +171,7 @@ Teaching (Washington and Lee University)
 * Undergraduate Digital Humanities Fellows Program<br>
 (Co-Administrator with Mackenzie Brooks, 2 cohorts; Fall 2015-present)
 
-Teaching (University of Virginia as Graduate Student)
+## Teaching (University of Virginia as Graduate Student)
 
 * ENWR 1510 Accelerated Academic Writing, “The Musical: Then and Now”<br>
     (Instructor, 2 sections; Fall 2012, Spring 2013)
@@ -190,7 +190,7 @@ Teaching (University of Virginia as Graduate Student)
 * ENSP 5821 Culture of London: Past and Present<br>
     (Study Abroad Program Assistant, Summer 2013-2015)
 
-Professional Service and Affiliations
+## Professional Service and Affiliations
 
 * Delegate Assembly representative, MLA Libraries and Research Forum, Winter 2022-present
 * Association for the Computers and the Humanities Executive Council Member, spring 2020-2022
@@ -200,13 +200,13 @@ Professional Service and Affiliations
 * Reviewer for <em>Conradiana</em>; <em>Restoration: Studies in English Literary Culture, 1660-1700</em>; <em>Digital Humanities Quarterly</em>
 * Communications chair for Chesapeake DH Consortium, 2019-2020
 
-Local Service (Washington and Lee)
+## Local Service (Washington and Lee)
 
 * Digital Humanities Faculty Committee, 2015-2017
 * Digital Humanities Action Team, 2015-2017
 * Writing Program Faculty Cohort, 2016-2017
 
-Local Service (University of Virginia)
+## Local Service (University of Virginia)
 
 * Conference Organizer Assistant, "Moving People / Linking Lives: An Interdisciplinary Symposium," 2014-2015.
 * Graduate English Students Association: MA representative, 2010-11; Modern and Contemporary Literature Area Representative, 2012-2013; Secretary, 2012-13; President, 2013-14.
