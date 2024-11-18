@@ -1,20 +1,45 @@
 @media print {
+  
+  
+  /* Hide web-only content  */
   header, nav, h1.page-title, #web-title{
     display: none;
   }
-/* TODO: better contact info at top */
-/* TODO: print ready font? */
-/* TODO: normalize URL colors */
-/* TODO: font size */
-/* TODO: make it so I can print this without printing it (copy it into ms word) */
-    .print-only{
-        display: block;
-    }
-    html, #print-title{
-        font-family: Georgia, 'Times New Roman', Times, serif; 
-    }
-    a{
-        text-decoration: underline;
-        color: blue;
-    }
+
+  .print-only{
+    /* Display print-only content */
+    display: block;
+  }
+
+  div.container.content {
+    /* normalize content sizing for printing */
+    max-width: none !important;
+  }
+
+  html, h2, h3, #print-title{
+    /* set print-ready font and text size */
+      font-family: Georgia, 'Times New Roman', Times, serif; 
+      font-size: 12px;
+  }
+
+  a{
+    /* TODO: normalize URL colors */
+      text-decoration: underline;
+      color: blue;
+  }
+
+  @page {
+    /* hide printer-specific information that would otherwise get added */
+    margin:0;
+    padding: 1in;
+  }
+/* example for how to hide specific sections */
+/* 
+h2#professional-service-and-affiliations,
+h2#professional-service-and-affiliations+ul,
+h3#local-service-washington-and-lee,
+h3#local-service-washington-and-lee+ul,
+h3#local-service-university-of-virginia+ul{
+  display:none;
+} */
 }
