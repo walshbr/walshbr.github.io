@@ -98,9 +98,10 @@ h3#local-service-university-of-virginia+ul{
 } */
 ```
 
-That's it for now. Much more that I could do, but this serves my needs nicely. I've pasted the full contents of the three files as they stand in case you're interested in replicating. And here's a quick side-by-side of the first printed page to see how the new print.css sheet stacks up.
+That's it for now. Much more that I could do, but this serves my needs nicely. I've pasted the full contents of the three files as they stand in case you're interested in replicating. And here's a quick side-by-side of the first printed page to see how the new print.css sheet stacks up.  
 
-![side-by-side comparison of two printed versions of the same web page.](/assets/post-media/print-ready-web-cv/1.jpg)
+![original printed cv](/assets/post-media/print-ready-web-cv/1.jpg)
+![printed cv with a stylesheet - looks much more like a cv!](/assets/post-media/print-ready-web-cv/2.jpg)
 
 
 `_includes/head.html`
