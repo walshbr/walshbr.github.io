@@ -2,7 +2,7 @@
 layout: post
 title: "Year Of Book Blogging: Digital Humanities Pedagogy in Kind"
 date: 2020-01-28 09:41
-tags: [book-blogging,pedagogy,digital-humanities,alt-ac]
+tags: [pedagogy,digital-humanities,alt-ac]
 ---
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/year-of-book-blogging-digital-humanities-pedagogy-in-kind)*
 

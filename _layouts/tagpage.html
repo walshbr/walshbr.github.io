@@ -9,7 +9,7 @@ layout: default
 {% if page.tag == 'dh-lib' %}
 {{ site.tags[page.tag] | size }} of my blog posts have been featured on <a href="https://twitter.com/DHandLib/">dh+lib Review</a>, a weekly roundup of recommended readings and resources at the intersection of digital humanities and libraries.
 {% endif %}</p>
-
+{% unless page.tag == 'book' %}
 <ul>
 {% for post in site.tags[page.tag] %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
@@ -19,3 +19,5 @@ layout: default
 </ul>
 </div>
 <hr>
+{% endunless %}
+{{ content }}

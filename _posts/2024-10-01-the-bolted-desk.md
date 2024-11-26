@@ -2,15 +2,18 @@
 layout: post
 title: "The Bolted Desk"
 date: 2024-10-01
-tags: [digital-humanities,writing,book-blogging,pedagogy,scholars-lab]
+tags: [digital-humanities,writing,book,pedagogy,scholars-lab]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/the-bolted-desk
+book: 
+  - ch_num: 1
+  - section_num: 1
 ---
 
 What follows is material drawn from a larger book project I'm working on about an approach to digital humanities pedagogy that intersects with administrative policy to work towards a more equitable landscape for higher education. I'll be blogging pieces of it as I go, so stay tuned for more related work in the future. Keep in mind, though, that I will likely be blogging about other topics intermittently as well. So I will tag the posts accordingly to make them easy to connect. Happy to hear feedback, either on social media or by email at [bmw9t@virginia.edu](bmw9t@virginia.edu).
 
-===
+---
 
 “What is digital humanities?”
 

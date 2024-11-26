@@ -2,7 +2,7 @@
 layout: post
 title: "Finding the Community after Twitter"
 date: 2023-08-14
-tags: [digital-humanities,writing-projects,social-media]
+tags: [digital-humanities,social-media]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/finding-the-community-after-twitter

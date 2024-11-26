@@ -2,7 +2,7 @@
 layout: post
 title: "Maximalist Digital Humanities Pedagogy"
 date: 2024-04-15
-tags: [digital-humanities,pedagogy,book-blogging]
+tags: [digital-humanities,pedagogy]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/maximalist-digital-humanities-pedagogy

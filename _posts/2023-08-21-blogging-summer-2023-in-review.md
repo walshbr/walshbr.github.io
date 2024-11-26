@@ -2,7 +2,7 @@
 layout: post
 title: "Blogging Summer 2023 in Review"
 date: 2023-08-21
-tags: [digital-humanities,writing-projects,documentation,tips,pedagogy,resources]
+tags: [digital-humanities,documentation,tips,pedagogy,resources]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/blogging-summer-2023-in-review
