@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Co-teaching Is"
+title: "Co-Teaching Is"
 date: 2024-12-02
 tags: [digital-humanities, pedagogy]
 crosspost:
