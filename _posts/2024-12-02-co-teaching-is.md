@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Co-teaching Is"
-date: 2024-09-27
-tags: [digital-humanities]
+date: 2024-12-02
+tags: [digital-humanities, pedagogy]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/co-teaching-is
