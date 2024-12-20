@@ -15,9 +15,6 @@ like I wonder about a counterpoint where maximalism opens doors to new voices an
 4:17
 and where the sweet spot of letting in a bit of an improv mentality might loosen the strictures in a valuable way
 
-
-
-
 From Donna Lanclos - https://bsky.app/profile/donnalanclos.bsky.social/post/3kqanuikr462h
 
 this is so thoughtful and good.  I think it applies (obvs) to more than dh contexts, this idea that pedagogical maximalism often comes from circumstances beyond our control.  I think about profs who say "I'm behind in my class!" because they have so much content they think they need to plow through.

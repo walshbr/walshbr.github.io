@@ -86,17 +86,12 @@ Perhaps the most helpful piece of the mock is the feedback that students will re
 
 Because students often feel like imposters, it can be easy to overwhelm them with feedback. So we often open debrief sessions simply by encouraging them. They survived. They can do this. And be careful to consider—and frame—your advice in the context of the circumstances. If the actual interview is the next day, a student cannot expect to wholesale change their personality based on your feedback—and advice to do so might just make them panic. Instead, emphasize those things that feel doable and learnable in the time allotted. 
 
-HERE
-
-One way to do this is to continually re-emphasize the good that you noticed in the mock performance. Were there specific 
+One way to do this is to start with the good that you noticed in the mock performance. Were there specific questions they responded well to? Can you help them to extrapolate that example to a more generalized approach to responding? Were there responses where they felt particularly light on their feet? It's easy to focus on the bad, so the students might need your help seeing their strengths. And opening with these moments can offer a healthy frame for the conversation to follow.  
 
 Students often lack confidence in their own experiences and their ability to speak from them to the job at hand. I always encourage students to think about their current identities *as students* as a kind of superpower. Staff and faculty putting together DH programming often have to work hard to reach out to students just like them. They're living it! It's just a matter of reframing their own experiences as expertise and extrapolating a bit from their own circumstances. What has worked for them about their own DH experiences? What has not? What lessons could they take elsewhere? They often know more than they might think!
 
-common traps from experience
-students as roleplaying
-student confidence
-say enough
+I could offer much more in the way of specific, common traps that students tend to find: contextualizing themselves as a PhD graduate applying for library work, saying enough for a particular question, recognizing those questions that feel like traps, etc. But really I would just trust yourself and your students. In the same way that your students are capable of shining but might need the help to see it, I am confident that someone who has read this far in a post on this topic will have good instincts about what to share with a student about their interview performance. 
 
 ## My Own Caveats
 
-Faculty vs staff
+I share with you, Dear Reader, the same caveat that I always share with students: I only have sat on so many kinds of search committees. Those I have served on primarily pertained to digital humanities, alt-ac, or library jobs. Other institutional contexts and types of positions will look different. I'll close with some advice in that regard: know your own limits. When I get a request for something more out of my wheelhouse—like a faculty position or an industry gig—I will try to pull in folks with experience in those contexts. Your university might also a career center that, while graduate students might not be their usual clientele, could offer some advice on certain kinds of positions. I would encourage you to think expansively about the kinds of experiences and advice that might help your students as they try to look for a broad range of careers. Your students will benefit from the effort, and they will likely be very grateful for the career support. 
