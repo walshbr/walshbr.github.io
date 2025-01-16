@@ -50,7 +50,7 @@ And then it only appears when printed by specifying a print-only class for those
   }
 ```
 
-The web version of my CV does not cover the whole page, which is good for readability on the web but a problem when printing. So these settings set up a more typical one-inch margin for the document. Another interesting issue I ran into was that some printers by default will include metadata - date, page number, time - on the page for printing. The margin settings below cut that off. 
+The web version of my CV does not span the whole width of the page, which is good for readability on the web but a problem when printing. So these settings create a more typical one-inch margin for the document. Another interesting issue I ran into was that some printers by default will include metadata - date, page number, time - on the page for printing. The margin settings below cut that off. 
 
 `styles/print.css`
 ```css
@@ -104,7 +104,7 @@ First the original print, which is a pretty close copy of the web version:
 
 ![original printed cv](/assets/post-media/print-ready-web-cv/1.jpg)
 
-And now the new one with a print stylesheet incorporated. Much more usable as a CV!
+And now the new one with a print stylesheet incorporated. Much more usable as a CV! I could save it as a PDF to submit. 
 
 ![printed cv with a stylesheet - looks much more like a cv!](/assets/post-media/print-ready-web-cv/2.jpg)
 
