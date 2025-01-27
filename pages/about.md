@@ -14,3 +14,8 @@ Brandon Walsh
 walsh@virginia.edu<br>
 @walshbr   
 <a itemprop="sameAs" content="https://orcid.org/0000-0002-2785-3519" href="https://orcid.org/0000-0002-2785-3519" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;">https://orcid.org/0000-0002-2785-3519</a>
+
+<a href="https://walshbr.com/atom.xml"><i class="fa-solid fa-rss fa-xl"></i></a>
+<a href="mailto:bmw9t@virginia.edu"><i class="fa-solid fa-envelope fa-xl"></i></a>
+<a href="https://bsky.app/profile/walshbr.bsky.social"><i class="fa-brands fa-bluesky fa-xl"></i></a>
+<a href="https://github.com/walshbr/"><i class="fa-brands fa-github fa-xl"></i></a>
