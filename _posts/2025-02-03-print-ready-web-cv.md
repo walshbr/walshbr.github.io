@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Print-Ready Web CV"
-date: 2024-11-12
+date: 2025-02-03
 tags: [digital-humanities,documentation]
 crosspost:
   - title: the Scholars' Lab blog
