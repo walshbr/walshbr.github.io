@@ -10,17 +10,22 @@ Interested in showing off a pedagogical bite? Please fill out this [form](https:
 
 Rachel Retica, Seanna Viechweg, and Brandon Walsh
 
-## What makes a good talk?
+## What makes a good bite? / Template for Talk Write-Ups
 
-Anything that keeps to five-minutes and gives enough context to spark interest for participants to go and learn more. The following questions might help you get started:
+Anything that keeps to five-minutes and gives enough context to spark interest for participants to go and learn more. After each talk we hope to put together a one-page, standalone artifact that can be cited by others in the future. The format might also help you plan your talk. Here's what we ask for, modeled on the pedagogical anthology NEH Institute for Advanced Topics in DH on Textual Data and Digital Texts in the Undergraduate Classroom:
 
-* What are you talking about? An overview of the thing, concept, tool, etc
-* Why do you use it?
-* Cost
-* Fragility - how likely is it to disappear?
-* What educational level / institutional context?
-* What background do students need?
-* Resources to learn more and explore it
+* Title
+* Author
+* Suggested Citation - e.g.
+    * Walsh, Brandon. "Snack-Sized Pedagogy and You." *Snack-Sized Digital Pedagogy Series.* February 13, 2025. DOI_Provided_By_Knowledge_Commons
+* Description - what is it? why is it useful?
+* Audience - institutional level, timeframe, 
+* Cost - what materials are necessary? is it free? freemium? licensed?
+* Fragility - how likely is someone to be able to use your work as a model ten years from now? does it rely on a tool that could disappear?
+* Suggested citation - 
+* Supplemental materials - share these as an upload and we can work with you. 
+
+After your talk, we recommend uploading your work to [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. We'll collect your work on this site alongside the other snacks, but this will ensure that things will persist if this site changes!
 
 ## Upcoming Sessions
 
