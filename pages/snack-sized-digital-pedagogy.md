@@ -4,6 +4,9 @@ title: "Snack-Sized Digital Pedagogy"
 permalink: /snack-sized-digital-pedagogy
 ---
 
+![snack sized pedagogy logo](/assets/images/snack-sized-digital-pedagogy.jpg)
+
+
 It’s important to maintain a balanced teaching diet! This free and open-to-the-public zoom series on digital pedagogy features paired lightning talks introducing teaching topics, interesting approaches to the classroom, pedagogical concepts, and more. All in a bite-sized form that should still give you plenty to chew on. In the spirit of the #DHMakes Methodz talks, each session will be built around paired 5 minute presentations followed by facilitated discussion for the remainder of the time.
 
 Interested in showing off a pedagogical bite? Please fill out this [form](https://forms.gle/uh66msjsaKquYFzs7) to indicate your interest in participating in the future! The presentations can cover a wide variety of topics: a tool that is new to you, a teaching tip, pedagogical concept, assignment, your syllabus for a DH course, etc. We're interested in showcasing anything you have found that moves you or your students in the classroom, that has worked well or failed utterly. And we are very interested in perspectives from folks in all different kinds of positions and institutional contexts - higher ed, K-12, administrators, cultural heritage workers, and more. After the session, each speaker will submit a short one-page (max) version of their five-minute presentation that we’ll collect into a crowdsourced, citable web publication of bite-sized DH pedagogical goodness.
@@ -24,7 +27,7 @@ We are excited to hear about anything that gives enough context to spark interes
 * Description - what is it? why is it useful? The bulk of the one-page document.
 * Supplemental materials
 
-We ask you to upload this one-page PDF and supplement materials [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. Send that citation back to us so that can archive it alongside the other snacks. This will ensure that things will persist if this site changes!
+[Here](https://docs.google.com/document/d/15x4FRUcrVLIKPhW_vcwLXlD2ZOV55g9qquNsWVUvieg/edit?usp=sharing) is a template you can edit if you wish. We ask you to upload this one-page PDF and supplement materials [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. Send that citation back to us so that can archive it alongside the other snacks. This will ensure that things will persist if this site changes!
 
 ## Upcoming Sessions
 
