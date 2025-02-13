@@ -12,7 +12,7 @@ Rachel Retica, Seanna Viechweg, and Brandon Walsh
 
 ## What makes a good bite? / Template for Talk Write-Ups
 
-Anything that keeps to five-minutes and gives enough context to spark interest for participants to go and learn more. After each talk we hope to put together a one-page, standalone artifact that can be cited by others in the future. The format might also help you plan your talk. Here's what we ask for, modeled on the pedagogical anthology NEH Institute for Advanced Topics in DH on Textual Data and Digital Texts in the Undergraduate Classroom:
+Anything that keeps to five-minutes and gives enough context to spark interest for participants to go and learn more. After each talk you to put together a one-page, standalone PDF of your presentation that can be cited by others in the future. The format might also help you plan your talk. Here's what we ask for, modeled on the pedagogical anthology NEH Institute for Advanced Topics in DH on Textual Data and Digital Texts in the Undergraduate Classroom:
 
 * Title
 * Author
@@ -22,10 +22,9 @@ Anything that keeps to five-minutes and gives enough context to spark interest f
 * Audience - institutional level, timeframe, 
 * Cost - what materials are necessary? is it free? freemium? licensed?
 * Fragility - how likely is someone to be able to use your work as a model ten years from now? does it rely on a tool that could disappear?
-* Suggested citation - 
-* Supplemental materials - share these as an upload and we can work with you. 
+* Supplemental materials
 
-After your talk, we recommend uploading your work to [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. We'll collect your work on this site alongside the other snacks, but this will ensure that things will persist if this site changes!
+We ask you to upload this one-page PDF and supplement materials [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. We'll collect these citations on this site alongside the other snacks, and this will ensure that things will persist if this site changes!
 
 ## Upcoming Sessions
 
