@@ -12,19 +12,19 @@ Rachel Retica, Seanna Viechweg, and Brandon Walsh
 
 ## What makes a good bite? / Template for Talk Write-Ups
 
-Anything that keeps to five-minutes and gives enough context to spark interest for participants to go and learn more. After each talk you to put together a one-page, standalone PDF of your presentation that can be cited by others in the future. The format might also help you plan your talk. Here's what we ask for, modeled on the pedagogical anthology NEH Institute for Advanced Topics in DH on Textual Data and Digital Texts in the Undergraduate Classroom:
+We are excited to hear about anything that gives enough context to spark interest and conversation for participants while keeping to five minutes. After each talk we ask you to put together a one-page, standalone PDF of your presentation that can be cited by others in the future. The format might also help you plan your talk. Here's what we ask for, modeled on the pedagogical anthology NEH Institute for Advanced Topics in DH on Textual Data and Digital Texts in the Undergraduate Classroom:
 
 * Title
 * Author
 * Suggested Citation - e.g.
-    * Walsh, Brandon. "Snack-Sized Pedagogy and You." *Snack-Sized Digital Pedagogy Series.* February 13, 2025. DOI_Provided_By_Knowledge_Commons
-* Description - what is it? why is it useful?
+    * Walsh, Brandon. "Snack-Sized Pedagogy and You." *Snack-Sized Digital Pedagogy Series.* February 13, 2025. DOI_Provided_By_Knowledge_Commons.
 * Audience - institutional level, timeframe, 
 * Cost - what materials are necessary? is it free? freemium? licensed?
 * Fragility - how likely is someone to be able to use your work as a model ten years from now? does it rely on a tool that could disappear?
+* Description - what is it? why is it useful? The bulk of the one-page document.
 * Supplemental materials
 
-We ask you to upload this one-page PDF and supplement materials [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. We'll collect these citations on this site alongside the other snacks, and this will ensure that things will persist if this site changes!
+We ask you to upload this one-page PDF and supplement materials [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. Send that citation back to us so that can archive it alongside the other snacks. This will ensure that things will persist if this site changes!
 
 ## Upcoming Sessions
 
