@@ -18,7 +18,7 @@ We are excited to hear about anything that gives enough context to spark interes
 * Author
 * Suggested Citation - e.g.
     * Walsh, Brandon. "Snack-Sized Pedagogy and You." *Snack-Sized Digital Pedagogy Series.* February 13, 2025. DOI_Provided_By_Knowledge_Commons.
-* Audience - institutional level, timeframe, 
+* Audience - institutional level, timeframe, size.
 * Cost - what materials are necessary? is it free? freemium? licensed?
 * Fragility - how likely is someone to be able to use your work as a model ten years from now? does it rely on a tool that could disappear?
 * Description - what is it? why is it useful? The bulk of the one-page document.
