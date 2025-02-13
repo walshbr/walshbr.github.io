@@ -4,7 +4,7 @@ title: "Snack-Sized Digital Pedagogy"
 permalink: /snack-sized-digital-pedagogy
 ---
 
-![snack sized pedagogy logo](/assets/images/snack-sized-digital-pedagogy.jpg)
+![snack sized pedagogy logo, image created with Canva's free AI Dream Lab](/assets/images/snack-sized-digital-pedagogy.jpg)
 
 
 It’s important to maintain a balanced teaching diet! This free and open-to-the-public zoom series on digital pedagogy features paired lightning talks introducing teaching topics, interesting approaches to the classroom, pedagogical concepts, and more. All in a bite-sized form that should still give you plenty to chew on. In the spirit of the #DHMakes Methodz talks, each session will be built around paired 5 minute presentations followed by facilitated discussion for the remainder of the time.
