@@ -12,7 +12,7 @@ Rachel Retica, Seanna Viechweg, and Brandon Walsh
 
 ## What makes a good bite? / Template for Talk Write-Ups
 
-We are excited to hear about anything that gives enough context to spark interest and conversation for participants while keeping to five minutes. After each talk we ask you to put together a one-page, standalone PDF of your presentation that can be cited by others in the future. The format might also help you plan your talk. Here's what we ask for, modeled on the pedagogical anthology NEH Institute for Advanced Topics in DH on Textual Data and Digital Texts in the Undergraduate Classroom:
+We are excited to hear about anything that gives enough context to spark interest and conversation for participants while keeping to five minutes. After each talk we ask you to put together a one-page, standalone PDF of your presentation that can be cited by others in the future. The format might also help you plan your talk. Here's what we ask for, modeled on the [pedagogical anthology from the NEH Institute for Advanced Topics in DH on Textual Data and Digital Texts in the Undergraduate Classroom](https://dsl.lsu.edu/nehtextualdata/pedagogical-anthology/):
 
 * Title
 * Author
