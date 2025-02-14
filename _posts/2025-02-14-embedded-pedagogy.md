@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Embedded Pedagogy"
-date: 2024-02-14
+date: 2025-02-14
 tags: [digital-humanities,book,pedagogy]
 crosspost:
   - title: the Scholars' Lab blog
