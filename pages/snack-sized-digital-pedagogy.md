@@ -31,16 +31,22 @@ We are excited to hear about anything that gives enough context to spark interes
 
 ## Upcoming Sessions
 
-Coming soon!
+* **On Making**. Friday, April 4th from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14229798).
+
+    * Jajwalya Karajgikar, Applied Data Science Librarian, University of Pennsylvania Library
+        * Blurb: When we consider library services and patrons in higher education, we typically think of resources, databases, and other mechanisms for the transfer of knowledge. More difficult to encapsulate is the sense of community building that occurs in the library as an impartial space for technology, information literacy, and campus well-being. This is the function of many research data, digital scholarship, and maker-space centers within the library. This short talk elaborates on collaborative projects that facilitate the development of deep relationships with people on campus through Slow Process Making and Embodied Critical Making.
+    * Amanda Licastro, Head of Digital Scholarship Strategies and Visiting Associate Professor in English at Swarthmore College
+        * Blurb: Interested in introducing your students to the world of #DHMakes? This presentation will review a series of scaffolded workshops aimed at making space for humanists in the Makerspace. With a focus on building critical collaborations across campus, audience members will gain practical tips on how to design hands-on, creative assignments with public-facing products. The culminating example will be an exhibit created by students in my undergraduate English course inspired by sci-fi literature, surveillance theory, and archival objects from Special Collections. 
 
 ## Past Sessions
 
-* **Teaching with historical/humanities data**. Friday, 2/21 from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14011008).
+* **Teaching with historical/humanities data**. Friday, 2/21 from 1:00-2:00PM EST. {% comment %}Register [here](https://cal.lib.virginia.edu/event/14011008).{% endcomment %}
     * Megan Brett, Manager for Collections Processing and Digital Initiatives at the Thomas Jefferson Library at Monticello 
         * Blurb
             Working with historical structured data sources. We'll talk about some ways to approach transcribing historic documents into structured systems (spreadsheets or similar formats), including project planning, workflows, and some low/no tech starting points.
         * Citation and Deposit
+            * Coming soon
     * Emily McGinn, Digital Humanities Specialist at Johns Hopkins University
         * Blurb: I have data, now what? Forming a research question from humanities data. We’ll discuss how to examine the data you have, form a hypothesis, and structure investigations within the bounds of the dataset.
-        * Citation and Deposit
+        * Materials/Citation
             * McGinn, Emily. “Asking Questions of Data: How to Think Like a Computer”. Knowledge Commons, February 22, 2025. [https://doi.org/10.17613/zwcja-8bn05](https://doi.org/10.17613/zwcja-8bn05).
