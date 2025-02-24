@@ -31,13 +31,16 @@ We are excited to hear about anything that gives enough context to spark interes
 
 ## Upcoming Sessions
 
-* **Teaching with historical/humanities data**. Friday, 2/21 from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14011008).
-    * Megan Brett, Manager for Collections Processing and Digital Initiatives at the Thomas Jefferson Library at Monticello 
-        * Blurb: Working with historical structured data sources. We'll talk about some ways to approach transcribing historic documents into structured systems (spreadsheets or similar formats), including project planning, workflows, and some low/no tech starting points.
-    * Emily McGinn, Digital Humanities Specialist at Johns Hopkins University
-        * Blurb: I have data, now what? Forming a research question from humanities data. We’ll discuss how to examine the data you have, form a hypothesis, and structure investigations within the bounds of the dataset.
+Coming soon!
 
 ## Past Sessions
 
-* Coming soon, documented with short, citable write-ups!
-
+* **Teaching with historical/humanities data**. Friday, 2/21 from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14011008).
+    * Megan Brett, Manager for Collections Processing and Digital Initiatives at the Thomas Jefferson Library at Monticello 
+        * Blurb
+            Working with historical structured data sources. We'll talk about some ways to approach transcribing historic documents into structured systems (spreadsheets or similar formats), including project planning, workflows, and some low/no tech starting points.
+        * Citation and Deposit
+    * Emily McGinn, Digital Humanities Specialist at Johns Hopkins University
+        * Blurb: I have data, now what? Forming a research question from humanities data. We’ll discuss how to examine the data you have, form a hypothesis, and structure investigations within the bounds of the dataset.
+        * Citation and Deposit
+            * McGinn, Emily. “Asking Questions of Data: How to Think Like a Computer”. Knowledge Commons, February 22, 2025. [https://doi.org/10.17613/zwcja-8bn05](https://doi.org/10.17613/zwcja-8bn05).
