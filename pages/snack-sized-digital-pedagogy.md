@@ -27,9 +27,14 @@ We are excited to hear about anything that gives enough context to spark interes
 * Description - what is it? why is it useful? The bulk of the one-page document.
 * Supplemental materials
 
-[Here](https://docs.google.com/document/d/15x4FRUcrVLIKPhW_vcwLXlD2ZOV55g9qquNsWVUvieg/edit?usp=sharing) is a template you can edit if you wish. We ask you to upload this one-page PDF and supplement materials [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. Send that citation back to us so that can archive it alongside the other snacks. This will ensure that things will persist if this site changes!
+[Here](https://docs.google.com/document/d/15x4FRUcrVLIKPhW_vcwLXlD2ZOV55g9qquNsWVUvieg/edit?usp=sharing) is a template you can edit if you wish. We ask you to upload this one-page PDF and supplement materials [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. Under type of work, you will select "Other -> Text Document"
+. Send that citation back to us so that can archive it alongside the other snacks. This will ensure that things will persist if this site changes!
 
 ## Upcoming Sessions
+
+More soon! Stay tuned.
+
+{% comment %}
 
 * **On Making**. Friday, April 4th from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14229798).
 
@@ -38,15 +43,17 @@ We are excited to hear about anything that gives enough context to spark interes
     * Amanda Licastro, Head of Digital Scholarship Strategies and Visiting Associate Professor in English at Swarthmore College
         * Blurb: Interested in introducing your students to the world of #DHMakes? This presentation will review a series of scaffolded workshops aimed at making space for humanists in the Makerspace. With a focus on building critical collaborations across campus, audience members will gain practical tips on how to design hands-on, creative assignments with public-facing products. The culminating example will be an exhibit created by students in my undergraduate English course inspired by sci-fi literature, surveillance theory, and archival objects from Special Collections. 
 
+{% endcomment %}
+
 ## Past Sessions
 
-* **Teaching with historical/humanities data**. Friday, 2/21 from 1:00-2:00PM EST. {% comment %}Register [here](https://cal.lib.virginia.edu/event/14011008).{% endcomment %}
+* **Teaching with historical/humanities data**. Friday, 2/21/25 from 1:00-2:00PM EST. {% comment %}Register [here](https://cal.lib.virginia.edu/event/14011008).{% endcomment %}
     * Megan Brett, Manager for Collections Processing and Digital Initiatives at the Thomas Jefferson Library at Monticello 
         * Blurb
             Working with historical structured data sources. We'll talk about some ways to approach transcribing historic documents into structured systems (spreadsheets or similar formats), including project planning, workflows, and some low/no tech starting points.
-        * Citation and Deposit
-            * Coming soon
+        * Suggested Citation and Deposit
+            * Megan R. Brett, “Thinking about historic structured data,”Snack-Sized DigitalPedagogy, February 21, 2025. [https://works.hcommons.org/records/rzq5c-43394](https://works.hcommons.org/records/rzq5c-43394).
     * Emily McGinn, Digital Humanities Specialist at Johns Hopkins University
         * Blurb: I have data, now what? Forming a research question from humanities data. We’ll discuss how to examine the data you have, form a hypothesis, and structure investigations within the bounds of the dataset.
-        * Materials/Citation
+        * Suggested Citation and Deposit
             * McGinn, Emily. “Asking Questions of Data: How to Think Like a Computer”. Knowledge Commons, February 22, 2025. [https://doi.org/10.17613/zwcja-8bn05](https://doi.org/10.17613/zwcja-8bn05).
