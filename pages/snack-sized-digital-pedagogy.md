@@ -52,7 +52,7 @@ More soon! Stay tuned.
         * Blurb
             Working with historical structured data sources. We'll talk about some ways to approach transcribing historic documents into structured systems (spreadsheets or similar formats), including project planning, workflows, and some low/no tech starting points.
         * Suggested Citation and Deposit
-            * Megan R. Brett, “Thinking about historic structured data,”Snack-Sized DigitalPedagogy, February 21, 2025. [https://works.hcommons.org/records/rzq5c-43394](https://works.hcommons.org/records/rzq5c-43394).
+            * Megan R. Brett, “Thinking about historic structured data,”Snack-Sized Digital Pedagogy, February 21, 2025. [https://works.hcommons.org/records/rzq5c-43394](https://works.hcommons.org/records/rzq5c-43394).
     * Emily McGinn, Digital Humanities Specialist at Johns Hopkins University
         * Blurb: I have data, now what? Forming a research question from humanities data. We’ll discuss how to examine the data you have, form a hypothesis, and structure investigations within the bounds of the dataset.
         * Suggested Citation and Deposit
