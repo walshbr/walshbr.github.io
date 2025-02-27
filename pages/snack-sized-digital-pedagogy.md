@@ -31,10 +31,12 @@ We are excited to hear about anything that gives enough context to spark interes
 . Send that citation back to us so that can archive it alongside the other snacks. This will ensure that things will persist if this site changes!
 
 ## Upcoming Sessions
+{% comment %}
 
 More soon! Stay tuned.
 
-{% comment %}
+{% endcomment %}
+
 
 * **On Making**. Friday, April 4th from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14229798).
 
@@ -42,8 +44,6 @@ More soon! Stay tuned.
         * Blurb: When we consider library services and patrons in higher education, we typically think of resources, databases, and other mechanisms for the transfer of knowledge. More difficult to encapsulate is the sense of community building that occurs in the library as an impartial space for technology, information literacy, and campus well-being. This is the function of many research data, digital scholarship, and maker-space centers within the library. This short talk elaborates on collaborative projects that facilitate the development of deep relationships with people on campus through Slow Process Making and Embodied Critical Making.
     * Amanda Licastro, Head of Digital Scholarship Strategies and Visiting Associate Professor in English at Swarthmore College
         * Blurb: Interested in introducing your students to the world of #DHMakes? This presentation will review a series of scaffolded workshops aimed at making space for humanists in the Makerspace. With a focus on building critical collaborations across campus, audience members will gain practical tips on how to design hands-on, creative assignments with public-facing products. The culminating example will be an exhibit created by students in my undergraduate English course inspired by sci-fi literature, surveillance theory, and archival objects from Special Collections. 
-
-{% endcomment %}
 
 ## Past Sessions
 
