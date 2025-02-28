@@ -2,10 +2,7 @@
 layout: post
 title: "Your Budget Is a Question of Pedagogy and Equity"
 date: 2020-04-15 11:29
-tags: [book,pedagogy,digital-humanities,alt-ac,dh-now]
-book: 
-  - ch_num: 1
-  - section_num: 4
+tags: [pedagogy,digital-humanities,alt-ac,dh-now]
 ---
 *Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/your-budget-is-a-question-of-pedagogy-and-equity)*
 
