@@ -2,7 +2,7 @@
 layout: post
 title: "On the Limited Knowability of Institutions"
 date: 2025-02-28
-tags: [digital-humanities,book]
+tags: [digital-humanities,book,pedagogy]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/on-the-limited-knowability-of-institutions
