@@ -5,7 +5,7 @@ date: 2025-02-28
 tags: [digital-humanities,book]
 crosspost:
   - title: the Scholars' Lab blog
-    url: https://scholarslab.lib.virginia.edu/blog/untitled
+    url: https://scholarslab.lib.virginia.edu/blog/on-the-limited-knowability-of-institutions
 book: 
   - ch_num: 1
   - section_num: 1
