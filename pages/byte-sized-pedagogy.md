@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ByteSizedPedagogy"
+title: "#ByteSizedPedagogy"
 permalink: /byte-sized-pedagogy
 redirect_from:
   - /snack-sized-digital-pedagogy
