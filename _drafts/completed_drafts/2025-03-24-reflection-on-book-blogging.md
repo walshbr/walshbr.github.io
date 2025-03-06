@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blogging a Book so Far"
-date: 2025-02-28
+date: 2025-03-31
 tags: [digital-humanities,book]
 crosspost:
   - title: the Scholars' Lab blog

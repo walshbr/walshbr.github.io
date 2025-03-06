@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding Your Lever: DH Pedagogy and Crisis"
-date: 2025-03-04
+date: 2025-03-17
 tags: [digital-humanities,pedagogy,talks]
 crosspost:
   - title: the Scholars' Lab blog

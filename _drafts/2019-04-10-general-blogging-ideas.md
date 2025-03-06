@@ -5,13 +5,8 @@ date: 2019-04-10 09:58
 tags:
 ---
 
-Mock interview guides
-Cover letter activity with Winnie
-
-**Next up**
-* week of August 7th - backlog retrospective ready to go.
-* week of August 14th - intial sprint reflections - drafted. needs semi-substantial proofing. Another option would be to do another short post to fill out one of the sections that is a little anemic.
-* week of August 21st - publish the mixtape-y thing 
+To record: 
+reflect on the rest of the data literacy course
 
 **Now writing**
 Pedagogies of listening

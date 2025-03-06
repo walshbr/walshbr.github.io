@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the Limited Knowability of Institutions"
-date: 2025-02-28
+date: 2025-03-10
 tags: [digital-humanities,book,pedagogy]
 crosspost:
   - title: the Scholars' Lab blog
