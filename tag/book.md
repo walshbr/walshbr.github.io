@@ -30,7 +30,12 @@ What follows are materials drawn from a larger book project I’m working on abo
       </li>
     </ul>
     <ul>Section 3
-      <li>Coming soon</li>
+      {% assign ch_1_sec_3_posts = ch_1_posts | where_exp:"item","item.book[1].section_num == 3" %}
+    {% for post in ch_1_sec_3_posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+        {{ post.description }}
+      </li>
+    {% endfor %}
     </ul>
   </ul>
 </ul>
