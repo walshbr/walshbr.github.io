@@ -50,7 +50,7 @@ Designed as an augmented reality app that a user can download to their phone, *U
 
 *UVA Reveal* invites students to see and notice the difficult institutional histories all around them. By forcing them to pay attention, the app asks students to consider the ways in which university narratives are always contested and subject to tense systems of power. For example, one location *UVA Reveal* augments is a prominent mural on campus that depicts a student’s journey through university life (Figure 1).
 
-![Figure 1: “The Student’s Progress,” a mural by Lincoln Perry in Old Cabell Hall at the University of Virginia.](/assets/post-media/pedagogies-of-transparency/1.jpeg)
+![Figure 1: “The Student’s Progress,” a mural by Lincoln Perry in Old Cabell Hall at the University of Virginia.](/assets/post-media/pedagogies-of-transparency-part-one/1.jpeg)
 
 
 Figure 1: “The Student’s Progress,” a mural by Lincoln Perry in Old Cabell Hall at the University of Virginia.
@@ -59,12 +59,12 @@ The panels follow a red-headed child through her time as the University first as
 
 Augmented reality applications work by assigning certain images as triggers for particular kinds of interactivity. When the user’s camera detects a selected image, a modified version of it will appear on the screen. In the case of the Perry Mural, the Praxis students chose two approaches. First, when viewed through the *UVA Reveal* interface, the app draws out elements of women’s experience, literally making them emerge from the mural as pop outs (Figure 2). By distorting the user’s field of view in this way, the app questions the original artist’s own tendency to submerge gendered violence and experiences in the larger work.  
 
-![Figure 2: Depictions of sexual violence of “The Students Progress” that emerge towards the viewer when viewed in UVA Reveal.](/assets/post-media/pedagogies-of-transparency/2.jpeg)
+![Figure 2: Depictions of sexual violence of “The Students Progress” that emerge towards the viewer when viewed in UVA Reveal.](/assets/post-media/pedagogies-of-transparency-part-one/2.jpeg)
 
 Figure 2: Depictions of sexual violence of “The Students Progress” that emerge towards the viewer when viewed in *UVA Reveal*. 
 
 
-![Figure 3: Screenshot of Unity interface that depicts the layering of contextual information on the mural including a poem by Gregory Orr and Raphael’s The School of Athens. ](/assets/post-media/pedagogies-of-transparency/3.jpeg)
+![Figure 3: Screenshot of Unity interface that depicts the layering of contextual information on the mural including a poem by Gregory Orr and Raphael’s The School of Athens. ](/assets/post-media/pedagogies-of-transparency-part-one/3.jpeg)
 
 Figure 3: Screenshot of Unity interface that depicts the layering of contextual information on the mural including a poem by Gregory Orr and Raphael’s The School of Athens. 
 
