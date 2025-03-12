@@ -7,8 +7,9 @@ order: 6
 
 In addition to the chronological feed below, the following tag cloud might make it easier to explore past posts.
 
+<div>
 {% include archive.html %}
-
+</div>
 ## Chronological Feed
 <div id="blog-archives">
 {% assign reverse_posts = site.posts | reversed %}

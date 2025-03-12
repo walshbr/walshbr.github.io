@@ -1,6 +1,23 @@
+{% capture temptotal %}
+{% for tag in site.tags %}
+{{ tag[1].size }}
+{% endfor %}
+{% endcapture %}
+
+{% assign the_things = temptotal | split: ' ' %}
+
+{% capture tagtotal %}
+{% assign temptotal = 0 %}
+  {% for tag in the_things %}
+    {% assign temptotal = temptotal | plus: tag%}
+  {% endfor %}
+{{ temptotal }}
+{% endcapture %}
+
 {% capture temptags %}
   {% for tag in site.tags %}
-    {{ tag[1].size | plus: 12 }}#{{ tag[0] }}#{{ tag[1].size }}
+  {% assign floattotal = temptotal | times: 1.0 %}
+    {{ tag[1].size | times: 225 | divided_by: floattotal | at_least: 14 | at_most: 100 }}#{{ tag[0] }}
   {% endfor %}
 {% endcapture %}
 
