@@ -8,7 +8,7 @@ tags: [digital-humanities,pedagogy,talks]
 
 ![Title slide conveying name, title, date](/assets/post-media/finding-your-lever/1.jpeg)
 
-What follows is my contribution to a roundtable at UVA entitled "[Digital Futures of Graduate Studies in the Humanities](https://cal.lib.virginia.edu/event/14161235)." The event celebrated the release of the [edited collection of the same name](https://www.upress.umn.edu/9781517916923/digital-futures-of-graduate-study-in-the-humanities/) distributed through the Debates in Digital Humanities series. As a part of the session, Gabriel Hankins, Alison Booth, and I gave remarks describing and reflecting on our published contributions to the volume. The talk represents my own views and do not reflect the views of the Scholars' Lab, the Digital Humanities Center, or the UVA Library.
+What follows is my contribution to a roundtable at UVA entitled "[Digital Futures of Graduate Studies in the Humanities](https://cal.lib.virginia.edu/event/14161235)." The event celebrated the release of the [edited collection of the same name](https://www.upress.umn.edu/9781517916923/digital-futures-of-graduate-study-in-the-humanities/) distributed through the Debates in Digital Humanities series. As a part of the session, Gabriel Hankins, Alison Booth, and I gave remarks describing and reflecting on our published contributions to the volume. 
 
 ---
 
