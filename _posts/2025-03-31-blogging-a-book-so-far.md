@@ -5,7 +5,7 @@ date: 2025-03-31
 tags: [digital-humanities,book]
 crosspost:
   - title: the Scholars' Lab blog
-    url: https://scholarslab.lib.virginia.edu/blog/reflection-on-book-blogging
+    url: https://scholarslab.lib.virginia.edu/blog/blogging-a-book-so-far/
 book:
   ch_num: 0
   section_num: 0
