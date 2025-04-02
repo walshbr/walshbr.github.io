@@ -43,6 +43,11 @@ More soon! Stay tuned.
         * Blurb: When we consider library services and patrons in higher education, we typically think of resources, databases, and other mechanisms for the transfer of knowledge. More difficult to encapsulate is the sense of community building that occurs in the library as an impartial space for technology, information literacy, and campus well-being. This is the function of many research data, digital scholarship, and maker-space centers within the library. This short talk elaborates on collaborative projects that facilitate the development of deep relationships with people on campus through Slow Process Making and Embodied Critical Making.
     * Amanda Licastro, Head of Digital Scholarship Strategies and Visiting Associate Professor in English at Swarthmore College
         * Blurb: Interested in introducing your students to the world of #DHMakes? This presentation will review a series of scaffolded workshops aimed at making space for humanists in the Makerspace. With a focus on building critical collaborations across campus, audience members will gain practical tips on how to design hands-on, creative assignments with public-facing products. The culminating example will be an exhibit created by students in my undergraduate English course inspired by sci-fi literature, surveillance theory, and archival objects from Special Collections. 
+*  **On Making and Remixing Video/games** Wednesday, April 23rd from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14429559).
+    * Andrew Ferguson, University of Virginia
+        * Blurb: I’ve been guiding students through learning video editing software to make and to mess up video footage.
+    * Carlisle Yingst
+        * Blurb: Making the digital analogue, or, analyzing a video game with paper, scissors, paste, and yarn. I'll discuss my approach to developing an undergraduate workshop on video games, focusing on the parts of the workshop that presented students with analogue, concrete, hands-on ways of thinking about some of the more abstract concepts involved in digital media. 
 
 ## Past Sessions
 
