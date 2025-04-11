@@ -7,6 +7,8 @@ crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/the-me-test
 ---
+
+{% comment %} note to yourself to add links to the video both at top and bottom {% endcomment %}
 I recently gave a workshop for the [US Latino Digital Humanities Center (USLDH)](https://usldhrecovery.uh.edu/) at the University of Houston on introductory text analysis concepts and Voyant. I don't have a full talk to share since it was a workshop, but I still thought I would share some of the things that worked especially well about the session. USLDH recorded the talk and made it available [here](INSERT LINK HERE), and you find the link to my materials [here](https://bit.ly/book-number-graph).
 
 I had a teaching observation when I was graduate student, and one comment always stuck with me. My director told me, "this was all great but don't be afraid to tell them what you think." I've written [elsewhere](http://localhost:4000/blog/discussion-that-opens/) about how I tend to approach classroom facilitation as a process of generating questions that the group explores together. This orientation is sometimes in conflict with DH instruction, where you have information that simply needs to be conveyed. I had this tension in mind while planning the USLDH event. It was billed as a _workshop_, and I think there's nothing worse than attending a workshop only to find that it's really a lecture. How to balance the generic expectations with the knowledge that I had stuff I needed to put on the table? As an attempt to thread this needle, I structured the three-part session around a range of different kinds of teaching moves: some lecture, yes, but also a mix of open discussion, case study, quiz questions, and free play with a tool. 
