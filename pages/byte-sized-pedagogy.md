@@ -36,14 +36,7 @@ More soon! Stay tuned.
 
 {% endcomment %}
 
-
-* **On Making**. Friday, April 4th from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14229798).
-
-    * Jajwalya Karajgikar, Applied Data Science Librarian, University of Pennsylvania Library
-        * Blurb: When we consider library services and patrons in higher education, we typically think of resources, databases, and other mechanisms for the transfer of knowledge. More difficult to encapsulate is the sense of community building that occurs in the library as an impartial space for technology, information literacy, and campus well-being. This is the function of many research data, digital scholarship, and maker-space centers within the library. This short talk elaborates on collaborative projects that facilitate the development of deep relationships with people on campus through Slow Process Making and Embodied Critical Making.
-    * Amanda Licastro, Head of Digital Scholarship Strategies and Visiting Associate Professor in English at Swarthmore College
-        * Blurb: Interested in introducing your students to the world of #DHMakes? This presentation will review a series of scaffolded workshops aimed at making space for humanists in the Makerspace. With a focus on building critical collaborations across campus, audience members will gain practical tips on how to design hands-on, creative assignments with public-facing products. The culminating example will be an exhibit created by students in my undergraduate English course inspired by sci-fi literature, surveillance theory, and archival objects from Special Collections. 
-*  **On Making and Remixing Video/games** Wednesday, April 23rd from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14429559).
+*  **On Making and Remixing Video/games** *CANCELED - postponed until a TBD date! Stay tuned.* ~~Wednesday, April 23rd from 1:00-2:00PM EST.~~ Register [here](https://cal.lib.virginia.edu/event/14429559).
     * Andrew Ferguson, University of Virginia
         * Blurb: I’ve been guiding students through learning video editing software to make and to mess up video footage.
     * Carlisle Yingst
@@ -58,6 +51,16 @@ More soon! Stay tuned.
         * Suggested Citation and Deposit
             * Megan R. Brett, “Thinking about historic structured data,” ByteSizedPedagogy, February 21, 2025. [https://works.hcommons.org/records/rzq5c-43394](https://works.hcommons.org/records/rzq5c-43394).
     * Emily McGinn, Digital Humanities Specialist at Johns Hopkins University
-        * Blurb: I have data, now what? Forming a research question from humanities data. We’ll discuss how to examine the data you have, form a hypothesis, and structure investigations within the bounds of the dataset.
+        * Blurb I have data, now what? Forming a research question from humanities data. We’ll discuss how to examine the data you have, form a hypothesis, and structure investigations within the bounds of the dataset.
         * Suggested Citation and Deposit
             * McGinn, Emily. “Asking Questions of Data: How to Think Like a Computer”. Knowledge Commons, February 22, 2025. [https://doi.org/10.17613/zwcja-8bn05](https://doi.org/10.17613/zwcja-8bn05).
+* **On Making**. Friday, April 4th from 1:00-2:00PM EST. {% comment %} Register [here](https://cal.lib.virginia.edu/event/14229798). {% endcomment %}
+    * Jajwalya Karajgikar, Applied Data Science Librarian, University of Pennsylvania Library
+        * Blurb
+            * When we consider library services and patrons in higher education, we typically think of resources, databases, and other mechanisms for the transfer of knowledge. More difficult to encapsulate is the sense of community building that occurs in the library as an impartial space for technology, information literacy, and campus well-being. This is the function of many research data, digital scholarship, and maker-space centers within the library. This short talk elaborates on collaborative projects that facilitate the development of deep relationships with people on campus through Slow Process Making and Embodied Critical Making.
+        * Suggested Citation and Deposit
+            * Karajgikar, Jajwalya.“Framework for Designing Qualitative Data Physicalizations through Loom Weaving” ByteSizedPedagogy Series. April 4, 2025. DOI: [10.17613/2dh0q-7ce27](10.17613/2dh0q-7ce27)
+    * Amanda Licastro, Head of Digital Scholarship Strategies and Visiting Associate Professor in English at Swarthmore College
+        * Blurb 
+            * Interested in introducing your students to the world of #DHMakes? This presentation will review a series of scaffolded workshops aimed at making space for humanists in the Makerspace. With a focus on building critical collaborations across campus, audience members will gain practical tips on how to design hands-on, creative assignments with public-facing products. The culminating example will be an exhibit created by students in my undergraduate English course inspired by sci-fi literature, surveillance theory, and archival objects from Special Collections. 
+        * Suggested Citation and Deposit
