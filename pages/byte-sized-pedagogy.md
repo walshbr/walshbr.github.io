@@ -36,7 +36,7 @@ More soon! Stay tuned.
 
 {% endcomment %}
 
-*  **On Making and Remixing Video/games** *CANCELED - postponed until a TBD date! Stay tuned.* ~~Wednesday, April 23rd from 1:00-2:00PM EST.~~ Register [here](https://cal.lib.virginia.edu/event/14429559).
+*  **On Making and Remixing Video/games**. Wednesday, 5/14/25 from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14429559).
     * Andrew Ferguson, University of Virginia
         * Blurb: I’ve been guiding students through learning video editing software to make and to mess up video footage.
     * Carlisle Yingst
