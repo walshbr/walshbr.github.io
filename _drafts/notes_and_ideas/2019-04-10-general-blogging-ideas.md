@@ -6,7 +6,7 @@ tags:
 ---
 
 To record: 
-reflect on the rest of the data literacy course
+
 
 **Now writing**
 Pedagogies of listening
