@@ -64,3 +64,4 @@ More soon! Stay tuned.
         * Blurb 
             * Interested in introducing your students to the world of #DHMakes? This presentation will review a series of scaffolded workshops aimed at making space for humanists in the Makerspace. With a focus on building critical collaborations across campus, audience members will gain practical tips on how to design hands-on, creative assignments with public-facing products. The culminating example will be an exhibit created by students in my undergraduate English course inspired by sci-fi literature, surveillance theory, and archival objects from Special Collections. 
         * Suggested Citation and Deposit
+            * Licastro, A. Making Space for Humanists in the Makerspace. Knowledge Commons, 18 Apr. 2025, [10.17613/65jf7-w5p76](https://works.hcommons.org/records/65jf7-w5p76)

@@ -88,8 +88,7 @@ date: #{parsed.front_matter['date']}
 layout: post
 slug: #{title_slug}
 title: #{parsed.front_matter['title']}
-categories:
-- Digital Humanities
+category: essay
 tags:
 - Digital humanities
 crosspost:
