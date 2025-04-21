@@ -59,9 +59,9 @@ More soon! Stay tuned.
         * Blurb
             * When we consider library services and patrons in higher education, we typically think of resources, databases, and other mechanisms for the transfer of knowledge. More difficult to encapsulate is the sense of community building that occurs in the library as an impartial space for technology, information literacy, and campus well-being. This is the function of many research data, digital scholarship, and maker-space centers within the library. This short talk elaborates on collaborative projects that facilitate the development of deep relationships with people on campus through Slow Process Making and Embodied Critical Making.
         * Suggested Citation and Deposit
-            * Karajgikar, Jajwalya.“Framework for Designing Qualitative Data Physicalizations through Loom Weaving” ByteSizedPedagogy Series. April 4, 2025. DOI: [10.17613/2dh0q-7ce27](10.17613/2dh0q-7ce27)
+            * Karajgikar, Jajwalya.“Framework for Designing Qualitative Data Physicalizations through Loom Weaving” ByteSizedPedagogy Series. April 4, 2025. DOI: [10.17613/2dh0q-7ce27](https://works.hcommons.org/records/1rn8e-2eq54)
     * Amanda Licastro, Head of Digital Scholarship Strategies and Visiting Associate Professor in English at Swarthmore College
         * Blurb 
             * Interested in introducing your students to the world of #DHMakes? This presentation will review a series of scaffolded workshops aimed at making space for humanists in the Makerspace. With a focus on building critical collaborations across campus, audience members will gain practical tips on how to design hands-on, creative assignments with public-facing products. The culminating example will be an exhibit created by students in my undergraduate English course inspired by sci-fi literature, surveillance theory, and archival objects from Special Collections. 
         * Suggested Citation and Deposit
-            * Licastro, A. Making Space for Humanists in the Makerspace. Knowledge Commons, 18 Apr. 2025, [10.17613/65jf7-w5p76](https://works.hcommons.org/records/65jf7-w5p76)
+            * Licastro, A. Making Space for Humanists in the Makerspace. Knowledge Commons, 18 Apr. 2025, DOI: [10.17613/65jf7-w5p76](https://works.hcommons.org/records/65jf7-w5p76)
