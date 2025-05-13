@@ -43,9 +43,11 @@ More soon! Stay tuned.
         * Blurb: Making the digital analogue, or, analyzing a video game with paper, scissors, paste, and yarn. I'll discuss my approach to developing an undergraduate workshop on video games, focusing on the parts of the workshop that presented students with analogue, concrete, hands-on ways of thinking about some of the more abstract concepts involved in digital media. 
 *  **On Failure**. Tuesday, 6/24/25 from 1:00-2:00PM ET. Register [here](https://cal.lib.virginia.edu/event/14655973).
     * Pamella Lach, Digital Humanities Librarian at San Diego State University Library
-        * Blurb: Bringing back the joy in teaching: I've been reflecting a lot about what I don't like about my pedagogy lately. This past semester I began experimenting with ways of refreshing my approach. I welcome the opportunity to share different ways we can rethink and transform our pedagogy. 
+        * Blurb: 
+            * Bringing back the joy in teaching: I've been reflecting a lot about what I don't like about my pedagogy lately. This past semester I began experimenting with ways of refreshing my approach. I welcome the opportunity to share different ways we can rethink and transform our pedagogy. 
     * Lisa Tagliaferri, Head of Developer Education at Chainguard
-        * Blurb: Interdisciplinary teaching wins and fails: when it works and when it doesn’t. With tales from the digital humanities.
+        * Blurb: 
+            * Interdisciplinary teaching wins and fails: when it works and when it doesn’t. With tales from the digital humanities.
 
 ## Past Sessions
 
