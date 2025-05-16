@@ -2,12 +2,16 @@
 layout: post
 title: "DH Publishing To Me"
 date: 2025-05-05
-tags: [digital-humanities]
+tags: [digital-humanities,ach-publishing]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/dh-publishing
 ---
-Rebecca Foote recently invited me to a part of an [ACH](https://ach.org/) panel on publishing in digital humanities along with Jojo Karlin and Nat McGartland. Rebecca circulated some questions in advance of the panel that we might use to orient our thinking. What follows are some slightly edited responses to those prompts. More to come soon based on the conversation!
+
+Rebecca Foote recently invited me to a part of an [ACH](https://ach.org/) panel on publishing in digital humanities along with Jojo Karlin and Nat McGartland. Rebecca circulated some questions in advance of the panel that we might use to orient our thinking. What follows are some slightly edited responses to those prompts. You can find other posts related to that conversation [here](https://walshbr.com/tag/ach-publishing/). 
+
+---
+
 
 > What has publishing and DH meant for you? What are some of the various platforms, venues, and structures you've used to publish your work? 
 

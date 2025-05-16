@@ -2,11 +2,16 @@
 layout: post
 title: "Couch to Paragraph Writing Program"
 date: 2025-05-09
-tags: [digital-humanities]
+tags: [digital-humanities,ach-publishing]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/couch-to-paragraph-writing-program
 ---
+
+Rebecca Foote recently invited me to a part of an [ACH](https://ach.org/) panel on publishing in digital humanities along with Jojo Karlin and Nat McGartland. You can other find other posts related to that conversation [here](https://walshbr.com/tag/ach-publishing/). 
+
+---
+
 If you've ever hung out with me for more than a few seconds, you know that I'm obsessed with process. I'm always talking about some new thing that I'm trying. I'll do X thing over Y number of days until I reach some milestone goal. Cleaning, reading, listening to music—they've all been the subject of some program I'm trying out. Obviously not all of these schemes stick. My latest goal has been to blog every week, though, and I've been doing a pretty good job so far this semester of keeping up with it. This impulse to write consistently is my own way to try and deal with the political climate we're living in. After all, if writing didn't matter, the powers that be wouldn't try so strongly to silence disagreeing voices. Jeff Tweedy's _How to Write One Song_ has a great quote to that effect that has really stuck with me: "We have a choice— to be on the side of creation, or surrender to the powers that destroy." I've been trying to cultivate this practice of creation for myself. My long-term goal is to make progress on my book project, something that often gets kicked to the back burner. To make this happen, I've decided to spend some time each day writing in whatever capacity I can.
 
 

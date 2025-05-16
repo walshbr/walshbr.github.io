@@ -7,6 +7,11 @@ crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/how-to-write-every-day
 ---
+
+Rebecca Foote recently invited me to a part of an [ACH](https://ach.org/) panel on publishing in digital humanities along with Jojo Karlin and Nat McGartland. You can find posts related to that conversation [here](https://walshbr.com/tag/ach-publishing/). 
+
+---
+
 I recently wrote about the importance of writing as a muscle public writing in particular, as a way to try and gear myself towards the most efficient kind of writing that I possibly could in reference to a panel that I was on about publishing in the digital humanities for the ACH. I promised in that post that I would write a follow up wherein I talked about not just the importance of writing every day, but also how I go about actually doing it. I think the most important thing to keep in mind if you're trying to write every day is that writing is not just one thing, and despite what the academy might tell you, all kinds of writing are important. Believe this in my bones, write about this in a follow up post. So I have a range of different things that I do to get myself writing. They all serve different kinds of purposes. For one, there are many different modes of writing,
 
 the blog post about
