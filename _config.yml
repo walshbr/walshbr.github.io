@@ -5,7 +5,7 @@ permalink: /blog/:title/
 
 
 # Setup
-title:               Brandon Walsh
+title:               walshbr.com
 tagline:
 description:         "Head of Student Programs at the Scholars' Lab in the UVA Library"
 url: http://walshbr.com
@@ -14,8 +14,12 @@ baseurl: ''
 # About/contact
 author:
   name:              Brandon Walsh
-  url:               https://twitter.com/mdo
-  email:             walsh@virginia.edu
+  url:               https://walshbr.com/
+  email:             bmw9t@virginia.edu
+
+contact:
+  name_first:       Brandon
+  name_last:        Walsh
 
 # Custom vars
 version:             1.0.0

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include coins.html %}
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
@@ -35,17 +36,37 @@ layout: default
   </div>
 </div>
 
+
+
+
 <div class="related">
+
+  <div class="post-credits__citation">
+    <h2>Cite this post: </h2>
+    Brandon Walsh. &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>. Accessed on
+  <script>
+  <!--
+  var now = new Date();
+  var months = new Array('January','February','March','April','May','June','July','August','September','October',		'November','December');
+  var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
+  function fourdigits(number) {
+      return (number < 1000) ? number + 1900 : number;
+  }
+  today =  months[now.getMonth()] + " " +
+           date + ", " +
+           (fourdigits(now.getYear())) ;
+  document.write(today);
+  -->
+  </script>.
+  </div>
   <h2>Related Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:5 %}
       <li>
-        <h3>
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
-        </h3>
       </li>
     {% endfor %}
   </ul>

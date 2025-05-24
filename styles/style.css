@@ -159,3 +159,6 @@ ul.dropdown-menu li.groupby.downloads, ul.dropdown-menu li.groupby.type, ul.drop
   display:none;
 }
 
+.page, .post {
+  margin-bottom: 3em;
+}
