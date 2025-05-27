@@ -19,3 +19,11 @@ walsh@virginia.edu<br>
 <a href="mailto:bmw9t@virginia.edu"><i class="fa-solid fa-envelope fa-xl"></i></a>
 <a href="https://bsky.app/profile/walshbr.bsky.social"><i class="fa-brands fa-bluesky fa-xl"></i></a>
 <a href="https://github.com/walshbr/"><i class="fa-brands fa-github fa-xl"></i></a>
+
+Subscribe for weekly updates on new material emailed directly to you.
+
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.com/walshbr?as_embed=true"
+></iframe><br /><br />

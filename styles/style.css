@@ -162,3 +162,9 @@ ul.dropdown-menu li.groupby.downloads, ul.dropdown-menu li.groupby.type, ul.drop
 .page, .post {
   margin-bottom: 3em;
 }
+
+.sidebar-item .widget, .sidebar-item iframe {
+width:100% !important;
+border:1px #ccc solid; 
+background-color: #393f48 !important;
+}
