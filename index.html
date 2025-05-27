@@ -38,7 +38,28 @@ title: Home
   {% endif %}
     {{ post.content }}
     </div>
+    <div class="post-credits__citation">
+      <h2>Cite this post: </h2>
+      Brandon Walsh. &ldquo;{{ post.title }}&rdquo;. <i>Walshbr.com</i> (blog). Published {{ post.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{post.url}}">{{site.url}}{{post.url}}</a>. Accessed on
+    <script>
+    <!--
+    var now = new Date();
+    var months = new Array('January','February','March','April','May','June','July','August','September','October',		'November','December');
+    var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
+    function fourdigits(number) {
+        return (number < 1000) ? number + 1900 : number;
+    }
+    today =  months[now.getMonth()] + " " +
+             date + ", " +
+             (fourdigits(now.getYear())) ;
+    document.write(today);
+    -->
+    </script>.
+    </div>
+
   </div>
+  <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.title={{ post.title | cgi_escape }}&amp;rft.aulast={{ site.contact.name_last | cgi_escape }}&amp;rft.aufirst={{ site.contact.name_first | cgi_escape }}&amp;rft.source={{ site.title | cgi_escape }}&amp;rft.date={{ post.date | date_to_xmlschema }}&amp;rft.type=blogPost&amp;rft.format=text&amp;rft.identifier={{ site.url | cgi_escape }}{{ post.url | cgi_escape }}&amp;rft.language=English"></span>
+  
   {% endfor %}
 </div>
 
