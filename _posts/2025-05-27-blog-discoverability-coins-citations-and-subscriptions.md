@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Blog Upgrades: COinS, Citations, and Subscriptions"
+date: 2025-05-27
+tags: [digital-humanities]
+---
+I'm blogging weekly this year, and the process has resulted in a ton of new material. It's also forced me to reconsider how I'm using this space as a vehicle for sharing my work. Up until now, my typical practice has been to blog, share things on social media a few times, and then move on. But now that I'm putting out so much content I'm starting to think about how any one thing can get lost in the firehose. This week I implemented three things to grow the blog's usability and discoverability as a scholarly resource.
+
+1. First, I implemented COinS metadata on each post using this handy guide from [Matthew Lincoln](https://matthewlincoln.net/2014/03/15/coins-for-your-jekyll-blog.html). This bit of code makes it so that you can easily pull things into citation management software like [Zotero](https://www.zotero.org/). This all happens behind the scenes and won't show up to the viewer, but the tweak will make it a little easier to pull any post in for quick citing. 
+
+2. Second, I have supplemented each post with a suggested citation drawn from a code snippet on [scholarslab.org](https://scholarslab.org/). Again, this is just another way to try and make the blog posts a little more salient as intellectual property. If you decide to use one of them, I want the barrier to be as low as possible.
+
+3. Lastly, I started using [Buttondown](https://buttondown.com/walshbr) to turn my RSS feed into an email subscription that you can sign up for to get new posts from me sent directly to your inbox. Every day, Buttondown checks my RSS feed. If nothing is there, nothing happens. If Buttondown does see something new, the system will send an email with the post to people who have subscribed to my feed. I've tested this in a soft way with some friends and family, and the process seems to work pretty well. But if you're one of the early people who signs up, do let me know if things seem to go sideways. I'm never going to blog more than weekly, so hopefully this offers a way for people to keep up with my work without having to rely on social media if they so choose. I was particularly excited about the Buttondown RSS to email feature because I wanted to maintain technical ownership of my blog as a Jekyll site. I didn't want to rebuild everything, but I have long coveted the ease that newsletters offer for readers. The Buttondown addition will allow me to live the kind of hybrid double life that I'm looking for. So please do [subscribe](https://buttondown.com/walshbr) if you're interested and share with others who might want it as well. You'll get lots more about teaching. pedagogy and education, digital humanities, video games, and whatever else that's going on with me this week.
+
+These upgrades will be very helpful as I keep living and growing within this space. They help the infrastructure here to be more substantial, usable, and findable within an academic ecosystem. Stay tuned for more! Lots more writing to come this summer. 

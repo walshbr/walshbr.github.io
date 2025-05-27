@@ -38,11 +38,6 @@ More soon! Stay tuned.
 
 {% endcomment %}
 
-*  **On Making and Remixing Video/games**. Wednesday, 5/14/25 from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14429559).
-    * Andrew Ferguson, College Advising Fellow at University of Virginia
-        * Blurb: I’ve been guiding students through learning video editing software to make and to mess up video footage.
-    * Carlisle Yingst, Presidential Fellow in Bibliography at the Linda Hall Library in Kansas City, Missouri
-        * Blurb: Making the digital analogue, or, analyzing a video game with paper, scissors, paste, and yarn. I'll discuss my approach to developing an undergraduate workshop on video games, focusing on the parts of the workshop that presented students with analogue, concrete, hands-on ways of thinking about some of the more abstract concepts involved in digital media. 
 *  **On Failure**. Tuesday, 6/24/25 from 1:00-2:00PM ET. Register [here](https://cal.lib.virginia.edu/event/14655973).
     * Pamella Lach, Digital Humanities Librarian at San Diego State University Library
         * Blurb: 
@@ -74,3 +69,8 @@ More soon! Stay tuned.
             * Interested in introducing your students to the world of #DHMakes? This presentation will review a series of scaffolded workshops aimed at making space for humanists in the Makerspace. With a focus on building critical collaborations across campus, audience members will gain practical tips on how to design hands-on, creative assignments with public-facing products. The culminating example will be an exhibit created by students in my undergraduate English course inspired by sci-fi literature, surveillance theory, and archival objects from Special Collections. 
         * Suggested Citation and Deposit
             * Licastro, A. Making Space for Humanists in the Makerspace. Knowledge Commons, 18 Apr. 2025, DOI: [10.17613/65jf7-w5p76](https://works.hcommons.org/records/65jf7-w5p76)
+*  **On Making and Remixing Video/games**. Wednesday, 5/14/25 from 1:00-2:00PM EST. Register [here](https://cal.lib.virginia.edu/event/14429559).
+    * Andrew Ferguson, College Advising Fellow at University of Virginia
+        * Blurb: I’ve been guiding students through learning video editing software to make and to mess up video footage.
+    * Carlisle Yingst, Presidential Fellow in Bibliography at the Linda Hall Library in Kansas City, Missouri
+        * Blurb: Making the digital analogue, or, analyzing a video game with paper, scissors, paste, and yarn. I'll discuss my approach to developing an undergraduate workshop on video games, focusing on the parts of the workshop that presented students with analogue, concrete, hands-on ways of thinking about some of the more abstract concepts involved in digital media. 
