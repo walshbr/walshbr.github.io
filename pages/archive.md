@@ -2,7 +2,7 @@
 layout: page
 title: Blog Archive
 permalink: /archive
-order: 6
+order: 4
 ---
 
 In addition to the chronological feed below, the following tag cloud might make it easier to explore past posts.

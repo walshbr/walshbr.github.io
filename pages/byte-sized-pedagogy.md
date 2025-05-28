@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "#ByteSizedPedagogy"
 permalink: /byte-sized-pedagogy
 redirect_from:
