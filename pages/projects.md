@@ -21,7 +21,7 @@ Find more information about my various projects below. In addition to my work on
 
 <div class="divider"></div>
 ## #ByteSizedPedagogy
-<a href="https://walshbr.com/byte-sized-pedagogy">#ByteSizedPedagogy</a> is a semi-regular series of paired lightning talks on topics related to digital pedagogy. Co-convened with Seanna Viechweg and Rachel Retica, the series aims to offer easily digestible topic and conversation for how to implement digital humanities in a range of teaching contexts. Participants share a short write-up of their materials after the fact to be collected on the series website. 
+<a href="https://walshbr.com/byte-sized-pedagogy">#ByteSizedPedagogy</a> is a semi-regular series of paired lightning talks on topics related to digital pedagogy. Co-convened with Seanna Viechweg and Rachel Retica, the series aims to offer easily digestible conversations on how to bring digital humanities into a range of teaching contexts. Participants share a short write-up of their materials after the fact to be collected on the series website. 
 
 <div class="divider"></div>
 ## DH on the Go

@@ -6,6 +6,8 @@ redirect_from:
   - /snack-sized-digital-pedagogy
 ---
 
+# #ByteSizedPedagogy
+
 It’s important to maintain a balanced teaching diet! This free and open-to-the-public zoom series on digital pedagogy features paired lightning talks introducing teaching topics, interesting approaches to the classroom, pedagogical concepts, and more. All in a bite-sized form that should still give you plenty to chew on. In the spirit of the #DHMakes Methodz talks, each session will be built around paired 5 minute presentations followed by facilitated discussion for the remainder of the time. We will be gathering social media commentary using the #ByteSizedPedagogy hashtag.
 
 Interested in participating in the future, either to share work or to be a fly on the wall? Please fill out this [form](https://forms.gle/uh66msjsaKquYFzs7) to keep up with us. We'll be in touch soon!
