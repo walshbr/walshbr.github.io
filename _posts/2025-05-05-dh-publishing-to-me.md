@@ -8,7 +8,7 @@ crosspost:
     url: https://scholarslab.lib.virginia.edu/blog/dh-publishing
 ---
 
-Rebecca Foote recently invited me to a part of an [ACH](https://ach.org/) panel on publishing in digital humanities along with Jojo Karlin and Nat McGartland. Rebecca circulated some questions in advance of the panel that we might use to orient our thinking. What follows are some slightly edited responses to those prompts. You can find other posts related to that conversation [here](https://walshbr.com/tag/ach-publishing/). 
+Rebecca Foote recently invited me to be a part of an [ACH](https://ach.org/) panel on publishing in digital humanities along with Jojo Karlin and Nat McGartland. Rebecca circulated some questions in advance of the panel that we might use to orient our thinking. What follows are some slightly edited responses to those prompts. You can find other posts related to that conversation [here](https://walshbr.com/tag/ach-publishing/). 
 
 ---
 

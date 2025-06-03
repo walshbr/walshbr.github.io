@@ -8,7 +8,7 @@ crosspost:
     url: https://scholarslab.lib.virginia.edu/blog/writing-as-muscle
 ---
 
-Rebecca Foote recently invited me to a part of an [ACH](https://ach.org/) panel on publishing in digital humanities along with Jojo Karlin and Nat McGartland. You can find other posts related to that conversation [here](https://walshbr.com/tag/ach-publishing/). 
+Rebecca Foote recently invited me to be a part of an [ACH](https://ach.org/) panel on publishing in digital humanities along with Jojo Karlin and Nat McGartland. You can find other posts related to that conversation [here](https://walshbr.com/tag/ach-publishing/). 
 
 ---
 
