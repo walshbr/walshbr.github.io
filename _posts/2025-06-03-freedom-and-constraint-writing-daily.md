@@ -2,7 +2,7 @@
 layout: post
 title: "Freedom and Constraint: Writing Daily"
 date: 2025-06-03
-tags: [digital-humanities]
+tags: [digital-humanities,dh-now]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/freedom-and-constraint-writing-daily
