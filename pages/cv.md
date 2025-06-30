@@ -56,7 +56,7 @@ order: 5
 
 ## Other Publications
 
-*   Walsh, B. (2022). Review: Baltimore Traces. Reviews in Digital Humanities, III(1). https://doi.org/10.21428/3e88f64f.0e463a51.
+*   Walsh, B. (2022). Review: Baltimore Traces. Reviews in Digital Humanities, III(1). [https://doi.org/10.21428/3e88f64f.0e463a51](https://doi.org/10.21428/3e88f64f.0e463a51).
 * Walsh, B. (2021). Review: Visualizing Objects, Places, and Spaces. *Reviews in Digital Humanities, II*(5). [https://doi.org/10.21428/3e88f64f.bf2d3fa7](https://doi.org/10.21428/3e88f64f.bf2d3fa7).
 * Co-editor with Kelly Hammond and Gregory Palermo, [Issue 18 of the Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/) with a Forum on Data and Computational Pedagogy, Fall 2020.
 * "[A Humanists Cookbook for Natural Language Processing in Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb)", with Rebecca Bultman, Fall 2020.
@@ -66,6 +66,7 @@ order: 5
 
 ## Public Writing
 
+* "[On red pixels: violence and verisimilitude](https://www.backlogmag.com/violence-verisimilitude-videogames/)," *Backlog*, June 24, 2025.
 * "[Tactical Breach Wizards and the last laugh](https://www.backlogmag.com/tactical-breach-wizards-and-the-last-laugh-brandon-walsh/)," *Backlog*, February 27, 2025.
 * "[The Banished Vault and what remains](https://www.backlogmag.com/the-banished-vault-and-what-remains/)," *Backlog*, September 10, 2024.
 * "[Midnights Suns and my midnight son](https://www.backlogmag.com/midnight-suns-and-my-midnight-son/)," *Backlog*, June 18, 2024.
@@ -111,7 +112,8 @@ order: 5
 
 ## Selected Conferences and Presentations
 
-* "In SoliDHarity: Forming, Practicing, and Defending our Values", workshop with Anne Cong-Huyen, Pamella R. Lach, Crystal Luo, Kate Ozment, Caitlin Pollock, and Amanda Visconti, ACH 2024 Conference, fall 2024
+* "What the NEH ODH has Inspired" with Lauren Barnes, Jim Casey, Eden Mekonen, Emmy Monaghan, Courtney Murray Ross, and Amna Tarar, ACH 2025 Conference, summer 2025.
+* "In SoliDHarity: Forming, Practicing, and Defending our Values", workshop with Anne Cong-Huyen, Pamella R. Lach, Crystal Luo, Kate Ozment, Caitlin Pollock, and Amanda Visconti, ACH 2024 Conference, fall 2024.
 * "Speculative Digital Pedagogies" with Seanna Viechweg, ACH 2024 Conference, fall 2024.
 * "Digital Pedagogy on Paper: An Assignment Redesign Workshop" with Mackenzie Brooks, DLF Virtual Forum, fall 2024
 * "#citepedagogy to Pedagogy-driven Publishing", ADHO 2024 Conference, summer 2024
