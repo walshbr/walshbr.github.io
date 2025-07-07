@@ -2,7 +2,7 @@
 layout: post
 title: "Verbs for When It Is Too Much"
 date: 2025-07-01
-tags: [digital-humanities]
+tags: [crisis]
 ---
 
 Things at UVA are a lot right now. Thursday evening, news broke that the Department of Justice was pressuring our President to resign over his reluctance to dismantle programs and fire staff related to DEI. Less than 24 hours later, the [NY Times reported](https://www.nytimes.com/2025/06/27/us/politics/uva-president-resigns-jim-ryan-trump.html) that President Ryan had resigned as a condition for resolving an ongoing lawsuit with the Department of Justice. The local community only heard from President Ryan after the fact, and our Board of Visitors [took days to communicate with the community about interim leadership](https://news.virginia.edu/content/community-message-uvas-board-visitors-leadership). It's clear from the ongoing situations at [Columbia](https://www.bbc.com/news/articles/cy0j2n0p89go) and [Harvard](https://www.wsj.com/us-news/education/harvard-violated-students-civil-rights-trump-administration-finds-4a0ed7aa?gaa_at=eafs&gaa_n=ASWzDAggdXUO9vQn2WLxj0_S5petKbQp4gv1pe3lTwkKgFcJynLYSJo3GcxW37fFaRw%3D&gaa_ts=68629dcf&gaa_sig=ha_ZHNuRprrY7HQFUx86wEDrUgYhOdvcrGXl3mKZzzFZeIeMuxLMO3on5aX4X6TFs71DX-u0QAMzdBRKXsS1UQ%3D%3D) that President Ryan's resignation is unlikely to resolve the situation. More is coming.
