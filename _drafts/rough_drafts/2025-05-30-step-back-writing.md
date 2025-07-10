@@ -2,7 +2,7 @@
 layout: post
 title: "Step Back Writing"
 date: 2025-05-30
-tags: [digital-humanities]
+tags: [digital-humanities,process-experiment]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/step-back-writing
@@ -36,42 +36,44 @@ I'm interested in the kinds of exercises, writing or otherwise, that can reintro
 
 Take a particular course topic, book, or article, and write a three word sentence. Then repeat the process iteratitively, adding a word each time. So you start out with three words, then four, then five, etc. All different versions of the same sentence. The sentence will inevitably grow and develop in new ways. Pick a certain point at which you stop lengthening (in this example I arbitrarily stopped at twenty words). You could stop there, but try instead to iterate backwards, shaving off one word at a time. Be careful not to just copy and paste the same sentences in reverse, the goal is to wind up with a different three word phrase at the end. 
 
-Here's an example:
+Here's an example, where I start our with a three word phrase, iterate up one word at a time, then go back down:
 
 
 
-Writing is joy.
-Writing can be fun.
-Surprisingly, writing can be fun. 
-Make writing fun for your students
-Can you try to make writing fun?
-Why would you try to make writing fun?
-Writing does not have to be like pulling teeth.
-When was the last time you hated your own writing?
-Who was it that made you love the the written word?
-For me, the most important part of writing has always been motivation.
-Motivation is the process of rewarding effort with something that you care about.
-Unfortunately, part of the challenge is that everyone will get motivation from different things.
-I always paid the most attention to the teachers who brought joy into the classroom. 
-Some might view a pedagogy of joy as unserious, but joy can come from many things.
-I am not suggesting that you bring a persona into the classroom that feels inauthentic to you.
-It could be argued that writing is serious business, but why not help students find other ways in?
-What do we need to know about students' lives to make them care about the work that we do?
-Of course, you have to be true to your own teaching persona, and this might not make sense for you.
-19 I think it could it be worth asking students if working with AI to write sparks joy?
-18
-17
-16
-15
-14
-13
-12
-11
-10
-9
-8
-7
-6
-5
-4
-3
+* Writing is joy.
+* Writing can be fun.
+* Surprisingly, writing can be fun. 
+* Make writing fun for your students
+* Can you try to make writing fun?
+* Why would you try to make writing fun?
+* Writing does not have to be like pulling teeth.
+* When was the last time you hated your own writing?
+* Who was it that made you love the the written word?
+* For me, the most important part of writing has always been motivation.
+* Motivation is the process of rewarding effort with something that you care about.
+* Unfortunately, part of the challenge is that everyone will get motivation from different things.
+* I always paid the most attention to the teachers who brought joy into the classroom. 
+* Some might view a pedagogy of joy as unserious, but joy can come from many things.
+* I am not suggesting that you bring a persona into the classroom that feels inauthentic to you.
+* It could be argued that writing is serious business, but why not help students find other ways in?
+* What do we need to know about students' lives to make them care about the work that we do?
+* Of course, you have to be true to your own teaching persona, and this might not make sense for you.
+* I think it could it be worth asking students if working with AI to write sparks joy?
+* If writing doesn't bring a sense of pleasure to students, what might that say about the writing instruction?
+* Is writing something we teach our students at all, or is it just something that happens offstage?
+* Can we blame students for looking for writing instruction elsewhere if it isn't in the classroom?
+* What is AI teaching our students about the written word and why is that attractive?
+* How can we show students a kind of writing that heals past writing traumas? 
+* Most students probably find writing to be just a hurdle to jump through.
+* Why do some avoid hurdles while others go on to become hurdlers?
+* What ChatGPT does is offer a fast food version of writing?
+* How can students slow down and sit with their writing?
+* What is the first introduction to writing for students?
+* Was it something that made their hearts sing?
+* How do we make them care again?
+* What does it mean to play?
+* What can make writing playful?
+* Why do we play?
+* What motivates students?
+
+Is there something there? The exercise was something of a pain to go through at times, but it started to feel like poetry by the end.
