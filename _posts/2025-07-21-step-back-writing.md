@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "Step Back Writing"
-date: 2025-05-30
+date: 2025-07-21
 tags: [digital-humanities,process-experiment]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/step-back-writing
 ---
 
-I'm currently listening to _[Small Teaching](https://www.wiley.com/en-us/Small+Teaching%3A+Everyday+Lessons+from+the+Science+of+Learning%2C+2nd+Edition-p-9781119755548)_ by James M. Lang, so I've got baseball metaphors on the brain. Lang's organizing framework for the pedagogy that he's advancing is "small ball," all the baseball maneuvers that consistently lead to positive outcomes but are not flashy. Think bunting and stealing bases as opposed to home runs and grand slams. Lang's idea is that big pedagogical impact can come from small changes, changes that aren't flashy but that you could implement tomorrow.
+I'm currently listening to _[Small Teaching](https://www.wiley.com/en-us/Small+Teaching%3A+Everyday+Lessons+from+the+Science+of+Learning%2C+2nd+Edition-p-9781119755548)_ by James M. Lang, so I've got baseball metaphors on the brain. Lang's organizing framework for the pedagogy that he's advancing is "small ball," all the baseball maneuvers that consistently lead to positive outcomes but are not flashy. Think bunting and stealing bases as opposed to home runs and grand slams. Lang's idea is that big pedagogical impact can come from small changes, modifications that aren't flashy but that you could implement tomorrow.
 
-I had a very short and mediocre career as a little league baseball player. If memory serves, I got hit with the ball once and it was all over. I was afraid of pitches forever, and I quickly lost interest in playing due to a fear of bodily harm. The physical trauma meant that I just could not find any joy—any play—in the sport. My other main little league memory is a particular exercise that we used to do for throwing that I've seen online described as "step back throwing." 
+I had a very short and mediocre career as a little league baseball player. If memory serves, I got hit with the ball once and it was all over. I was afraid of pitches forever, and I quickly lost interest in playing due to a fear of bodily harm. The physical "trauma" meant that I just could not find any joy—any play—in the sport. My other main little league memory is a particular exercise that we used to do for throwing that I've seen online described as "step back throwing." 
 
-Two people start fairly close together. One person throws the ball to the other. If it's a successful catch, you take a step back to increase the distance. You repeat this process such that you gradually move farther and farther apart. If you ever drop the ball, you pause or take a step forward to close the distance. The process develops your ability to throw at longer distances. Once you reach the upper limit of your ability, you'll hover around exactly the distance that you need to work on. Lots of meaningful practice just where you need it. 
+The idea behind step back throwing is pretty straightforward. Two people start fairly close together. One person throws the ball to the other. If it's a successful catch, you take a step back to increase the distance. You repeat this process such that you gradually move farther and farther apart. If you ever drop the ball, you pause or take a step forward to close the distance. The process develops your ability to throw at longer distances. Once you reach the upper limit of your ability, you'll hover around exactly the space that you need to work on. Lots of meaningful practice just where you need it. 
 
 I want to put this baseball pedagogy conversation in dialogue with Miriam Posner's reflections on teaching writing in the AI over on Bluesky:
 
@@ -30,9 +30,9 @@ I want to put this baseball pedagogy conversation in dialogue with Miriam Posner
 
 So, in some ways, our question should be: how do we get students to a point where these things are true for them, too?</p>&mdash; Miriam Posner (<a href="https://bsky.app/profile/did:plc:rzn6yramffebefeitqifiqqz?ref_src=embed">@miriamposner.com</a>) <a href="https://bsky.app/profile/did:plc:rzn6yramffebefeitqifiqqz/post/3lqpq5afvic2x?ref_src=embed">June 3, 2025 at 12:39 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
-I love Posner's list, which does a great job of pointing out reasons why we might articulate to students the need to care about writing. I want to add one other point: writing can be fun. Would it help articulate the value of writing if our pedagogies re-introduced joy? So often writing feels like a high stakes chore for students, but how can we reintroduce play into the process?
+I love Posner's list, which does a great job of pointing out reasons why we might articulate to students the need to care about writing. I want to add one other point: writing can be fun. For so many people writing feels painful, but it need not be that way. Would it help articulate the value of writing if our pedagogies re-introduced joy? So often writing feels like a high stakes chore for students, but how can we reintroduce play into the process?
 
-I'm interested in the kinds of exercises, writing or otherwise, that can reintroduce playful constraints to the work. Here's one idea, based on the baseball metaphor I can't stop thinking about. I'm calling it "step back writing." 
+I'm interested in the kinds of exercises, writing or otherwise, that can reintroduce ludic constraints to the work. Here's one idea, based on the baseball metaphor I can't stop thinking about. I'm calling it "step back writing." 
 
 Take a particular course topic, book, or article, and write a three-word sentence on it. Then, repeat the process iteratively, adding a word each time. So you start out with three words, then four, then five, etc. You might start with different versions of the same sentence, but the sentence will inevitably grow and develop in new ways and become something else entirely. Pick a certain point at which you stop lengthening (in this example I arbitrarily stopped at twenty words). You could stop there, but try instead to iterate backwards, shaving off one word at a time. Be careful not to just copy and paste the same sentences in reverse, the goal is to wind up with a different three-word phrase at the end. 
 
