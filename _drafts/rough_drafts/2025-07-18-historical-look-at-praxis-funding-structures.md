@@ -7,23 +7,9 @@ crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/historical-look-at-praxis-funding-structures
 ---
-Everyone in higher education right now is
+One of my basic job duties has always been trying to figure out how we can best match the goals of our fellowship programs to the funds that we have available for them. This is true now more than ever. Everyone in higher education is trying to figure out how to make do in a climate of increasing austerity. Right now, we're all dealing with cuts, budget freezes, canceled hires, and more. Given the present challenges, I thought I would take some time to put some institutional memory out into the world about how our own fellowships have been constructed over the years. In what follows I am not talking here about the funding source—that could be a separate post on its own. Instead, I'll focus on the various ways in which we've decided to distribute funds to students and the reasons for doing so. A lot goes into such decisions, and the pedagogical choices are likely to be invisible for most people not on this side of the fence. 
 
-dealing with cuts, budget freezes, canceled hires and more. We're all trying to figure out how to make do in a climate of increasing austerity each year.
-
-For me, this has been trying to figure out how
-
-we can best match
-
-the goals of our fellowship programs to the funds that we have available for
-
-them. So I thought I would take
-
-a little post here to
-
-put some institutional memory out into the world about how our own fellowships have been constructed over the years. So I'm not talking here about the funding source, though. We could make a whole new post about that. I'm talking instead about just like
-
-how all the funds are distributed to students.
+I'll focus on the shape of the financial structure of the award associated with the Praxis Program.
 
 So I don't actually have
 

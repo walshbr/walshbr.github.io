@@ -2,7 +2,7 @@
 layout: post
 title: "Step Back Writing"
 date: 2025-07-21
-tags: [digital-humanities,process-experiment]
+tags: [digital-humanities,process-experiment,pedagogy]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/step-back-writing
