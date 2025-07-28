@@ -101,11 +101,9 @@ crosspost:
     puts "Crossposted file created at #{new_file}"
   post_image_folder = blog_image_dir + '/' + title_slug
   crosspost_image_folder = slab_image_dir  + '/' + title_slug
-if args.images
-  if File.exists?(crosspost_image_folder)
+  if File.exists?(post_image_folder)
     FileUtils.rm_rf(crosspost_image_folder)
     Dir.mkdir(crosspost_image_folder) 
+    FileUtils.cp_r(post_image_folder + '/.', crosspost_image_folder)
   end
-  FileUtils.cp_r(post_image_folder + '/.', crosspost_image_folder)
-end
 end
