@@ -38,6 +38,9 @@ title: Home
   {% endif %}
     {{ post.content }}
     </div>
+
+    {% unless post.hide_citation %}
+
     <div class="post-credits__citation">
       <h2>Cite this post: </h2>
       Brandon Walsh. &ldquo;{{ post.title }}.&rdquo; <i>Walshbr.com</i> (blog). Published {{ post.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{post.url}}">{{site.url}}{{post.url}}</a>. Accessed on
@@ -58,6 +61,7 @@ title: Home
 <br><br>
 Note: The suggested citation above reflects typical practice for my solo-authored work, but I frequently co-author material that is shared to other websites. Be sure to check the text of any cited work here and update the suggested citation accordingly to give credit to everyone. Thanks!
     </div>
+    {% endunless %}
 
   </div>
   <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.title={{ post.title | cgi_escape }}&amp;rft.aulast={{ site.contact.name_last | cgi_escape }}&amp;rft.aufirst={{ site.contact.name_first | cgi_escape }}&amp;rft.source={{ site.title | cgi_escape }}&amp;rft.date={{ post.date | date_to_xmlschema }}&amp;rft.type=blogPost&amp;rft.format=text&amp;rft.identifier={{ site.url | cgi_escape }}{{ post.url | cgi_escape }}&amp;rft.language=English"></span>
