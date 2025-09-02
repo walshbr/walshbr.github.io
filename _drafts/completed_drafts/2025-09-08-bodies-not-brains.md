@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Bodies, Not Brains"
-date: 2025-08-19
+date: 2025-09-08
 tags: [digital-humanities, pedagogy]
-crosspost:
-  - title: the Scholars' Lab blog
-    url: https://scholarslab.lib.virginia.edu/blog/bodies-not-brains
 book: 
   - ch_num: 4
   - section_num: 1
@@ -22,14 +19,14 @@ Framing academic work in this way masks labor issues that can often render it ju
 
 A relentless push towards intellectualism and a beloved vision of academe at the cost of broken bodies actually creates learning environments narrowly focused on toxic and competitive individual achievement. We devalue teaching because of its limited utility for tenure and promotion. Don't sleep, because your peers are working on their dissertation deep into the night. Don't complain about your stipend size, because someone else will gladly take your place. The result is a system wherein rockstar faculty in positions of power can easily abuse vulnerable students physically and mentally while providing cutting edge research. For myself and others in my graduate student community, the labor conditions presented by endless work were a recipe for mental health disasters. I saw friends broken down by mentors in the service of building back their dissertations better; through tears, they expressed gratitude for the mental abuse visited on them. I lost friends to suicide, in part because the labor conditions in graduate school prevent regular access to health insurance and mental health care. These working conditions become undergraduate student learning conditions. A system wherein everyone is out for themselves leads teachers view students with suspicion and engage in what Jeffrey Moro calls “cop shit,” “any pedagogical technique or technology that presumes an adversarial relationship between students and teachers” (2020). 
 
-There can be another way. By treating teaching as solely the work of cultivating individual intellects, we actually create conditions hostile to collective flourishing. Instead of burnt out teachers and students in competition with one another, we should be working towards teaching and learning grounded as communal, lived activities. In this chapter, I advocate for a pedagogy that refuses narratives about the life of the mind and, instead, centers bodies and laborers. By slowing down, embodying our teaching, and working with students rather than against them, we can develop the conditions for collective flourishing. In order to do so, I argue for two intertwined pedagogies. First, I argue for a pedagogy of solidarity wherein teacher administrators work towards better understanding and advocacy for student living conditions through labor organizing. I then link this approach to a digital humanities pedagogy that brings rest into the classroom as an anti-capitalist tactic drawn from Black abolitionist pedagogies. When implemented together, these two approaches can re-center and recover the body by recognizing the centrality of living and working conditions to the work of teaching. By embracing the role of the body in the classroom—rather than denying it— we can create the conditions by which our students and teachers can flourish. 
+There can be another way. By treating teaching as solely the work of cultivating individual intellects, we actually create conditions hostile to collective flourishing. Instead of burnt-out teachers and students in competition with one another, we should be working towards teaching and learning grounded as communal, lived activities. In this chapter, I advocate for a pedagogy that refuses narratives about the life of the mind and, instead, centers bodies and laborers. By slowing down, embodying our teaching, and working with students rather than against them, we can develop the conditions for collective flourishing. In order to do so, I argue for two intertwined approaches to the classroom. First, I argue for a pedagogy of solidarity wherein teacher administrators work towards better understanding and advocacy for student living conditions through labor organizing. I then link this approach to a digital humanities pedagogy that brings rest into the classroom as an anti-capitalist tactic drawn from Black abolitionist thinking. When implemented together, these two approaches can re-center and recover the body by recognizing the centrality of living and working conditions to the work of teaching. By embracing the role of the body in the classroom—rather than denying it— we can create the conditions by which our students and teachers can flourish. 
 
 References
 
-Ettarh, Fobazi. 2018. “Vocational Awe and Librarianship: The Lies We Tell Ourselves.” *In the Library with the Lead Pipe*, January. https://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/.
+Ettarh, Fobazi. 2018. “Vocational Awe and Librarianship: The Lies We Tell Ourselves.” *In the Library with the Lead Pipe*, January. [https://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/](https://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/).
 
 *Futurama*. Season 2, episode 3, “A Head in the Polls.” Directed by Bret Haaland, aired December 12, 1999 on Fox. 
 
-Moro, Jeffrey. 2020. “Against Cop Shit.” Jeffrey Moro. February 13, 2020. https://jeffreymoro.com/blog/2020-02-13-against-cop-shit/.
+Moro, Jeffrey. 2020. “Against Cop Shit.” Jeffrey Moro. February 13, 2020. [https://jeffreymoro.com/blog/2020-02-13-against-cop-shit/](https://jeffreymoro.com/blog/2020-02-13-against-cop-shit/).
 
 Rogers, Katina L. 2020. *Putting the Humanities PhD to Work: Thriving in and beyond the Classroom*. Durham: Duke University Press.
