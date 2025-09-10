@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Bodies, Not Brains"
-date: 2025-09-08
-tags: [digital-humanities, pedagogy]
+date: 2025-09-10
+tags: [digital-humanities,pedagogy]
 book: 
   - ch_num: 4
   - section_num: 1
