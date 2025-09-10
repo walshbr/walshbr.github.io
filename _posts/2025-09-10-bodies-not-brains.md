@@ -4,7 +4,7 @@ title: "Bodies, Not Brains"
 date: 2025-09-10
 tags: [digital-humanities,pedagogy,book]
 book: 
-  - ch_num: 4
+  - ch_num: 3
   - section_num: 1
 ---
 My first run at applying to graduate school was unsuccessful for a range of reasons. I had no sense of what academic work looked like, nor did I have any sense of how to prepare for it. Most saliently: I was a bad undergraduate student. I struggled with the freedom granted by college course schedules. I skipped a lot of class, especially in the first year of my degree, and it took quite some time to learn how to study, how to write, and how to succeed at academic work. Without any PhD offers from my first run at applying, I enrolled in a terminal MA degree at my undergraduate institution. Those two years stand out in my memory as enormously stressful as I had to learn so much about academia’s curricula—explicit and implicit. When I applied once more to doctoral programs two years later, I was fortunate enough to receive some offers. I stepped off the plane for one memorable visit and was immediately confronted with an urgent question by the older PhD student who would be hosting me: “there are an infinite number of books you could read, and there is a finite amount of time each day. What do you with that?”

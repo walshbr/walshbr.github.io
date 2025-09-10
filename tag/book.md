@@ -38,5 +38,16 @@ What follows are materials drawn from a larger book project I’m working on abo
     {% endfor %}
     </ul>
   </ul>
+  <ul>
+  Chapter 3: Intellectualism
+    <ul>Section 1
+    {% assign ch_3_sec_1_posts = ch_3_posts | where_exp:"item","item.book[1].section_num == 1" %}
+    {% for post in ch_3_sec_1_posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+        {{ post.description }}
+      </li>
+    {% endfor %}
+    </ul>
+  </ul>
 </ul>
 <hr>
