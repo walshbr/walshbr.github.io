@@ -35,10 +35,18 @@ We are excited to hear about anything that gives enough context to spark interes
 
 ## Upcoming Sessions
 {% comment %}
-{% endcomment %}
 
 More soon! Stay tuned.
 
+{% endcomment %}
+
+*  **On Process**. Tuesday, 9/25/25 from 1:00-2:00PM ET. Register [here](https://cal.lib.virginia.edu/event/15280577). 
+    * Jennifer Isasi, Assistant Director of the Office of Digital Pedagogies and Initiatives and Director of the Digital Liberal Arts Research Initiative at The Pennsylvania State University
+        * Blurb: 
+            * In my Foundations in DH course, students completed project documentation in lieu of a traditional final project, systematically recording the digital research processes they were already using in other classes or MA thesis work but that they had never formally documented. I'll share the key challenges my multilingual students encountered when transforming invisible research decisions into transparent, sustainable documentation, and the collaborative strategies we developed to overcome them.
+    *  Sean Keenan, Educational Technology Specialist at Bryn Mawr College
+        * Blurb: 
+            * Process Oriented Guided Inquiry Learning follows an instructional approach that asks students to take ownership of their own education through structured inquiry in a group exploration. I will share my own perspective on implementing POGIL strategies in short workshops and intensive settings as a non-instructional staff member, contrasting my experiences with traditional classroom applications.
 
 ## Past Sessions
 
