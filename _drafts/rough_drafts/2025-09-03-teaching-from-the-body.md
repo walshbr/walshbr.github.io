@@ -7,6 +7,10 @@ book:
   - ch_num: 4
   - section_num: 2
 ---
+
+What follows is material drawn from a larger book project I'm working on about an approach to digital humanities pedagogy that intersects with administrative policy to work towards a more equitable landscape for higher education. I'll be blogging pieces of it as I go, so stay tuned for more related work in the future. Keep in mind, though, that I will likely be blogging about other topics intermittently as well. You can find book-related posts [here](/tag/book/). Happy to hear feedback, either on social media or by email at [bmw9t@virginia.edu](bmw9t@virginia.edu).
+
+---
 The life of the mind might be a fantasy of intellectual work untethered from the material conditions of reality, but this vision is nonetheless seductive. When confronted with the limitations on our resources, it is enticing to think that our problems would be solved if we simply had more. We need more time: we only have students in our orbit for a limited number of weeks, and we want to make the most of this narrow window that we can. We need more students: in a world of shrinking humanities majors and budget cuts, we need to prove to the administration that our enrollments are healthy and growing. We need more funding: more money to continue on with basic operations, to say nothing of the big dreams that we have for our departments and curricula. 
 
 We need more. We deserve more. 

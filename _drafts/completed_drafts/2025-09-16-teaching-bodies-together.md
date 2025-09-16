@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "ch summary"
+title: "Teaching Bodies, Together"
 date: 2025-09-16
 tags: [digital-humanities,pedagogy]
 crosspost:
   - title: the Scholars' Lab blog
-    url: https://scholarslab.lib.virginia.edu/blog/ch-summary
+    url: https://scholarslab.lib.virginia.edu/blog/teaching-bodies-together
 ---
+
+What follows is material drawn from a larger book project I'm working on about an approach to digital humanities pedagogy that intersects with administrative policy to work towards a more equitable landscape for higher education. I'll be blogging pieces of it as I go, so stay tuned for more related work in the future. Keep in mind, though, that I will likely be blogging about other topics intermittently as well. You can find book-related posts [here](/tag/book/). Happy to hear feedback, either on social media or by email at [bmw9t@virginia.edu](bmw9t@virginia.edu).
+
+---
+
 Thus far, the topics in this book have largely concerned the qualities of the institution: knowability, neutrality, prestige. But intellectualism, given how often it bleeds into individual feelings of vocational awe, can feel hopelessly intractable for the teaching administrator. The topic might feel too small in that it reflects a deeply held perspective on one’s own personal relationship to labor. Simultaneously, though, the topic might feel too large. Anyone who attempts to develop a different relationship to labor than their peers cuts against the grain of a guild-like structure that has been perpetuated for decades. It is all too easy for individual efforts at developing alternatives to be overwhelmed by such a powerful labor ideology. The first step in translating individual discomfort with the status quo into culture change is to further illuminate the ways in which institutions cultivate cultures of intellectualism at the cost of the bodies of their teachers and students, to render ideology knowable in the terms of this book.
 
 In this chapter, I trace a middle way between two paths: labor activism and restful pedagogy. In the first path, thinkers like Marc Bousquet call for institutional revolution through collective action. For Bousquet, the academic labor system at the university operates precisely as attended. Academia produces an underclass of low wage workers, traps them in a labor system from which they cannot escape, and alienates different classes of laborer from one another in a manner that renders solidarity and progress impossible. Bousquet’s work, while radically rooted in a Marxist rendering of the political capital of the university, seems to offer only wholesale, radical revolution as a path towards institutional change. On the other hand, Patricia Jennings advocates for social emotional learning and resilience on the part of teachers, healing burnout by way of mindfulness. While her focus on mindfulness might seem to place the onus on the individual to resolve their situation, Jennings does note the need for systemic change and identifies the ways in which infrastructural problems disempower teachers and force them to survive on meager wages with no voice in their material conditions. I aim to reconcile these two paths in a pedagogy capacious enough for both the social emotional interventions of Jennings and the political organizing of Bousquet. I do so by recommending an approach that centers the needs of the body within the power—and the demands—of the group. 
