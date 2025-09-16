@@ -26,3 +26,16 @@ If the material conditions of teachers directly affect their ability to teach ef
 We might think that we know what it means to live an academic life and make reasonable asks of our peers. We might ground such assumptions about what it feels like to be a teacher or a student in on our own experiences. But your understanding of living a certain way gets weaker with every year that passes between you and the actual experience. Consider the massive shifts in education in just the last few years: MOOCs, the COVID-19 pandemic, AI. Sea changes like these have repeatedly rendered higher education virtually unrecognizable every few years in the last few decades. This is to say nothing of personal struggles with conditions such as poverty, racism, or chronic disability that impact student life on an ongoing basis. We also cannot know what it is to live the work of a fellow teacher. Your colleague might be struggling with mental health. They might be homeless. They might be caring for a loved one in ways that prevent them from doing their job. There is no escaping the limitations of our bodies and the ways in which they affect our ability to teach and learn. And we cannot understand these factors in isolation. What we need is a pedagogy that recognizes the personal and collective struggles of all bodies. 
 
 We ignore the ways in which our institutional structures encourage pedagogies of intellectualism and deny the body at our own peril. At best, doing so creates learning environments ignorant of the very real conditions under which teachers and students work. At worst, doing so can lead us to pass on generational trauma, where our students and fellow teachers have to suffer because we did. As I have argued throughout this book, we can teach our way towards better institutions. Our pedagogies can seek to understand and uplift rather than divide and oppress. They can heal rather than harm. We can teach from and to the body—not the brain.
+
+Flannery, Mary Ellen. 2017. “The Homeless Professor Who Lives in Her Car.” *neaToday* (blog). November 1, 2017. https://www.nea.org/nea-today/all-news-articles/homeless-professor-who-lives-her-car.
+
+Freie, Carrie. 2010. “#RealCollege: The Work and Activism of Sara Goldrick-Rab.” In *The Future of Thinking: Learning Institutions in a Digital Age*, by Cathy N. Davidson and David Theo Goldberg. London, United Kingdom: MIT Press. 171-182.
+
+Harris, Adam. 2019. “The Death of an Adjunct.” *The Atlantic*, April 8, 2019, sec. Education. https://www.theatlantic.com/education/archive/2019/04/adjunct-professors-higher-education-thea-hunter/586168/.
+
+Linden, Grace. 2021. “The Adjunct Gaze.” *Los Angeles Review of Books*, July. https://lareviewofbooks.org/article/the-adjunct-gaze.
+
+Sanchez, Claudio. 2013. “The Sad Death Of An Adjunct Professor Sparks A Labor Debate.” *NPR*, September 22, 2013, sec. Education. https://www.npr.org/2013/09/22/224946206/adjunct-professor-dies-destitute-then-sparks-debate.
+
+Smallwood, Christine. 2021. *The Life of the Mind*. London New York: Hogarth, an imprint of Random House Publishing Group.
+
