@@ -66,6 +66,7 @@ order: 5
 
 ## Public Writing
 
+* "[The Long Dark of the soul](https://www.backlogmag.com/the-long-dark-of-the-soul/)," *Backlog*, August 19, 2025.
 * "[On red pixels: violence and verisimilitude](https://www.backlogmag.com/violence-verisimilitude-videogames/)," *Backlog*, June 24, 2025.
 * "[Tactical Breach Wizards and the last laugh](https://www.backlogmag.com/tactical-breach-wizards-and-the-last-laugh-brandon-walsh/)," *Backlog*, February 27, 2025.
 * "[The Banished Vault and what remains](https://www.backlogmag.com/the-banished-vault-and-what-remains/)," *Backlog*, September 10, 2024.
@@ -140,6 +141,9 @@ order: 5
 ## Selected Digital Projects and Related Experience
 
 * <a href="https://github.com/walshbr">GitHub Repository</a>
+* 2025, Co-founder: [#ByteSizedPedagogy](https://walshbr.com/byte-sized-pedagogy), free and public digital pedagogy lightning talk series held on zoom; with Seanna Viechweg, Rachel Retica, and Winnie Pérez Martínez; University of Virginia
+* 2023, Principal Maintainer[DH on the Go](https://walshbr.com/dh-on-the-go), Zotero collection that aggregates audio and video recordings of material of interest to a digital humanities audience, University of Virginia
+* 2020, Co-author: [A Humanist’s Cookbook For Natural Language Processing In Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb), gentle introduction to text analysis workflows for intermediate humanities programmers, co-authored with Rebecca Bultman, University of Virginia
 * 2016, Lead Writer: <a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a>, remixable coursebook on introductory text analysis meant for beginner readers, co-authored with Sarah Horowitz, Washington and Lee University
 * 2015-2017, Lead Developer: <a href="http://huon-rails.herokuapp.com/">Huon d'Auvergne</a>, Ruby on Rails TEI edition and implementation of Versioning Machine, Washington and Lee University
 * 2015-2017, Developer: <a href="https://library.wlu.edu/scholar">Scholar</a>, Ruby on Rails implementation of BibApp for cataloging faculty publications, Washington and Lee University
