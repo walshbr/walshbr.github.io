@@ -2,7 +2,7 @@
 layout: post
 title: "#citepedagogy to Pedagogy-driven Publishing"
 date: 2024-08-07
-tags: [digital-humanities,pedagogy,publish,writing]
+tags: [digital-humanities,pedagogy,writing]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/citepedagogy-to-pedagogy-driven-publishing
