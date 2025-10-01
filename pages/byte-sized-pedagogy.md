@@ -37,9 +37,9 @@ We are excited to hear about anything that gives enough context to spark interes
 
 
 More soon! Stay tuned.
-
-{% endcomment %}
 {% comment %}
+{% endcomment %}
+
 
 
 ## Past Sessions
