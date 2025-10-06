@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Teaching from the Body"
-date: 2025-09-03
+date: 2025-10-06
 tags: [digital-humanities,pedagogy,book]
 book: 
-  - ch_num: 4
-  - section_num: 2
+  - ch_num: 3
+  - section_num: 1
 ---
 
 What follows is material drawn from a larger book project I'm working on about an approach to digital humanities pedagogy that intersects with administrative policy to work towards a more equitable landscape for higher education. I'll be blogging pieces of it as I go, so stay tuned for more related work in the future. Keep in mind, though, that I will likely be blogging about other topics intermittently as well. You can find book-related posts [here](/tag/book/). Happy to hear feedback, either on social media or by email at [bmw9t@virginia.edu](bmw9t@virginia.edu).
