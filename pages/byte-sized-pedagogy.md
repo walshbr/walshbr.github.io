@@ -35,19 +35,23 @@ We are excited to hear about anything that gives enough context to spark interes
 
 ## Upcoming Sessions
 
-
-More soon! Stay tuned.
 {% comment %}
+More soon! Stay tuned.
 {% endcomment %}
-
-
+* Thursday, 10/23/25 from 1:00PM-2:00PM EST. [Register here](https://cal.lib.virginia.edu/event/15495666).
+    * Douglas Eyman, Associate Professor of History at George Mason University 
+        * Blurb:
+            * Helping students (and faculty!) develop critical digital literacies is a task that we all should be engaged in, particularly so now that generative AI needs human data and human language to continue progressing. I find that many of my students don't realize the extent to which they are being surveilled and how much of their lives are being tracked and turned into data for use by algorithms, both presumably benign, and those whose functions are more nefarious. In this presentation, I'll talk a bit about a couple of assignments I use to help students better understand their positions in the networks they inhabit - 'You Are Being Watched' and 'Data Detective' as well as introducing some resources for better understanding and safeguarding data privacy (useful for all - not just students).
+    * Cynthia Heider, Public Digital Scholarship Librarian at the University of Pennsylvania
+        * Blurb:
+            * TBD
 
 ## Past Sessions
 
 * **Teaching with historical/humanities data**. Friday, 2/21/25 from 1:00-2:00PM EST. {% comment %}Register [here](https://cal.lib.virginia.edu/event/14011008).{% endcomment %}
     * Megan Brett, Manager for Collections Processing and Digital Initiatives at the Thomas Jefferson Library at Monticello 
         * Blurb
-            Working with historical structured data sources. We'll talk about some ways to approach transcribing historic documents into structured systems (spreadsheets or similar formats), including project planning, workflows, and some low/no tech starting points.
+            * Working with historical structured data sources. We'll talk about some ways to approach transcribing historic documents into structured systems (spreadsheets or similar formats), including project planning, workflows, and some low/no tech starting points.
         * Suggested Citation and Deposit
             * Megan R. Brett, “Thinking about historic structured data,” ByteSizedPedagogy, February 21, 2025. [https://doi.org/10.17613/mjq69-r2165](https://doi.org/10.17613/mjq69-r2165).
     * Emily McGinn, Digital Humanities Specialist at Johns Hopkins University
