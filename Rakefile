@@ -78,7 +78,7 @@ task :crosspost, [:file_name, :images] do |t, args|
   parsed = FrontMatterParser::Parser.parse_file(old_file, loader: FrontMatterParser::Loader::Yaml.new(allowlist_classes: [Date]))
 
   title_slug = parsed.front_matter['title'].downcase.gsub(' ', '-').gsub(/[^\w-]/, '')
-  if File.exists?(new_file)
+  if File.exist?(new_file)
     File.delete(new_file)
   end
   File.open(new_file, 'w'){|f|
@@ -101,7 +101,7 @@ crosspost:
     puts "Crossposted file created at #{new_file}"
   post_image_folder = blog_image_dir + '/' + title_slug
   crosspost_image_folder = slab_image_dir  + '/' + title_slug
-  if File.exists?(post_image_folder)
+  if File.exist?(post_image_folder)
     FileUtils.rm_rf(crosspost_image_folder)
     Dir.mkdir(crosspost_image_folder) 
     FileUtils.cp_r(post_image_folder + '/.', crosspost_image_folder)
