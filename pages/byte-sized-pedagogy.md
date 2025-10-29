@@ -36,15 +36,8 @@ We are excited to hear about anything that gives enough context to spark interes
 ## Upcoming Sessions
 
 {% comment %}
-More soon! Stay tuned.
 {% endcomment %}
-* Thursday, 10/23/25 from 1:00PM-2:00PM EST. [Register here](https://cal.lib.virginia.edu/event/15495666).
-    * Douglas Eyman, Associate Professor of History at George Mason University 
-        * Blurb:
-            * Helping students (and faculty!) develop critical digital literacies is a task that we all should be engaged in, particularly so now that generative AI needs human data and human language to continue progressing. I find that many of my students don't realize the extent to which they are being surveilled and how much of their lives are being tracked and turned into data for use by algorithms, both presumably benign, and those whose functions are more nefarious. In this presentation, I'll talk a bit about a couple of assignments I use to help students better understand their positions in the networks they inhabit - 'You Are Being Watched' and 'Data Detective' as well as introducing some resources for better understanding and safeguarding data privacy (useful for all - not just students).
-    * Cynthia Heider, Public Digital Scholarship Librarian at the University of Pennsylvania
-        * Blurb:
-            * Originally looking for a clever way to teach about the concept of contingency in a Digital History graduate course, I stumbled upon an assignment approach that also helped my students evaluate the way they approach scholarship production, as well as introducing them to the interactive storytelling tool Twine. In this presentation, I'll talk about a particularly well-received hands-on lab assignment I developed utilizing Jason Helms' multimodal work "[Play Smarter Not Harder: Developing Your Scholarly Meta](https://perma.cc/W2PK-FCQT)” and Gabi Kiriloff's Programming Historian guide to "[Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine](https://programminghistorian.org/en/lessons/interactive-text-games-using-twine)."
+More soon! Stay tuned.
 
 ## Past Sessions
 
@@ -92,3 +85,12 @@ More soon! Stay tuned.
     *  Sean Keenan, Educational Technology Specialist at Bryn Mawr College
         * Blurb: 
             * Process Oriented Guided Inquiry Learning follows an instructional approach that asks students to take ownership of their own education through structured inquiry in a group exploration. I will share my own perspective on implementing POGIL strategies in short workshops and intensive settings as a non-instructional staff member, contrasting my experiences with traditional classroom applications.
+* **Surveillance and Contingency** Thursday, 10/23/25 from 1:00PM-2:00PM EST. 
+    * Douglas Eyman, Associate Professor of History at George Mason University 
+        * Blurb:
+            * Helping students (and faculty!) develop critical digital literacies is a task that we all should be engaged in, particularly so now that generative AI needs human data and human language to continue progressing. I find that many of my students don't realize the extent to which they are being surveilled and how much of their lives are being tracked and turned into data for use by algorithms, both presumably benign, and those whose functions are more nefarious. In this presentation, I'll talk a bit about a couple of assignments I use to help students better understand their positions in the networks they inhabit - 'You Are Being Watched' and 'Data Detective' as well as introducing some resources for better understanding and safeguarding data privacy (useful for all - not just students).
+    * Cynthia Heider, Public Digital Scholarship Librarian at the University of Pennsylvania
+        * Blurb:
+            * Originally looking for a clever way to teach about the concept of contingency in a Digital History graduate course, I stumbled upon an assignment approach that also helped my students evaluate the way they approach scholarship production, as well as introducing them to the interactive storytelling tool Twine. In this presentation, I'll talk about a particularly well-received hands-on lab assignment I developed utilizing Jason Helms' multimodal work "[Play Smarter Not Harder: Developing Your Scholarly Meta](https://perma.cc/W2PK-FCQT)” and Gabi Kiriloff's Programming Historian guide to "[Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine](https://programminghistorian.org/en/lessons/interactive-text-games-using-twine)."
+        * Suggested Citation and Deposit
+            * Heider, Cynthia. “Exploring Contingency with Twine in the Digital History Classroom.” #ByteSizedPedagogy Series. October 23, 2025. [https:/doi.org/10.17613/sngr0-2yp88](https:/doi.org/10.17613/sngr0-2yp88).
