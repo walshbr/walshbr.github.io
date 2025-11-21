@@ -22,17 +22,17 @@ Lately I've been putting together a range of potential course descriptions and w
 Here's the rough breakdown, with a few annotations about what I would do in each session. I was asked to sketch out a four-session sequence, with each meeting lasting for roughly ninety minutes. 
 
 1. What is DH?
-   * Disciplinary scavenger hunt
-    * With some prompting and select resources, students bring projects of interest from their own disciplines back to the group to discuss
+  * Disciplinary scavenger hunt
+  * With some prompting and select resources, students bring projects of interest from their own disciplines back to the group to discuss
 2. How do we do DH?
   * Methods sampler
-    * Lightning talks from practitioners about a variety of different methods and approaches
+  * Lightning talks from practitioners about a variety of different methods and approaches
 3. What do we need DH to be?
   * Budgeting workshop
-    * Discussion of how funding enables and intersects with the infrastructure for doing DH work that matters to us
+  * Discussion of how funding enables and intersects with the infrastructure for doing DH work that matters to us
 4. What is DH for me?
   * Project proposal design jam
-    * Students share project proposals to discuss with the group connecting what they have learned with their own interests and offering a plan for their own future in DH
+  * Students share project proposals to discuss with the group connecting what they have learned with their own interests and offering a plan for their own future in DH
 
 So the sessions (and questions) start big and abstract. As we move forward, the topics become more personal and dependent on the person. Even if the students end with more questions than they began, my hope is that students will at least be able to see why these questions matter. And with any luck, this kind of framing will help students to see themselves in the field and to see the field in themselves. 
 
