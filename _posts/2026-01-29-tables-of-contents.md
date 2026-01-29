@@ -2,10 +2,7 @@
 layout: post
 title: "Tables of Contents"
 date: 2026-01-29
-tags: [digital-humanities]
-crosspost:
-  - title: the Scholars' Lab blog
-    url: https://scholarslab.lib.virginia.edu/blog/tables-of-contents
+tags: [digital-humanities,writing]
 ---
 
 Tables of contents are spaces of imagination. Ideas to be shaped by the writer. Gifts to be received by the reader. Possibilities.
