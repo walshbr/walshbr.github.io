@@ -2,7 +2,7 @@
 layout: post
 title: "Breath in DH"
 date: 2026-04-10
-tags: [digital-humanities,pedagogy]
+tags: [digital-humanities,pedagogy,dh-now]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/breath-in-dh
