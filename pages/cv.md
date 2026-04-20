@@ -23,6 +23,7 @@ order: 5
 
 ## Selected Awards and Grants
 
+* Scholarship of Teaching and Learning Scholar, UVA Center for Teaching Excellence, 2026-27.
 * Mentor, Digital Ethnic Futures Consortium's Teaching and Capacity Building Fellowship program, 2022
 * $6000 Grant for AV/VR Documentation, with Arin Bennett and Will Rourke, Parents Fund UVA, 2019
 * Raven Fellowship to develop Python web application to analyze sound recordings of poetry, Raven Society, Raven Society, UVA, 2015
