@@ -8,36 +8,19 @@ redirect_from:
 
 # #ByteSizedPedagogy
 
-It’s important to maintain a balanced teaching diet! This free and open-to-the-public zoom series on digital pedagogy features paired lightning talks introducing teaching topics, interesting approaches to the classroom, pedagogical concepts, and more. All in a bite-sized form that should still give you plenty to chew on. In the spirit of the #DHMakes Methodz talks, each session will be built around paired 5 minute presentations followed by facilitated discussion for the remainder of the time. We will be gathering social media commentary using the #ByteSizedPedagogy hashtag.
+It’s important to maintain a balanced teaching diet! Join us on the first Friday each month for a free and open-to-the-public zoom series organized by the Scholars' Lab and the Digital Humanities Center in the UVA Library. These sessions on digital pedagogy feature a mix of reading discussions and lightning talks introducing teaching topics, interesting approaches to the classroom, pedagogical concepts, and more. All in a bite-sized form that should still give you plenty to chew on. In the spirit of the #DHMakes Methodz talks, we'll keep things snappy: 30 minutes, snacks encouraged. We will be gathering social media commentary using the #ByteSizedPedagogy hashtag.
 
-Interested in participating in the future, either to share work or to be a fly on the wall? Please fill out this [form](https://forms.gle/uh66msjsaKquYFzs7) to keep up with us. We'll be in touch soon!
-
-The presentations can cover a wide variety of topics: a tool that is new to you, a teaching tip, pedagogical concept, assignment, your syllabus for a DH course, etc. We're interested in showcasing anything you have found that moves you or your students in the classroom, that has worked well or failed utterly. And we are very interested in perspectives from folks in all different kinds of positions and institutional contexts - higher ed, K-12, administrators, cultural heritage workers, and more. After the session, each speaker will submit a short one-page (max) version of their five-minute presentation that we’ll collect into a crowdsourced, citable web publication of bite-sized DH pedagogical goodness.
-
-Rachel Retica, Seanna Viechweg, and Brandon Walsh
-
-## What makes a good bite? / Template for Talk Write-Ups
-
-We are excited to hear about anything that gives enough context to spark interest and conversation for participants while keeping to five minutes. After each talk we ask you to put together a one-page, standalone PDF of your presentation that can be cited by others in the future. The format might also help you plan your talk. Here's what we ask for, modeled on the [pedagogical anthology from the NEH Institute for Advanced Topics in DH on Textual Data and Digital Texts in the Undergraduate Classroom](https://dsl.lsu.edu/nehtextualdata/pedagogical-anthology/):
-
-* Title
-* Author
-* Suggested Citation - e.g.
-    * Walsh, Brandon. "ByteSizedPedagogy and You." *ByteSizedPedagogy Series.* February 13, 2025. DOI_Provided_By_Knowledge_Commons.
-* Audience - institutional level, timeframe, size.
-* Cost - what materials are necessary? is it free? freemium? licensed?
-* Fragility - how likely is someone to be able to use your work as a model ten years from now? does it rely on a tool that could disappear?
-* Description - what is it? why is it useful? The bulk of the one-page document.
-* Supplemental materials
-
-[Here](https://docs.google.com/document/d/15x4FRUcrVLIKPhW_vcwLXlD2ZOV55g9qquNsWVUvieg/edit?usp=sharing) is a template you can edit if you wish. We ask you to upload this one-page PDF and supplement materials [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. Under type of work, you will select "Other -> Text Document"
-. Send that citation back to us so that can archive it alongside the other bytes. This will ensure that things will persist if this site changes!
+Organized by Brandon Walsh presently. Past collaborators included Winnie Pérez Martínez, Rachel Retica, and Seanna Viechweg.
 
 ## Upcoming Sessions
 
-{% comment %}
-{% endcomment %}
-More soon! Stay tuned.
+As of Spring 2026, we will convene on the 1st Friday of each month at 9:00 PST/12:00 ET for 30 minutes to discuss a single publicly available text. Registration [required](https://cal.lib.virginia.edu/calendar/events/byte-sized-pedagogy-summer-2026) to receive the zoom link. 
+
+Interested in participating in the future, either to share work or to be a fly on the wall? Please also fill out this [form](https://forms.gle/uh66msjsaKquYFzs7) to keep up with us. 
+
+* June 5 at 9:00 PST/12:00 ET - “[Born Pedagogical DH: Learning While Teaching](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/cf1ea393-3133-4f7e-a588-87d8c9e53ab8#ch01)” by Emily McGinn and Lauren Coats
+* July 3 at 9:00 PST/12:00 ET - “[(Hard and Soft) Skills to Pay the Bills: A Both/And Approach to Teaching DH to Undergraduates](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/63ba36e6-9dcc-4bb5-abe0-3fc7139f4020#ch08)” by Jonathan D. Fitzgerald
+* August 7 at 9:00 PST/12:00 ET - “[DH Ghost Towns: What Happens When Makers Abandon Their Creations](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/292f3d30-f046-4309-b2ed-543e1e8ae57f#ch16)” by Emily Gilliland Grover
 
 ## Past Sessions
 
@@ -94,3 +77,24 @@ More soon! Stay tuned.
             * Originally looking for a clever way to teach about the concept of contingency in a Digital History graduate course, I stumbled upon an assignment approach that also helped my students evaluate the way they approach scholarship production, as well as introducing them to the interactive storytelling tool Twine. In this presentation, I'll talk about a particularly well-received hands-on lab assignment I developed utilizing Jason Helms' multimodal work "[Play Smarter Not Harder: Developing Your Scholarly Meta](https://perma.cc/W2PK-FCQT)” and Gabi Kiriloff's Programming Historian guide to "[Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine](https://programminghistorian.org/en/lessons/interactive-text-games-using-twine)."
         * Suggested Citation and Deposit
             * Heider, Cynthia. “Exploring Contingency with Twine in the Digital History Classroom.” #ByteSizedPedagogy Series. October 23, 2025. [https:/doi.org/10.17613/sngr0-2yp88](https:/doi.org/10.17613/sngr0-2yp88).
+
+{% comment %}
+
+## What makes a good bite? / Template for Talk Write-Ups
+
+We are excited to hear about anything that gives enough context to spark interest and conversation for participants while keeping to five minutes. After each talk we ask you to put together a one-page, standalone PDF of your presentation that can be cited by others in the future. The format might also help you plan your talk. Here's what we ask for, modeled on the [pedagogical anthology from the NEH Institute for Advanced Topics in DH on Textual Data and Digital Texts in the Undergraduate Classroom](https://dsl.lsu.edu/nehtextualdata/pedagogical-anthology/):
+
+* Title
+* Author
+* Suggested Citation - e.g.
+    * Walsh, Brandon. "ByteSizedPedagogy and You." *ByteSizedPedagogy Series.* February 13, 2025. DOI_Provided_By_Knowledge_Commons.
+* Audience - institutional level, timeframe, size.
+* Cost - what materials are necessary? is it free? freemium? licensed?
+* Fragility - how likely is someone to be able to use your work as a model ten years from now? does it rely on a tool that could disappear?
+* Description - what is it? why is it useful? The bulk of the one-page document.
+* Supplemental materials
+
+[Here](https://docs.google.com/document/d/15x4FRUcrVLIKPhW_vcwLXlD2ZOV55g9qquNsWVUvieg/edit?usp=sharing) is a template you can edit if you wish. We ask you to upload this one-page PDF and supplement materials [Knowledge Commons](https://hcommons.org/) to preserve your contribution and get a DOI to use for your citation. Under type of work, you will select "Other -> Text Document"
+. Send that citation back to us so that can archive it alongside the other bytes. This will ensure that things will persist if this site changes!
+
+{% endcomment %}
