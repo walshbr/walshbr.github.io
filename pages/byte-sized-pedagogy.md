@@ -14,7 +14,7 @@ Organized by Brandon Walsh presently. Past collaborators included Winnie Pérez 
 
 ## Upcoming Sessions
 
-As of Spring 2026, we will convene on the 1st Friday of each month at 9:00 PST/12:00 ET for 30 minutes to discuss a single publicly available text. Registration [required](https://cal.lib.virginia.edu/calendar/events/byte-sized-pedagogy-summer-2026) to receive the zoom link. 
+For summer 2026, we will convene on (typically) the 1st Friday of each month at 9:00 PST/12:00 ET for 30 minutes to discuss a single publicly available text. Registration required to receive the zoom link. 
 
 Interested in participating in the future, either to share work or to be a fly on the wall? Please also fill out this [form](https://forms.gle/uh66msjsaKquYFzs7) to keep up with us. 
 
