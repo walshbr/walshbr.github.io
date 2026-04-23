@@ -8,7 +8,7 @@ redirect_from:
 
 # #ByteSizedPedagogy
 
-It’s important to maintain a balanced teaching diet! Join us on the first Friday each month for a free and open-to-the-public zoom series organized by the Scholars' Lab and the Digital Humanities Center in the UVA Library. These sessions on digital pedagogy feature a mix of reading discussions and lightning talks introducing teaching topics, interesting approaches to the classroom, pedagogical concepts, and more. All in a bite-sized form that should still give you plenty to chew on. In the spirit of the #DHMakes Methodz talks, we'll keep things snappy: 30 minutes, snacks encouraged. We will be gathering social media commentary using the #ByteSizedPedagogy hashtag.
+It’s important to maintain a balanced teaching diet! Join us on (typically, barring complications) the first Friday each month for a free and open-to-the-public zoom series organized by the Scholars' Lab and the Digital Humanities Center in the UVA Library. These sessions on digital pedagogy feature a mix of reading discussions and lightning talks introducing teaching topics, interesting approaches to the classroom, pedagogical concepts, and more. All in a bite-sized form that should still give you plenty to chew on. In the spirit of the #DHMakes Methodz talks, we'll keep things snappy: 30 minutes, snacks encouraged. We will be gathering social media commentary using the #ByteSizedPedagogy hashtag.
 
 Organized by Brandon Walsh presently. Past collaborators included Winnie Pérez Martínez, Rachel Retica, and Seanna Viechweg.
 
@@ -18,9 +18,9 @@ As of Spring 2026, we will convene on the 1st Friday of each month at 9:00 PST/1
 
 Interested in participating in the future, either to share work or to be a fly on the wall? Please also fill out this [form](https://forms.gle/uh66msjsaKquYFzs7) to keep up with us. 
 
-* June 5 at 9:00 PST/12:00 ET - “[Born Pedagogical DH: Learning While Teaching](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/cf1ea393-3133-4f7e-a588-87d8c9e53ab8#ch01)” by Emily McGinn and Lauren Coats
-* July 3 at 9:00 PST/12:00 ET - “[(Hard and Soft) Skills to Pay the Bills: A Both/And Approach to Teaching DH to Undergraduates](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/63ba36e6-9dcc-4bb5-abe0-3fc7139f4020#ch08)” by Jonathan D. Fitzgerald
-* August 7 at 9:00 PST/12:00 ET - “[DH Ghost Towns: What Happens When Makers Abandon Their Creations](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/292f3d30-f046-4309-b2ed-543e1e8ae57f#ch16)” by Emily Gilliland Grover
+* June 5 at 9:00 PST/12:00 ET - “[Born Pedagogical DH: Learning While Teaching](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/cf1ea393-3133-4f7e-a588-87d8c9e53ab8#ch01)” by Emily McGinn and Lauren Coats. Register [here](https://cal.lib.virginia.edu/event/16778240).
+* July 3 at 9:00 PST/12:00 ET - “[(Hard and Soft) Skills to Pay the Bills: A Both/And Approach to Teaching DH to Undergraduates](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/63ba36e6-9dcc-4bb5-abe0-3fc7139f4020#ch08)” by Jonathan D. Fitzgerald. Register [here](https://cal.lib.virginia.edu/event/16778246).
+* August 7 at 9:00 PST/12:00 ET - “[DH Ghost Towns: What Happens When Makers Abandon Their Creations](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/292f3d30-f046-4309-b2ed-543e1e8ae57f#ch16)” by Emily Gilliland Grover. Register [here](https://cal.lib.virginia.edu/event/16778248).
 
 ## Past Sessions
 
