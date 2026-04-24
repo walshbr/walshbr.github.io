@@ -8,7 +8,7 @@ crosspost:
     url: https://scholarslab.lib.virginia.edu/blog/nine-things-for-nine-years
 ---
 
-I blinked and realized that Amanda and I have been at the Scholars' Lab for nine years as of April 24, 2026. Time flies. We typically celebrate by eating or drinking something sweet in the Lab (I'm still vibrating from the cream soda we had half a decade ago). We weren't able to do so this year, so I thought I would share a quick post to mark the last nine years.
+I blinked and realized that Amanda Wyatt Visconti and I have been at the Scholars' Lab for nine years as of April 24, 2026. Time flies. We typically celebrate by eating or drinking something sweet in the Lab (I'm still vibrating from the cream soda we had half a decade ago). We weren't able to do so this year, so I thought I would share a quick post to mark the last nine years.
 
 ## Nine things I've learned
 
