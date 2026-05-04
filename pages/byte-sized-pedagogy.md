@@ -8,7 +8,7 @@ redirect_from:
 
 # #ByteSizedPedagogy
 
-It’s important to maintain a balanced teaching diet! Join us on (typically, barring complications) the first Friday each month for a free and open-to-the-public zoom series organized by the Scholars' Lab and the Digital Humanities Center in the UVA Library. These sessions on digital pedagogy feature a mix of reading discussions and lightning talks introducing teaching topics, interesting approaches to the classroom, pedagogical concepts, and more. All in a bite-sized form that should still give you plenty to chew on. In the spirit of the #DHMakes Methodz talks, we'll keep things snappy: 30 minutes, snacks encouraged. We will be gathering social media commentary using the #ByteSizedPedagogy hashtag.
+It’s important to maintain a balanced teaching diet! Join us the first week of each month (typically Wed or Fri) for a free and open-to-the-public zoom series organized by the Scholars' Lab and the Digital Humanities Center in the UVA Library. These sessions on digital pedagogy feature a mix of reading discussions and lightning talks introducing teaching topics, interesting approaches to the classroom, pedagogical concepts, and more. All in a bite-sized form that should still give you plenty to chew on. In the spirit of the #DHMakes Methodz talks, we'll keep things snappy: 30 minutes, snacks encouraged. We will be gathering social media commentary using the #ByteSizedPedagogy hashtag.
 
 Organized by Brandon Walsh presently. Past collaborators included Winnie Pérez Martínez, Rachel Retica, and Seanna Viechweg.
 
