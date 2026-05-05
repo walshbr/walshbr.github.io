@@ -67,6 +67,8 @@ order: 5
 
 ## Public Writing
 
+* "[Gaming to Remember](https://unwinnable.com/2026/05/05/gaming-to-remember/)," *Unwinnable*, May 5, 2026.
+* "[Frustrating Mechanics Tell a Story in Death Howl](https://www.gamerswithglasses.com/impressions/frustrating-mechanics-tell-a-story-in-death-howl)," *Gamers with Glasses*, Mar 3, 2026.
 * "[The Long Dark of the soul](https://www.backlogmag.com/the-long-dark-of-the-soul/)," *Backlog*, August 19, 2025.
 * "[On red pixels: violence and verisimilitude](https://www.backlogmag.com/violence-verisimilitude-videogames/)," *Backlog*, June 24, 2025.
 * "[Tactical Breach Wizards and the last laugh](https://www.backlogmag.com/tactical-breach-wizards-and-the-last-laugh-brandon-walsh/)," *Backlog*, February 27, 2025.

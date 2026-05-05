@@ -6,7 +6,7 @@ permalink: /pitches
 
 The following freelance pitches were successfully placed.
 
-## "Gaming to Remember"
+## "[Gaming to Remember](https://unwinnable.com/2026/05/05/gaming-to-remember/)"
 
 Hello! 
 
@@ -16,11 +16,7 @@ The essay focuses on my recent play through of Breath of Fire II, a game I first
 
 By way of bio: I work in the University of Virginia Library, where I teach and write on technology and media culture. I regularly blog on topics related to technology and education. My video game writing has largely been for Backlog, where representative pieces include one on The Banished Vault and loss and a more recent one on The Long Dark and depression.
 
-## “Frustrating Mechanics Tell a Story in Death Howl"
-
-Thank you for the consideration.
-
-Brandon Walsh
+## “[Frustrating Mechanics Tell a Story in Death Howl](https://www.gamerswithglasses.com/impressions/frustrating-mechanics-tell-a-story-in-death-howl)"
 
 Hello! I’m writing to see you if you would be interested in an impressions piece for Gamers with Glasses with a working title of “Frustrating Mechanics Tell a Story in Death Howl."
 
