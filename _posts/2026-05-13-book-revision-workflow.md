@@ -2,10 +2,14 @@
 layout: post
 title: "Book Revision Workflow"
 date: 2026-05-13
-tags: [digital-humanities,documentation]
+tags: [digital-humanities,documentation,book]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/book-revision-workflow
+book:
+  ch_num: 0
+  section_num: 0
+  meta: True
 ---
 I recently got word that my manuscript for [Embedded Pedagogies: Digital Humanities Teaching and the Infrastructure of Change](https://www.openbookpublishers.com/books/10.11647/obp.0544) was accepted for publication with Open Book Publishers. As exciting as this is, there is still much work to do. I could not have asked for more thoughtful and generous peer reviewers, but even thoughtful and generous feedback still takes time to incorporate. One reader's report especially requires a kind of work that used to give me a lot of difficulty when I was a graduate student. The substance of the report was that there were two critical conversations with which I needed to engage more deeply. The reader suggested thoughtfully that I needed to incorporate those conversations that critique the field of librarianship (#critlib especially) if I wanted to claim librarian as an identity. The other critique: my writing on artificial intelligence felt a little thin and needed to be built out. Also very fair. I hadn't actually anticipated writing about AI, but it does feel more and more urgent the more time passes. Despite my own reluctance I found myself needing to read much more about generative AI.
 

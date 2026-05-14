@@ -7,7 +7,7 @@ robots: noindex
 What follows are materials drawn from a larger book project I’m working on about an approach to digital humanities pedagogy that intersects with administrative policy to work towards a more equitable landscape for higher education. I’ll be blogging pieces of it as I go, so stay tuned for more related work in the future. Happy to hear feedback, either on social media or by email at bmw9t@virginia.edu.
 
 {% assign all_posts = site.tags['book'] | reverse %}
-{% assign meta_posts = all_posts | where_exp:"item","item.book[2].meta == True "%}
+{% assign meta_posts = all_posts | where_exp:"item","item.book[0].meta == True "%}
 {% assign ch_1_posts = all_posts | where_exp:"item","item.book[0].ch_num == 1"%}
 {% assign ch_2_posts = all_posts | where_exp:"item","item.book[0].ch_num == 2"%}
 {% assign ch_3_posts = all_posts | where_exp:"item","item.book[0].ch_num == 3"%}
@@ -50,4 +50,17 @@ What follows are materials drawn from a larger book project I’m working on abo
     </ul>
   </ul>
 </ul>
-<hr>
+
+I've also written about the process of the project coming together. 
+
+<ul>
+  {% for post in meta_posts %}
+  {% if post.book.meta %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+      {{ post.description }}
+    </li>
+    {{ post.book[0] }}
+  {% endif %}
+  {% endfor %}
+</ul>
+
