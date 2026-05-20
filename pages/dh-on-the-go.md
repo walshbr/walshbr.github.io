@@ -26,7 +26,7 @@ Originally this list was a personal Zotero library, but the current running list
 * Audio: Audio-first or audio-only recordings. Podcasts and the like.
 * Video: Recordings that have a substantial video component. (distinguishing here between, say, a video-recorded talk that has slides vs a recorded interview)
 * Collection: there are some situations like [devdh.org](devdh.org) where it felt more helpful to cite the umbrella collection of recordings rather than each of the dozens of recordings that site contains.
-* Audiobook: book-length recordings, typically available on Audible. Usually pay to listen.
+* Audiobook: book-length recordings, typically available on Audible. Usually pay to listen. But some texts *are* available as audiobooks through your local library so check there first. It just depends on how much crossover appeal a particular work is likely to have. 
 
 In terms of relevance and inclusion: I am trying to avoid the perfect being the enemy of the good here. If it seems relevant and useful to you it probably is. Toss it in there. And please do self-promote! Your own recordings are very welcome, as are recordings put out by your center, your conference, etc. And if you contribute to _DH on the Go_ please get in touch so that I can credit you appropriately.
 
