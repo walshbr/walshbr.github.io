@@ -209,8 +209,10 @@ order: 5
 
 ## Professional Service and Affiliations
 
-* Delegate Assembly representative, MLA Libraries and Research Forum, Winter 2022-present
-* Association for the Computers and the Humanities Executive Council Member, spring 2020-2022
+* Association for Computers and the Humanities (ACH) Co-President, 2028-2030
+* Association for Computers and the Humanities (ACH) Co-Vice President/Co-President Elect, 2026-2028
+* Delegate Assembly representative, MLA Libraries and Research Forum, Winter 2022-2025
+* Association for the Computers and the Humanities (ACH) Executive Council Member, spring 2020-2022
 * The Journal of Interactive Technology and Pedagogy, Editorial Collective, fall 2018-present
 * Programming Historian, Editorial Board 2017-2021
 * Digital Humanities Conference, abstract reader, summer 2014-present
