@@ -2,7 +2,7 @@
 layout: post
 title: "Developing a Sustainable Summer Writing Practice"
 date: 2026-05-26
-tags: [digital-humanities]
+tags: [digital-humanities,process-experiment,documentation,pedagogy,talks,tips]
 crosspost:
   - title: the Scholars' Lab blog
     url: https://scholarslab.lib.virginia.edu/blog/developing-a-sustainable-summer-writing-practice
