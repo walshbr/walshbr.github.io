@@ -2,7 +2,7 @@
 layout: post
 title: "Writing Together"
 date: 2026-07-02
-tags: [collaboration,process-experiment,writing,projects]
+tags: [collaboration,process-experiment,writing]
 ---
 
 ## Brandon
