@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Writing Together"
-date: 2026-06-09
-tags: [digital-humanities]
-crosspost:
-  - title: the Scholars' Lab blog
-    url: https://scholarslab.lib.virginia.edu/blog/writing-together
+date: 2026-07-02
+tags: [digital-humanities,collaboration,process-experiment,writing,projects]
 ---
 
 ## Brandon
@@ -16,7 +13,7 @@ I'm really excited to share a new project that I'm working on with Katina Rogers
 
 What we settled on was a project that we would together, about writing, in a way that mixed public and private. The format that we settled on was to physically send a journal back and forth to each other in which we would carry on a regular conversation. Each time we get the journal, we have three days to write an entry to the other person in response to their previous one. And we'll end each of our entries with a prompt or question to the other person that they will then respond with. We'll go where it goes, but as we initially framed things we will reflect on writing, what it means for us and for each other, how writing intersects with for our jobs, how it enriches our lives for our lives, and more. We'll then send the thing back in the mail to the other person again. So this document will unfold over time, growing with each new handwritten note to the other person. Our plan is to follow up by regularly transcribing the entries and sharing portions of them publicly with a few contextual reflections. The result should be a blending of public and private, outcome and process.
 
-Interestingly, what you can see from these first entries together is we each share different kinds of anxieties related to the project. For me, I have a lot of concerns about taking Katina's time and attention away from the projects that she was already interested in. I always feel very happy and fortunate to be included in conversation with her at all. Katina's work is endlessly inspirational, and I am excited to collaborate with her. We also both express similar instincts about where we wanted the project to start, if not similar anxieties and questions about where we wanted to go. Both of us immediately drew in our environments. Katina talks about writing on the floor, while I talked about writing outside. We both talked about our children, their lives, and ways that I think neatly blend the personal and the private. We also both discussed how the physical act of writing and how it felt a certain way that would not have come across online. I will end here and give Katina space to share her own thoughts in the process. I'm excited to see where this goes. I think you'll find reflected in the documents that we're going to share the sense that the destination will be good no matter where we might wind up. We're excited to be stepping out into this unknown journey together.
+Interestingly, what I saw in our first entries together is we each share different kinds of anxieties related to the project. For me, I have a lot of concerns about taking Katina's time and attention away from the projects that she was already interested in. I always feel very happy and fortunate to be included in conversation with her at all. Katina's work is endlessly inspirational, and I am excited to collaborate with her. We also both express similar instincts about where we wanted the project to start, if not similar anxieties and questions about where we wanted to go. Both of us immediately drew in our environments. Katina talks about writing on the floor, while I talked about writing outside. We both talked about our children, their lives, and ways that I think neatly blend the personal and the private. We also both discussed how the physical act of writing and how it felt a certain way that would not have come across online. I will end here and give Katina space to share her own thoughts in the process. I'm excited to see where this goes. I think you'll find reflected in the documents that we're going to share the sense that the destination will be good no matter where we might wind up. We're excited to be stepping out into this unknown journey together.
 
 ---
 
