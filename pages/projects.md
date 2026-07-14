@@ -17,7 +17,22 @@ Posts:
 * 
 {% endcomment %}
 
+
 Find more information about my various projects below. In addition to my work on projects at <a href="http://scholarslab.org">Scholars' Lab</a> and <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/walshbr">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
+
+<div class="divider"></div>
+## Embedded Pedagogies: Digital Humanities Teaching and the Infrastructure of Change
+
+My first book on digital humanities and teaching is forthcoming from [Open Book Publishers](https://www.openbookpublishers.com/books/10.11647/obp.0544). It will be available openly and print-on-demand from the OBP website. The description from the publisher's website follows:
+
+    This volume offers a timely and incisive exploration of teaching in an era of institutional instability and political pressure. Drawing on extensive experience as a digital humanities practitioner and administrator, Walsh argues that teaching does not occur solely in the classroom but is deeply shaped by the policies, structures, and values embedded within universities themselves.
+
+    Focusing on the concept of ‘embedded pedagogies’, the book reveals how institutional norms, such as claims to neutrality, intellectualism, and future-orientation, quietly shape what and how educators can teach. Walsh combines theory with practical insight, using case studies, digital projects, and firsthand reflections to demonstrate how these forces operate and how they can be challenged.
+
+    Organized around four core institutional values—knowability, neutrality, intellectualism, and the future—the book provides both critical analysis and actionable strategies. It offers guidance for educators seeking to navigate and transform hostile or resource-constrained environments, advocating for pedagogies grounded in transparency, collective care, and social justice.
+
+    Ultimately, Walsh presents a compelling vision of teaching as a form of institutional intervention. By making visible the hidden pedagogies of higher education, this book empowers educators to reimagine their roles and to work collaboratively toward more equitable, sustainable, and hopeful futures for universities and their communities.
+
 
 <div class="divider"></div>
 ## #ByteSizedPedagogy
