@@ -57,6 +57,8 @@ order: 5
 
 ## Other Publications
 
+
+* Co-editor with Patricia Belen, Stefano Morello, Gregory J. Palermo, and Danica Savonick, Issue 27 of the Journal of Interactive Technology and Pedagogy on Minimalist Digital Humanities Pedagogy [https://cuny.manifoldapp.org/projects/jitp-27](https://cuny.manifoldapp.org/projects/jitp-27), Fall 2025.
 *   Walsh, B. (2022). Review: Baltimore Traces. Reviews in Digital Humanities, III(1). [https://doi.org/10.21428/3e88f64f.0e463a51](https://doi.org/10.21428/3e88f64f.0e463a51).
 * Walsh, B. (2021). Review: Visualizing Objects, Places, and Spaces. *Reviews in Digital Humanities, II*(5). [https://doi.org/10.21428/3e88f64f.bf2d3fa7](https://doi.org/10.21428/3e88f64f.bf2d3fa7).
 * Co-editor with Kelly Hammond and Gregory Palermo, [Issue 18 of the Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/) with a Forum on Data and Computational Pedagogy, Fall 2020.

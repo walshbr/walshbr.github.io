@@ -21,36 +21,43 @@ Posts:
 Find more information about my various projects below. In addition to my work on projects at <a href="http://scholarslab.org">Scholars' Lab</a> and <a href="https://digitalhumanities.wlu.edu">DH at W&L</a>, I also maintain a <a href="https://www.github.com/walshbr">github repository</a> where I regularly contribute code for a range of projects in a variety of stages of completeness.
 
 <div class="divider"></div>
-## Embedded Pedagogies: Digital Humanities Teaching and the Infrastructure of Change
+## Books
 
-My first book on digital humanities and teaching is forthcoming from [Open Book Publishers](https://www.openbookpublishers.com/books/10.11647/obp.0544). It will be available openly and print-on-demand from the OBP website. The description from the publisher's website follows:
+I have published three book-length works on digital humanities pedagogy as sole or lead author. All of these texts are openly available. 
 
-    This volume offers a timely and incisive exploration of teaching in an era of institutional instability and political pressure. Drawing on extensive experience as a digital humanities practitioner and administrator, Walsh argues that teaching does not occur solely in the classroom but is deeply shaped by the policies, structures, and values embedded within universities themselves.
+### Embedded Pedagogies: Digital Humanities Teaching and the Infrastructure of Change
 
-    Focusing on the concept of ‘embedded pedagogies’, the book reveals how institutional norms, such as claims to neutrality, intellectualism, and future-orientation, quietly shape what and how educators can teach. Walsh combines theory with practical insight, using case studies, digital projects, and firsthand reflections to demonstrate how these forces operate and how they can be challenged.
+<img class="mid right" src="https://books.openbookpublishers.com/10.11647/obp.0544_frontcover.jpg" alt="Embedded Pedagogies cover.">
+My most recent book is also my first full-length monograph. *Embedded Pedagogies: Digital Humanities Teaching and the Infrastructure of Change* is forthcoming from [Open Book Publishers](https://www.openbookpublishers.com/books/10.11647/obp.0544). The book will be available openly and print-on-demand from the OBP website. An excerpt of the publisher's description follows:
 
-    Organized around four core institutional values—knowability, neutrality, intellectualism, and the future—the book provides both critical analysis and actionable strategies. It offers guidance for educators seeking to navigate and transform hostile or resource-constrained environments, advocating for pedagogies grounded in transparency, collective care, and social justice.
+> This volume offers a timely and incisive exploration of teaching in an era of institutional instability and political pressure. Drawing on extensive experience as a digital humanities practitioner and administrator, Walsh argues that teaching does not occur solely in the classroom but is deeply shaped by the policies, structures, and values embedded within universities themselves.
 
-    Ultimately, Walsh presents a compelling vision of teaching as a form of institutional intervention. By making visible the hidden pedagogies of higher education, this book empowers educators to reimagine their roles and to work collaboratively toward more equitable, sustainable, and hopeful futures for universities and their communities.
+### A Humanist's Cookbook For Natural Language Processing In Python
 
+<img class="mid left" src="{{ root_url }}/assets/images/humanists-cookbook-cover.png" alt="Table of Contents for A Humanist's Cookbook For Natural Language Processing In Python">
+
+[A Humanist's Cookbook For Natural Language Processing In Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb), co-authored with Rebecca Bultman, is a series of Jupyter Notebooks meant to contextualize common problems in Natural Language Processing for humanists with code blocks that can be copied to other situations. The project is geared towards intermediate students who have some experience but are struggling to take the next step in applying the methods to their own work.
+
+### Introduction to Text Analysis: A Coursebook
+
+<img class="mid right" src="{{ root_url }}/assets/images/coursebook.png" alt="Introduction to text analysis: a coursebook">
+
+<a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a>, co-authored with Professor Sarah Horowitz of Washington and Lee University, is an open, remixable set of course materials related to text analysis.  The book was written with a student audience in mind, and it is as much a pedagogical experiment in collaborative writing as it is a teaching resource in its own right. 
 
 <div class="divider"></div>
-## #ByteSizedPedagogy
+
+## Other Current Projects
+
+### #ByteSizedPedagogy
 <a href="https://walshbr.com/byte-sized-pedagogy">#ByteSizedPedagogy</a> is a semi-regular series of paired lightning talks on topics related to digital pedagogy. Co-convened with Seanna Viechweg and Rachel Retica, the series aims to offer easily digestible conversations on how to bring digital humanities into a range of teaching contexts. Participants share a short write-up of their materials after the fact to be collected on the series website. 
 
 <div class="divider"></div>
-## DH on the Go
+### DH on the Go
+
 <a href="https://walshbr.com/dh-on-the-go">DH on the Go</a>  aggregates audio and video recordings of material of interest to a digital humanities audience. You'll find a running list of citations and accompanying links based on contributions to the accompanying Zotero group. If you’re looking for something to keep you company on a long commute—we got you. If you’re looking for something to put on your headphones while doing chores—we’re here for you too. If you want to promote your own video or audio recordings—promote away. If you’re searching for a way to make your local DH event live on beyond a couple social media posts sharing—please do share. The zotero group is publicly open so anyone can contribute. 
 
 <div class="divider"></div>
-## Blogging
-
-I've blogged for a number of years as a way to share tacit knowledge about the academy, digital pedagogy, and digital humanities. In addition to the chronological [blog feed](/archive), you might find the following tag cloud useful for exploring past posts by category (adapted from instructions shared by [Long Qian](https://longqian.me/2017/02/09/github-jekyll-tag/)). 
-
-{% include archive.html %}
-
-<div class="divider"></div>
-## Editorial Work
+### Editorial Work
 
 I very much enjoy editorial work, which nicely combines my interests in digital humanities and writing pedagogy. I served on the editorial board of [The Programming Historian](http://programminghistorian.org/) for a number of years, where I edited pieces on audiovisual transformation, publishing with Jupyter notebooks, network analysis, text similarity, web APIs, and data cleaning, among others. In addition, I have served on the Editorial Collective of [The Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/) since 2018. I tend to pitch in on technical issues for the journals I work on, which involves a range of responsibilities including coordinating work on GitHub, troubleshooting technical errors, and overseeing content migration.  
 
@@ -59,28 +66,21 @@ Representative editorial work:
 * John R. Ladd, Jessica Otis, Christopher N. Warren, and Scott Weingart, "Exploring and Analyzing Network Data with Python," The Programming Historian 6 (2017), [https://doi.org/10.46430/phen0064](https://doi.org/10.46430/phen0064).
 * John R. Ladd, "Understanding and Using Common Similarity Measures for Text Analysis," The Programming Historian 9 (2020), [https://doi.org/10.46430/phen0089](https://doi.org/10.46430/phen0089).
 * Co-editor with Gregory Palermo and Kelly Hammond, Issue 18 of the Journal of Interactive Technology and Pedagogy with a special forum on data and computational pedagogy [https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-eighteen/).
+* Co-editor with Patricia Belen, Stefano Morello, Gregory J. Palermo, and Danica Savonick, 
+Issue 27 of the Journal of Interactive Technology and Pedagogy on Minimalist Digital Humanities Pedagogy [https://cuny.manifoldapp.org/projects/jitp-27](https://cuny.manifoldapp.org/projects/jitp-27).
 
 <div class="divider"></div>
-## A Humanist's Cookbook For Natural Language Processing In Python
-<a href="https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb">A Humanist's Cookbook for Natural Language Processing in Python</a> is a series of Jupyter Notebooks meant to contextualize common problems in Natural Language Processing for humanists with code blocks that can be copied to other situations. Co-authored with Rebecca Bultman, the project is geared towards intermediate students who have some experience but are struggling to take the next step in applying the methods to their own work.
+### Blogging
 
-Posts:
+I've blogged for a number of years as a way to share tacit knowledge about the academy, digital pedagogy, and digital humanities. In addition to the chronological [blog feed](/archive), you might find the following tag cloud useful for exploring past posts by category (adapted from instructions shared by [Long Qian](https://longqian.me/2017/02/09/github-jekyll-tag/)). 
 
-* "[A Humanist's Cookbook For Natural Language Processing In Python]({{ root_url }}/blog/a-humanists-cookbook-for-natural-language-processing-in-python/)"
-
-<div class="divider"></div>
-## Introduction to Text Analysis: A Coursebook
-<img class="mid right" src="{{ root_url }}/assets/images/coursebook.png" alt="Introduction to text analysis: a coursebook">
-<a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a> is an open, remixable set of course materials. Co-authored with Professor Sarah Horowitz of Washington and Lee University, the book is designed to be modularized so as to facilitate easy excerpting. The book was written with a student audience in mind, and it is as much a pedagogical experiment in collaborative writing as it is a teaching resource in its own right. 
-
-Posts:
-
-* "[Introduction to Text Analysis: A Coursebook]({{ root_url }}/blog/text-analysis-coursebook/)"
-* "[Collaborative Writing to Build Digital Humanities Praxis]({{ root_url }}/blog/collaborative-writing-to-build-digital-humanities-praxis/)"
+{% include archive.html %}
 
 <div class="divider"></div>
 
-## Humanities Programming
+## Selected Past Projects
+
+### Humanities Programming
 <img class="mid right" src="{{ root_url }}/assets/images/humanities_programming.png" alt="Humanities Programming course splash page.">
 
 For a number of years, I ran a course on "Humanities Programming" at <a href="https://dhtraining.org/">Humanities Intensive Learning and Training (HILT)</a>. Piloted by Wayne Graham and Jeremy Boggs, I took over and led the course with Ethan Reed. The course was meant to be an intensive introduction to programming for non-programmers that takes students through command line, git, HTML5/CSS, Ruby, and Rails. By the end, students tinkered on and deployed their own Ruby on Rails application. After a few years, Ethan and I rewrote the course in Python and for a more flexible pedagogical approach. Rather than working on a particular web application, the students were given a choice of case studies they could work through depending on their own interests. Materials can be found on our <a href="https://humanitiesprogramming.github.io">course site.</a>
@@ -91,7 +91,7 @@ Posts:
 
 
 <div class="divider"></div>
-## Hearing Silent Woolf
+### Hearing Silent Woolf
 
 <img class="small right" src="{{ root_url }}/assets/images/woolf.jpg" alt="woolf face">
 
@@ -104,7 +104,7 @@ Posts:
 * "[Reading Speech: Virginia Woolf, Machine Learning, and the Quotation Mark]({{ root_url }}/blog/reading-speech/)"
 
 <div class="divider"></div>
-## Prism
+### Prism
 <img class="mid right" src="{{ root_url }}/assets/images/digital-projects/prism.png" alt="prism visualize page">
 <a href="http://prism.scholarslab.org">Prism</a> was a browser-based Ruby on Rails application that facilitated text analysis among large groups of people. Built by the <a href="http://praxis.scholarslab.org">Praxis Program</a> at the <a href="http://scholarslab.org">Scholars' Lab</a>, I came on during the second year of development and served as lead developer for a number of years, though active development only lasted a short time. The tool has gotten significant uptake by K-12 educators. Built by students, the tool was never meant to live forever, and it has since been retired and replaced by a static description of the intervention it made. 
 
@@ -121,10 +121,12 @@ Posts:
 * [Miscellaneous posts from the Praxis Program]({{ root_url }}/blog/praxis/)
 
 <div class="divider"></div>
-## NINES
+### NINES
 <img class="mid right" src="{{ root_url }}/assets/images/nines.png" alt="NINES splash page">
 
 From 2013 to 2015 I acted as Project Manager of the <a href="http://www.nines.org">Networked Infrastructure of Nineteenth-Century Electronic Scholarship (NINES)</a>. NINES peer reviews digital archives pertaining to the nineteenth-century and aggregated that content into a federated, searchable index. As Project Manager I facilitated this process by wrangling reviewers, cleaning metadata, and facilitating the indexing process.
+
+{% comment %}
 
 <div class="divider"></div>
 
@@ -146,3 +148,5 @@ This study examines the works of Conrad, Joyce, and Woolf with special attention
 Advisor: Professor Michael Levenson.
 
 Passed: May 2011
+
+{% endcomment %}
