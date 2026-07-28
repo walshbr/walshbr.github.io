@@ -68,3 +68,7 @@ General Brainstorming
 Reflections on the backlog process by means of 
 
 post on collaborative writing and how to do it
+
+Effortless writing
+
+I'm interested also in how we can apply this to writing, which I see as a kind of basic digital humanities skill. Write one sentence, that's it. Write it as fluently and effortlessly as possible about how you were going to approach digital humanities that day, rewrite it, rewrite it again, that's it. Just step away, write one sentence every day, and have that sentence be as effortless as it possibly can be. If it starts to feel like the sentences aren't coming, step away and try again later. 
