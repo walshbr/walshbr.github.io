@@ -14,13 +14,16 @@ Organized by Brandon Walsh presently. Past collaborators included Winnie Pérez 
 
 ## Upcoming Sessions
 
-For summer 2026, we will convene on (typically) the 1st Friday of each month at 9:00 PST/12:00 ET for 30 minutes to discuss a single publicly available text. Registration required to receive the zoom link. 
+For AY 2026-2027, we will convene on (typically) the 1st Friday of each month at 9:00 PST/12:00 ET for 30 minutes to discuss a single publicly available text. Registration required to receive the zoom link. 
 
 Interested in participating in the future, either to share work or to be a fly on the wall? Please also fill out this [form](https://forms.gle/uh66msjsaKquYFzs7) to keep up with us. 
 
-* June 5 at 9:00 PST/12:00 ET - “[Born Pedagogical DH: Learning While Teaching](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/cf1ea393-3133-4f7e-a588-87d8c9e53ab8#ch01)” by Emily McGinn and Lauren Coats. Register [here](https://cal.lib.virginia.edu/event/16778240).
-* July 1 at 9:00 PST/12:00 ET - “[(Hard and Soft) Skills to Pay the Bills: A Both/And Approach to Teaching DH to Undergraduates](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/63ba36e6-9dcc-4bb5-abe0-3fc7139f4020#ch08)” by Jonathan D. Fitzgerald. Register [here](https://cal.lib.virginia.edu/event/16778246).
 * August 7 at 9:00 PST/12:00 ET - “[DH Ghost Towns: What Happens When Makers Abandon Their Creations](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/292f3d30-f046-4309-b2ed-543e1e8ae57f#ch16)” by Emily Gilliland Grover. Register [here](https://cal.lib.virginia.edu/event/16778248).
+
+9/4- "[Teaching the Digital Humanities to a Broad Undergraduate Population](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/62f66e44-1e01-495a-a9a5-6880682381e6#ch03)" by Alison Langmead and Annette Vee
+10/2- "[Teaching Digital Humanities: Neoliberal Logic, Class, and Social Relevance](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/1ce873fe-3d3f-4b7e-aca6-c5292905bd80#ch04)" by James O'Sullivan
+11/6- "[Teaching from the Middle: Positioning the Non–Tenure Track Teacher in the Classroom](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/b737e94e-2d48-47f3-aea0-b264a44e4b51#ch05)" by Jacob Heil
+
 
 ## Past Sessions
 
@@ -77,6 +80,8 @@ Interested in participating in the future, either to share work or to be a fly o
             * Originally looking for a clever way to teach about the concept of contingency in a Digital History graduate course, I stumbled upon an assignment approach that also helped my students evaluate the way they approach scholarship production, as well as introducing them to the interactive storytelling tool Twine. In this presentation, I'll talk about a particularly well-received hands-on lab assignment I developed utilizing Jason Helms' multimodal work "[Play Smarter Not Harder: Developing Your Scholarly Meta](https://perma.cc/W2PK-FCQT)” and Gabi Kiriloff's Programming Historian guide to "[Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine](https://programminghistorian.org/en/lessons/interactive-text-games-using-twine)."
         * Suggested Citation and Deposit
             * Heider, Cynthia. “Exploring Contingency with Twine in the Digital History Classroom.” #ByteSizedPedagogy Series. October 23, 2025. [https:/doi.org/10.17613/sngr0-2yp88](https:/doi.org/10.17613/sngr0-2yp88).
+    * June 5 at 9:00 PST/12:00 ET - “[Born Pedagogical DH: Learning While Teaching](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/cf1ea393-3133-4f7e-a588-87d8c9e53ab8#ch01)” by Emily McGinn and Lauren Coats. Register [here](https://cal.lib.virginia.edu/event/16778240).
+    * July 1 at 9:00 PST/12:00 ET - “[(Hard and Soft) Skills to Pay the Bills: A Both/And Approach to Teaching DH to Undergraduates](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/63ba36e6-9dcc-4bb5-abe0-3fc7139f4020#ch08)” by Jonathan D. Fitzgerald. Register [here](https://cal.lib.virginia.edu/event/16778246).
 
 {% comment %}
 
