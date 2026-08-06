@@ -5,7 +5,7 @@ date: 2026-08-06
 tags: [digital-humanities,writing-together,collaboration,process-experiment,writing,]
 ---
 
-> The following post refers to an ongoing writing project I am undertaking with Katina Rogers in which we mail a journal back and forth to each other over an extended period of time. In those  pages, we engage in an extended dialogue about writing, reading, and life. Posts here are a space to share excerpts as well as to reflect on the process as a whole. 
+> The following co-authored post refers to an ongoing writing project I am undertaking with Katina Rogers in which we mail a journal back and forth to each other over an extended period of time. In those  pages, we engage in an extended dialogue about writing, reading, and life. Posts here are a space to share excerpts as well as to reflect on the process as a whole. 
 
 Katina: 
 
