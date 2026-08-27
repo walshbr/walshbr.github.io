@@ -36,6 +36,11 @@ order: 5
 * Praxis Program Fellowship, Scholars' Lab, UVA, 2012-2013
 * Summer Graduate Research and Travel Grant, UVA, annually, 2010-present
 
+## Books
+
+* *Embedded Pedagogies: Digital Humanities Teaching and the Infrastructure of Change*. Cambridge: Open Book Publishers, Forthcoming 2026. https://doi.org/10.11647/OBP.0544
+
+
 ## Peer Review Publications
 
 * "The Pedagogy of Digital Humanities Budgets", *Journal of Interactive Technology and Pedagogy* 25, [https://cuny.manifoldapp.org/read/the-pedagogy-of-digital-humanities-budgets/section/535711a2-083e-43c8-8e9a-dd1c677eb57a](https://cuny.manifoldapp.org/read/the-pedagogy-of-digital-humanities-budgets/section/535711a2-083e-43c8-8e9a-dd1c677eb57a).
@@ -56,7 +61,6 @@ order: 5
 * “Broken Songs and Machine Noise in Joseph Conrad’s Early Fiction,” <em>Conradiana</em>, vol. 44, no. 2-3, pp. 211-226 (Fall/Winter 2012).
 
 ## Other Publications
-
 
 * Co-editor with Patricia Belen, Stefano Morello, Gregory J. Palermo, and Danica Savonick, Issue 27 of the Journal of Interactive Technology and Pedagogy on Minimalist Digital Humanities Pedagogy [https://cuny.manifoldapp.org/projects/jitp-27](https://cuny.manifoldapp.org/projects/jitp-27), Fall 2025.
 *   Walsh, B. (2022). Review: Baltimore Traces. Reviews in Digital Humanities, III(1). [https://doi.org/10.21428/3e88f64f.0e463a51](https://doi.org/10.21428/3e88f64f.0e463a51).
