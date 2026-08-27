@@ -18,7 +18,7 @@ For AY 2026-2027, we will convene on (typically) the 1st Friday of each month at
 
 Interested in participating in the future, either to share work or to be a fly on the wall? Please also fill out this [form](https://forms.gle/uh66msjsaKquYFzs7) to keep up with us. 
 
-* 9/4- "[Teaching the Digital Humanities to a Broad Undergraduate Population](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/62f66e44-1e01-495a-a9a5-6880682381e6#ch03)" by Alison Langmead and Annette Vee. Register [here](https://cal.lib.virginia.edu/event/17309534).
+* 9/4 - Canceled
 * 10/2- "[Teaching Digital Humanities: Neoliberal Logic, Class, and Social Relevance](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/1ce873fe-3d3f-4b7e-aca6-c5292905bd80#ch04)" by James O'Sullivan. [Register here](https://cal.lib.virginia.edu/event/17309546). 
 * 11/4- "[Teaching from the Middle: Positioning the Non–Tenure Track Teacher in the Classroom](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/b737e94e-2d48-47f3-aea0-b264a44e4b51#ch05)" by Jacob Heil. [Register here](https://cal.lib.virginia.edu/event/17309551).
 * No December meeting
