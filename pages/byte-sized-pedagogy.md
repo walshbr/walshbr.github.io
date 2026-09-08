@@ -21,7 +21,7 @@ Interested in participating in the future, either to share work or to be a fly o
 * 9/4 - Canceled
 * 10/2- "[Teaching Digital Humanities: Neoliberal Logic, Class, and Social Relevance](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/1ce873fe-3d3f-4b7e-aca6-c5292905bd80#ch04)" by James O'Sullivan. [Register here](https://cal.lib.virginia.edu/event/17309546). 
 * 11/4- "[Teaching from the Middle: Positioning the Non–Tenure Track Teacher in the Classroom](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/b737e94e-2d48-47f3-aea0-b264a44e4b51#ch05)" by Jacob Heil. [Register here](https://cal.lib.virginia.edu/event/17309551).
-* 12/4 - Winek, A. (2025). Celebrating Silence: Making Space for Quiet Joy in the Classroom. In Kogl Canfield, E. (ed.) Joy-Centered Pedagogy in Higher Education. New York, Abingdon: Routledge, pp. 169-181. [https://library.oapen.org/handle/20.500.12657/98256](https://library.oapen.org/handle/20.500.12657/98256). Featuring special guest Merisa Martinez.
+* 12/4 - Winek, A. (2025). Celebrating Silence: Making Space for Quiet Joy in the Classroom. In Kogl Canfield, E. (ed.) Joy-Centered Pedagogy in Higher Education. New York, Abingdon: Routledge, pp. 169-181. [https://library.oapen.org/handle/20.500.12657/98256](https://library.oapen.org/handle/20.500.12657/98256). Featuring special guest Merisa Martinez. Register [here](https://cal.lib.virginia.edu/event/17601823).
 * No January meeting
 * Stay tuned for spring 2027!
 
